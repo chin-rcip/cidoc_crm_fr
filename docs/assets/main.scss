@@ -1,0 +1,367 @@
+---
+---
+
+@import "minima";
+
+/*--- Search ---*/
+#search-icon {
+    margin-right: 15px;
+}
+#search-icon:hover {
+    cursor: pointer; 
+    text-decoration: none;
+}
+
+form {
+    width: 80%
+}
+input {
+    width: 90%;
+    height: 2rem; 
+    font-size: 1rem; 
+    float: left;
+    box-sizing: border-box;
+}
+form>button {
+    cursor: pointer;
+    border-left: none;
+    width: auto;
+    height: 2rem;
+}
+form::after {
+    content: "";
+    clear: both;
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+    padding-top: 100px;
+}
+.modal-content {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+.close {
+    float: right;
+    color: #aaaaaa;
+    font-size: 28px;
+}
+.close:hover, .close:focus {
+    color: #000; 
+    text-decoration: none; 
+    cursor: pointer;
+}
+
+.lunrsearchresult .title {
+    color: #d9230f;
+}
+.lunrsearchresult .url {
+    color: silver;
+}
+.lunrsearchresult a {
+    display: block;
+    color: #777;
+}
+.lunrsearchresult a:hover, .lunrsearchresult a:focus {
+    text-decoration: none;
+}
+.lunrsearchresult a:hover .title {
+    text-decoration: underline;
+}
+#lunrsearchresults>ul {
+    margin-top: 30px;
+}
+
+ 
+html, body {
+    height: 100%;
+}
+
+code {
+    font-size: inherit;
+}
+/*--- styling <main> ---*/
+.page-content {
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.main-with-sidebar {
+    /*display: -webkit-flex;
+    display: flex;*/
+    /*padding: 0;*/
+    flex-direction: row;
+}
+
+.column {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    margin: 0;
+    padding: 30px;
+
+}
+
+/*--- SIDEBAR ---*/
+
+li a.active {
+    color: #1756a9;
+}
+
+/*li a:link, li a:visited {
+    color: #5c5962;
+}
+*/
+.sidebar a {
+    color: #5c5962;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.mainlist>li>a {
+    font-weight: bold;
+}
+.sublist>li>a {
+    padding-left: 20px;
+}
+
+.sidebar a:hover {
+    color: black;
+}
+
+.subsublist>li>a {
+    padding-left: 40px;
+}
+
+.sidebar {
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-right-color: #f2f2f2;
+    flex-shrink: 0;
+    min-width: 210px;
+    white-space: nowrap;
+}
+
+/*hide french sidebar*/
+/*.sidebar .fr {
+    display: none;
+}*/
+
+
+@media screen and (min-width: 801px) {
+    .page-content {
+        overflow: hidden;
+    }
+
+    .sidebar {
+        width: calc((100% - 800px) / 2 - 62px);
+    }
+
+    .sidebar a {
+        display: inline-block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .mainlist>li>a {
+        width: calc(100%);
+    }
+
+    .sublist>li>a {
+        width: calc(100% - 20px);
+    }
+
+    .subsublist>li>a {
+        width: calc(100% - 40px);
+    }
+
+    .tooltip {
+      display: none;
+      background-color: black;
+      color: #fff;
+      text-align: left;
+      font-weight: normal;
+      border-radius: 5px;
+      white-space: nowrap;
+      padding: 5px;
+      position: absolute;
+      z-index: 1;
+    }
+
+    .tooltip::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      right: 100%;
+      margin-top: -5px;
+      border-width: 5px;
+      border-style: solid;
+      border-color: transparent black transparent transparent;
+    }
+
+    /*language buttons*/
+    .lang-buttons {
+        position: fixed;
+        right: 30px;
+        top: 62px;
+        
+    }
+}
+
+
+
+/*--- content column ---*/
+
+/*.main-with-sidebar div.wrapper{
+    margin-left: 0;
+}*/
+
+
+
+/*--- align table text ---*/
+
+td {
+    vertical-align: top;
+}
+
+
+
+/*--- hide content ---*/
+
+.hidden-content {
+    display: none;
+}
+
+
+
+/*--- disclaimer ---*/
+
+blockquote {
+    font-size: 1rem;
+}
+.disclaimer {
+    color: slategray;
+}
+/*.full-path {
+    font-family: "Monaco";
+}*/
+
+
+/*--- header ---*/
+
+header .wrapper {
+    max-width: 100%;
+}
+
+.trigger {
+    display: inline-flex;
+}
+
+.has-dropdown {
+    position: relative;
+    color: #111;
+    cursor: pointer;
+}
+
+.has-dropdown.visible {
+    text-decoration: underline;
+}
+
+.has-dropdown:visited {
+    color: #111;
+}
+
+/*.has-dropdown.visible:hover {
+    text-decoration: none;
+}*/
+.has-dropdown:hover {
+    text-decoration: underline;
+}
+
+.dropdown {
+    display: none;
+    background-color: #f2f2f2; 
+    position: absolute;
+    right: 0;
+    white-space: nowrap;
+    width: auto;
+    padding: 5px;
+    z-index: 1;
+  }
+
+.dropdown.visible {
+    display: flex;
+    flex-direction: column;
+  }
+
+.dropdown>a {
+    margin: 10px;
+}
+
+.site-nav {
+    z-index: 1;
+}
+
+
+/*--- language ---*/
+
+
+.lang-buttons>button {
+    padding: 5px;
+    cursor: pointer;
+}
+.lang-buttons>button.activate {
+    padding: 10px;
+    color: #1756a9;
+    font-weight: bold;
+}
+
+td.en {
+    display: none;
+}
+
+
+/*--- style when changing windown size ---*/
+
+@media screen and (max-width: 800px) {
+  .main-with-sidebar {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .sidebar {
+    max-height: 110px;
+    margin: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #f2f2f2;
+
+  }
+
+  .lang-buttons {
+    position: fixed;
+    right: 30px;
+    bottom: 10px;
+    
+  }
+}
+
+
+
+

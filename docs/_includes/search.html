@@ -1,4 +1,4 @@
-<!-- The following code for Search feature was based on the example sourced from https://jekyllcodex.org/without-plugin/search-lunr/# -->
+<!-- The following code for Search feature via lunr.js was based on the example sourced from https://jekyllcodex.org/without-plugin/search-lunr/# -->
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 
@@ -8,7 +8,7 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     "id": {{ counter }},
     "url": "{{ site.url }}/cidoc_crm_fr-ca{{ page.url }}",
     "title": "{{ page.title }}",
-    "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | replace: '</td>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
+    "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | replace: '</td>', ' ' | strip_html | strip_newlines |   replace: 'EN-', '' | replace: 'FR', '' | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }{% if forloop.last %}{% else %}, {% endif %}{% endif %}{% endfor %}];
 
 var idx = lunr(function () {
@@ -27,8 +27,8 @@ function lunr_search(term) {
         // document.getElementById('lunrsearchresults').innerHTML = "<p>Search results for '" + term + "'</p>" + document.getElementById('lunrsearchresults').innerHTML;
         //put results on the screen.
         var results = idx.search(term);
-        if(results.length>0){
-            console.log(idx.search(term));
+        
+        if(results.length > 0){
             //if results
             for (var i = 0; i < results.length; i++) {
                 // more statements
@@ -38,9 +38,14 @@ function lunr_search(term) {
                 // var body = documents[ref]['body'].substring(0,160)+'...';
                 var metadata = results[i]['matchData']['metadata']
                 for (const [key, value] of Object.entries(metadata)){
-                    var position = metadata[key]['body']['position'][0][0];
-                    var body = documents[ref]['body'].substring(position-80,position)+'<strong>'+documents[ref]['body'].substring(position,position+key.length+1)+'</strong>'+documents[ref]['body'].substring(position+key.length+1,position+80)+'...';
-                    console.log(key);
+                    if ('body' in metadata[key]){
+                        var position = metadata[key]['body']['position'][0][0];
+                        var body = documents[ref]['body'].substring(position-80,position)+'<strong>'+documents[ref]['body'].substring(position,position+key.length+1)+'</strong>'+documents[ref]['body'].substring(position+key.length+1,position+80)+'...';
+                    } else {
+                        var body = documents[ref]['body'].substring(0,160)+'...';
+                    }
+                    
+                    
                     break
                 }
                 // var position = results[i]['matchData']['metadata'][term]['body']['position'][0][0]
@@ -63,10 +68,8 @@ function lunr_search(term) {
         <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
             <input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Rechercher via Lunr.js" />
             <button type="submit">&#128269;</button>
-            
-
         </form>
-        
+        <p><em>p. ex. 'e12', 'production', 'title:12', 'title:e12 title:production'...</em></p>
         <div id="lunrsearchresults">
             <ul></ul>
         </div>

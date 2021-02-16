@@ -13,7 +13,7 @@
 }
 
 form {
-    width: 80%
+    margin-bottom: 10px;
 }
 input {
     width: 90%;
@@ -45,7 +45,8 @@ form::after {
     padding-top: 100px;
 }
 .modal-content {
-    width: 80%;
+    width: 60%;
+    max-height: 70%;
     margin: auto;
     background-color: white;
     padding: 20px;

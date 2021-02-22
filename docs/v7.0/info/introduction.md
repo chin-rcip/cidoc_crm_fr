@@ -44,6 +44,91 @@ group: info
 
 ## Portée de CIDOC CRM {#portee-de-cidoc-crm}
 
+## Exemples
+
+<table>
+<thead>
+<tr class="header">
+<th>Symbol | French Trad.</th>
+<th>Name | French Trad.</th>
+<th>reads | French Trad.</th>
+<th>Truth value | French Trad.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Operators | French Trad.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>∧</td>
+<td>conjunction | French Trad.</td>
+<td>and | French Trad.</td>
+<td><p>(φ ∧ ψ) is true | French Trad.</p>
+<p>if and only if both <em>φ</em> and <em>ψ</em> are true | French Trad.</p></td>
+</tr>
+<tr class="odd">
+<td>∨</td>
+<td>disjunction | French Trad.</td>
+<td>or | French Trad.</td>
+<td><p>(φ ∨ ψ) is true | French Trad.</p>
+<p>if and only if at least one of either φ or ψ is true | French Trad.</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th>Symbol</th>
+<th>Name</th>
+<th>reads</th>
+<th>Truth value</th>
+<th>Symbol(Fr)</th>
+<th>Name(Fr)</th>
+<th>Reads(Fr)</th>
+<th>Truth value(Fr)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Operators</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Operators(Fr)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>∧</td>
+<td>conjunction</td>
+<td>and</td>
+<td><p>(φ ∧ ψ) is true</p>
+<p>if and only if both <em>φ</em> and <em>ψ</em> are true</p></td>
+<td>∧</td>
+<td>conjunction(Fr)</td>
+<td>and(Fr)</td>
+<td><p>(φ ∧ ψ) is true(Fr)</p>
+<p>if and only if both <em>φ</em> and <em>ψ</em> are true (Fr)</p></td>
+</tr>
+<tr class="odd">
+<td>∨</td>
+<td>disjunction</td>
+<td>or</td>
+<td><p>(φ ∨ ψ) is true</p>
+<p>if and only if at least one of either φ or ψ is true</p></td>
+<td>∨</td>
+<td>disjunction(Fr)</td>
+<td>or(Fr)</td>
+<td><p>(φ ∨ ψ) is true (Fr)</p>
+<p>if and only if at least one of either φ or ψ is true (Fr)</p></td>
+</tr>
+</tbody>
+</table>
 
 
 

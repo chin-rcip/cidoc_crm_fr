@@ -12,6 +12,9 @@ v7:
     - page: Portée de CIDOC CRM
       url: /v7.0/information/introduction#portee-de-cidoc-crm
       hash: portee-de-cidoc-crm
+    - page: Exemples
+      url: /v7.0/information/introduction#exemples
+      hash: exemples
   - page: Terminologie
     url: /v7.0/information/terminologie
 

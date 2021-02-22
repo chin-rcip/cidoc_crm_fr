@@ -12,31 +12,31 @@
     <main class="page-content {% if page.sidebar %}main-with-sidebar{% endif %}" aria-label="Content">
       {% if page.sidebar %}
         <div class="{% if page.sidebar %}column sidebar{% endif %}">
-          <h3>{% if page.sidebar == "sps" %}Semantic Paths Specification
-              {% elsif page.sidebar == "tm" %}Target Model{% endif %}
+          <h3>{% if page.sidebar == "v7" %}Version 7.0{% endif %}
           </h3>
           <ul class="mainlist">
             {% for item in site.data.sidetoc[page.sidebar] %}
-              {% assign item_url = "/collections-model" | append: item.url %}
-              <li class="{{ item.lang }}">
-                <a href="{{ item_url }}" class="{% if item.url == page.url %}active{% endif %}">{{ item.title }}
+              <li>
+                <a href="javascript:void(0)" class="{% if item.group == page.group %}open{% endif %}">{{ item.title }}
+                  <span class="triangle">{% if item.group == page.group %}&#9660;{% else %}&#9655;{% endif %}</span>
                   <span class="tooltip">{{ item.title }}</span>
                 </a>
+
                 {% if item.subfolder[0] %}
-                  <ul class="sublist" style="{% if item.url != page.url %}display:none{% endif %}">
+                  <ul class="sublist" style="{% if item.group != page.group %}display:none{% endif %}">
                   {% for entry in item.subfolder %}
-                    {% assign entry_url = "/collections-model" | append: entry.url %}
-                    <li class="{{ entry.lang }}">
-                      <a id="toc-{{ entry.hash }}" href="{{ entry_url }}" onclick="active(this)">{{ entry.page }}
+                    {% assign entry_url = "/cidoc_crm_fr-ca" | append: entry.url %}
+                    <li>
+                      <a id="{% if entry.hash %}toc-{{ entry.hash }}{% endif %}" href="{% if entry.url %}{{ entry_url }}{% else %}javascript:void(0){% endif %}" class="{% if entry.url == page.url %}active{% endif %}">{{ entry.page }}
                         <span class="tooltip">{{ entry.page }}</span>
                       </a>
                       
                       {% if entry.subsubfolder[0] %}
-                        <ul class="subsublist" style="{% if item.url != page.url %}display:none{% endif %}">
+                        <ul class="subsublist">
                         {% for subentry in entry.subsubfolder %}
-                          {% assign subentry_url = "/collections-model" | append: subentry.url %}
+                          {% assign subentry_url = "/cidoc_crm_fr-ca" | append: subentry.url %}
                           <li>
-                            <a id="toc-{{ subentry.hash }}" href="{{ subentry_url }}" onclick="active(this)">{{ subentry.page }}
+                            <a id="{% if subentry.hash %}toc-{{ subentry.hash }}{% endif %}" href="{% if subentry.url %}/cidoc_crm_fr-ca{{ subentry.url }}{% else %}javascript:void(0){% endif %}" onclick="active(this)">{{ subentry.page }}
                               <span class="tooltip">{{ subentry.page }}</span>
                             </a>
                             
@@ -59,6 +59,7 @@
           {% if page.sidebar %}main-content
           {% else %}wrapper
           {% endif %}">
+
           {{ content }}
         </div>
 
@@ -67,7 +68,54 @@
     </main>
 
     <script type="text/javascript">
+      function active(element) {
+        var cur_active = document.getElementsByClassName("active");
+        var i;
+        for (i = 0; i < cur_active.length; i++) {
+          cur_active[i].setAttribute("class", "");
+        };
+        element.setAttribute("class", "active");
+      };
 
+      function highlight() {
+        var headers = $(".main-content :header").not("h1"); // get all headers in the main-content
+        var anchor = $(".sidebar a:visible")[3] // get the 4th <a> to get its offset top later.
+        var x;
+        for (x = 0; x < headers.length; x++) {
+          var header_top = $(headers[x]).offset().top;
+          
+          if (header_top > 30){
+            if (header_top < 250){
+              var header_id = $(headers[x]).attr("id");
+            } else {
+              var header_id = $(headers[x - 1]).attr("id");
+            }
+            console.log(header_id)
+            if (header_id != undefined) {
+              var toc_x = $("#toc-"+header_id);
+              console.log(toc_x);
+              $(".active").removeClass("active");
+              toc_x.addClass("active");
+              // scroll to active <a> of sidebar
+              $(".sidebar").animate({
+                scrollTop: toc_x.offset().top - $(anchor).offset().top}, 100);
+              break
+            } else { break }
+            
+          }
+
+        }
+      };
+
+      // show/hide sidebar item
+      $(".mainlist>li>a").on("click", function() {
+        $(this).siblings().toggle();
+        $(this).toggleClass("open");
+        if ($(this).hasClass('open')){
+          $(this).find(".triangle").text('\u25BC');
+        } else {$(this).find(".triangle").text('\u25B7');}
+        
+      });
       // show/hide search modal
       $("#search-icon").on("click", function(){
         $("#search-modal").show();
@@ -80,6 +128,31 @@
       $(document).on("click", function(event){
         if ($(event.target).hasClass("modal")){
           $("#search-modal").hide();
+        };
+      });
+
+
+       $(document).ready(function() {
+
+        // Hide all tooltips on window load
+        $(".tooltip").hide();
+        highlight();
+
+        // dropdown menu toggle
+        $(".has-dropdown").click(function(){
+          var other_dropdown = $(".has-dropdown").not(this);
+          other_dropdown.removeClass("visible");
+          other_dropdown.find(".dropdown").removeClass("visible");
+          $(this).find(".dropdown").toggleClass("visible");
+          $(this).toggleClass("visible");
+        });
+       });
+
+      // click anywhere in the html to hide dropdown menu
+      $(document).on("click", function(event){
+        // console.log($(event.target))
+        if (!$(event.target).hasClass("has-dropdown")){
+          $(".has-dropdown,.dropdown").removeClass("visible");
         }
       });
 
@@ -92,10 +165,40 @@
         // content_by_lang(this);
         var button_id = $(this).attr("id");
         if (button_id == "en-fr"){
-          $("td.en").show();
-        } else {$("td.en").hide()}
+          $("td.en").addClass("show");
+        } else {$("td.en").removeClass("show")}
       });
       
+
+       // scroll sidebar and highlight corresponding headers
+      $(".column.content").scroll(function(){
+        highlight();
+      });
+
+      // tooltips  
+      $(".sidebar a").on({
+        mouseenter: function(){
+          if ($(window).width() > 800){
+            var top = $(this).offset().top + $(this).height();
+            var left = $(".sidebar").width();
+            var tooltip = $(this).children("span.tooltip");
+            // set tooltip top and left position
+            tooltip.css({"left": left + 40, "top": top - 30});
+            // console.log($(this).outerWidth(), $(this)[0].scrollWidth);
+            // showing tooltip only if ".sidebar a" outerWidth < its scrollWidth
+            if ($(this).outerWidth() + 0.5 < $(this)[0].scrollWidth){
+              tooltip.show();
+            }
+          };
+          
+        },
+
+        mouseleave: function(){
+          var tooltip = $(this).children("span.tooltip");
+          tooltip.hide();
+        }
+      });
+
     </script>
   </body>
 

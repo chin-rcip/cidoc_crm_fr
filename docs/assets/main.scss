@@ -360,13 +360,13 @@ header .wrapper {
     color: #1756a9;
     font-weight: bold;
 }
-td.en {
+.en {
     display: none;
     /*border-left: none;*/
     border-right: none;
     border-bottom: none;
 }
-td.en.show {
+.en.show {
     display: table-cell;
 }
 

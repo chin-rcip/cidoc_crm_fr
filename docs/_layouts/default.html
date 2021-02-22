@@ -166,7 +166,12 @@
         var button_id = $(this).attr("id");
         if (button_id == "en-fr"){
           $(".en").addClass("show");
-        } else {$(".en").removeClass("show")}
+          var titleEn = "{% if page.titleEn %}{{ page.titleEn}}{% endif %}";
+          $(".post-title").text(titleEn);
+        } else {
+          $(".en").removeClass("show");
+          $(".post-title").text("{{ page.title }}");
+        }
       });
       
 

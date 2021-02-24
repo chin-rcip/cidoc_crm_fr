@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  CIDOC CRM Version 7.0
+title: CIDOC CRM Version 7.0
 permalink: /v7.0/information/introduction
 sidebar: v7
 group: info
@@ -46,38 +46,7 @@ group: info
 
 ## Exemples
 
-<table>
-<thead>
-<tr class="header">
-<th><span class="en">Symbol | </span>French Trad.</th>
-<th><span class="en">Name | </span>French Trad.</th>
-<th><span class="en">reads | </span>French Trad.</th>
-<th><span class="en">Truth value | </span>French Trad.</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span class="en">Operators | </span>French Trad.</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>∧</td>
-<td><span class="en">conjunction | </span>French Trad.</td>
-<td><span class="en">and | </span>French Trad.</td>
-<td><p><span class="en">(φ ∧ ψ) is true | </span>French Trad.</p>
-<p><span class="en">if and only if both <em>φ</em> and <em>ψ</em> are true | </span>French Trad.</p></td>
-</tr>
-<tr class="odd">
-<td>∨</td>
-<td><span class="en">disjunction | </span>French Trad.</td>
-<td><span class="en">or | </span>French Trad.</td>
-<td><p><span class="en">(φ ∨ ψ) is true | </span>French Trad.</p>
-<p><span class="en">if and only if at least one of either φ or ψ is true | </span>French Trad.</p></td>
-</tr>
-</tbody>
-</table>
+Dsiplay of content that was originally already in table format.
 
 <table>
 <thead>
@@ -88,99 +57,48 @@ group: info
 <th class="en">Truth value</th>
 <th>Symbol(Fr)</th>
 <th>Name(Fr)</th>
-<th>eads(Fr)</th>
-<th>Truth value(Fr)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td class="en">Operators</td>
-<td class="en"></td>
-<td class="en"></td>
-<td class="en"></td>
-<td>Operators(Fr)</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td class="en">∧</td>
-<td class="en">conjunction</td>
-<td class="en">and</td>
-<td class="en"><p>(φ ∧ ψ) is true</p>
-<p>if and only if both <em>φ</em> and <em>ψ</em> are true</p></td>
-<td>∧</td>
-<td>conjunction(Fr)</td>
-<td>and(Fr)</td>
-<td><p>(φ ∧ ψ) is true(Fr)</p>
-<p>if and only if both <em>φ</em> and <em>ψ</em> are true (Fr)</p></td>
-</tr>
-<tr class="odd">
-<td class="en">∨</td>
-<td class="en">disjunction</td>
-<td class="en">or</td>
-<td class="en"><p>(φ ∨ ψ) is true</p>
-<p>if and only if at least one of either φ or ψ is true</p></td>
-<td class="en">∨</td>
-<td>disjunction(Fr)</td>
-<td>or(Fr)</td>
-<td><p>(φ ∨ ψ) is true (Fr)</p>
-<p>if and only if at least one of either φ or ψ is true (Fr)</p></td>
-</tr>
-</tbody>
-</table>
-
-
-<table>
-<thead>
-<tr class="header">
-<th class="en">Symbol</th>
-<th>Symbol(Fr)</th>
-<th class="en">Name</th>
-<th>Name(Fr)</th>
-<th class="en">reads</th>
 <th>reads(Fr)</th>
-<th class="en">Truth value</th>
 <th>Truth value(Fr)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td class="en">Operators</td>
+<td class="en"></td>
+<td class="en"></td>
+<td class="en"></td>
 <td>Operators(Fr)</td>
-<td class="en"></td>
 <td></td>
-<td class="en"></td>
 <td></td>
-<td class="en"></td>
 <td></td>
 </tr>
 <tr class="even">
 <td class="en">∧</td>
-<td>∧</td>
 <td class="en">conjunction</td>
-<td>conjunction(Fr)</td>
 <td class="en">and</td>
-<td>and(Fr)</td>
 <td class="en"><p>(φ ∧ ψ) is true</p>
 <p>if and only if both <em>φ</em> and <em>ψ</em> are true</p></td>
+<td>∧</td>
+<td>conjunction(Fr)</td>
+<td>and(Fr)</td>
 <td><p>(φ ∧ ψ) is true(Fr)</p>
 <p>if and only if both <em>φ</em> and <em>ψ</em> are true (Fr)</p></td>
 </tr>
 <tr class="odd">
 <td class="en">∨</td>
-<td>∨</td>
 <td class="en">disjunction</td>
-<td>disjunction(Fr)</td>
 <td class="en">or</td>
-<td>or(Fr)</td>
 <td class="en"><p>(φ ∨ ψ) is true</p>
 <p>if and only if at least one of either φ or ψ is true</p></td>
+<td>∨</td>
+<td>disjunction(Fr)</td>
+<td>or(Fr)</td>
 <td><p>(φ ∨ ψ) is true (Fr)</p>
 <p>if and only if at least one of either φ or ψ is true (Fr)</p></td>
 </tr>
 </tbody>
 </table>
+
 
 
 

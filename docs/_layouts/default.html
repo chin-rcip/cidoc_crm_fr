@@ -90,10 +90,10 @@
             } else {
               var header_id = $(headers[x - 1]).attr("id");
             }
-            console.log(header_id)
+            // console.log(header_id)
             if (header_id != undefined) {
               var toc_x = $("#toc-"+header_id);
-              console.log(toc_x);
+              // console.log(toc_x);
               $(".active").removeClass("active");
               toc_x.addClass("active");
               // scroll to active <a> of sidebar
@@ -146,6 +146,10 @@
           $(this).find(".dropdown").toggleClass("visible");
           $(this).toggleClass("visible");
         });
+
+        // Add border-rigth to last cell of english content
+        $("tr").children().not(".en").prev(".en").css("border-right","solid 3px #cccccc");
+        
        });
 
       // click anywhere in the html to hide dropdown menu

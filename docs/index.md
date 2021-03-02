@@ -25,7 +25,7 @@ Dernière mise à jour : 2021-03-02
 
 ## Éditeurs et Éditrices 
 
-* Frédéric Bricaud, Bibliothèque et Archives nationales du Québec
+* Frédéric Bricaud, à titre personnel
 * Stephen Hart, Réseau canadien d'information sur le patrimoine
 * Karine Léonard Brouillet, Réseau canadien d'information sur le patrimoine
 * Marie-Elaine Mathieu, Musée de la civilisation

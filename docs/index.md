@@ -30,5 +30,5 @@ Dernière mise à jour : 2021-03-02
 * Karine Léonard Brouillet, Réseau canadien d'information sur le patrimoine
 * Marie-Elaine Mathieu, Musée de la civilisation
 * Philippe Michon, Réseau canadien d'information sur le patrimoine
-* Marielle St-Germain, École de bibliothécomie et des sciences de l'information, Université de Montréal
+* Marielle St-Germain, École de bibliothéconomie et des sciences de l'information, Université de Montréal
 * Marie-Pier Blain, à titre personnel

@@ -7,9 +7,9 @@ layout: home
 
 L’ontologie CIDOC CRM est largement utilisée par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement d’un modèle de données sémantique pour les collections canadiennes. 
 
-À l’heure actuelle, CIDOC CRM est développée et maintenue à jour exclusivement en anglais par le CRM SIG, un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable de CIDOC CRM.
+À l’heure actuelle, CIDOC CRM est développé et maintenu à jour exclusivement en anglais par le CRM SIG, un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable de CIDOC CRM.
 
-En 2014, une version française de CIDOC CRM a été publiée sous le titre ISO 21127:2014. Information et documentation — Une ontologie de référence pour l'échange d'informations du patrimoine culturel. Cette version n’est plus adaptée pour plusieurs raisons : 
+En 2014, une version française de CIDOC CRM a été publiée sous le titre *ISO 21127:2014. Information et documentation — Une ontologie de référence pour l'échange d'informations du patrimoine culturel*. Cette version n’est plus adaptée pour plusieurs raisons : 
 
 * les définitions des entités qui s’y trouvent ne sont plus à jour ; 
 * la documentation de référence et le modèle RDF (où seulement les classes et propriétés sont traduites) ne sont pas alignés et, de ce fait, difficilement utilisables ;	

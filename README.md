@@ -2,4 +2,4 @@
 
 La traduction de l’anglais vers le français de la documentation afférente à CIDOC CRM.
 
-Version: 7.0
+Version: 7.1

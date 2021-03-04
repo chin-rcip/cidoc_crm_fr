@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CIDOC CRM Version 7.0
-permalink: /v7.0/information/introduction
-sidebar: v7
+title: CIDOC CRM Version 7.1
+permalink: /v7.1/information/introduction
+sidebar: v71
 group: info
 ---
 

@@ -1,41 +1,41 @@
-v7:
+v71:
 
 - title: INFORMATION
   group: info
   subfolder:
   - page: Introduction
-    url: /v7.0/information/introduction
+    url: /v7.1/information/introduction
     subsubfolder:
     - page: Objectifs de CIDOC CRM
-      url: /v7.0/information/introduction#objectifs-de-cidoc-crm
+      url: /v7.1/information/introduction#objectifs-de-cidoc-crm
       hash: objectifs-de-cidoc-crm
     - page: Portée de CIDOC CRM
-      url: /v7.0/information/introduction#portee-de-cidoc-crm
+      url: /v7.1/information/introduction#portee-de-cidoc-crm
       hash: portee-de-cidoc-crm
     - page: Exemples
-      url: /v7.0/information/introduction#exemples
+      url: /v7.1/information/introduction#exemples
       hash: exemples
   - page: Terminologie
-    url: /v7.0/information/terminologie
+    url: /v7.1/information/terminologie
 
 - title: ENTITÉS
   group: entites
   subfolder:
   - page: E12 Production
-    url: /v7.0/entites/E12
+    url: /v7.1/entites/E12
   - page: E63 Début d’Existence
-    url: /v7.0/entites/E63
+    url: /v7.1/entites/E63
   - page: E64 Fin d’Existence
-    url: /v7.0/entites/E64
+    url: /v7.1/entites/E64
 
 - title: PROPRIÉTÉS
   # subfolder:
   # - title: E12 Production
-  #   url: /v7.0/entites/E12
+  #   url: /v7.1/entites/E12
   # - title: E63 Début d’Existence
-  #   url: /v7.0/entites/E63
+  #   url: /v7.1/entites/E63
   # - title: E64 Fin d’Existence
-  #   url: /v7.0/entites/E64
+  #   url: /v7.1/entites/E64
 
 
 

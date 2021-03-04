@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  Terminologie
-permalink: /v7.0/information/terminologie
-sidebar: v7
+permalink: /v7.1/information/terminologie
+sidebar: v71
 group: info
 ---
 

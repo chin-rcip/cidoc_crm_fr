@@ -18,24 +18,30 @@ v71:
   - page: Terminologie
     url: /v7.1/information/terminologie
 
-- title: ENTITÉS
-  group: entites
+- title: CLASSES
+  group: classes
   subfolder:
-  - page: E12 Production
-    url: /v7.1/entites/E12
-  - page: E63 Début d’Existence
-    url: /v7.1/entites/E63
-  - page: E64 Fin d’Existence
-    url: /v7.1/entites/E64
+  - page: E1 Entité CRM
+    url: /v7.1/classes/E1
+  - page: E2 Entité temporelle
+    url: /v7.1/classes/E2
+  - page: E7 Activité
+    url: /v7.1/classes/E7
+  # - page: E12 Production
+  #   url: /v7.1/classes/E12
+  # - page: E63 Début d’Existence
+  #   url: /v7.1/classes/E63
+  # - page: E64 Fin d’Existence
+  #   url: /v7.1/classes/E64
 
 - title: PROPRIÉTÉS
   # subfolder:
   # - title: E12 Production
-  #   url: /v7.1/entites/E12
+  #   url: /v7.1/classes/E12
   # - title: E63 Début d’Existence
-  #   url: /v7.1/entites/E63
+  #   url: /v7.1/classes/E63
   # - title: E64 Fin d’Existence
-  #   url: /v7.1/entites/E64
+  #   url: /v7.1/classes/E64
 
 
 

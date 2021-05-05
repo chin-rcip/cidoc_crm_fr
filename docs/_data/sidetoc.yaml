@@ -35,6 +35,7 @@ v71:
   #   url: /v7.1/classes/E64
 
 - title: PROPRIÉTÉS
+  group: proprietes
   # subfolder:
   # - title: E12 Production
   #   url: /v7.1/classes/E12
@@ -45,6 +46,43 @@ v71:
 
 
 
+mandat:
+
+- title: Introduction
+  url: /ressources/mandat-fonctionnement#introduction
+  hash: introduction
+- title: But
+  url: /ressources/mandat-fonctionnement#but
+  hash: but
+- title: Responsabilités
+  url: /ressources/mandat-fonctionnement#responsabilites
+  hash: responsabilites
+- title: Membres
+  url: /ressources/mandat-fonctionnement#membres
+  hash: membres
+  subfolder:
+  - page: Membres
+    url: /ressources/mandat-fonctionnement#membres-2
+    hash: membres-2
+  - page: Protocole de sélection
+    url: /ressources/mandat-fonctionnement#protocole-de-selection
+    hash: protocole-de-selection
+  - page: Critères de sélection et domaines d’expertise
+    url: /ressources/mandat-fonctionnement#criteres-de-selection-et-domaines-dexpertise
+    hash: criteres-de-selection-et-domaines-dexpertise
+- title: Activités et outils
+  url: /ressources/mandat-fonctionnement#activites-et-outils
+  hash: activites-et-outils
+  subfolder:
+  - page: Réunions
+    url: /ressources/mandat-fonctionnement#reunions
+    hash: reunions
+  - page: Flux de travail
+    url: /ressources/mandat-fonctionnement#flux-de-travail
+    hash: flux-de-travail
+- title: Personnes-ressources
+  url: /ressources/mandat-fonctionnement#personnes-ressources
+  hash: personnes-ressources
 
 
 

@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
 header_pages:
   - v7.1/info/introduction.md
+  - ressources/mandat.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

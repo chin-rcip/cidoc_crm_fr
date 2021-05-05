@@ -12,18 +12,22 @@
     <main class="page-content {% if page.sidebar %}main-with-sidebar{% endif %}" aria-label="Content">
       {% if page.sidebar %}
         <div class="{% if page.sidebar %}column sidebar{% endif %}">
-          <h3>{% if page.sidebar == "v71" %}Version 7.1{% endif %}
+          <h3>{% if page.sidebar == "v71" %}Version 7.1
+              {% else %}{{ page.title}}
+              {% endif %}
           </h3>
-          <ul class="mainlist">
+          <ul class="mainlist{% if item.group %} toggle-sidebar{% endif %}">
             {% for item in site.data.sidetoc[page.sidebar] %}
               <li>
-                <a href="javascript:void(0)" class="{% if item.group == page.group %}open{% endif %}">{{ item.title }}
+                <a {% if item.hash %}id="toc-{{ item.hash }}"{% endif %} href="{% if item.url %}/cidoc_crm_fr-ca{{ item.url }}{% else %}javascript:void(0){% endif %}" class="{% if item.group %}toggle-sidebar-list {% if item.group == page.group%}open{% endif %}{% endif %}">{{ item.title }}
+                  {% if item.group %}
                   <span class="triangle">{% if item.group == page.group %}&#9660;{% else %}&#9655;{% endif %}</span>
+                  {% endif %}
                   <span class="tooltip">{{ item.title }}</span>
                 </a>
-
+                
                 {% if item.subfolder[0] %}
-                  <ul class="sublist" style="{% if item.group != page.group %}display:none{% endif %}">
+                  <ul class="sublist{% unless item.group %} indent{% endunless %}" style="{% if item.group != page.group %}display:none{% endif %}">
                   {% for entry in item.subfolder %}
                     {% assign entry_url = "/cidoc_crm_fr-ca" | append: entry.url %}
                     <li>
@@ -32,7 +36,7 @@
                       </a>
                       
                       {% if entry.subsubfolder[0] %}
-                        <ul class="subsublist">
+                        <ul class="subsublist{% unless item.group %} indent{% endunless %}">
                         {% for subentry in entry.subsubfolder %}
                           {% assign subentry_url = "/cidoc_crm_fr-ca" | append: subentry.url %}
                           <li>
@@ -108,7 +112,7 @@
       };
 
       // show/hide sidebar item
-      $(".mainlist>li>a").on("click", function() {
+      $(".mainlist>li>.toggle-sidebar-list").on("click", function() {
         $(this).siblings().toggle();
         $(this).toggleClass("open");
         if ($(this).hasClass('open')){
@@ -147,7 +151,7 @@
           $(this).toggleClass("visible");
         });
 
-        // Add border-rigth to last cell of english content
+        // Add border-right to last cell of english content
         $("tr").children().not(".en").prev(".en").css("border-right","solid 3px #cccccc");
         
        });

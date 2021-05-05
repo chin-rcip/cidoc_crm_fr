@@ -139,12 +139,12 @@ li a.active {
 .mainlist>li>a {
     font-weight: bold;
 }
-.mainlist>li {
+.mainlist.toggle-sidebar>li {
     margin-bottom: 10px;
 }
-/*.sublist>li>a {
+.sublist.indent>li>a {
     padding-left: 20px;
-}*/
+}
 
 .sidebar a:hover {
     color: black;
@@ -152,6 +152,9 @@ li a.active {
 
 .subsublist>li>a {
     padding-left: 20px;
+}
+.subsublist.indent>li>a {
+    padding-left: 40px;
 }
 
 .sidebar {
@@ -161,6 +164,11 @@ li a.active {
     flex-shrink: 0;
     min-width: 210px;
     white-space: nowrap;
+}
+
+/*wrap sidebar heading*/
+.sidebar h3 {
+    white-space: normal;
 }
 
 /*ul.close {

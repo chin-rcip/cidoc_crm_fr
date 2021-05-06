@@ -11,7 +11,7 @@ tab: ressources
 
 **Date de création** : 2021-02-10
 
-**Dernière mise à jour** : 2021-02-16
+**Dernière mise à jour** : 2021-05-06
 
 **Résumé** : Renseignements généraux sur les objectifs, le but, la composition et la structure opérationnelle du Groupe de travail.
 

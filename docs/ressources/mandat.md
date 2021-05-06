@@ -170,17 +170,3 @@ Les fluxs de travail prendront la forme suivante (la durée pourra être ajusté
   - Semaine 4 — Validation.
 
 Les contenus disponibles en français seront exportés sur une base trimestrielle vers les différents formats établis et rendus disponibles dans un répertoire Github maintenu par le RCIP.
-
-## Personnes-ressources
-
-  - Karine Léonard Brouillet – analyste d’information sur le patrimoine
-    
-      - [karineleonardb@gmail.com](mailto:karineleonardb@gmail.com)
-    
-      - 514-993-2948
-
-  - Philippe Michon – analyste en web sémantique
-    
-      - [illipmich@gmail.com](mailto:illipmich@gmail.com)
-    
-      - 450-513-2313

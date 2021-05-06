@@ -127,7 +127,7 @@ Le Groupe de travail est composé d’employés du RCIP (identifiés par un \*) 
 
   - Philippe Michon\* (traducteur, représentant auprès du CRM SIG)
 
-  - Marielle St-Germain, École de bibliothéconomie et des sciences de l’information de l’Université de Montréal (traductrice)
+  - Marielle St-Germain, doctorante à l'École de bibliothéconomie et des sciences de l’information de l’Université de Montréal (traductrice)
 
 ### Protocole de sélection {#protocole-de-selection}
 

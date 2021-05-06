@@ -17,21 +17,21 @@ tab: ressources
 
 L’ontologie CIDOC CRM est largement utilisée par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement d’un modèle de données sémantique pour les collections canadiennes.
 
-À l’heure actuelle, CIDOC CRM est développé et maintenu à jour exclusivement en anglais par le CRM SIG, un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable de CIDOC CRM.
+À l’heure actuelle, le CIDOC CRM est développé et maintenu à jour exclusivement en anglais par le CRM SIG, un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable du CIDOC CRM.
 
-En 2014, une version française de CIDOC CRM a été publiée sous le titre *ISO 21127:2014. Information et documentation — Une ontologie de référence pour l'échange d'informations du patrimoine culturel*. Cette version n’est plus adaptée pour plusieurs raisons :
+En 2014, une version française du CIDOC CRM a été publiée sous le titre *ISO 21127:2014. Information et documentation — Une ontologie de référence pour l'échange d'informations du patrimoine culturel*. Cette version n’est plus adaptée pour plusieurs raisons :
 
   - les définitions des entités qui s’y trouvent ne sont plus à jour;
 
-  - la documentation de référence et le modèle RDF (où seulement les classes et propriétés sont traduites) ne sont pas alignés et, de ce fait, difficilement utilisables;
+  - la documentation de référence et le modèle RDF (où seulement les classes et les propriétés sont traduites) ne sont pas alignés et, de ce fait, difficilement utilisables;
 
-  - le document n’est pas disponible sous licence ouverte contrairement à la documentation anglophone qui est accessible gratuitement sur le site de CIDOC CRM.
+  - le document n’est pas disponible sous licence ouverte contrairement à la documentation anglophone qui est accessible gratuitement sur le site du CIDOC CRM.
 
-Une nouvelle initiative de traduction de CIDOC CRM a donc été mise en place par des intervenants du milieu patrimonial francophone canadien afin de rendre ce standard disponible sous licence ouverte et gratuitement, et ce avec l’aval du CRM SIG. Les résultats de ces travaux seront donc disponibles à l’ensemble de la communauté patrimoniale internationale et francophone.
+Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place par des intervenants du milieu patrimonial francophone canadien afin d'offrir une version française à jour et accessible ouvertement et gratuitement, et ce avec l’aval du CRM SIG. Les résultats de ces travaux seront donc disponibles à l’ensemble de la communauté patrimoniale internationale et francophone.
 
 ## But
 
-Le Groupe de travail pour la traduction de CIDOC CRM a pour mandat de traduire le standard CIDOC CRM et de le rendre disponible ouvertement et gratuitement en français et à jour. À cet effet, les éléments suivants de la version 7.0 feront l’objet d’une traduction :
+Le Groupe de travail pour la traduction du CIDOC CRM a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.0 feront l’objet d’une traduction :
 
   - Introduction
 
@@ -61,7 +61,7 @@ Les références bibliographiques seront francisées, mais ne seront pas traduit
 
   - Amendments
 
-Il n’y aura pas de mise à jour des versions en cours lors de la traduction initiale afin d’assurer la cohérence du contenu; une fois l’intégralité du contenu traduit, la version francophone sera maintenue à jour grâce à une comparaison des versions anglophones concernées et une révision du contenu concerné.
+Aucune mise à jour des versions en cours ne sera effectuée lors de la traduction initiale afin d’assurer la cohérence du contenu. Une fois l’intégralité du contenu traduit, l’objectif du Groupe de travail sera de maintenir une version française à jour grâce à une comparaison des versions anglaises concernées et une révision du contenu en question.
 
 ## Responsabilités {#responsabilites}
 
@@ -73,7 +73,7 @@ Le RCIP endosse les responsabilités administratives liées à l’effort de tra
 
   - s’assurant du transfert depuis les documents de travail internes vers des formats accessibles (.md, .rdf, .pdf) accessibles (et déployés) sur Github;
 
-  - maintien du répertoire Github et de ses pages associées.
+  - maintenant le répertoire Github et ses pages associées.
 
 Il sera attendu des membres qu’ils :
 
@@ -87,15 +87,15 @@ Il sera attendu des membres qu’ils :
 
 Un groupe restreint de réviseurs seniors qui seront à même de statuer sur les enjeux de traduction sur lesquels le groupe ne s’entend pas sera nommé par les membres du groupe. Leurs décisions devront prendre en compte :
 
-  - l’alignement avec le sens de la version anglophone;
+  - la concordance avec le sens de la version anglaise;
 
-  - la cohérence interne de la version francophone;
+  - la cohérence interne de la version française;
 
   - la lisibilité et la réutilisabilité du contenu.
 
 Ce groupe comportera trois membres qui devront s’entendre à l’unanimité lorsque viendra le temps de prendre des décisions sur des enjeux de traduction où le groupe a conclu qu’il ne peut s’entendre et qu’une décision finale doit être prise. Ce comité réviseur sera sélectionné sur la base de l’implication des personnes concernées, leur expertise, leur disponibilité et leur volonté. Il sera composé de deux membres du Réseau canadien d’information sur le patrimoine et d’un membre externe au RCIP.
 
-La version francophone incluera :
+La version française incluera :
 
   - un index des termes courants ainsi que des classes et propriétés de CIDOC CRM;
 

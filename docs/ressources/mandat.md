@@ -7,8 +7,6 @@ tab: ressources
 ---
 
 
-**Auteurs** : Karine Léonard Brouillet, Philippe Michon
-
 **Date de création** : 2021-02-10
 
 **Dernière mise à jour** : 2021-05-06

@@ -28,7 +28,7 @@ Veuillez indiquer :
 
   - vos noms et coordonnées.
 
-## Se joindre à l’effort de traduction
+## Se joindre à l’effort de traduction {#se-joindre-a-leffort-de-traduction}
 
 Le Groupe de travail ne publie pas d’appel de candidatures et sélectionne ses membres sur la base de leur expérience, de leurs connaissances sémantiques et de leur expertise.
 

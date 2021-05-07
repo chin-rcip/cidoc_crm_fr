@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Méthodologie
-permalink: /ressources/metholodogie
+permalink: /ressources/methodologie
 sidebar: methodologie
 tab: ressources
 ---

@@ -83,7 +83,7 @@
 
       function highlight() {
         var headers = $(".main-content :header").not("h1"); // get all headers in the main-content
-        var anchor = $(".sidebar a:visible")[3] // get the 4th <a> to get its offset top later.
+        var anchor = $(".sidebar a:visible")[1] // get the 2nd <a> to get its offset top later.
         var x;
         for (x = 0; x < headers.length; x++) {
           var header_top = $(headers[x]).offset().top;

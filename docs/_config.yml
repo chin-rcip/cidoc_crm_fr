@@ -34,7 +34,7 @@ plugins:
 header_pages:
   - v7.1/info/introduction.md
   - ressources/mandat.md
-  - ressources/methodologie.md
+  - ressources/method.md
   - ressources/participation.md
 
 # Exclude from processing.

@@ -79,9 +79,61 @@ mandat:
     hash: reunions
   - page: Flux de travail
     url: /ressources/mandat-fonctionnement#flux-de-travail
-    hash: flux-de-travail
+    hash: flux-de-travails
+
+
+methodologie:
+
+- title: Contenu propice à une traduction
+  url: /ressources/methodologie#contenu-propice-a-une-traduction
+  hash: contenu-propice-a-une-traduction
+  subfolder:
+- title: Méthodologie de traduction
+  url: /ressources/methodologie#methodologie-de-traduction
+  hash: methodologie-de-traduction
+  subfolder:
+  - page: Principes de traduction
+    url: /ressources/methodologie#principes-de-traduction
+    hash: principes-de-traduction
+    subsubfolder:
+    - page: Signification
+      url: /ressources/methodologie#signification
+      hash: signification
+    - page: Précision
+      url: /ressources/methodologie#precision
+      hash: precision
+    - page: Simplicité
+      url: /ressources/methodologie#simplicite
+      hash: simplicite
+    - page: Inclusivité
+      url: /ressources/methodologie#inclusivite
+      hash: inclusivite
+- title: Outils de traduction
+  url: /ressources/methodologie#outils-de-traduction
+  hash: outils-de-traduction
+  subfolder:
+    - page: Guide de style
+      url: /ressources/methodologie#guide-de-style
+      hash: guide-de-style
+    - page: Gabarits et protocoles
+      url: /ressources/methodologie#gabarits-et-protocoles
+      hash: gabarits-et-protocoles
+    - page: Processus
+      url: /ressources/methodologie#processus
+      hash: processus
+- title: Contact
+  url: /ressources/methodologie#contact
+  hash: contact
 
 
 
+participation:
+
+- title: Signaler un enjeu de traduction
+  url: /ressources/participation#signaler-un-enjeu-de-traduction
+  hash: signaler-un-enjeu-de-traduction
+- title: Se joindre à l’effort de traduction
+  url: /ressources/participation#se-joindre-a-leffort-de-traduction
+  hash: se-joindre-a-leffort-de-traduction
 
 

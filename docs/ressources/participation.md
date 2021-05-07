@@ -14,7 +14,7 @@ tab: ressources
 
 **Résumé** : Textes contextuels créés pour la présentation du contenu traduit du CIDOC CRM.
 
-## Signaler un problème de traduction
+## Signaler un problème de traduction {#signaler-un-probleme-de-traduction}
 
 Si vous désirez signaler un problème de traduction, vous pouvez nous contacter au [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) en indiquant « Traduction du CIDOC CRM » dans l’objet du courriel et en détaillant la nature du problème dans le corps du courriel.
 

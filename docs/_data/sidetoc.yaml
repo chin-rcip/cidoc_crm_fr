@@ -129,9 +129,9 @@ methodologie:
 
 participation:
 
-- title: Signaler un enjeu de traduction
-  url: /ressources/participation#signaler-un-enjeu-de-traduction
-  hash: signaler-un-enjeu-de-traduction
+- title: Signaler un problème de traduction
+  url: /ressources/participation#signaler-un-probleme-de-traduction
+  hash: signaler-un-probleme-de-traduction
 - title: Se joindre à l’effort de traduction
   url: /ressources/participation#se-joindre-a-leffort-de-traduction
   hash: se-joindre-a-leffort-de-traduction

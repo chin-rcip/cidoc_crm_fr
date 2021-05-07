@@ -82,7 +82,7 @@ Il arrive régulièrement qu’un terme puisse être traduit de plusieurs maniè
 
 Lorsqu’il semble pertinent de signaler qu’un terme ou une formulation a été adopté pour des raisons précises (p. ex. une recherche exhaustive a été effectuée, pour distinguer un usage d’un autre), une note est ajoutée à cet effet dans la section dédiée à cet usage au bas de la traduction.
 
-De plus, puisque l’objectif principal de cette initiative est d’offrir une version française du CIDOC CRM qui soit compréhensible pour les professionnels du domaine patrimonial, des précisions sont occasionnellement apportées au texte lui-même. Celles-ci sont signalées par l’usage de \[n.d.t. *précision*\] afin de les distinguer du propos initial. Le Groupe de traduction compte soulever certains de ces enjeux majeurs de précision avec le CRM SIG afin de bonifier la version anglaise.
+De plus, puisque l’objectif principal de cette initiative est d’offrir une version française du CIDOC CRM qui soit compréhensible pour les professionnels du domaine patrimonial, des précisions sont occasionnellement apportées au texte lui-même. Celles-ci sont signalées par l’usage de \[n.d.t. *précision*\] afin de les distinguer du propos initial. Le Groupe de traduction compte soulever certains de ces problématiques majeures de précision avec le CRM SIG afin de bonifier la version anglaise.
 
 Dans tous les cas, lorsqu’une précision est apportée, le Groupe de traduction s’assure que l’information ajoutée ne va pas à l’encontre du sens original de la version anglaise.
 
@@ -116,7 +116,7 @@ Le contenu traduit est ensuite exporté en fichier mermaid (.md) et diffusé sur
 
 Les entités sont traduites selon un calendrier prédéfini en commençant par les superclasses et leurs superpropriétés associées, et ce, de manière de plus en plus précise en traduisant graduellement leurs sous-classes et leurs sous-propriétés associées. Chaque traduction fait l’objet d’une révision par les membres du Groupe de traduction qui en discutent et l’approuvent avant sa diffusion.
 
-Lorsqu’un élément de traduction fait l’objet d’une incertitude, il est discuté par le Groupe de traduction et, s’il ne s’entend pas, un trio de réviseurs seniors statue sur l’enjeu. Ceux-ci prennent en considération :
+Lorsqu’un élément de traduction fait l’objet d’une incertitude, il est discuté par le Groupe de traduction et, s’il ne s’entend pas, un trio de réviseurs seniors statue sur le problème. Ceux-ci prennent en considération :
 
   - la concordance avec le sens de la version anglaise;
 

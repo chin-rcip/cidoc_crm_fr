@@ -85,7 +85,7 @@ Il sera attendu des membres qu’ils :
 
   - sélectionnent des dictionnaires de référence communs auxquels se référer (un dictionnaire français, un dictionnaire anglais, ainsi qu’un dictionnaire bilingue).
 
-Un groupe restreint de réviseurs seniors qui seront à même de statuer sur les enjeux de traduction sur lesquels le groupe ne s’entend pas sera nommé par les membres du groupe. Leurs décisions devront prendre en compte :
+Un groupe restreint de réviseurs seniors qui seront à même de statuer sur les problèmes de traduction sur lesquels le groupe ne s’entend pas sera nommé par les membres du groupe. Leurs décisions devront prendre en compte :
 
   - la concordance avec le sens de la version anglaise;
 
@@ -93,7 +93,7 @@ Un groupe restreint de réviseurs seniors qui seront à même de statuer sur les
 
   - la lisibilité et la réutilisabilité du contenu.
 
-Ce groupe comportera trois membres qui devront s’entendre à l’unanimité lorsque viendra le temps de prendre des décisions sur des enjeux de traduction où le groupe a conclu qu’il ne peut s’entendre et qu’une décision finale doit être prise. Ce comité réviseur sera sélectionné sur la base de l’implication des personnes concernées, leur expertise, leur disponibilité et leur volonté. Il sera composé de deux membres du Réseau canadien d’information sur le patrimoine et d’un membre externe au RCIP.
+Ce groupe comportera trois membres qui devront s’entendre à l’unanimité lorsque viendra le temps de prendre des décisions sur des problèmes de traduction où le groupe a conclu qu’il ne peut s’entendre et qu’une décision finale doit être prise. Ce comité réviseur sera sélectionné sur la base de l’implication des personnes concernées, leur expertise, leur disponibilité et leur volonté. Il sera composé de deux membres du Réseau canadien d’information sur le patrimoine et d’un membre externe au RCIP.
 
 La version française incluera :
 

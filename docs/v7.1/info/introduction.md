@@ -17,12 +17,10 @@ group: info
 <tbody>
 <tr class="odd">
 <td style="display:none">Texte</td>
-<td class="en"><p>This document is the formal definition of the CIDOC Conceptual Reference Model (“CIDOC CRM”), a formal ontology intended to facilitate the integration, mediation and interchange of heterogeneous cultural heritage information. The CIDOC CRM is the culmination of more than a decade of standards development work by the International Committee for Documentation (CIDOC) of the International Council of Museums (ICOM). Work on the CIDOC CRM itself began in 1996 under the auspices of the ICOM-CIDOC Documentation Standards Working Group. Since 2000, development of the CIDOC CRM has been officially delegated by ICOM-CIDOC to the CIDOC CRM Special Interest Group, which collaborates with the ISO working group ISO/TC46/SC4/WG9 to bring the CIDOC CRM to the form and status of an International Standard.</p>
-<hr>
-<p><sup>n</sup>Notes</p></td>
-<td><p>Traduction: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In pellentesque massa placerat duis ultricies lacus sed. Morbi tristique senectus et netus. Sed arcu non odio euismod lacinia. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Integer eget aliquet nibh praesent tristique magna sit. Pretium quam vulputate dignissim suspendisse in. Sed lectus vestibulum mattis ullamcorper velit sed. Facilisis mauris sit amet massa vitae tortor condimentum lacinia quis. Feugiat nibh sed pulvinar proin. Nisi est sit amet facilisis magna etiam. Donec et odio pellentesque diam volutpat. Eleifend mi in nulla posuere sollicitudin. Metus dictum at tempor commodo ullamcorper a lacus.</p>
-	<hr>
-<p><sup>n</sup>Notes traduites</p></td>
+<td class="en"><p>This document is the formal definition of the <strong>CIDOC Conceptual Reference Model (“CIDOC CRM”)</strong>, a formal ontology intended to facilitate the integration, mediation and interchange of heterogeneous cultural heritage information. The CIDOC CRM is the culmination of more than a decade of standards development work by the International Committee for Documentation (CIDOC) of the International Council of Museums (ICOM). Work on the CIDOC CRM itself began in 1996 under the auspices of the ICOM-CIDOC Documentation Standards Working Group. Since 2000, development of the CIDOC CRM has been officially delegated by ICOM-CIDOC to the CIDOC CRM Special Interest Group, which collaborates with the ISO working group ISO/TC46/SC4/WG9 to bring the CIDOC CRM to the form and status of an International Standard.</p>
+</td>
+<td><p>Ce document constitue la définition du <strong>Modèle conceptuel de référence du Comité international pour la documentation du Conseil international des musées (« CIDOC CRM »)</strong>, une ontologie formelle qui a pour objectif de faciliter l’intégration, la médiation et l’échange d’informations patrimoniales hétérogènes. Le CIDOC CRM est le résultat du développement de standards par le Comité pour la documentation (CIDOC) du Conseil international des musées (ICOM), un travail qui a commencé en 1996 sous les auspices du Groupe de travail pour les standards en documentation. En 2000, ICOM-CIDOC a officiellement délégué les tâches de développement du CIDOC CRM au Groupe de travail spécial pour CIDOC CRM (CRM SIG), lequel travaille en collaboration avec le Groupe de travail ISO/TC46/SC4/WG9 afin de veiller à ce que le CIDOC CRM respecte les normes internationales en matière de standards.</p>
+</td>
 </tr>
 
 </tbody>
@@ -31,11 +29,12 @@ group: info
 <tbody>
 <tr class="odd">
 <td><strong><em>Note traducteur</em></strong></td>
-<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In pellentesque massa placerat duis ultricies lacus sed.</td>
+<td>L’abréviation la plus utilisée dans le monde francophone pour le modèle demeure son acronyme anglophone (CIDOC CRM) et c’est celle qui est utilisée dans ce document. Les titres francophones des groupes de travail sont tirés des appellations trouvées sur le site francophone de CIDOC.
+</td>
 </tr>
 <tr class="even">
 <td><strong><em>Références</em></strong></td>
-<td></td>
+<td><em>Comité International pour la Documentation de l’ICOM. 2021. « CIDOC ». ICOM CIDOC. 24 février 2021. <a href="http://cidoc.mini.icom.museum/fr/">http://cidoc.mini.icom.museum/fr/</a>.</em></td>
 </tr>
 </tbody>
 </table>

@@ -45,7 +45,7 @@ group: info
 
 ## Exemples
 
-Dsiplay of content that was originally already in table format.
+### Display of content that was originally already in table format.
 
 <table>
 <thead>
@@ -97,6 +97,16 @@ Dsiplay of content that was originally already in table format.
 </tr>
 </tbody>
 </table>
+
+### Display of hierarchy
+
+| ---------------------------------------------- | ---------------------------- | ---------------------------------------- | --------------- | ----- | ----------------------- |
+|E1       |<span class="en">CRM Entity</span> `E1_Entité_CRM`|                                          |                 |       |                         |
+|E2       | \-                           |<span class="en">Temporal Entity</span> `E2_Entité_temporelle`|                 |       |                         |
+|E3 | \-                           | \-                                       |<span class="en">Condition State</span>|       |                         |
+|E4 | \-                           | \-                                       |<span class="en">Period         </span>|       |                         |
+|E5 | \-                           | \-                                       | \-              |<span class="en">Event</span>|                         |
+|E7 | \-                           | \-                                       | \-              | \-    |<span class="en">Activity</span> `E7_Activité`|
 
 
 

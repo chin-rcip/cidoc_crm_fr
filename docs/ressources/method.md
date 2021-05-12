@@ -12,7 +12,7 @@ tab: ressources
 
 **Dernière de mise à jour** : 2021-05-06
 
-**Résumé** : Textes contextuels créés pour la présentation du contenu traduit du CIDOC CRM.
+**Résumé** : Résumé de l'approche méthodologique et théorique de cette traduction du CIDOC CRM.
 
 ## Contenu propice à une traduction {#contenu-propice-a-une-traduction}
 

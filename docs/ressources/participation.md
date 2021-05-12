@@ -12,7 +12,7 @@ tab: ressources
 
 **Dernière de mise à jour** : 2021-05-06
 
-**Résumé** : Textes contextuels créés pour la présentation du contenu traduit du CIDOC CRM.
+**Résumé** : Comment se joindre à l'effort de traduction du CIDOC CRM.
 
 ## Signaler un problème de traduction {#signaler-un-probleme-de-traduction}
 

@@ -38,7 +38,7 @@ Le Groupe évalue toutes les demandes d’adhésion reçues sur la base des crit
 
   - excellentes capacités de rédaction en français et excellente compréhension de l’anglais;
 
-  - capacité de consacrer environ cinq heures de travail par mois aux activités du Groupe de travail et d’offrir une rétroaction constructive.
+  - capacité de consacrer environ cinq heures de travail par mois aux activités du Groupe de traduction et d’offrir une rétroaction constructive.
 
 Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veuillez consulter la section [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement).
 

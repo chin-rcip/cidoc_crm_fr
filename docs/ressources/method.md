@@ -16,7 +16,7 @@ tab: ressources
 
 ## Contenu propice à une traduction {#contenu-propice-a-une-traduction}
 
-Le Groupe de travail pour la traduction du CIDOC CRM a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 font actuellement l’objet d’une traduction :
+Le Groupe de travail pour la traduction en français du CIDOC CRM a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 font actuellement l’objet d’une traduction :
 
   - *Introduction*
 
@@ -50,7 +50,7 @@ Cette initiative de traduction a pour mandat d’allier précision et rigueur da
 
 ### Principes de traduction
 
-Le Groupe de travail adopte une approche de la traduction fondée sur les quatre principes suivants :
+Le Groupe de traduction adopte une approche de la traduction fondée sur les quatre principes suivants :
 
 1.  Signification
 
@@ -114,7 +114,7 @@ Le contenu traduit est ensuite exporté en fichier mermaid (.md) et diffusé sur
 
 #### Processus 
 
-Les entités sont traduites selon un calendrier prédéfini en commençant par les superclasses et leurs superpropriétés associées, et ce, de manière de plus en plus précise en traduisant graduellement leurs sous-classes et leurs sous-propriétés associées. Chaque traduction fait l’objet d’une révision par les membres du Groupe de traduction qui en discutent et l’approuvent avant sa diffusion.
+Les entités sont traduites selon un calendrier prédéfini en commençant par les superclasses et leurs superpropriétés associées, et ce, de manière de plus en plus précise en traduisant graduellement leurs sous-classes et leurs sous-propriétés associées. Chaque traduction fait l’objet d’une révision par les membres du Groupe de traduction qui en discutent et l’approuvent avant sa diffusion. Néanmoins, certaines modifications mineures pourraient encore survenir puisque la traduction est en cours et qu’un nouveau contexte pourrait éclairer le sens d’un mot ou d’un exemple.
 
 Lorsqu’un élément de traduction fait l’objet d’une incertitude, il est discuté par le Groupe de traduction et, s’il ne s’entend pas, un trio de réviseurs seniors statue sur le problème. Ceux-ci prennent en considération :
 

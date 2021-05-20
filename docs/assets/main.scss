@@ -276,7 +276,9 @@ td {
     display: none;
 }
 
-
+.empty-cell {
+    visibility: hidden;
+}
 
 /*--- disclaimer ---*/
 
@@ -373,6 +375,10 @@ header .wrapper {
 }
 .en.show {
     display: table-cell;
+}
+
+.en.heading.show {
+    display: inline;
 }
 
 

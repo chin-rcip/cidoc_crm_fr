@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - v7.1/info/introduction.md
+  - v7.1/info/intro.md
   - ressources/mandat.md
   - ressources/method.md
   - ressources/participation.md

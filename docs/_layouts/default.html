@@ -30,13 +30,14 @@
                   <ul class="sublist{% unless item.group %} indent{% endunless %}" style="{% if item.group != page.group %}display:none{% endif %}">
                   {% for entry in item.subfolder %}
                     {% assign entry_url = "/cidoc_crm_fr-ca" | append: entry.url %}
+                    {% assign entry_url_split = entry.url | split: "#" %}
                     <li>
                       <a id="{% if entry.hash %}toc-{{ entry.hash }}{% endif %}" href="{% if entry.url %}{{ entry_url }}{% else %}javascript:void(0){% endif %}" class="{% if entry.url == page.url %}active{% endif %}">{{ entry.page }}
                         <span class="tooltip">{{ entry.page }}</span>
                       </a>
                       
                       {% if entry.subsubfolder[0] %}
-                        <ul class="subsublist{% unless item.group %} indent{% endunless %}">
+                        <ul class="subsublist{% unless item.group %} indent{% endunless %}"  style="{% if entry_url_split[0] != page.url %}display:none{% endif %}">
                         {% for subentry in entry.subsubfolder %}
                           {% assign subentry_url = "/cidoc_crm_fr-ca" | append: subentry.url %}
                           <li>

@@ -6,15 +6,15 @@ v71:
   - page: Introduction
     url: /v7.1/information/introduction
     subsubfolder:
-    - page: Objectifs de CIDOC CRM
-      url: /v7.1/information/introduction#objectifs-de-cidoc-crm
-      hash: objectifs-de-cidoc-crm
-    - page: Portée de CIDOC CRM
-      url: /v7.1/information/introduction#portee-de-cidoc-crm
-      hash: portee-de-cidoc-crm
-    - page: Exemples
-      url: /v7.1/information/introduction#exemples
-      hash: exemples
+    - page: Objectifs du CIDOC CRM
+      url: /v7.1/information/introduction#objectifs-du-cidoc-crm
+      hash: objectifs-du-cidoc-crm
+    - page: Portée du CIDOC CRM
+      url: /v7.1/information/introduction#portee-du-cidoc-crm
+      hash: portee-du-cidoc-crm
+    # - page: Exemples
+    #   url: /v7.1/information/introduction#exemples
+    #   hash: exemples
   - page: Terminologie
     url: /v7.1/information/terminologie
 

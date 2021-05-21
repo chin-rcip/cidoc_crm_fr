@@ -17,6 +17,18 @@ v71:
     #   hash: exemples
   - page: Terminologie
     url: /v7.1/information/terminologie
+  - page: Compatibilité avec le CIDOC CRM
+    url: /v7.1/information/compatibilite-avec-le-cidoc-crm
+    subsubfolder:
+    - page: Quantificateurs de propriétés
+      url: /v7.1/information/compatibilite-avec-le-cidoc-crm#quantificateurs-de-proprietes
+      hash: quantificateurs-de-proprietes
+    - page: Convention d’appellation
+      url: /v7.1/information/compatibilite-avec-le-cidoc-crm#convention-dappellation
+      hash: convention-dappellation
+    - page: Des expressions logiques utilisées dans le CIDOC CRM
+      url: /v7.1/information/compatibilite-avec-le-cidoc-crm#des-expressions-logiques-utilisees-dans-le-cidoc-crm
+      hash: des-expressions-logiques-utilisees-dans-le-cidoc-crm
 
 - title: CLASSES
   group: classes

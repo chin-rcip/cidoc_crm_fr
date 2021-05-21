@@ -44,6 +44,20 @@
                             <a id="{% if subentry.hash %}toc-{{ subentry.hash }}{% endif %}" href="{% if subentry.url %}/cidoc_crm_fr-ca{{ subentry.url }}{% else %}javascript:void(0){% endif %}" onclick="active(this)">{{ subentry.page }}
                               <span class="tooltip">{{ subentry.page }}</span>
                             </a>
+
+                            {% if subentry.sub-subsubfolder[0] %}
+                              <ul class="sub-subsublist{% unless item.group %} indent{% endunless %}">
+                              {% for sub-subentry in subentry.sub-subsubfolder %}
+                                {% assign sub-subentry_url = "/cidoc_crm_fr-ca" | append: sub-subentry.url %}
+                                <li>
+                                  <a id="{% if sub-subentry.hash %}toc-{{ sub-subentry.hash }}{% endif %}" href="{% if sub-subentry.url %}{{ sub-subentry_url }}{% else %}javascript:void(0){% endif %}" onclick="active(this)">{{ sub-subentry.page }}
+                                    <span class="tooltip">{{ sub-subentry.page }}</span>
+                                  </a>
+                                  
+                                </li>
+                              {% endfor %}
+                              </ul>
+                            {% endif %}
                             
                           </li>
                         {% endfor %}

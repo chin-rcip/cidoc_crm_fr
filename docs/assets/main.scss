@@ -157,6 +157,9 @@ li a.active {
     padding-left: 40px;
 }
 
+.sub-subsublist>li>a {
+    padding-left: 40px
+}
 .sidebar {
     border-right-style: solid;
     border-right-width: 2px;

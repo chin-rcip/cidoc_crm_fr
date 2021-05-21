@@ -56,6 +56,19 @@ v71:
     - page: De l’héritage et de la transitivité
       url: /v7.1/information/principes-de-modelisation#de-lheritage-et-de-la-transitivite
       hash: de-lheritage-et-de-la-transitivite
+  - page: Application formelle
+    url: /v7.1/information/application-formelle
+    subsubfolder:
+    - page: Des hiérarchies de classes et de propriétés
+      url: /v7.1/information/application-formelle#hierarchies-de-classes-et-de-proprietes
+      hash: hierarchies-de-classes-et-de-proprietes
+      sub-subsubfolder:
+      - page: Classes
+        url: /v7.1/information/application-formelle#hierarchies-de-classes
+        hash: hierarchies-de-classes
+      - page: Propriétés
+        url: /v7.1/information/application-formelle#hierarchies-de-proprietes
+        hash: hierarchies-de-proprietes
 
 - title: CLASSES
   group: classes

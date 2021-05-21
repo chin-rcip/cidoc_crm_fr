@@ -29,6 +29,33 @@ v71:
     - page: Des expressions logiques utilisées dans le CIDOC CRM
       url: /v7.1/information/compatibilite-avec-le-cidoc-crm#des-expressions-logiques-utilisees-dans-le-cidoc-crm
       hash: des-expressions-logiques-utilisees-dans-le-cidoc-crm
+  - page: Principes de modélisation
+    url: /v7.1/information/principes-de-modelisation
+    subsubfolder:
+    - page: De la réalité, des bases de connaissance et du CIDOC CRM
+      url: /v7.1/information/principes-de-modelisation#de-la-realite-des-bases-de-connaissance-et-du-cidoc-crm
+      hash: de-la-realite-des-bases-de-connaissance-et-du-cidoc-crm
+    - page: De l’auctorialité des contenus d’une base de connaissance
+      url: /v7.1/information/principes-de-modelisation#de-lauctorialite-des-contenus-dune-base-de-connaissances
+      hash: de-lauctorialite-des-contenus-dune-base-de-connaissances
+    - page: Des extensions de CIDOC CRM
+      url: /v7.1/information/principes-de-modelisation#des-extensions-de-cidoc-crm
+      hash: des-extensions-de-cidoc-crm
+    - page: De la minimalité
+      url: /v7.1/information/principes-de-modelisation#de-la-minimalite
+      hash: de-la-minimalite
+    - page: Des raccourcis 
+      url: /v7.1/information/principes-de-modelisation#des-raccourcis
+      hash: des-raccourcis
+    - page: De la monotonicité
+      url: /v7.1/information/principes-de-modelisation#de-la-monotonicite
+      hash: de-la-monotonicite
+    - page: De la disjonction
+      url: /v7.1/information/principes-de-modelisation#de-la-disjonction
+      hash: de-la-disjonction
+    - page: De l’héritage et de la transitivité
+      url: /v7.1/information/principes-de-modelisation#de-lheritage-et-de-la-transitivite
+      hash: de-lheritage-et-de-la-transitivite
 
 - title: CLASSES
   group: classes

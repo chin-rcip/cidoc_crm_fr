@@ -21,7 +21,7 @@ group: info
 <tr>
 <td class="en"><p>The CIDOC CRM is an ontology in the sense used in computer science. It has been expressed as an object-oriented semantic model, in the hope that this formulation will be comprehensible to both documentation experts and information scientists alike, while at the same time being readily converted to machine-readable formats such as RDF Schema or OWL. It can be implemented in Relational or Object-Oriented schema. CIDOC CRM instances can also be encoded in RDF, JSON LD, XML, OWL among and others</p>
 <p>Although the definition of the CIDOC CRM provided here is complete, it is an intentionally compact and concise presentation of the CIDOC CRM’s 81 classes and 160 unique properties. It does not attempt to articulate the inheritance of properties by subclasses throughout the class hierarchy (this would require the declaration of several thousand properties, as opposed to 160). However, this definition does contain all of the information necessary to infer and automatically generate a full declaration of all properties, including inherited properties.</p></td>
-<td><p>Le CIDOC CRM est une ontologie (dans le sens informatique du terme) prenant la forme d’un modèle sémantique orienté-objet destiné à la conversion vers des formats lisibles par des machines (p. ex. <a href="https://www.w3.org/RDF/">RDF</a> Schema, <a href="https://www.w3.org/OWL/">OWL</a>), mais formulé afin d’être compris tant par les informaticiens que par les experts de la documentation. Son implémentation peut être faite sous forme de schémas relationnels ou orientés-objets et les instances de CIDOC CRM peuvent notamment être encodées en RDF, <a href="https://json-ld.org/">JSON-LD</a>, <a href="https://www.w3.org/XML/">XML</a> ou OWL.</p>
+<td><p>Le CIDOC CRM est une ontologie (dans le sens informatique du terme) prenant la forme d’un modèle sémantique orienté-objet destiné à la conversion vers des formats lisibles par des machines (p. ex. <a href="https://www.w3.org/RDF/"><strong>RDF</strong></a> Schema, <a href="https://www.w3.org/OWL/"><strong>OWL</strong></a>), mais formulé afin d’être compris tant par les informaticiens que par les experts de la documentation. Son implémentation peut être faite sous forme de schémas relationnels ou orientés-objets et les instances de CIDOC CRM peuvent notamment être encodées en RDF, <a href="https://json-ld.org/"><strong>JSON-LD</strong></a>, <a href="https://www.w3.org/XML/"><strong>XML</strong></a> ou OWL.</p>
 <p>La définition ci-présentée du CIDOC CRM est complète, bien qu’elle demeure une présentation intentionnellement concise et succincte de ses 81 classes et 160 propriétés uniques. Celle-ci n’a donc pas pour objectif de décliner l’héritage des propriétés par sous-classes à travers la hiérarchie des classes (ce qui exigerait la déclaration de plusieurs milliers de propriétés plutôt que de 160). Par contre, cette définition contient toute l’information nécessaire à l’inférence et à la génération automatique d’une déclaration complète des propriétés, ce qui inclut les propriétés héritées.</p></td>
 </tr>
 </tbody>
@@ -93,14 +93,14 @@ group: info
 <p>Properties that appear in more than one position in the property hierarchy as a result of multiple inheritance are shown in an italic typeface.</p>
 </li>
 </ul></td>
-<td><p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations estUn indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie.</p>
+<td><p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations <code class="language-plaintext highlighter-rouge">estUn</code> indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie.</p>
 <p>La hiérarchie de classes présentée ci-bas reprend la forme suivante :</p>
 <ul>
 <li>
 <p>Chaque ligne commence avec un identifiant de classe unique composé d’un nombre précédé de la lettre « E » (qui signalait autrefois une « entité”, bien que le terme « classe » soit maintenant préféré).</p>
 </li>
 <li>
-<p>Une série de traits d’union (« - ») suit cet identifiant de classe unique et indique la position de la classe dans la hiérarchie estUn.</p>
+<p>Une série de traits d’union (« - ») suit cet identifiant de classe unique et indique la position de la classe dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>.</p>
 </li>
 <li>
 <p>Le nom de la classe se trouve à droite des traits d’union.</p>
@@ -118,7 +118,7 @@ group: info
 <p>Chaque ligne commence avec un identifiant de propriété unique composé d’un nombre précédé de la lettre « P » (pour « propriété »).</p>
 </li>
 <li>
-<p>Une série de traits d’union (« - ») suit cet identifiant de propriété unique et indique la position de la propriété dans la hiérarchie estUn.</p>
+<p>Une série de traits d’union (« - ») suit cet identifiant de propriété unique et indique la position de la propriété dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>.</p>
 </li>
 <li>
 <p>Le nom de la propriété se trouve à droite des traits d’union, suivi par le nom de la propriété inverse entre parenthèses (à des fins de lecture depuis la portée vers le domaine).</p>

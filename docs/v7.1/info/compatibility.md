@@ -17,6 +17,9 @@ group: info
 </div>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>Users intending to take advantage of the semantic interoperability offered by the CIDOC CRM should ensure conformance with the relevant data structures. Conformance pertains either to data to be made accessible in an integrated environment or intended for transport to other environments. Any encoding of data in a formal language that preserves the relations of the classes, properties, and inheritance rules defined by this International Standard, is regarded as conformant.</p>
@@ -51,6 +54,9 @@ group: info
 <h2 id="quantificateurs-de-proprietes"><span class="en heading">Property Quantifiers - </span>Quantificateurs de propriétés</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>Quantifiers for properties are provided for the purpose of semantic clarification only, and should <strong>not</strong> be treated as implementation recommendations. The CIDOC CRM has been designed to accommodate alternative opinions and incomplete information, and therefore <strong>all</strong> properties should be implemented as optional and repeatable for their domain and range (“many to many (0,n:0,n)”). Therefore, the term “cardinality constraints” is avoided here, as it typically pertains to implementations.</p>
@@ -259,6 +265,9 @@ group: info
 
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The CIDOC CRM defines some dependencies between properties and the classes that are their domains or ranges. These can be one or both of the following:</p>
@@ -292,6 +301,9 @@ group: info
 <h2 id="convention-dappellation"><span class="en heading">Naming Conventions - </span>Convention d’appellation</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The following naming conventions have been applied throughout the CIDOC CRM:</p>
@@ -385,6 +397,9 @@ group: info
 <h2 id="des-expressions-logiques-utilisees-dans-le-cidoc-crm"><span class="en heading">About the logical expressions used in the CIDOC CRM - </span>Des expressions logiques utilisées dans le CIDOC CRM</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The present CIDOC CRM specifications are annotated with logical axioms, providing an additional formal expression of the CIDOC CRM ontology. This section briefly introduces the assumptions that are at the basis of the logical expression of the CIDOC CRM (for a fully detailed account of the logical expression of semantic data modelling, see (Reiter,1984)).</p>
@@ -557,6 +572,9 @@ group: info
 
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>For instance, the above sub-class link between E21 Person and E20 Biological Object can be formulated in first order logic as the axiom:</p>

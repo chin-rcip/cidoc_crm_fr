@@ -18,6 +18,9 @@ group: info
 
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>This document is the formal definition of the <strong>CIDOC Conceptual Reference Model (“CIDOC CRM”)</strong>, a formal ontology intended to facilitate the integration, mediation and interchange of heterogeneous cultural heritage information. The CIDOC CRM is the culmination of more than a decade of standards development work by the International Committee for Documentation (CIDOC) of the International Council of Museums (ICOM). Work on the CIDOC CRM itself began in 1996 under the auspices of the ICOM-CIDOC Documentation Standards Working Group. Since 2000, development of the CIDOC CRM has been officially delegated by ICOM-CIDOC to the CIDOC CRM Special Interest Group, which collaborates with the ISO working group ISO/TC46/SC4/WG9 to bring the CIDOC CRM to the form and status of an International Standard.</p>
@@ -44,6 +47,9 @@ group: info
 <h2 id="objectifs-du-cidoc-crm"><span class="en heading">Objectives of the CIDOC CRM - </span>Objectifs du CIDOC CRM</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The primary role of the CIDOC CRM is to enable information exchange and integration between heterogeneous sources of cultural heritage information. It aims at providing the semantic definitions and clarifications needed to transform disparate, localised information sources into a coherent global resource, be it within a larger institution, in intranets or on the Internet.</p>
@@ -115,6 +121,9 @@ group: info
 <h2 id="portee-du-cidoc-crm"><span class="en heading">Scope of the CIDOC CRM - </span>Portée du CIDOC CRM</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The overall scope of the CIDOC CRM can be summarised in simple terms as the curated knowledge of museums.</p>

@@ -17,6 +17,9 @@ group: info
 </div>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The following definitions of key terminology used in this document are provided both as an aid to readers unfamiliar with object-oriented modelling terminology, and to specify the precise usage of terms that are sometimes applied inconsistently across the object-oriented modelling community for the purpose of this document. Where applicable, the editors have tried to consistently use terminology that is compatible with that of the Resource Description Framework (RDF),<sup>3</sup> a recommendation of the World Wide Web Consortium. The editors have tried to find a language, which is comprehensible to the non-computer expert and precise enough for the computer expert so that both understand the intended meaning.</p>

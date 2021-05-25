@@ -17,6 +17,9 @@ group: info
 </div>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The following modelling principles have guided and informed the development of the CIDOC CRM.</p></td>
@@ -41,6 +44,9 @@ group: info
 <h2 id="de-la-realite-des-bases-de-connaissance-et-du-cidoc-crm"><span class="en heading">Reality, Knowledge Bases and CIDOC CRM - </span>De la réalité, des bases de connaissance et du CIDOC CRM</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The CIDOC CRM is a formal ontology in the sense introduced by (Guarino, 1998).<sup>4</sup> The present document is intended to embrace an audience not specialized in computer science and logic; therefore, it focuses on the informal semantics and on the pragmatics of the CIDOC CRM concepts, offering a detailed discussion of the main traits of the conceptualization underlying the CIDOC CRM through basic usage patterns.<sup>5</sup> The CIDOC CRM aims to assist sharing, connecting and integrating information from research about the past. In order to understand the function of a formal ontology of this kind, one needs to make the following distinctions:</p>
@@ -100,6 +106,9 @@ group: info
 <h2 id="de-lauctorialite-des-contenus-dune-base-de-connaissances"><span class="en heading">Authorship of Knowledge Base Contents - </span>De l’auctorialité des contenus d’une base de connaissances</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>This section describes a recommended good practice how to relate authority to knowledge base contents.</p>
@@ -134,6 +143,9 @@ group: info
 <h2 id="des-extensions-de-cidoc-crm"><span class="en heading">Extensions of CIDOC CRM - </span>Des extensions de CIDOC CRM</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>Since the intended scope of the CIDOC CRM is a subset of the “real” world and is therefore potentially infinite, the model has been designed to be extensible through the linkage of compatible external type hierarchies.</p>
@@ -255,6 +267,9 @@ group: info
 <h2 id="de-la-minimalite"><span class="en heading">Minimality - </span>De la minimalité</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>Although the scope of the CIDOC CRM is very broad, the model itself is constructed as economically as possible.</p>
@@ -319,6 +334,9 @@ group: info
 <h2 id="des-raccourcis"><span class="en heading">Shortcuts - </span>Des raccourcis</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>Some properties are declared as shortcuts of longer, more comprehensively articulated paths that connect the same domain and range classes as the shortcut property via one or more intermediate classes. For example, the property E18 Physical Thing<em>. P52 has current owner (is current owner of)</em>: E39 Actor, is a shortcut for a fully articulated path from E18 Physical Thing through E8 Acquisition to E39 Actor. An instance of the fully-articulated path always implies an instance of the shortcut property. However, the inverse may not be true; an instance of the fully-articulated path cannot always be inferred from an instance of the shortcut property inside the frame of the actual KB</p>
@@ -344,6 +362,9 @@ group: info
 <h2 id="de-la-monotonicite"><span class="en heading">Monotonicity - </span>De la monotonicité</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The CIDOC CRM’s primary function is to support the meaningful integration of information in an Open World. The adoption of the Open World principle means that the CIDOC CRM itself must remain fundamentally open and knowledge bases implemented using it should be flexible enough to receive new insights. At the model level, new classes and properties within the CIDOC CRM’s scope may be found in the course of integrating more documentation records or when new kinds of relevant facts come to the attention of its maintainers. At the level of the KBs, the need to add or revise information may arise due to numerous external factors. Research may open new questions; documentation may be directed to new or different phenomena; natural or social evolution may reveal new objects of study.</p>
@@ -366,7 +387,7 @@ group: info
 <p>Les responsables du CIDOC CRM ont pour objectif de respecter les tenants de l’hypothèse du monde ouvert, en particulier le principe de la monotonicité qui exige que l’ajout de nouvelles classes et/ou propriétés (au modèle) ou de nouveaux énoncés (à la base de connaissances) n’invalident pas les structures et énoncés pré-existants [n.d.t. voir <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#raisonnement-monotone"><strong>Raisonnement monotone</strong></a> dans la section <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie"><strong>Terminologie</strong></a>].</p>
 <p>La <strong>première conséquence</strong> de ce choix est que le CIDOC CRM tente d’être monotone au sens de la théorie des domaines : les construits du CIDOC CRM et les déductions qui peuvent en découler doivent donc demeurer formellement et conceptuellement valides malgré l’ajout de construits issus d’extensions du CIDOC CRM, de sorte que toute extension doit être rétro-compatible avec les modèles qui la précèdent. La seule exception à cette règle serait une situation où un construit est considéré objectivement incorrect par les experts du domaine dont ce construit émane et qu’il soit en conséquence soumis à une révision corrective. L’adoption du principe de monotonicité a des conséquence notables sur la manière dont les classes et propriétés sont conceptualisées et déclarées dans le CIDOC CRM, car cela interdit la déclaration de classes complémentaires (c.-à-d. des classes définies uniquement par l’exclusion d’<a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#instance"><strong>instances</strong></a> d’autres classes).</p>
 <p>Par exemple :</p>
-<p>FRBRoo (Bekiari et al (eds). 2015), qui extensionne le CIDOC CRM, a dans sa version 2.4 une classe F51_Activité_d’utilisation_de_nom déclarée sous-classe de <code class="language-plaintext highlighter-rouge">E7_Activité</code>. F51_Activité_d’utilisation_de_nom a pour fonction de décrire un phénomène bibliothéconomique spécifique qui n’est pas couvert par le CIDOC CRM, mais qui recense le fait qu’un <code class="language-plaintext highlighter-rouge">E74_Groupe</code> adopte et fasse l’usage d’un nom particulier dans le contexte d’un intervalle temporel. La création de cette extension est monotone dans la mesure où (1) aucune relation <code class="language-plaintext highlighter-rouge">estUn</code> ou règle d’<a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#heritage"><strong>héritage</strong></a> s’appliquant aux propriétés du CRMbase n’est compromise et où (2) la création de futures extensions n’est pas inhibée par cette création. Au contraire, si pour gérer cette situation une <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#sous-classe"><strong>sous-classe</strong></a> « Autre Activité » avait été déclarée, un changement non monotone aurait été introduit dans le CRMbase, car la <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#note-dapplication"><strong>note d’application</strong></a> d’une telle classe complémentaire aurait proscrit la déclaration d’autres spécialisations de <code class="language-plaintext highlighter-rouge">E7_Activité</code> comme « Activité d’utilisation de nom”. Dans l’éventualité où il serait nécessaire de déclarer des sous-classes spécialisées, une révision non monotone devrait être effectuée, car il ne serait pas possible de déterminer quelles instances relèvent de la nouvelle classe spécialisée et lesquelles n’en relèvent pas (un changement et une révision qui sont extrêmement exigeants du point de vue des utilisateurs et qui compromettent sérieusement la rétro-compatibilité et l’intégration du système à long-terme).</p>
+<p>FRBRoo (Bekiari et al (eds). 2015), qui extensionne le CIDOC CRM, a dans sa version 2.4 une classe <code class="language-plaintext highlighter-rouge">F51_Activité_d’utilisation_de_nom</code> déclarée sous-classe de <code class="language-plaintext highlighter-rouge">E7_Activité</code>. <code class="language-plaintext highlighter-rouge">F51_Activité_d’utilisation_de_nom</code> a pour fonction de décrire un phénomène bibliothéconomique spécifique qui n’est pas couvert par le CIDOC CRM, mais qui recense le fait qu’un <code class="language-plaintext highlighter-rouge">E74_Groupe</code> adopte et fasse l’usage d’un nom particulier dans le contexte d’un intervalle temporel. La création de cette extension est monotone dans la mesure où (1) aucune relation <code class="language-plaintext highlighter-rouge">estUn</code> ou règle d’<a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#heritage"><strong>héritage</strong></a> s’appliquant aux propriétés du CRMbase n’est compromise et où (2) la création de futures extensions n’est pas inhibée par cette création. Au contraire, si pour gérer cette situation une <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#sous-classe"><strong>sous-classe</strong></a> « Autre Activité » avait été déclarée, un changement non monotone aurait été introduit dans le CRMbase, car la <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#note-dapplication"><strong>note d’application</strong></a> d’une telle classe complémentaire aurait proscrit la déclaration d’autres spécialisations de <code class="language-plaintext highlighter-rouge">E7_Activité</code> comme « Activité d’utilisation de nom”. Dans l’éventualité où il serait nécessaire de déclarer des sous-classes spécialisées, une révision non monotone devrait être effectuée, car il ne serait pas possible de déterminer quelles instances relèvent de la nouvelle classe spécialisée et lesquelles n’en relèvent pas (un changement et une révision qui sont extrêmement exigeants du point de vue des utilisateurs et qui compromettent sérieusement la rétro-compatibilité et l’intégration du système à long-terme).</p>
 <p>La <strong>seconde conséquence</strong> de ce choix [n.d.t.méthodologique d’adopter l’hypothèse du monde ouvert] est qu’il est nécessaire de maintenir la monotonicité même lors de la révision ou de l’ajout de données dans des systèmes compatibles avec le CIDOC CRM. En d’autres termes, les instances des classes du CIDOC CRM, leurs propriétés et les déductions qui en découlent doivent demeurer formellement et conceptuellement valides, et ce même lorsque de nouvelles instances considérées par les experts d’un domaine précis considèrent qu’elles s’insèrent de manière cohérent dans l’ensemble du système.</p>
 <p>Par exemple :</p>
 <p>Si quelqu’un indique correctement qu’un élément est une instance de <code class="language-plaintext highlighter-rouge">E19_Objet_matériel</code> et que ce même élément est subséquemment qualifié de <code class="language-plaintext highlighter-rouge">E20_Objet_biologique</code>, le système ne devrait pas cesser de traiter cet élément comme une instance de <code class="language-plaintext highlighter-rouge">E19_Objet_matériel</code>, car <code class="language-plaintext highlighter-rouge">E20_Objet_biologique</code> est une sous-classe de <code class="language-plaintext highlighter-rouge">E19_Objet_matériel</code>.</p>
@@ -401,6 +422,9 @@ group: info
 <h2 id="de-la-disjonction"><span class="en heading">Disjointness - </span>De la disjonction</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>Classes are disjoint if they cannot share any common instances at any time, past, present or future. That implies that it is not possible to instantiate an item using a combination of classes that are mutually disjoint or with subclasses of them (see “multiple instantiation” in section “Terminology”). There are many examples of disjoint classes in the CIDOC CRM.</p>
@@ -442,6 +466,9 @@ group: info
 <h2 id="de-lheritage-et-de-la-transitivite"><span class="en heading">Inheritance and Transitivity - </span>De l’héritage et de la transitivité</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>CIDOC CRM is formulated as a class system with inheritance. A property P with domain A and range B will also be a property between any possible subclasses of A and of B. In many cases there will be a common subclass C of both A and B. In these cases, when the property is restricted to C, that is, with C as domain and range, the restricted property could be transitive. For instance, an E73 Information Object can be incorporated into an E90 Symbolic Object and thus an information object can be incorporated in another information object.</p>

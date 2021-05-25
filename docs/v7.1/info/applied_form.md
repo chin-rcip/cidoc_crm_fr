@@ -17,6 +17,9 @@ group: info
 </div>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>The CIDOC CRM is an ontology in the sense used in computer science. It has been expressed as an object-oriented semantic model, in the hope that this formulation will be comprehensible to both documentation experts and information scientists alike, while at the same time being readily converted to machine-readable formats such as RDF Schema or OWL. It can be implemented in Relational or Object-Oriented schema. CIDOC CRM instances can also be encoded in RDF, JSON LD, XML, OWL among and others</p>
@@ -46,6 +49,9 @@ group: info
 <h2 id="hierarchies-de-classes-et-de-proprietes"><span class="en heading">Class & Property Hierarchies - </span>Hiérarchies de classes et de propriétés</h2>
 
 <table class="text">
+<colgroup>
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr>
 <td class="en"><p>Although they do not provide comprehensive definitions, compact mono-hierarchical presentations of the class and property IsA hierarchies have been found to significantly aid comprehension and navigation of the CIDOC CRM. Since the CRM is poly-hierarchical, a mono-hierarchical presentation form is achieved by a top-down expansion of all inverse IsA relations regardless whether a concept has already be presented at another place in the same hierarchy. This form is provided below.</p>

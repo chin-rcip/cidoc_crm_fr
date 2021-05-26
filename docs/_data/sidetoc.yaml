@@ -73,6 +73,25 @@ v71:
     url: /v7.1/information/declaration-des-classes-du-cidoc-crm
   - page: Déclaration des propriétés du CIDOC CRM
     url: /v7.1/information/declaration-des-proprietes-du-cidoc-crm
+  - page: Annexe
+    url: /v7.1/information/annexe
+    subsubfolder:
+    - page: Classes et propriétés dépréciée
+      url: /v7.1/information/annexe#classes-et-proprietes-depreciees
+      hash: classes-et-proprietes-depreciees
+      sub-subsubfolder:
+      - page: Instructions de migration des classes dépréciée
+        url: /v7.1/information/annexe#instructions-de-migration-des-classes-depreciees
+        hash: instructions-de-migration-des-classes-depreciees
+      - page: Instructions de migration pour E81_Transformation (domain d’application restreint)
+        url: /v7.1/information/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint
+        hash: instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint
+      - page: Instructions de migration des propriétés dépréciée
+        url: /v7.1/information/annexe#instructions-de-migration-des-proprietes-depreciees
+        hash: instructions-de-migration-des-proprietes-depreciees
+    - page: Modifications 
+      url: /v7.1/information/annexe#modifications
+      hash: modifications
 
 - title: CLASSES
   group: classes

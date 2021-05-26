@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
 header_pages:
   - v7.1/info/intro.md
+  - ressources/index.md
   - ressources/mandat.md
   - ressources/method.md
   - ressources/participation.md

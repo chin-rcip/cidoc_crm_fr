@@ -260,3 +260,16 @@ participation:
 - title: Join the translation effort
   url: /ressources/participation#join-the-translation-effort
   hash: join-the-translation-effort
+
+
+index:
+
+- title: Notes méthodologiques
+  url: /ressources/index#notes-methodologiques
+  hash: notes-methodologiques
+- title: Methodological Notes
+  url: /ressources/index#methodological-notes
+  hash: methodological-notes
+- title: CIDOC CRM - EN/FR
+  url: /ressources/index#cidoc-crm---enfr
+  hash: cidoc-crm---enfr

@@ -189,11 +189,11 @@ group: info
 <tbody>
 <tr>
 <th><em>Note traducteur</em></th>
-<td><span class="empty-cell">Invisible placeholder content for empty cells to control teh width of the heading colums.<span></td>
+<td><span class="empty-cell">Invisible placeholder content for empty cells to control teh width of the heading colums.</span></td>
 </tr>
 <tr>
 <th><em>Références</em></th>
-<td><span class="empty-cell">Invisible placeholder content for empty cells to control teh width of the heading colums.<span></td>
+<td><span class="empty-cell">Invisible placeholder content for empty cells to control teh width of the heading colums.</span></td>
 </tr>
 </tbody>
 </table>

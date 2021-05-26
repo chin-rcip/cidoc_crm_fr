@@ -154,6 +154,16 @@ group: info
 
 <h3 id="hierarchies-de-classes"><span class="en heading">Classes - </span>Classes</h3>
 
+> *Avertissement : Cette traduction en français du CIDOC CRM est actuellement en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*
+
+<blockquote class="en block">
+	<p>
+		<em>Disclaimer: This French Translation of the CIDOC CRM is currently in progress.<br><br>
+The documentation hereby accessible is a work in progress. As such, although it is publically released, it does not constitute an official publication and changes are made on an ongoing basis. Therefore, it is preferable to wait for an official publication of the entire content of CIDOC CRM before implementing this translation.
+</em>
+	</p>
+</blockquote>
+
 |**<span class="en">Class id - </span>Identifiant unique de classe**|||||||||||
 |E1|<span class="en">CRM Entity </span>`E1_Entité_CRM`||||||||||
 |E2|-|<span class="en">Temporal Entity </span>`E2_Entité_temporelle`|||||||||
@@ -317,6 +327,16 @@ group: info
 
 
 <h3 id="hierarchies-de-proprietes"><span class="en heading">Properties - </span>Propriétés</h3>
+
+> *Avertissement : Cette traduction en français du CIDOC CRM est actuellement en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*
+
+<blockquote class="en block">
+	<p>
+		<em>Disclaimer: This French Translation of the CIDOC CRM is currently in progress.<br><br>
+The documentation hereby accessible is a work in progress. As such, although it is publically released, it does not constitute an official publication and changes are made on an ongoing basis. Therefore, it is preferable to wait for an official publication of the entire content of CIDOC CRM before implementing this translation.
+</em>
+	</p>
+</blockquote>
 
 |**<span class="en">Property id - </span> Identifiant unique de propriété**|**<span class="en">Property Name - </span> Nom de la propriété**||||||**<span class="en">Entity Domain - </span> Domaine**|**<span class="en">Entity Range - </span> Portée**|
 |P1|<span class="en">is identified by (identifies) </span>`P1_est_identifié_par (identifie)`||||||<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|<span class="en">E41 Appellation </span>`E41_Appellation`|

@@ -384,7 +384,9 @@ header .wrapper {
     display: inline;
 }
 
-
+.en.block.show {
+    display: block;
+}
 /*--- style when changing windown size ---*/
 
 @media screen and (max-width: 800px) {

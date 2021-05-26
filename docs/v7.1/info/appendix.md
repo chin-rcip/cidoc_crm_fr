@@ -1,10 +1,9 @@
 ---
 layout: page
 title:  Annexe
-titleEn: Appendix  Annexe
-permalink: /v7.1/information/annexe
+titleEn: Appendix - Annexe
+permalink: /v7.1/annexe
 sidebar: v71
-group: info
 ---
 
 **Date de création** : 2020-20-10

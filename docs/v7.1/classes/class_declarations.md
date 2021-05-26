@@ -2,9 +2,9 @@
 layout: page
 title:  Déclaration des classes du CIDOC CRM
 titleEn: CIDOC CRM Class Declarations - Déclaration des classes du CIDOC CRM
-permalink: /v7.1/information/declaration-des-classes-du-cidoc-crm
+permalink: /v7.1/classes/declaration-des-classes-du-cidoc-crm
 sidebar: v71
-group: info
+group: classes
 ---
 
 **Date de création** : 2020-20-10

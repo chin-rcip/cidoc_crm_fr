@@ -2,9 +2,9 @@
 layout: page
 title:  Déclaration des propriétés du CIDOC CRM
 titleEn: CIDOC CRM Property Declarations - Déclaration des propriétés du CIDOC CRM
-permalink: /v7.1/information/declaration-des-proprietes-du-cidoc-crm
+permalink: /v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm
 sidebar: v71
-group: info
+group: proprietes
 ---
 
 **Date de création** : 2020-20-10

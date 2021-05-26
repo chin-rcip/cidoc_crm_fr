@@ -6,6 +6,8 @@ sidebar: methodologie
 tab: ressources
 ---
 
+[*L'anglais suit*](#methodology)
+
 **Version** : 1.0
 
 **Date de création** : 2021-04-28
@@ -126,6 +128,134 @@ Lorsqu’un élément de traduction fait l’objet d’une incertitude, il est d
 
 Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veuillez consulter la section [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement).
 
-## Contact
+## Contact {#contact-fr}
 
 Si vous désirez obtenir une copie des gabarits et des protocoles utilisés afin d’entamer une traduction du CIDOC CRM, ou pour toute autre question à cet égard, veuillez nous contacter au [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) en indiquant « Traduction du CIDOC CRM » dans l’objet du courriel.
+
+---
+
+<h1 class="post-title" id="methodology">Methodology</h1>
+
+**Version**: 1.0
+
+**Created date**: 2021-04-28
+
+**Last updated**: 2021-05-06
+
+**Summary**: Summary of the methodological and theoretical approach of this translation of CIDOC CRM.
+
+## Content suitable for translation
+
+The Working Group for the Translation of the CIDOC CRM has a mandate to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly and freely accessible. To that effect, the following elements of version 7.1 are currently being translated:
+
+  - *Introduction*
+
+  - *Objectives of the CIDOC CRM*
+
+  - *Terminology*
+
+  - *Compatibility with the CIDOC CRM*
+
+  - *Modelling Principles*
+
+  - *Introduction to the Basic Concepts*
+
+  - *Applied Form*
+
+  - *Class & Property Hierarchies*
+
+  - *CIDOC CRM Class Declarations*
+
+  - *CIDOC CRM Property Declarations*
+
+  - *Appendix*
+
+This is equivalent to the “data” content of the CIDOC CRM, but excludes the bibliographic references.
+
+In order to maintain consistency of content, no updates will be made to current versions during the initial translation. Once all the content has been translated, the Working Group’s objective will be to maintain an up-to-date French version by comparing the relevant English versions and revising the related content. 
+
+## Translation methodology
+
+The purpose of this translation initiative is to combine precision and thoroughness in drafting the French version of the CIDOC CRM. In this regard, the terms and expressions chosen have been extensively researched and discussed and, where relevant, recorded in the translation notes sections of each table. These choices are therefore not arbitrary and are based first and foremost on the principles outlined below. 
+
+### Translation principles
+
+The Translation Group is basing its translation approach on the following four principles:
+
+1.  Meaning
+
+2.  Accuracy
+
+3.  Simplicity
+
+4.  Inclusivity
+
+#### Meaning
+
+The Translation Group’s priority is to render the meaning of the source text, and not to reproduce its literal equivalent in French. This means, for example, using different styles or rearranging certain parts of a sentence or paragraph.
+
+Some style elements or words may also be added to make it easier to understand the subject or to better convey the intended meaning of the source text. This is the case, for instance, for:
+
+  - examples that, where appropriate in the introductory explanations, are indented;
+
+  - entities that are set apart by special formatting in the translation;
+
+  - references to the CIDOC CRM that are general in English, but specified in French to distinguish the base model (CRMbase) from the model including its extensions (CIDOC CRM), where appropriate in the sections of the introduction pertaining to this distinction.
+
+These clarifications are stipulated in the Translation Group’s Style Guide.
+
+#### Accuracy 
+
+This principle goes hand in hand with the precision of the text, which relies on two main elements: selecting the most appropriate terms consistently and adding explanatory notes within the text when necessary.
+
+It is not uncommon for a term to be translated in more than one way, or to be used in more than one context with a particular meaning in each one. These details are mostly documented in the Style Guide shared by the translators, which is used to ensure that terms are used consistently and uniformly throughout the text.
+
+When it appears appropriate to indicate that a term or expression has been chosen for specific reasons (e.g., an extensive search has been done to distinguish one use from another), a note to that effect is added in the relevant section at the bottom of the translation.
+
+In addition, since the main objective of this initiative is to provide a French version of the CIDOC CRM that heritage professionals can understand, clarifications are occasionally made in the text itself. These are indicated by the use of [n.d.t. *precision*] in order to distinguish them from the source wording. The Translation Group intends to raise some of these major issues of precision with the CRM SIG in order to improve the English version.
+
+In all cases, when a clarification is made, the Translation Group makes sure the added information does not contradict the meaning of the English source text. 
+
+#### Simplicity 
+
+Although additions are made to the text when deemed necessary, the Translation Group’s policy is to keep the wording as simple and brief as possible when naming entities (classes and properties).
+
+This means that more precise terms are favoured over more general terms that require the addition of qualifiers in order to properly convey the meaning of an entity. Similarly, the wording chosen for one entity is, where possible, repeated in the other entities (e.g. “human-made” is translated as *façonné* in all entities rather than sometimes being translated as *fabriqué* or *façonné*, even though this choice may sometimes seem counterintuitive).
+
+This is done to minimize the risk of errors and to maintain consistency of content. 
+
+#### Inclusivity
+
+Many terms are non-gendered in English, but are gendered in French (e.g. “curator” and *conservateur-rice*). The Translation Group favours inclusive writing as much as possible, and uses the midpoint in these cases.
+
+## Translation tools
+
+### Style guide 
+
+The Translation Group has developed a Style Guide containing its linguistic and style choices and preferences. The Guide will be made available in the future.
+
+### Templates and protocols
+
+The translations are done in Google Docs documents containing predefined tables with the English source text on the left and the French translation on the right.
+
+This makes it easy to compare the different source texts and to make the necessary changes when modifications are made to the English source content. The use of Google Docs also allows group members to work together on a widely used and reasonably intuitive platform.
+
+The translated content is then exported as a mardown file (.md) and published on Github under an open licence. 
+
+### Process 
+
+Entities are translated according to a predefined schedule, starting with the super-classes and their associated super-properties, then getting into more detail by gradually translating their associated sub-classes and sub-properties. All translations are reviewed by the Translation Group members, who discuss and approve them before they are shared. Still, some minor edits could still occur as translation goes along and new context might illuminate the meaning of a word or example.
+
+If there are questions about any part of the translation, they are discussed by the Translation Group and, if the members do not agree, a trio of senior revisers decides on the issue. They consider:
+
+  - concordance with the meaning of the English source text;
+
+  - consistency within the French translation;
+
+  - readability and reusability of content.
+
+For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement) section.
+
+## Contact {#contact-en}
+
+If you would like a copy of the templates and protocols used to begin translating the CIDOC CRM, or if you have any other questions about the translation of the CIDOC CRM, please contact us at [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) and put “CIDOC CRM Translation” in the subject line.

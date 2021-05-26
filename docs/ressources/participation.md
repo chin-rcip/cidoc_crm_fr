@@ -57,7 +57,7 @@ Si vous désirez poser votre candidature, veuillez nous transmettre au [pch.RCIP
 
 **Last updated**: 2021-05-06
 
-Summary: How to join the CIDOC CRM translation effort.
+**Summary**: How to join the CIDOC CRM translation effort.
 
 
 ## Report a translation issue

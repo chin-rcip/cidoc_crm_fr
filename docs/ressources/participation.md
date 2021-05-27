@@ -6,7 +6,7 @@ sidebar: participation
 tab: ressources
 ---
 
-[*L'anglais suit*](#participation-en)
+[*English follows*](#participation-en)
 
 **Version** : 1.0
 
@@ -86,6 +86,6 @@ The Group evaluates all membership requests using the following criteria:
 
   - ability to spend about five hours each month on Translation Group activities and to offer constructive feedback.
 
-For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement) section.
+For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement) section (available only in French).
 
 If you wish to apply, please send your current resumé to [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) along with a cover letter and a writing sample demonstrating your writing skills.

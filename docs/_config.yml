@@ -37,6 +37,7 @@ header_pages:
   - ressources/mandat.md
   - ressources/method.md
   - ressources/participation.md
+  - licence.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

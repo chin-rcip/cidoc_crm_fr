@@ -511,6 +511,6 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |P191|<span class="en">had duration (was duration of) </span>`P191_a_eu_pour_durée (était_la_durée_de)`||||||<span class="en">E52 Time-Span </span>`E52_Intervalle_temporel `|<span class="en">E54 Dimension </span>`E54_Dimension`|
 |P195|<span class="en">was a presence of (has presence) </span>`P195_a_été_une_présence_de (a_eu_pour_présence) `||||||<span class="en">E93 Presence </span>`E93_Présence`|<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|
 |P196|<span class="en">defines (is defined by) </span>`P196_définit (est_défini_par)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E92 Spacetime Volume </span>`E92_Volume_spatio-temporel`|
-|P197|<span class="en">covered parts of (was partially covered by) </span>||||||<span class="en">E93 Presence </span>`E93_Présence`|<span class="en">E53 Place </span>`E53_Lieu`|
-|P198|<span class="en">holds or supports (is held or supported by) </span>||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|
+|P197|<span class="en">covered parts of (was partially covered by) </span>`197_a_couvert_des_parties_de (a_été_partiellement_couvert_par)`||||||<span class="en">E93 Presence </span>`E93_Présence`|<span class="en">E53 Place </span>`E53_Lieu`|
+|P198|<span class="en">holds or supports (is held or supported by) </span>`P198_contient_ou_soutient (est_contenu_ou_soutenu_par)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|
 

@@ -1568,14 +1568,18 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="odd">
 <td>P197</td>
 <td>covered parts of (was partially covered by)</td>
-<td>a couvert des parts de (a été partiellement couvert par)</td>
-<td><code class="language-plaintext highlighter-rouge">P197_a_couvert_des_parts_de</code></td>
+<td>a couvert des parties de (a été partiellement couvert par)</td>
+<td><p><code class="language-plaintext highlighter-rouge">P197_a_couvert_des_parties_de</code> </p>
+<p>Ici le terme "parts" ne fait pas référence à des éléments (contrairement à P57 et P150), mais à une portion, ou partie, couverte.</p>
+</td>
 </tr>
 <tr class="even">
 <td>P198</td>
 <td>holds or supports (is held or supported by)</td>
-<td>détient ou soutient (est détenu ou soutenu par)</td>
-<td><code class="language-plaintext highlighter-rouge">P198_détient_ou_soutient</code></td>
+<td>contient ou soutient (est détenu ou soutenu par)</td>
+<td><p><code class="language-plaintext highlighter-rouge">P198_contient_ou_soutient</code> </p>
+<p>"Contient" est le terme le plus approprié car cette propriété s’applique à des objets qui renferment quelque chose</p>
+</td>
 </tr>
 <tr class="odd">
 <td>PC0</td>

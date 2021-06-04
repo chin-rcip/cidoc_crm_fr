@@ -24,7 +24,7 @@ Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place pa
 
 Date de création : 2020-10-20
 
-Dernière mise à jour : 2021-05-06
+Dernière mise à jour : 2021-06-03
 
 ## Éditeurs et Éditrices 
 

@@ -5,6 +5,7 @@ titleEn: CIDOC CRM Version 7.1
 permalink: /v7.1/information/introduction
 sidebar: v71
 group: info
+date: 2021-05-05
 ---
 
 **Date de création** : 2020-20-10

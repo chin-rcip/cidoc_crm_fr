@@ -4,6 +4,7 @@ title: Index
 permalink: /ressources/index
 sidebar: index
 tab: ressources
+date: 2021-06-03
 ---
 
 > *Avertissement : Cette traduction en français du CIDOC CRM est actuellement en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*

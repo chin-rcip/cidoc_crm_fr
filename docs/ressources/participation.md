@@ -4,6 +4,7 @@ title: Participation
 permalink: /ressources/participation
 sidebar: participation
 tab: ressources
+date: 2021-05-06
 ---
 
 [*English follows*](#participation-en)
@@ -12,7 +13,7 @@ tab: ressources
 
 **Date de création** : 2021-04-28
 
-**Dernière de mise à jour** : 2021-05-06
+**Dernière mise à jour** : 2021-05-06
 
 **Résumé** : Comment se joindre à l'effort de traduction du CIDOC CRM.
 

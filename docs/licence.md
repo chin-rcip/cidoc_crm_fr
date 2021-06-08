@@ -2,6 +2,7 @@
 layout: page
 title: Licence
 permalink: /licence
+date: 2021-06-03
 ---
 
 [English follows](#licence-en)

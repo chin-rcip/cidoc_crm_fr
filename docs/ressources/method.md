@@ -4,6 +4,7 @@ title: Méthodologie
 permalink: /ressources/methodologie
 sidebar: methodologie
 tab: ressources
+date: 2021-05-06
 ---
 
 [*English follows*](#methodology)
@@ -12,7 +13,7 @@ tab: ressources
 
 **Date de création** : 2021-04-28
 
-**Dernière de mise à jour** : 2021-05-06
+**Dernière mise à jour** : 2021-05-06
 
 **Résumé** : Résumé de l'approche méthodologique et théorique de cette traduction du CIDOC CRM.
 

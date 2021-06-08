@@ -5,6 +5,7 @@ titleEn: CIDOC CRM Class Declarations - Déclaration des classes du CIDOC CRM
 permalink: /v7.1/classes/declaration-des-classes-du-cidoc-crm
 sidebar: v71
 group: classes
+date: 2021-05-05
 ---
 
 **Date de création** : 2020-20-10

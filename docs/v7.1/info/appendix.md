@@ -4,6 +4,7 @@ title:  Annexe
 titleEn: Appendix - Annexe
 permalink: /v7.1/annexe
 sidebar: v71
+date: 2021-05-05
 ---
 
 **Date de création** : 2020-20-10

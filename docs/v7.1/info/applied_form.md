@@ -5,11 +5,12 @@ titleEn: Applied Form - Application formelle
 permalink: /v7.1/information/application-formelle
 sidebar: v71
 group: info
+date: 2021-06-03
 ---
 
 **Date de création** : 2020-20-10
 
-**Dernière mise à jour** : 2021-05-05
+**Dernière mise à jour** : 2021-06-03
 
 <div class="lang-buttons">
   <button id="fr" class="activate">FR</button>

@@ -5,6 +5,7 @@ titleEn: CIDOC CRM Property Declarations - Déclaration des propriétés du CIDO
 permalink: /v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm
 sidebar: v71
 group: proprietes
+date: 2021-05-05
 ---
 
 **Date de création** : 2020-20-10

@@ -4,6 +4,7 @@ title: Mandat & Fonctionnement
 permalink: /ressources/mandat-fonctionnement
 sidebar: mandat
 tab: ressources
+date: 2021-05-06
 ---
 
 

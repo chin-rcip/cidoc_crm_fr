@@ -5,6 +5,7 @@ titleEn: Modelling principles - Principes de modélisation
 permalink: /v7.1/information/principes-de-modelisation
 sidebar: v71
 group: info
+date: 2021-05-05
 ---
 
 **Date de création** : 2020-20-10

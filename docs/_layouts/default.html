@@ -18,6 +18,7 @@
           </h3>
           <ul class="mainlist{% if item.group %} toggle-sidebar{% endif %}">
             {% for item in site.data.sidetoc[page.sidebar] %}
+              {% assign item_url = item.url | split: "#" %}
               <li>
                 <a {% if item.hash %}id="toc-{{ item.hash }}"{% endif %} href="{% if item.url %}/cidoc_crm_fr-ca{{ item.url }}{% else %}javascript:void(0){% endif %}" class="{% if item.group %}toggle-sidebar-list {% if item.group == page.group%}open{% endif %}{% endif %}">{{ item.title }}
                   {% if item.group %}
@@ -27,7 +28,7 @@
                 </a>
                 
                 {% if item.subfolder[0] %}
-                  <ul class="sublist{% unless item.group %} indent{% endunless %}" style="{% if item.group != page.group %}display:none{% endif %}">
+                  <ul class="sublist{% unless item.group %} indent{% endunless %}" style="{% if item.group %}{% if item.group != page.group %}display:none{% endif %}{% else %}{% if item_url[0] != page.url %}display:none{% endif %}{% endif %}">
                   {% for entry in item.subfolder %}
                     {% assign entry_url = "/cidoc_crm_fr-ca" | append: entry.url %}
                     {% assign entry_url_split = entry.url | split: "#" %}

@@ -830,7 +830,7 @@ date: 2021-06-17
 </tr>
 <tr>
 <td class="en">Psimenos, S. 2005. <em>Unexplored Peloponnese</em>. Greece: Road Editions.</td>
-<td>Psimenos, S. 2005. <em>Unexplored Peloponnese</em>. GR or Grèce : Road Editions.</td>
+<td>Psimenos, S. 2005. <em>Unexplored Peloponnese</em>. GR : Road Editions.</td>
 </tr>
 <tr>
 <td class="en">Queen, Ellery. 1964. <em>Ellery Queen’s Book of Mystery Stories: Stories by World-Famous Authors</em>. London: Pan Books.</td>

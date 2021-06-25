@@ -37,16 +37,16 @@ date: 2021-06-17
 <td>Alighieri, D. 1956. <em>La Divina Commedia: Inferno</em>. New York : Folways Records.</td>
 </tr>
 <tr>
-<td class="en">Allen, James F. 1983. “Maintaining Knowledge about Temporal Intervals.” Communications of the ACM 26 (11): 832–43. [https://doi.org/10.1145/182.358434.](https://doi.org/10.1145/182.358434)</td>
-<td>Allen, James F. 1983. « Maintaining knowledge about temporal intervals ». Communications of the ACM 26 (11) : 832‑43. [https://doi.org/10.1145/182.358434.](https://doi.org/10.1145/182.358434)</td>
+<td class="en">Allen, James F. 1983. “Maintaining Knowledge about Temporal Intervals.” Communications of the ACM 26 (11): 832–43. <a href="https://doi.org/10.1145/182.358434.">https://doi.org/10.1145/182.358434</a></td>
+<td>Allen, James F. 1983. « Maintaining knowledge about temporal intervals ». Communications of the ACM 26 (11) : 832‑43. <a href="https://doi.org/10.1145/182.358434.">https://doi.org/10.1145/182.358434</a></td>
 </tr>
 <tr>
 <td class="en">Andrews, Ian, and Peter Kesteven. 1977. <em>Defeat in the forest</em>. London: Cambridge Press.</td>
 <td>Andrews, Ian, et Peter Kesteven. 1977. <em>Defeat in the forest</em>. London : Cambridge Press.</td>
 </tr>
 <tr>
-<td class="en">Atlas, Riva D. 2001. “ENRON’S COLLAPSE: THE OPTIONS; A Trend Toward Liquidation, Not Company Reorganization.” The New York Times, November 30, 2001, sec. Business. [https://www.nytimes.com/2001/11/30/business/enron-s-collapse-options-trend-toward-liquidation-not-company-reorganization.html.](https://www.nytimes.com/2001/11/30/business/enron-s-collapse-options-trend-toward-liquidation-not-company-reorganization.html)</td>
-<td>Atlas, Riva D. 2001. « ENRON’S COLLAPSE: THE OPTIONS; A Trend Toward Liquidation, Not Company Reorganization ». The New York Times, 30 novembre 2001, sect. Business. [https://www.nytimes.com/2001/11/30/business/enron-s-collapse-options-trend-toward-liquidation-not-company-reorganization.html.](https://www.nytimes.com/2001/11/30/business/enron-s-collapse-options-trend-toward-liquidation-not-company-reorganization.html)</td>
+<td class="en">Atlas, Riva D. 2001. “ENRON’S COLLAPSE: THE OPTIONS; A Trend Toward Liquidation, Not Company Reorganization.” The New York Times, November 30, 2001, sec. Business. <a href="https://www.nytimes.com/2001/11/30/business/enron-s-collapse-options-trend-toward-liquidation-not-company-reorganization.html.">https://www.nytimes.com/2001/11/30/business/enron-s-collapse-options-trend-toward-liquidation-not-company-reorganization.html</a></td>
+<td>Atlas, Riva D. 2001. « ENRON’S COLLAPSE: THE OPTIONS; A Trend Toward Liquidation, Not Company Reorganization ». The New York Times, 30 novembre 2001, sect. Business. <a href="https://www.nytimes.com/2001/11/30/business/enron-s-collapse-options-trend-toward-liquidation-not-company-reorganization.html.">https://www.nytimes.com/2001/11/30/business/enron-s-collapse-options-trend-toward-liquidation-not-company-reorganization.html</a></td>
 </tr>
 <tr>
 <td class="en">Ball, David W. 1962. <em>Maxwell’s Equations of Electrodynamics: An Explanation</em>. Washington: Spie Press.</td>
@@ -61,8 +61,8 @@ date: 2021-06-17
 <td>Barber, R. L. N, et R. L. N Barber. 1999. <em>Athens.</em> London : A. & C. Black.</td>
 </tr>
 <tr>
-<td class="en">Barnard, H., S. H. Ambrose, D. E. Beehr, M. D. Forster, R. E. Lanehart, M. E. Malainey, R. E. Parr, M. Rider, C. Solazzo, and R. M. Yohe. 2007. “Mixed Results of Seven Methods for Organic Residue Analysis Applied to One Vessel with the Residue of a Known Foodstuff.” Journal of Archaeological Science 34 (1): 28–37. [https://doi.org/10.1016/j.jas.2006.03.010.](https://doi.org/10.1016/j.jas.2006.03.010)</td>
-<td>Barnard, H., S. H. Ambrose, D. E. Beehr, M. D. Forster, R. E. Lanehart, M. E. Malainey, R. E. Parr, M. Rider, C. Solazzo, et R. M. Yohe. 2007. « Mixed results of seven methods for organic residue analysis applied to one vessel with the residue of a known foodstuff ». Journal of Archaeological Science 34 (1) : 28‑37. [https://doi.org/10.1016/j.jas.2006.03.010.](https://doi.org/10.1016/j.jas.2006.03.010)</td>
+<td class="en">Barnard, H., S. H. Ambrose, D. E. Beehr, M. D. Forster, R. E. Lanehart, M. E. Malainey, R. E. Parr, M. Rider, C. Solazzo, and R. M. Yohe. 2007. “Mixed Results of Seven Methods for Organic Residue Analysis Applied to One Vessel with the Residue of a Known Foodstuff.” Journal of Archaeological Science 34 (1): 28–37. <a href="https://doi.org/10.1016/j.jas.2006.03.010.">https://doi.org/10.1016/j.jas.2006.03.010</a></td>
+<td>Barnard, H., S. H. Ambrose, D. E. Beehr, M. D. Forster, R. E. Lanehart, M. E. Malainey, R. E. Parr, M. Rider, C. Solazzo, et R. M. Yohe. 2007. « Mixed results of seven methods for organic residue analysis applied to one vessel with the residue of a known foodstuff ». Journal of Archaeological Science 34 (1) : 28‑37. <a href="https://doi.org/10.1016/j.jas.2006.03.010.">https://doi.org/10.1016/j.jas.2006.03.010</a></td>
 </tr>
 <tr>
 <td class="en">Barton, Stephen Jonathan. 1992. <em>The Study of an Electrically Insulating Resin for Humid Environments.</em> Kingston University Press.</td>
@@ -73,20 +73,20 @@ date: 2021-06-17
 <td>Beckman, O. 1998. « Celsius, Linne and the Celsius Temperature Scale ». <em>Bulletin of the Scientific Instrument Society</em> 56 : 17‑23.</td>
 </tr>
 <tr>
-<td class="en">Bekiari, Chryssoula, Martin Doerr, Patrick Le Boeuf, and Pat Riva, eds. 2015. FRBR, Object-Oriented Definition and Mapping from FRBRER, FRAD and FRSAD. [http://www.cidoc-crm.org/frbroo/sites/default/files/FRBRoo_V2.4.pdf.](http://www.cidoc-crm.org/frbroo/sites/default/files/FRBRoo_V2.4.pdf)</td>
-<td>Bekiari, Chryssoula, Martin Doerr, Patrick Le Boeuf, et Pat Riva, dir. 2015. FRBR, object-oriented definition and mapping from FRBRER, FRAD and FRSAD. [http://www.cidoc-crm.org/frbroo/sites/default/files/FRBRoo_V2.4.pdf.](http://www.cidoc-crm.org/frbroo/sites/default/files/FRBRoo_V2.4.pdf)</td>
+<td class="en">Bekiari, Chryssoula, Martin Doerr, Patrick Le Boeuf, and Pat Riva, eds. 2015. FRBR, Object-Oriented Definition and Mapping from FRBRER, FRAD and FRSAD. <a href="http://www.cidoc-crm.org/frbroo/sites/default/files/FRBRoo_V2.4.pdf.">http://www.cidoc-crm.org/frbroo/sites/default/files/FRBRoo_V2.4.pdf</a></td>
+<td>Bekiari, Chryssoula, Martin Doerr, Patrick Le Boeuf, et Pat Riva, dir. 2015. FRBR, object-oriented definition and mapping from FRBRER, FRAD and FRSAD. <a href="http://www.cidoc-crm.org/frbroo/sites/default/files/FRBRoo_V2.4.pdf.">http://www.cidoc-crm.org/frbroo/sites/default/files/FRBRoo_V2.4.pdf</a></td>
 </tr>
 <tr>
-<td class="en">Benaki Museum. 2016. “Childhood, Toys and Games - Benaki Museum.” 2016. [https://www.benaki.org//index.php?option=com_collections&view=collection&id=45&Itemid=540&lang=en.](https://www.benaki.org/index.php?option=com_collections&view=collection&id=45&Itemid=540&lang=en)</td>
-<td>Benaki Museum. 2016. « Childhood, Toys and Games - Benaki Museum ». 2016. [https://www.benaki.org//index.php?option=com_collections&view=collection&id=45&Itemid=540&lang=en.](https://www.benaki.org/index.php?option=com_collections&view=collection&id=45&Itemid=540&lang=en)</td>
+<td class="en">Benaki Museum. 2016. “Childhood, Toys and Games - Benaki Museum.” 2016. <a href="https://www.benaki.org//index.php?option=com_collections&view=collection&id=45&Itemid=540&lang=en.">https://www.benaki.org/index.php?option=com_collections&view=collection&id=45&Itemid=540&lang=en</a></td>
+<td>Benaki Museum. 2016. « Childhood, Toys and Games - Benaki Museum ». 2016. <a href="https://www.benaki.org//index.php?option=com_collections&view=collection&id=45&Itemid=540&lang=en.">https://www.benaki.org/index.php?option=com_collections&view=collection&id=45&Itemid=540&lang=en</a></td>
 </tr>
 <tr>
-<td class="en">Berkoff, Steven. 2013. Sturm Und Drang. London: Bloomsbury. [http://dx.doi.org/10.5040/9780571291168.00000104.](http://dx.doi.org/10.5040/9780571291168.00000104)</td>
-<td>Berkoff, Steven. 2013. Sturm und Drang. London : Bloomsbury. [http://dx.doi.org/10.5040/9780571291168.00000104.](http://dx.doi.org/10.5040/9780571291168.00000104)</td>
+<td class="en">Berkoff, Steven. 2013. Sturm Und Drang. London: Bloomsbury. <a href="http://dx.doi.org/10.5040/9780571291168.00000104.">http://dx.doi.org/10.5040/9780571291168.00000104</a></td>
+<td>Berkoff, Steven. 2013. Sturm und Drang. London : Bloomsbury. <a href="http://dx.doi.org/10.5040/9780571291168.00000104.">http://dx.doi.org/10.5040/9780571291168.00000104</a></td>
 </tr>
 <tr>
-<td class="en">“Berlin Wall Built.” 2021. HISTORY. February 6, 2021. [https://www.history.com/this-day-in-history/berlin-wall-built.](https://www.history.com/this-day-in-history/berlin-wall-built)</td>
-<td>« Berlin Wall built ». 2021. HISTORY. 6 février 2021. [https://www.history.com/this-day-in-history/berlin-wall-built.](https://www.history.com/this-day-in-history/berlin-wall-built)</td>
+<td class="en">“Berlin Wall Built.” 2021. HISTORY. February 6, 2021. <a href="https://www.history.com/this-day-in-history/berlin-wall-built.">https://www.history.com/this-day-in-history/berlin-wall-built</a></td>
+<td>« Berlin Wall built ». 2021. HISTORY. 6 février 2021. <a href="https://www.history.com/this-day-in-history/berlin-wall-built.">https://www.history.com/this-day-in-history/berlin-wall-built</a></td>
 </tr>
 <tr>
 <td class="en">Bertaud, Jean-Paul. 2004. <em>La révolution française</em>. Paris: Perrin.</td>
@@ -197,8 +197,8 @@ date: 2021-06-17
 <td>Cali, Joseph, John Dougill, et Geoff Ciotti. 2012. <em>Shinto shrines: a guide to the sacred sites of Japan’s ancient religion</em>. Honolulu : University of Hawaiʻi Press.</td>
 </tr>
 <tr>
-<td class="en">Camardo, Domenico. 2013. “Herculaneum from the Ad 79 Eruption to the Medieval Period: Analysis of the Documentary, Iconographic and Archaeological Sources, with New Data on the Beginning of Exploration at the Ancient Town1.” Papers of the British School at Rome 81 (October): 303–40. [https://doi.org/10.1017/S0068246213000123.](https://doi.org/10.1017/S0068246213000123)</td>
-<td>Camardo, Domenico. 2013. « Herculaneum from the ad 79 eruption to the medieval period: analysis of the documentary, iconographic and archaeological sources, with new data on the beginning of exploration at the ancient town1 ». Papers of the British School at Rome 81 (octobre) : 303‑40. [https://doi.org/10.1017/S0068246213000123.](https://doi.org/10.1017/S0068246213000123)</td>
+<td class="en">Camardo, Domenico. 2013. “Herculaneum from the Ad 79 Eruption to the Medieval Period: Analysis of the Documentary, Iconographic and Archaeological Sources, with New Data on the Beginning of Exploration at the Ancient Town1.” Papers of the British School at Rome 81 (October): 303–40. <a href="https://doi.org/10.1017/S0068246213000123.">https://doi.org/10.1017/S0068246213000123</a></td>
+<td>Camardo, Domenico. 2013. « Herculaneum from the ad 79 eruption to the medieval period: analysis of the documentary, iconographic and archaeological sources, with new data on the beginning of exploration at the ancient town1 ». Papers of the British School at Rome 81 (octobre) : 303‑40. <a href="https://doi.org/10.1017/S0068246213000123.">https://doi.org/10.1017/S0068246213000123</a></td>
 </tr>
 <tr>
 <td class="en">Carrington, Norman T. 1954. <em>Shakespeare: Cymbeline.</em> London: J. Brodie.</td>
@@ -217,16 +217,16 @@ date: 2021-06-17
 <td>Carter, Howard, et A. C Mace. 1977. <em>The discovery of the tomb of Tutankhamen</em>. New York : Dover Publications.</td>
 </tr>
 <tr>
-<td class="en">Cartwright, M. 2020. “Battle of Agincourt.” In Ancient History Encyclopedia. [https://www.ancient.eu/Battle_of_Agincourt/Casson.](https://www.ancient.eu/Battle_of_Agincourt/Casson)</td>
-<td>Cartwright, M. 2020. « Battle of Agincourt ». Dans Ancient History Encyclopedia. Consulté le 2020. [https://www.ancient.eu/Battle_of_Agincourt/Casson.](https://www.ancient.eu/Battle_of_Agincourt/Casson)</td>
+<td class="en">Cartwright, M. 2020. “Battle of Agincourt.” In Ancient History Encyclopedia. <a href="https://www.ancient.eu/Battle_of_Agincourt/Casson.">https://www.ancient.eu/Battle_of_Agincourt/Casson</a></td>
+<td>Cartwright, M. 2020. « Battle of Agincourt ». Dans Ancient History Encyclopedia. Consulté le 2020. <a href="https://www.ancient.eu/Battle_of_Agincourt/Casson.">https://www.ancient.eu/Battle_of_Agincourt/Casson</a></td>
 </tr>
 <tr>
 <td class="en">Chan, Hoklam. 2011. <em>Ming Taizu (r.1368-98) and the Foundation of the Ming Dynasty in China</em>. Farnham: Ashgate.</td>
 <td>Chan, Hoklam. 2011. <em>Ming Taizu (r.1368-98) and the foundation of the Ming Dynasty in China</em>. Farnham : Ashgate.</td>
 </tr>
 <tr>
-<td class="en">Chester, David K. 2001. “The 1755 Lisbon Earthquake.” Progress in Physical Geography: Earth and Environment 25 (3): 363–83. [https://doi.org/10.1177/030913330102500304.](https://doi.org/10.1177/030913330102500304)</td>
-<td>Chester, David K. 2001. « The 1755 Lisbon earthquake ». Progress in Physical Geography: Earth and Environment 25 (3) : 363‑83. [https://doi.org/10.1177/030913330102500304.](https://doi.org/10.1177/030913330102500304)</td>
+<td class="en">Chester, David K. 2001. “The 1755 Lisbon Earthquake.” Progress in Physical Geography: Earth and Environment 25 (3): 363–83. <a href="https://doi.org/10.1177/030913330102500304.">https://doi.org/10.1177/030913330102500304</a></td>
+<td>Chester, David K. 2001. « The 1755 Lisbon earthquake ». Progress in Physical Geography: Earth and Environment 25 (3) : 363‑83. <a href="https://doi.org/10.1177/030913330102500304.">https://doi.org/10.1177/030913330102500304</a></td>
 </tr>
 <tr>
 <td class="en">Childe, Vere Gordon. 1963. <em>The Bronze Age</em>. New York: Biblo and Tannen.</td>
@@ -245,8 +245,8 @@ date: 2021-06-17
 <td>Collectif & Musée d’art et d’histoire Louis-Senlecq. 1900. <em>Les trésors des princes de Bourbon Conti</em>. Paris : Somogy éditions d’art.</td>
 </tr>
 <tr>
-<td class="en">Cooper, B.L. 2008. “Audio Reviews, Blue Suede Shoes: A Rockabilly Session by Carl Perkins and Friends.” Popular Music and Society 31 (3): 395–401. [https://doi.org/10.1080/03007760802021093.](https://doi.org/10.1080/03007760802021093)</td>
-<td>Cooper, B.L. 2008. « Audio Reviews, Blue Suede Shoes: A Rockabilly Session by Carl Perkins and friends. » Popular Music and Society 31 (3) : 395‑401. [https://doi.org/10.1080/03007760802021093.](https://doi.org/10.1080/03007760802021093)</td>
+<td class="en">Cooper, B.L. 2008. “Audio Reviews, Blue Suede Shoes: A Rockabilly Session by Carl Perkins and Friends.” Popular Music and Society 31 (3): 395–401. <a href="https://doi.org/10.1080/03007760802021093.">https://doi.org/10.1080/03007760802021093</a></td>
+<td>Cooper, B.L. 2008. « Audio Reviews, Blue Suede Shoes: A Rockabilly Session by Carl Perkins and friends. » Popular Music and Society 31 (3) : 395‑401. <a href="https://doi.org/10.1080/03007760802021093.">https://doi.org/10.1080/03007760802021093</a></td>
 </tr>
 <tr>
 <td class="en">Correll, J. Lee. 1972. <em>Welcome to the Land of the Navajo: A Book of Information about the Navajo Indians</em>. 3rd ed. Arizona: Window Rock.</td>
@@ -257,8 +257,8 @@ date: 2021-06-17
 <td>Cox, Neil. 2000. <em>Cubism</em>. London : Phaidon.</td>
 </tr>
 <tr>
-<td class="en">Craig, Norman C., and Eric A. Gislason. 2002. “First Law of Thermodynamics; Irreversible and Reversible Processes.” Journal of Chemical Education 79 (2): 193. [https://doi.org/10.1021/ed079p193.](https://doi.org/10.1021/ed079p193)</td>
-<td>Craig, Norman C., et Eric A. Gislason. 2002. « First Law of Thermodynamics; Irreversible and Reversible Processes ». Journal of Chemical Education 79 (2) : 193. [https://doi.org/10.1021/ed079p193.](https://doi.org/10.1021/ed079p193)</td>
+<td class="en">Craig, Norman C., and Eric A. Gislason. 2002. “First Law of Thermodynamics; Irreversible and Reversible Processes.” Journal of Chemical Education 79 (2): 193. <a href="https://doi.org/10.1021/ed079p193.">https://doi.org/10.1021/ed079p193</a></td>
+<td>Craig, Norman C., et Eric A. Gislason. 2002. « First Law of Thermodynamics; Irreversible and Reversible Processes ». Journal of Chemical Education 79 (2) : 193. <a href="https://doi.org/10.1021/ed079p193.">https://doi.org/10.1021/ed079p193</a></td>
 </tr>
 <tr>
 <td class="en">Crocker, Betty. 2012. <em>Betty Crocker Vegetarian Cooking.</em> Hoboken, N.J.: Wiley.</td>
@@ -281,8 +281,8 @@ date: 2021-06-17
 <td>Daly, Audrey. 1981. <em>Royal wedding</em>. Loughborough : Ladybird Books.</td>
 </tr>
 <tr>
-<td class="en">Daniel, Betty C. 2014. “A Graceful Return of the Drachma.” European Economic Review 71 (October): 228–43. [https://doi.org/10.1016/j.euroecorev.2014.08.004.](https://doi.org/10.1016/j.euroecorev.2014.08.004)</td>
-<td>Daniel, Betty C. 2014. « A graceful return of the drachma ». European Economic Review 71 (octobre) : 228‑43. [https://doi.org/10.1016/j.euroecorev.2014.08.004.](https://doi.org/10.1016/j.euroecorev.2014.08.004)</td>
+<td class="en">Daniel, Betty C. 2014. “A Graceful Return of the Drachma.” European Economic Review 71 (October): 228–43. <a href="https://doi.org/10.1016/j.euroecorev.2014.08.004.">https://doi.org/10.1016/j.euroecorev.2014.08.004</a></td>
+<td>Daniel, Betty C. 2014. « A graceful return of the drachma ». European Economic Review 71 (octobre) : 228‑43. <a href="https://doi.org/10.1016/j.euroecorev.2014.08.004.">https://doi.org/10.1016/j.euroecorev.2014.08.004</a></td>
 </tr>
 <tr>
 <td class="en">Dawson, Paul L. 2018. <em>Waterloo: The Truth at Last: Why Napoleon Lost the Great Battle</em>. Barmsley: Frontline Books.</td>
@@ -301,12 +301,12 @@ date: 2021-06-17
 <td>Dewey, D. 2003. « The Little Mermaid ». <em>Scandinavian Review</em> 91 (1) : 34.</td>
 </tr>
 <tr>
-<td class="en">Dodge, B. O. 1933. “The Perithecium and Ascus of Penicillium.” Mycologia 25 (2): 90–104. [https://doi.org/10.1080/00275514.1933.12020653.](https://doi.org/10.1080/00275514.1933.12020653)</td>
-<td>Dodge, B. O. 1933. « The Perithecium and Ascus of Penicillium ». Mycologia 25 (2) : 90‑104. [https://doi.org/10.1080/00275514.1933.12020653.](https://doi.org/10.1080/00275514.1933.12020653)</td>
+<td class="en">Dodge, B. O. 1933. “The Perithecium and Ascus of Penicillium.” Mycologia 25 (2): 90–104. <a href="https://doi.org/10.1080/00275514.1933.12020653.">https://doi.org/10.1080/00275514.1933.12020653</a></td>
+<td>Dodge, B. O. 1933. « The Perithecium and Ascus of Penicillium ». Mycologia 25 (2) : 90‑104. <a href="https://doi.org/10.1080/00275514.1933.12020653.">https://doi.org/10.1080/00275514.1933.12020653</a></td>
 </tr>
 <tr>
-<td class="en">Doerr, Martin. 2003. “The CIDOC Conceptual Reference Module: An Ontological Approach to Semantic Interoperability of Metadata.” AI Magazine 24 (3): 75–92. [https://doi.org/10.1609/aimag.v24i3.1720.](https://doi.org/10.1609/aimag.v24i3.1720)</td>
-<td>Doerr, Martin. 2003. « The CIDOC Conceptual Reference Module: An Ontological Approach to Semantic Interoperability of Metadata ». AI Magazine 24 (3) : 75‑92. [https://doi.org/10.1609/aimag.v24i3.1720.](https://doi.org/10.1609/aimag.v24i3.1720)</td>
+<td class="en">Doerr, Martin. 2003. “The CIDOC Conceptual Reference Module: An Ontological Approach to Semantic Interoperability of Metadata.” AI Magazine 24 (3): 75–92. <a href="https://doi.org/10.1609/aimag.v24i3.1720.">https://doi.org/10.1609/aimag.v24i3.1720</a></td>
+<td>Doerr, Martin. 2003. « The CIDOC Conceptual Reference Module: An Ontological Approach to Semantic Interoperability of Metadata ». AI Magazine 24 (3) : 75‑92. <a href="https://doi.org/10.1609/aimag.v24i3.1720.">https://doi.org/10.1609/aimag.v24i3.1720</a></td>
 </tr>
 <tr>
 <td class="en">Doerr, Martin, and Gerald Hiebel. 2013. “CRMgeo: Linking the CIDOC CRM to GeoSPARQL through a Spatiotemporal Refinement.” Technical Report ICS-FORTH/TR-435. Heraklion, Crete, Greece: Institute of Computer Science, Foundation for Research and Technology Hellas.</td>
@@ -361,8 +361,8 @@ date: 2021-06-17
 <td>Galeotti, Mark. 1997. <em>Gorbachev and His Revolution</em>. London : Macmillan Education, Limited.</td>
 </tr>
 <tr>
-<td class="en">Gangemi, Aldo, Nicola Guarino, Claudio Masolo, Alessandro Oltramari, and Luc Schneider. 2002. “Sweetening Ontologies with DOLCE.” In Knowledge Engineering and Knowledge Management: Ontologies and the Semantic Web, edited by Asunción Gómez-Pérez and V. Richard Benjamins, 166–81. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer. [https://doi.org/10.1007/3-540-45810-7_18.](https://doi.org/10.1007/3-540-45810-7_18)</td>
-<td>Gangemi, Aldo, Nicola Guarino, Claudio Masolo, Alessandro Oltramari, et Luc Schneider. 2002. « Sweetening Ontologies with DOLCE ». Dans Knowledge Engineering and Knowledge Management: Ontologies and the Semantic Web. Sous la direction de Asunción Gómez-Pérez et V. Richard Benjamins, 166‑81. Lecture Notes in Computer Science. Berlin, Heidelberg : Springer. [https://doi.org/10.1007/3-540-45810-7_18.](https://doi.org/10.1007/3-540-45810-7_18)</td>
+<td class="en">Gangemi, Aldo, Nicola Guarino, Claudio Masolo, Alessandro Oltramari, and Luc Schneider. 2002. “Sweetening Ontologies with DOLCE.” In Knowledge Engineering and Knowledge Management: Ontologies and the Semantic Web, edited by Asunción Gómez-Pérez and V. Richard Benjamins, 166–81. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer. <a href="https://doi.org/10.1007/3-540-45810-7_18.">https://doi.org/10.1007/3-540-45810-7_18</a></td>
+<td>Gangemi, Aldo, Nicola Guarino, Claudio Masolo, Alessandro Oltramari, et Luc Schneider. 2002. « Sweetening Ontologies with DOLCE ». Dans Knowledge Engineering and Knowledge Management: Ontologies and the Semantic Web. Sous la direction de Asunción Gómez-Pérez et V. Richard Benjamins, 166‑81. Lecture Notes in Computer Science. Berlin, Heidelberg : Springer. <a href="https://doi.org/10.1007/3-540-45810-7_18.">https://doi.org/10.1007/3-540-45810-7_18</a></td>
 </tr>
 <tr>
 <td class="en">Gannett, Henry and Geological Survey (U.S.). 1904. <em>Boundaries of the United States and of the Several States and Territories: With an Outline of the History of All Important Changes of Territory</em>. Washington, D.C.: Department of the Interior, United States Geological Survey.</td>
@@ -377,12 +377,12 @@ date: 2021-06-17
 <td>Georgoula, Elektra. 2005. <em>Greek treasures from the Benaki Museum in Athens</em>. Sydney : Powerhouse Publishing in association with Benaki Museum.</td>
 </tr>
 <tr>
-<td class="en">Gergatsoulis, Manolis, Lina Bountouri, Panorea Gaitanou, and Christos Papatheodorou. 2010. “Mapping Cultural Metadata Schemas to CIDOC Conceptual Reference Model.” In Artificial Intelligence: Theories, Models and Applications, 321–26. Springer, Berlin, Heidelberg. [https://doi.org/10.1007/978-3-642-12842-4_37.](https://doi.org/10.1007/978-3-642-12842-4_37)</td>
-<td>Gergatsoulis, Manolis, Lina Bountouri, Panorea Gaitanou, et Christos Papatheodorou. 2010. « Mapping Cultural Metadata Schemas to CIDOC Conceptual Reference Model ». Dans Artificial Intelligence: Theories, Models and Applications. , 321‑26. Springer, Berlin, Heidelberg. [https://doi.org/10.1007/978-3-642-12842-4_37.](https://doi.org/10.1007/978-3-642-12842-4_37)</td>
+<td class="en">Gergatsoulis, Manolis, Lina Bountouri, Panorea Gaitanou, and Christos Papatheodorou. 2010. “Mapping Cultural Metadata Schemas to CIDOC Conceptual Reference Model.” In Artificial Intelligence: Theories, Models and Applications, 321–26. Springer, Berlin, Heidelberg. <a href="https://doi.org/10.1007/978-3-642-12842-4_37.">https://doi.org/10.1007/978-3-642-12842-4_37</a></td>
+<td>Gergatsoulis, Manolis, Lina Bountouri, Panorea Gaitanou, et Christos Papatheodorou. 2010. « Mapping Cultural Metadata Schemas to CIDOC Conceptual Reference Model ». Dans Artificial Intelligence: Theories, Models and Applications. , 321‑26. Springer, Berlin, Heidelberg. <a href="https://doi.org/10.1007/978-3-642-12842-4_37.">https://doi.org/10.1007/978-3-642-12842-4_37</a></td>
 </tr>
 <tr>
-<td class="en">Gibbon, Edward. 2013. The History of the Decline and Fall of the Roman Empire: Edited in Seven Volumes with Introduction, Notes, Appendices, and Index. Edited by J. B. Bury. Vol. 5. Cambridge Library Collection - Classics. Cambridge: Cambridge University Press. [https://doi.org/10.1017/CBO9781139333580.](https://doi.org/10.1017/CBO9781139333580)</td>
-<td>Gibbon, Edward. 2013. The History of the Decline and Fall of the Roman Empire: Edited in Seven Volumes with Introduction, Notes, Appendices, and Index. Sous la direction de J. B. Bury. Vol. 5. Cambridge Library Collection - Classics. Cambridge : Cambridge University Press. [https://doi.org/10.1017/CBO9781139333580.](https://doi.org/10.1017/CBO9781139333580)</td>
+<td class="en">Gibbon, Edward. 2013. The History of the Decline and Fall of the Roman Empire: Edited in Seven Volumes with Introduction, Notes, Appendices, and Index. Edited by J. B. Bury. Vol. 5. Cambridge Library Collection - Classics. Cambridge: Cambridge University Press. <a href="https://doi.org/10.1017/CBO9781139333580.">https://doi.org/10.1017/CBO9781139333580</a></td>
+<td>Gibbon, Edward. 2013. The History of the Decline and Fall of the Roman Empire: Edited in Seven Volumes with Introduction, Notes, Appendices, and Index. Sous la direction de J. B. Bury. Vol. 5. Cambridge Library Collection - Classics. Cambridge : Cambridge University Press. <a href="https://doi.org/10.1017/CBO9781139333580.">https://doi.org/10.1017/CBO9781139333580</a></td>
 </tr>
 <tr>
 <td class="en">Gibson, Joy Leslie. 1990. <em>Ian McKellen</em>. London: Weidenfeld and Nicolson.</td>
@@ -461,8 +461,8 @@ date: 2021-06-17
 <td>Hiebel, Gerald, et Martin Doerr. 2013. « An ontological spatio-temporal refinement for the CIDOC CRM and GIS standards ». Pilsen, Czech Republic.</td>
 </tr>
 <tr>
-<td class="en">Hilmo, Maidie. 2019. Medieval Images, Icons, and Illustrated English Literary Texts : From the Ruthwell Cross to the Ellesmere Chaucer. Aldershot: Ashgate Publishing, Ltd. [https://doi.org/10.4324/9781315249278.](https://doi.org/10.4324/9781315249278)</td>
-<td>Hilmo, Maidie. 2019. Medieval Images, Icons, and Illustrated English Literary Texts : From the Ruthwell Cross to the Ellesmere Chaucer. Aldershot : Ashgate Publishing, Ltd. [https://doi.org/10.4324/9781315249278.](https://doi.org/10.4324/9781315249278)</td>
+<td class="en">Hilmo, Maidie. 2019. Medieval Images, Icons, and Illustrated English Literary Texts : From the Ruthwell Cross to the Ellesmere Chaucer. Aldershot: Ashgate Publishing, Ltd. <a href="https://doi.org/10.4324/9781315249278.">https://doi.org/10.4324/9781315249278</a></td>
+<td>Hilmo, Maidie. 2019. Medieval Images, Icons, and Illustrated English Literary Texts : From the Ruthwell Cross to the Ellesmere Chaucer. Aldershot : Ashgate Publishing, Ltd. <a href="https://doi.org/10.4324/9781315249278.">https://doi.org/10.4324/9781315249278</a></td>
 </tr>
 <tr>
 <td class="en">Hind, Arthur M. 1923. <em>A Catalogue of Rembrandt’s Etchings: Chronologically Arranged and Completely Illustrated</em>. London: Methuen.</td>
@@ -473,8 +473,8 @@ date: 2021-06-17
 <td>Holliday, Ian, Gérard Marcou, et Roger William Vickerman. 1991. <em>The Channel tunnel: public policy, regional development and European integration</em>. London; New York : Belhaven Press.</td>
 </tr>
 <tr>
-<td class="en">Honey, Andrew, and Nicholas Pickwoad. 2010. “Learning from the Past: Using Original Techniques to Conserve a Twelfth-Century Illuminated Manuscript and Its Sixteenthcentury Greek-Style Binding at the Monastery of St Catherine, Sinai.” Studies in Conservation 55 (sup2): 56–61. [https://doi.org/10.1179/sic.2010.55.Supplement-2.56.](https://doi.org/10.1179/sic.2010.55.Supplement-2.56)</td>
-<td>Honey, Andrew, et Nicholas Pickwoad. 2010. « Learning from the Past: Using Original Techniques to Conserve a Twelfth-Century Illuminated Manuscript and Its Sixteenthcentury Greek-Style Binding at the Monastery of St Catherine, Sinai ». Studies in Conservation 55 (sup2) : 56‑61. [https://doi.org/10.1179/sic.2010.55.Supplement-2.56.](https://doi.org/10.1179/sic.2010.55.Supplement-2.56)</td>
+<td class="en">Honey, Andrew, and Nicholas Pickwoad. 2010. “Learning from the Past: Using Original Techniques to Conserve a Twelfth-Century Illuminated Manuscript and Its Sixteenthcentury Greek-Style Binding at the Monastery of St Catherine, Sinai.” Studies in Conservation 55 (sup2): 56–61. <a href="https://doi.org/10.1179/sic.2010.55.Supplement-2.56.">https://doi.org/10.1179/sic.2010.55.Supplement-2.56</a></td>
+<td>Honey, Andrew, et Nicholas Pickwoad. 2010. « Learning from the Past: Using Original Techniques to Conserve a Twelfth-Century Illuminated Manuscript and Its Sixteenthcentury Greek-Style Binding at the Monastery of St Catherine, Sinai ». Studies in Conservation 55 (sup2) : 56‑61. <a href="https://doi.org/10.1179/sic.2010.55.Supplement-2.56.">https://doi.org/10.1179/sic.2010.55.Supplement-2.56</a></td>
 </tr>
 <tr>
 <td class="en">Hood, Sinclair. 1971. <em>The Minoans: Crete in the Bronze Age</em>. Ancient Peoples and Places 75. London: Thames and Hudson.</td>
@@ -505,8 +505,8 @@ date: 2021-06-17
 <td>Huray, Paul G. 2010. <em>Maxwell’s Equations</em>. Hoboken, NJ, USA : John Wiley & Sons, Inc.</td>
 </tr>
 <tr>
-<td class="en">Iliffe, Robert. 2013. “Newton: The Making of a Politician.” The Newton Project. 2013. [http://www.newtonproject.ox.ac.uk/view/contexts/CNTX00002.](http://www.newtonproject.ox.ac.uk/view/contexts/CNTX00002)</td>
-<td>Iliffe, Robert. 2013. « Newton: The Making of a Politician ». The Newton Project. 2013. [http://www.newtonproject.ox.ac.uk/view/contexts/CNTX00002.](http://www.newtonproject.ox.ac.uk/view/contexts/CNTX00002)</td>
+<td class="en">Iliffe, Robert. 2013. “Newton: The Making of a Politician.” The Newton Project. 2013. <a href="http://www.newtonproject.ox.ac.uk/view/contexts/CNTX00002.">http://www.newtonproject.ox.ac.uk/view/contexts/CNTX00002</a></td>
+<td>Iliffe, Robert. 2013. « Newton: The Making of a Politician ». The Newton Project. 2013. <a href="http://www.newtonproject.ox.ac.uk/view/contexts/CNTX00002.">http://www.newtonproject.ox.ac.uk/view/contexts/CNTX00002</a></td>
 </tr>
 <tr>
 <td class="en">Ingamells, John. 1990. <em>The Wallace Collection</em>. London: Scala Books.</td>
@@ -541,8 +541,8 @@ date: 2021-06-17
 <td> <em>Iveagh Bequest, Catalogue of paintings</em>. 1975. London : Greater London Council.</td>
 </tr>
 <tr>
-<td class="en">Jarvis, Charlie. 2021. “Data Portal Query on Clayton Herbarium, 904 Records.” Natural History Museum Data Portal. February 3, 2021. [https://data.nhm.ac.uk/doi/10.5519/qd.thnwfxy8.](https://data.nhm.ac.uk/doi/10.5519/qd.thnwfxy8)</td>
-<td>Jarvis, Charlie. 2021. « Data Portal Query on Clayton Herbarium, 904 records ». Natural History Museum Data Portal. 3 février 2021. [https://data.nhm.ac.uk/doi/10.5519/qd.thnwfxy8.](https://data.nhm.ac.uk/doi/10.5519/qd.thnwfxy8)</td>
+<td class="en">Jarvis, Charlie. 2021. “Data Portal Query on Clayton Herbarium, 904 Records.” Natural History Museum Data Portal. February 3, 2021. <a href="https://data.nhm.ac.uk/doi/10.5519/qd.thnwfxy8.">https://data.nhm.ac.uk/doi/10.5519/qd.thnwfxy8</a></td>
+<td>Jarvis, Charlie. 2021. « Data Portal Query on Clayton Herbarium, 904 records ». Natural History Museum Data Portal. 3 février 2021. <a href="https://data.nhm.ac.uk/doi/10.5519/qd.thnwfxy8.">https://data.nhm.ac.uk/doi/10.5519/qd.thnwfxy8</a></td>
 </tr>
 <tr>
 <td class="en">Jones, Robert F. 1979. <em>George Washington.</em> Boston Mass.: Twayne.</td>
@@ -565,8 +565,8 @@ date: 2021-06-17
 <td>Kousser, R. 2005. « Creating the Past: The Venus de Milo and the Hellenistic Reception of Classical Greece ». <em>American Journal of Archeaology</em> 109 (2) : 227‑50.</td>
 </tr>
 <tr>
-<td class="en">Kouwenhoven, Arlette P. 1997. “Newsbriefs: World’s Oldest Spears.” Archaeology 50 (3). [https://archive.archaeology.org/9705/newsbriefs/spears.html.](https://archive.archaeology.org/9705/newsbriefs/spears.html)</td>
-<td>Kouwenhoven, Arlette P. 1997. « Newsbriefs: World’s Oldest Spears ». Archaeology 50 (3). [https://archive.archaeology.org/9705/newsbriefs/spears.html.](https://archive.archaeology.org/9705/newsbriefs/spears.html)</td>
+<td class="en">Kouwenhoven, Arlette P. 1997. “Newsbriefs: World’s Oldest Spears.” Archaeology 50 (3). <a href="https://archive.archaeology.org/9705/newsbriefs/spears.html.">https://archive.archaeology.org/9705/newsbriefs/spears.html</a></td>
+<td>Kouwenhoven, Arlette P. 1997. « Newsbriefs: World’s Oldest Spears ». Archaeology 50 (3). <a href="https://archive.archaeology.org/9705/newsbriefs/spears.html.">https://archive.archaeology.org/9705/newsbriefs/spears.html</a></td>
 </tr>
 <tr>
 <td class="en">Kozak, Marion. 1998. <em>Greenpeace</em>. Oxford: Heinemann Library.</td>
@@ -577,8 +577,8 @@ date: 2021-06-17
 <td>Krentz, Peter. 2010. <em>The Battle of Marathon</em>. New Haven; London : Yale University Press.</td>
 </tr>
 <tr>
-<td class="en">Kutschera, W. 2002. “Radiocarbon Dating of the Iceman Ötzi with Accelerator Mass Spectrometry.” 2002. [https://www.semanticscholar.org/paper/Radiocarbon-dating-of-the-Iceman-%C3%96tzi-with-mass-Kutschera/20d9b3be6466e3a6d51ddb213f9c982fdf949024.](https://www.semanticscholar.org/paper/Radiocarbon-dating-of-the-Iceman-%C3%96tzi-with-mass-Kutschera/20d9b3be6466e3a6d51ddb213f9c982fdf949024)</td>
-<td>Kutschera, W. 2002. « Radiocarbon dating of the Iceman Ötzi with accelerator mass spectrometry ». 2002. [https://www.semanticscholar.org/paper/Radiocarbon-dating-of-the-Iceman-%C3%96tzi-with-mass-Kutschera/20d9b3be6466e3a6d51ddb213f9c982fdf949024.](https://www.semanticscholar.org/paper/Radiocarbon-dating-of-the-Iceman-%C3%96tzi-with-mass-Kutschera/20d9b3be6466e3a6d51ddb213f9c982fdf949024)</td>
+<td class="en">Kutschera, W. 2002. “Radiocarbon Dating of the Iceman Ötzi with Accelerator Mass Spectrometry.” 2002. <a href="https://www.semanticscholar.org/paper/Radiocarbon-dating-of-the-Iceman-%C3%96tzi-with-mass-Kutschera/20d9b3be6466e3a6d51ddb213f9c982fdf949024.">https://www.semanticscholar.org/paper/Radiocarbon-dating-of-the-Iceman-%C3%96tzi-with-mass-Kutschera/20d9b3be6466e3a6d51ddb213f9c982fdf949024</a></td>
+<td>Kutschera, W. 2002. « Radiocarbon dating of the Iceman Ötzi with accelerator mass spectrometry ». 2002. <a href="https://www.semanticscholar.org/paper/Radiocarbon-dating-of-the-Iceman-%C3%96tzi-with-mass-Kutschera/20d9b3be6466e3a6d51ddb213f9c982fdf949024.">https://www.semanticscholar.org/paper/Radiocarbon-dating-of-the-Iceman-%C3%96tzi-with-mass-Kutschera/20d9b3be6466e3a6d51ddb213f9c982fdf949024</a></td>
 </tr>
 <tr>
 <td class="en">Lamb, R. 2005. “Alexander the Great and Bucephalus.” <em>Horse & Rider</em> 44 (6): 19.</td>
@@ -613,8 +613,8 @@ date: 2021-06-17
 <td>Leppmann, Wolfgang. 1970. <em>Winckelmann</em>. New York : Knopf.</td>
 </tr>
 <tr>
-<td class="en">Li, Xiuzhen Janice. 2012. “Standardisation, Labour Organisation and the Bronze Weapons of the Qin Terracotta Warriors / Xiuzhen Janice Li.” Ph.D., University College London. [http://discovery.ucl.ac.uk/1350109/.](http://discovery.ucl.ac.uk/1350109/)</td>
-<td>Li, Xiuzhen Janice. 2012. « Standardisation, labour organisation and the bronze weapons of the Qin terracotta warriors / Xiuzhen Janice Li. » Ph.D., University College London. [http://discovery.ucl.ac.uk/1350109/.](http://discovery.ucl.ac.uk/1350109/)</td>
+<td class="en">Li, Xiuzhen Janice. 2012. “Standardisation, Labour Organisation and the Bronze Weapons of the Qin Terracotta Warriors / Xiuzhen Janice Li.” Ph.D., University College London. <a href="http://discovery.ucl.ac.uk/1350109/.">http://discovery.ucl.ac.uk/1350109/</a></td>
+<td>Li, Xiuzhen Janice. 2012. « Standardisation, labour organisation and the bronze weapons of the Qin terracotta warriors / Xiuzhen Janice Li. » Ph.D., University College London. <a href="http://discovery.ucl.ac.uk/1350109/.">http://discovery.ucl.ac.uk/1350109/</a></td>
 </tr>
 <tr>
 <td class="en">Liess, R. 1985. “Der Riss A1 Der Straßburger Münsterfassade Im Kontinuum Der Entwürfe Magister Erwins.” <em>Kunsthistorisches Jahrbuch Graz</em> 21: 47–121.</td>
@@ -661,8 +661,8 @@ date: 2021-06-17
 <td>McCullough, C. 2005. <em>The Merchant of Venice</em>. Basingstoke : Palgrave Macmillan.</td>
 </tr>
 <tr>
-<td class="en">Meghini, Carlo, and Martin Doerr. 2018. “A First-Order Logic Expression of the CIDOC Conceptual Reference Model.” International Journal of Metadata, Semantics and Ontologies 13 (2): 131–49. [https://doi.org/10.1504/IJMSO.2018.098393.](https://doi.org/10.1504/IJMSO.2018.098393)</td>
-<td>Meghini, Carlo, et Martin Doerr. 2018. « A first-order logic expression of the CIDOC conceptual reference model ». International Journal of Metadata, Semantics and Ontologies 13 (2) : 131‑49. [https://doi.org/10.1504/IJMSO.2018.098393.](https://doi.org/10.1504/IJMSO.2018.098393)</td>
+<td class="en">Meghini, Carlo, and Martin Doerr. 2018. “A First-Order Logic Expression of the CIDOC Conceptual Reference Model.” International Journal of Metadata, Semantics and Ontologies 13 (2): 131–49. <a href="https://doi.org/10.1504/IJMSO.2018.098393.">https://doi.org/10.1504/IJMSO.2018.098393</a></td>
+<td>Meghini, Carlo, et Martin Doerr. 2018. « A first-order logic expression of the CIDOC conceptual reference model ». International Journal of Metadata, Semantics and Ontologies 13 (2) : 131‑49. <a href="https://doi.org/10.1504/IJMSO.2018.098393.">https://doi.org/10.1504/IJMSO.2018.098393</a></td>
 </tr>
 <tr>
 <td class="en">Mellen, Joan. 2002. <em>Seven Samurai</em>. London: BFI Pub.</td>
@@ -689,8 +689,8 @@ date: 2021-06-17
 <td>Mommsen, Theodor. 1872. <em>Corpus inscriptionum Latinarum Vol. 5, Pars 1.</em> Berolini : Apud Georgium Reimerum.</td>
 </tr>
 <tr>
-<td class="en">Mommsen, Theodor E. 1941. “The Venetians in Athens and the Destruction of the Parthenon in 1687.” American Journal of Archaeology 45 (4): 544–56. [https://doi.org/10.2307/499533.](https://doi.org/10.2307/499533)</td>
-<td>Mommsen, Theodor E. 1941. « The Venetians in Athens and the Destruction of the Parthenon in 1687 ». American Journal of Archaeology 45 (4) : 544‑56. [https://doi.org/10.2307/499533.](https://doi.org/10.2307/499533)</td>
+<td class="en">Mommsen, Theodor E. 1941. “The Venetians in Athens and the Destruction of the Parthenon in 1687.” American Journal of Archaeology 45 (4): 544–56. <a href="https://doi.org/10.2307/499533.">https://doi.org/10.2307/499533</a></td>
+<td>Mommsen, Theodor E. 1941. « The Venetians in Athens and the Destruction of the Parthenon in 1687 ». American Journal of Archaeology 45 (4) : 544‑56. <a href="https://doi.org/10.2307/499533.">https://doi.org/10.2307/499533</a></td>
 </tr>
 <tr>
 <td class="en">Monast, Jonas, and Betsy Tao. 2002. “In Memoriam: Paul Wellstone (1944-2002).” <em>Georgetown International Environmental Law Review</em> 15: 133.</td>
@@ -705,20 +705,20 @@ date: 2021-06-17
 <td>Morton, Herbert C. 1994. <em>The story of Webster’s third: Philip Gove’s controversial dictionary and its critics</em>. Cambridge : Cambridge University Press.</td>
 </tr>
 <tr>
-<td class="en">Municipality of Heraklion. 2021. “City Hall.” February 6, 2021. [https://www.heraklion.gr/en/municipality/city-hall//city-hall.html.](https://www.heraklion.gr/en/municipality/city-hall/city-hall.html)</td>
-<td>Municipality of Heraklion. 2021. « City Hall ». 6 février 2021. [https://www.heraklion.gr/en/municipality/city-hall//city-hall.html.](https://www.heraklion.gr/en/municipality/city-hall/city-hall.html)</td>
+<td class="en">Municipality of Heraklion. 2021. “City Hall.” February 6, 2021. <a href="https://www.heraklion.gr/en/municipality/city-hall//city-hall.html.">https://www.heraklion.gr/en/municipality/city-hall/city-hall.html</a></td>
+<td>Municipality of Heraklion. 2021. « City Hall ». 6 février 2021. <a href="https://www.heraklion.gr/en/municipality/city-hall//city-hall.html.">https://www.heraklion.gr/en/municipality/city-hall/city-hall.html</a></td>
 </tr>
 <tr>
 <td class="en">Murdoch, David H, Chris Forsey, Anne Yvonne Gilbert, and Eric Thomas. 2003. <em>Tutankhamun: The Life and Death of a Pharaoh</em>. London: Dorling Kindersley.</td>
 <td>Murdoch, David H, Chris Forsey, Anne Yvonne Gilbert, et Eric Thomas. 2003. <em>Tutankhamun: the life and death of a pharaoh</em>. London : Dorling Kindersley.</td>
 </tr>
 <tr>
-<td class="en">Musée d’Orsay. 2020. “Claude Monet ‘La Pie.’” 2020. [https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?no_cache=1&nnumid=715.](https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?no_cache=1&nnumid=715)</td>
-<td>Musée d’Orsay. 2020. « Claude Monet “La Pie” ». 2020. [https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?no_cache=1&nnumid=715.](https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?no_cache=1&nnumid=715)</td>
+<td class="en">Musée d’Orsay. 2020. “Claude Monet ‘La Pie.’” 2020. <a href="https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?no_cache=1&nnumid=715.">https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?no_cache=1&nnumid=715</a></td>
+<td>Musée d’Orsay. 2020. « Claude Monet “La Pie” ». 2020. <a href="https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?no_cache=1&nnumid=715.">https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?no_cache=1&nnumid=715</a></td>
 </tr>
 <tr>
-<td class="en">National Gallery of Victoria. 2021. “Portrait Group: The Singer Farinelli and Friends (c. 1750-1752) Jacopo Amigoni.” February 6, 2021. [http://www.ngv.vic.gov.au/explore/collection/work/3701/.](http://www.ngv.vic.gov.au/explore/collection/work/3701/)</td>
-<td>National Gallery of Victoria. 2021. « Portrait group: The singer Farinelli and friends (c. 1750-1752) Jacopo Amigoni ». 6 février 2021. [http://www.ngv.vic.gov.au/explore/collection/work/3701/.](http://www.ngv.vic.gov.au/explore/collection/work/3701/)</td>
+<td class="en">National Gallery of Victoria. 2021. “Portrait Group: The Singer Farinelli and Friends (c. 1750-1752) Jacopo Amigoni.” February 6, 2021. <a href="http://www.ngv.vic.gov.au/explore/collection/work/3701/.">http://www.ngv.vic.gov.au/explore/collection/work/3701/</a></td>
+<td>National Gallery of Victoria. 2021. « Portrait group: The singer Farinelli and friends (c. 1750-1752) Jacopo Amigoni ». 6 février 2021. <a href="http://www.ngv.vic.gov.au/explore/collection/work/3701/.">http://www.ngv.vic.gov.au/explore/collection/work/3701/</a></td>
 </tr>
 <tr>
 <td class="en">Nelson, Alan H. 1989. <em>Cambridge</em>. Toronto: University of Toronto Press.</td>
@@ -733,8 +733,8 @@ date: 2021-06-17
 <td>Nuessel, Frank H. 2000. <em>The Esperanto language</em>. New York : Legas.</td>
 </tr>
 <tr>
-<td class="en">“Numismatics.” 2005. Historical Museum of Crete. 2020 2005. [https://www.historical-museum.gr/eng/collections/view/nomismatikh-sullogh.](https://www.historical-museum.gr/eng/collections/view/nomismatikh-sullogh)</td>
-<td>« Numismatics ». 2005. Historical Museum of Crete. 2020 2005. [https://www.historical-museum.gr/eng/collections/view/nomismatikh-sullogh.](https://www.historical-museum.gr/eng/collections/view/nomismatikh-sullogh)</td>
+<td class="en">“Numismatics.” 2005. Historical Museum of Crete. 2020 2005. <a href="https://www.historical-museum.gr/eng/collections/view/nomismatikh-sullogh.">https://www.historical-museum.gr/eng/collections/view/nomismatikh-sullogh</a></td>
+<td>« Numismatics ». 2005. Historical Museum of Crete. 2020 2005. <a href="https://www.historical-museum.gr/eng/collections/view/nomismatikh-sullogh.">https://www.historical-museum.gr/eng/collections/view/nomismatikh-sullogh</a></td>
 </tr>
 <tr>
 <td class="en"> <em>Ode to joy: theme and 6 variations on Beethoven’s Ode to joy, in the style of Bach, Mozart, Mendelssohn, Dvořák, Wagner and Scott Joplin : string orchestra</em>. 1999. Monmouth: Spartan Press.</td>
@@ -745,20 +745,20 @@ date: 2021-06-17
 <td>Overy, Richard. 2012. <em>20th Century</em>. London : Dorling Kindersley.</td>
 </tr>
 <tr>
-<td class="en">Owen, Jennifer Chowning. 2009. “Forever Amber : The Impact of the Amber Room on Russia’s Cultural Stature Then, Now and in the Future.” Dept. of Art and Art History, Masters Dissertations, 2009. Thesis, Georgetown University. [https://repository.library.georgetown.edu/handle/10822/552838.](https://repository.library.georgetown.edu/handle/10822/552838)</td>
-<td>Owen, Jennifer Chowning. 2009. « Forever Amber : the impact of the Amber Room on Russia’s cultural stature then, now and in the future ». Dept. of Art and Art History, Masters dissertations, 2009. Thesis, Georgetown University. [https://repository.library.georgetown.edu/handle/10822/552838.](https://repository.library.georgetown.edu/handle/10822/552838)</td>
+<td class="en">Owen, Jennifer Chowning. 2009. “Forever Amber : The Impact of the Amber Room on Russia’s Cultural Stature Then, Now and in the Future.” Dept. of Art and Art History, Masters Dissertations, 2009. Thesis, Georgetown University. <a href="https://repository.library.georgetown.edu/handle/10822/552838.">https://repository.library.georgetown.edu/handle/10822/552838</a></td>
+<td>Owen, Jennifer Chowning. 2009. « Forever Amber : the impact of the Amber Room on Russia’s cultural stature then, now and in the future ». Dept. of Art and Art History, Masters dissertations, 2009. Thesis, Georgetown University. <a href="https://repository.library.georgetown.edu/handle/10822/552838.">https://repository.library.georgetown.edu/handle/10822/552838</a></td>
 </tr>
 <tr>
 <td class="en">Palmer, L. R. 1980. <em>The Greek Language</em>. London: Faber.</td>
 <td>Palmer, L. R. 1980. <em>The Greek language</em>. London : Faber.</td>
 </tr>
 <tr>
-<td class="en">Panotis, Aristidis. 2016. “« Η Θείω Πνεύματι Κραταιωθείσα Σύνοδος Της Κρήτης ».” Πανώτης (blog). June 29, 2016. [https://www.panotis.gr/index.php/2016/06/29/the-holy-spirit-stressed-summit-of-crete/.](https://www.panotis.gr/index.php/2016/06/29/the-holy-spirit-stressed-summit-of-crete/)</td>
-<td>Panotis, Aristidis. 2016. « « Η Θείω Πνεύματι κραταιωθείσα Σύνοδος της Κρήτης » ». Πανώτης. 29 juin. [https://www.panotis.gr/index.php/2016/06/29/the-holy-spirit-stressed-summit-of-crete/.](https://www.panotis.gr/index.php/2016/06/29/the-holy-spirit-stressed-summit-of-crete/)</td>
+<td class="en">Panotis, Aristidis. 2016. “« Η Θείω Πνεύματι Κραταιωθείσα Σύνοδος Της Κρήτης ».” Πανώτης (blog). June 29, 2016. <a href="https://www.panotis.gr/index.php/2016/06/29/the-holy-spirit-stressed-summit-of-crete/.">https://www.panotis.gr/index.php/2016/06/29/the-holy-spirit-stressed-summit-of-crete/</a></td>
+<td>Panotis, Aristidis. 2016. « « Η Θείω Πνεύματι κραταιωθείσα Σύνοδος της Κρήτης » ». Πανώτης. 29 juin. <a href="https://www.panotis.gr/index.php/2016/06/29/the-holy-spirit-stressed-summit-of-crete/.">https://www.panotis.gr/index.php/2016/06/29/the-holy-spirit-stressed-summit-of-crete/</a></td>
 </tr>
 <tr>
-<td class="en">Paoletti, John T, and Rolf Bagemihl. 2015. Michelangelo’s David: Florentine history and civic identity. New York: Cambridge University Press. [https://doi.org/10.1017/CBO9781107338784.](https://doi.org/10.1017/CBO9781107338784)</td>
-<td>Paoletti, John T, et Rolf Bagemihl. 2015. Michelangelo’s David: Florentine history and civic identity. New York : Cambridge University Press. [https://doi.org/10.1017/CBO9781107338784.](https://doi.org/10.1017/CBO9781107338784)</td>
+<td class="en">Paoletti, John T, and Rolf Bagemihl. 2015. Michelangelo’s David: Florentine history and civic identity. New York: Cambridge University Press. <a href="https://doi.org/10.1017/CBO9781107338784.">https://doi.org/10.1017/CBO9781107338784</a></td>
+<td>Paoletti, John T, et Rolf Bagemihl. 2015. Michelangelo’s David: Florentine history and civic identity. New York : Cambridge University Press. <a href="https://doi.org/10.1017/CBO9781107338784.">https://doi.org/10.1017/CBO9781107338784</a></td>
 </tr>
 <tr>
 <td class="en">Parker, V. 2002. <em>Queen Elizabeth II</em>. Oxford: Heinemann Library.</td>
@@ -777,8 +777,8 @@ date: 2021-06-17
 <td>Peel, Christine, trad. 1999. <em>Guta Saga: The History of the Gotlanders</em>. London : Viking Society for Northern Research.</td>
 </tr>
 <tr>
-<td class="en">Perley, Bernard. 2017. “Declaration of Independence: The First Public Reading.” Anthropology News 58 (3): e197–99. [https://doi.org/10.1111/AN.445.](https://doi.org/10.1111/AN.445)</td>
-<td>Perley, Bernard. 2017. « Declaration of Independence: The First Public Reading ». Anthropology News 58 (3) : e197‑99. [https://doi.org/10.1111/AN.445.](https://doi.org/10.1111/AN.445)</td>
+<td class="en">Perley, Bernard. 2017. “Declaration of Independence: The First Public Reading.” Anthropology News 58 (3): e197–99. <a href="https://doi.org/10.1111/AN.445.">https://doi.org/10.1111/AN.445</a></td>
+<td>Perley, Bernard. 2017. « Declaration of Independence: The First Public Reading ». Anthropology News 58 (3) : e197‑99. <a href="https://doi.org/10.1111/AN.445.">https://doi.org/10.1111/AN.445</a></td>
 </tr>
 <tr>
 <td class="en">Perrault, C. 1697. <em>Histoires Ou Contes Du Temps Passé</em>. Paris: Claude Barbin.</td>
@@ -813,8 +813,8 @@ date: 2021-06-17
 <td>Pomeroy, Sarah B. 1984. <em>Women in Hellenistic Egypt: from Alexander to Cleopatra</em>. Ann Arbor, Michigan : University of Michigan Library.</td>
 </tr>
 <tr>
-<td class="en">Poole, J. B., and R. Reed. 1962. “The Preparation of Leather and Parchment by the Dead Sea Scrolls Community.” Technology and Culture 3 (1): 1–26. [https://doi.org/10.2307/3100798.](https://doi.org/10.2307/3100798)</td>
-<td>Poole, J. B., et R. Reed. 1962. « The Preparation of Leather and Parchment by the Dead Sea Scrolls Community ». Technology and Culture 3 (1) : 1‑26. [https://doi.org/10.2307/3100798.](https://doi.org/10.2307/3100798)</td>
+<td class="en">Poole, J. B., and R. Reed. 1962. “The Preparation of Leather and Parchment by the Dead Sea Scrolls Community.” Technology and Culture 3 (1): 1–26. <a href="https://doi.org/10.2307/3100798.">https://doi.org/10.2307/3100798</a></td>
+<td>Poole, J. B., et R. Reed. 1962. « The Preparation of Leather and Parchment by the Dead Sea Scrolls Community ». Technology and Culture 3 (1) : 1‑26. <a href="https://doi.org/10.2307/3100798.">https://doi.org/10.2307/3100798</a></td>
 </tr>
 <tr>
 <td class="en">Porter, Stephen. 2009. <em>The Great Plague of London</em>. Stroud: Amberley Publishing.</td>
@@ -841,12 +841,12 @@ date: 2021-06-17
 <td>Quiviger, François. 2019. <em>Leonardo da Vinci: Self Art and Nature</em>. 1st edition. Reaktion Books.</td>
 </tr>
 <tr>
-<td class="en">Raga, Suzanne. 2016. “How Michael Jackson Bought the Publishing Rights to The Beatles Catalogue.” Mental Floss, August 29, 2016. [https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue.](https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue)</td>
-<td>Raga, Suzanne. 2016. « How Michael Jackson Bought the Publishing Rights to The Beatles Catalogue ». Mental Floss, 29 août 2016. [https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue.](https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue)</td>
+<td class="en">Raga, Suzanne. 2016. “How Michael Jackson Bought the Publishing Rights to The Beatles Catalogue.” Mental Floss, August 29, 2016. <a href="https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue.">https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue</a></td>
+<td>Raga, Suzanne. 2016. « How Michael Jackson Bought the Publishing Rights to The Beatles Catalogue ». Mental Floss, 29 août 2016. <a href="https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue.">https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue</a></td>
 </tr>
 <tr>
-<td class="en">Raymond, Lee. 2006. “Exxon Mobil Corp.” Mergent’s Dividend Achievers 3 (3): 97–97. [https://doi.org/10.1002/div.4323.](https://doi.org/10.1002/div.4323)</td>
-<td>Raymond, Lee. 2006. « Exxon Mobil Corp. » Mergent’s Dividend Achievers 3 (3) : 97‑97. [https://doi.org/10.1002/div.4323.](https://doi.org/10.1002/div.4323)</td>
+<td class="en">Raymond, Lee. 2006. “Exxon Mobil Corp.” Mergent’s Dividend Achievers 3 (3): 97–97. <a href="https://doi.org/10.1002/div.4323.">https://doi.org/10.1002/div.4323</a></td>
+<td>Raymond, Lee. 2006. « Exxon Mobil Corp. » Mergent’s Dividend Achievers 3 (3) : 97‑97. <a href="https://doi.org/10.1002/div.4323.">https://doi.org/10.1002/div.4323</a></td>
 </tr>
 <tr>
 <td class="en">Reaney, G. 1974. <em>Guillaume de Machaut.</em> London: Oxford University Press.</td>
@@ -965,16 +965,16 @@ date: 2021-06-17
 <td>Temple, Robert, et Olivia Temple. 2009. <em>The Sphinx Mystery: The Forgotten Origins of the Sanctuary of Anubis</em>. Rochester, Vt : Inner Traditions.</td>
 </tr>
 <tr>
-<td class="en">The Editors of Encyclopaedia Britannica. 1998. “Adoration of the Shepherds.” In Encyclopedia Britannica. [https://www.britannica.com/topic/adoration-of-the-shepherds-religious-motif.](https://www.britannica.com/topic/adoration-of-the-shepherds-religious-motif)</td>
-<td>The Editors of Encyclopaedia Britannica. 1998. « Adoration of the shepherds ». Dans Encyclopedia Britannica. Consulté le 1998. [https://www.britannica.com/topic/adoration-of-the-shepherds-religious-motif.](https://www.britannica.com/topic/adoration-of-the-shepherds-religious-motif)</td>
+<td class="en">The Editors of Encyclopaedia Britannica. 1998. “Adoration of the Shepherds.” In Encyclopedia Britannica. <a href="https://www.britannica.com/topic/adoration-of-the-shepherds-religious-motif.">https://www.britannica.com/topic/adoration-of-the-shepherds-religious-motif</a></td>
+<td>The Editors of Encyclopaedia Britannica. 1998. « Adoration of the shepherds ». Dans Encyclopedia Britannica. Consulté le 1998. <a href="https://www.britannica.com/topic/adoration-of-the-shepherds-religious-motif.">https://www.britannica.com/topic/adoration-of-the-shepherds-religious-motif</a></td>
 </tr>
 <tr>
 <td class="en"> <em>The Oxford English Dictionary: 20 Volume Set</em>. 1989. Second Edition. Oxford, New York: Oxford University Press.</td>
 <td> <em>The Oxford English Dictionary: 20 Volume Set</em>. 1989. Second Edition. Oxford, New York : Oxford University Press.</td>
 </tr>
 <tr>
-<td class="en">The State Hermitage Museum. 2021. “St Peter and St Paul.” WEB. The State Hermitage Museum. April 22, 2021. [https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/32730.](https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/32730)</td>
-<td>The State Hermitage Museum. 2021. « St Peter and St Paul ». WEB. The State hermitage Museum. 22 avril 2021. [https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/32730.](https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/32730)</td>
+<td class="en">The State Hermitage Museum. 2021. “St Peter and St Paul.” WEB. The State Hermitage Museum. April 22, 2021. <a href="https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/32730.">https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/32730</a></td>
+<td>The State Hermitage Museum. 2021. « St Peter and St Paul ». WEB. The State hermitage Museum. 22 avril 2021. <a href="https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/32730.">https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/32730</a></td>
 </tr>
 <tr>
 <td class="en">Thieberger, F. 1947. <em>King Solomon</em>. Oxford.</td>
@@ -1001,16 +1001,16 @@ date: 2021-06-17
 <td>Tucker, Paul. 1984. « The first Impressionist exhibition and Monet’s Impression, Sunrise: a tale of timing, commerce and patriotism ». <em>Art History</em> 7 (4).</td>
 </tr>
 <tr>
-<td class="en">UN Security Council. 2002. “Resolution 1441.” Resolution. United Nations Security Council. [http://digitallibrary.un.org/record/478123.](http://digitallibrary.un.org/record/478123)</td>
-<td>UN Security Council. 2002. « Resolution 1441 ». Resolution. United Nations Security Council. Consulté le 5 février 2021. [http://digitallibrary.un.org/record/478123.](http://digitallibrary.un.org/record/478123)</td>
+<td class="en">UN Security Council. 2002. “Resolution 1441.” Resolution. United Nations Security Council. <a href="http://digitallibrary.un.org/record/478123.">http://digitallibrary.un.org/record/478123</a></td>
+<td>UN Security Council. 2002. « Resolution 1441 ». Resolution. United Nations Security Council. Consulté le 5 février 2021. <a href="http://digitallibrary.un.org/record/478123.">http://digitallibrary.un.org/record/478123</a></td>
 </tr>
 <tr>
 <td class="en">Unger, Harlow Giles. 2015. <em>Mr. President George Washington and the Making of the Nation’s Highest Office.</em> Cambridge; New York: Da Capo Press, Incorporated Perseus Books Group [Distributor.</td>
 <td>Unger, Harlow Giles. 2015. <em>Mr. President George Washington and the Making of the Nation’s Highest Office.</em> Cambridge; New York : Da Capo Press, Incorporated Perseus Books Group [Distributor.</td>
 </tr>
 <tr>
-<td class="en">“Venetian Walls of Heraklion.” 2020. YouInGreece.Com. 2020. [https://youingreece.com/heraklion/venetian-walls.](https://youingreece.com/heraklion/venetian-walls)</td>
-<td>« Venetian Walls of Heraklion ». 2020. YouInGreece.com. 2020. [https://youingreece.com/heraklion/venetian-walls.](https://youingreece.com/heraklion/venetian-walls)</td>
+<td class="en">“Venetian Walls of Heraklion.” 2020. YouInGreece.Com. 2020. <a href="https://youingreece.com/heraklion/venetian-walls.">https://youingreece.com/heraklion/venetian-walls</a></td>
+<td>« Venetian Walls of Heraklion ». 2020. YouInGreece.com. 2020. <a href="https://youingreece.com/heraklion/venetian-walls.">https://youingreece.com/heraklion/venetian-walls</a></td>
 </tr>
 <tr>
 <td class="en">Walker, Mike, Sigfus Johnsen, Sune Olander Rasmussen, Trevor Popp, Jørgen-Peder Steffensen, Phil Gibbard, Wim Hoek, John Lowe, John Andrews, and Svante Björck. 2009. “Formal Definition and Dating of the GSSP (Global Stratotype Section and Point) for the Base of the Holocene Using the Greenland NGRIP Ice Core, and Selected Auxiliary Records.” <em>Journal of Quaternary Science: Published for the Quaternary Research Association</em> 24 (1): 3–17.</td>
@@ -1025,12 +1025,12 @@ date: 2021-06-17
 <td>Watrous, L. Vance, Donald Haggis, Krzysztof Nowicki, Natalia Vogeikoff-Brogan, et Maryanne Schultz. 2012. <em>Archaeological Survey of the Gournia Landscape: A Regional History of the Mirabello Bay, Crete, in Antiquity</em>. Vol. 37. INSTAP Academic Press (Institute for Aegean Prehistory).</td>
 </tr>
 <tr>
-<td class="en">Watson, Michael John. 1990. “Cluster Compounds of Gold and the Platinum Metals.” Ph.D., University of Oxford. [https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.279996.](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.279996)</td>
-<td>Watson, Michael John. 1990. « Cluster compounds of gold and the platinum metals. » Ph.D., University of Oxford. [https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.279996.](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.279996)</td>
+<td class="en">Watson, Michael John. 1990. “Cluster Compounds of Gold and the Platinum Metals.” Ph.D., University of Oxford. <a href="https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.279996.">https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.279996</a></td>
+<td>Watson, Michael John. 1990. « Cluster compounds of gold and the platinum metals. » Ph.D., University of Oxford. <a href="https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.279996.">https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.279996</a></td>
 </tr>
 <tr>
-<td class="en">Wheat, C. 2005. “The Real Queen(s) of Crime.” CLUES: A Journal of Detection 23: 86–90. [https://doi.org/doi:10.3200/CLUS.23.4.87-90.](https://doi.org/doi:10.3200/CLUS.23.4.87-90)</td>
-<td>Wheat, C. 2005. « The Real Queen(s) of Crime ». CLUES: A Journal of Detection 23 : 86‑90. [https://doi.org/doi:10.3200/CLUS.23.4.87-90.](https://doi.org/doi:10.3200/CLUS.23.4.87-90)</td>
+<td class="en">Wheat, C. 2005. “The Real Queen(s) of Crime.” CLUES: A Journal of Detection 23: 86–90. <a href="https://doi.org/doi:10.3200/CLUS.23.4.87-90.">https://doi.org/doi:10.3200/CLUS.23.4.87-90</a></td>
+<td>Wheat, C. 2005. « The Real Queen(s) of Crime ». CLUES: A Journal of Detection 23 : 86‑90. <a href="https://doi.org/doi:10.3200/CLUS.23.4.87-90.">https://doi.org/doi:10.3200/CLUS.23.4.87-90</a></td>
 </tr>
 <tr>
 <td class="en">Whittington, H. 1964. <em>The Fall of the Roman Empire</em>. Greenwich, Conn.: Fawcett.</td>
@@ -1042,11 +1042,11 @@ date: 2021-06-17
 </tr>
 <tr>
 <td class="en">Wiencke, Matthew. 1998. “Johann Winckelmann</td>
-<td>German Art Historian.” In Encyclopedia Britannica. [https://www.britannica.com/biography/Johann-Joachim-Winckelmann.](https://www.britannica.com/biography/Johann-Joachim-Winckelmann)|Wiencke, Matthew. 1998. « Johann Winckelmann|German art historian ». Dans Encyclopedia Britannica. Consulté le 1998. [https://www.britannica.com/biography/Johann-Joachim-Winckelmann.](https://www.britannica.com/biography/Johann-Joachim-Winckelmann)</td>
+<td>German Art Historian.” In Encyclopedia Britannica. <a href="https://www.britannica.com/biography/Johann-Joachim-Winckelmann.">https://www.britannica.com/biography/Johann-Joachim-Winckelmann</a>|Wiencke, Matthew. 1998. « Johann Winckelmann|German art historian ». Dans Encyclopedia Britannica. Consulté le 1998. <a href="https://www.britannica.com/biography/Johann-Joachim-Winckelmann.">https://www.britannica.com/biography/Johann-Joachim-Winckelmann</a></td>
 </tr>
 <tr>
-<td class="en">Wikipedia. 2021. “Et in Arcadia Ego.” In Wikipedia. [https://en.wikipedia.org/w/index.php?title=Et_in_Arcadia_ego&oldid=1003943423.](https://en.wikipedia.org/w/index.php?title=Et_in_Arcadia_ego&oldid=1003943423)</td>
-<td>Wikipedia. 2021. « Et in Arcadia ego ». Dans Wikipedia. Consulté le 31 janvier 2021. [https://en.wikipedia.org/w/index.php?title=Et_in_Arcadia_ego&oldid=1003943423.](https://en.wikipedia.org/w/index.php?title=Et_in_Arcadia_ego&oldid=1003943423)</td>
+<td class="en">Wikipedia. 2021. “Et in Arcadia Ego.” In Wikipedia. <a href="https://en.wikipedia.org/w/index.php?title=Et_in_Arcadia_ego&oldid=1003943423.">https://en.wikipedia.org/w/index.php?title=Et_in_Arcadia_ego&oldid=1003943423</a></td>
+<td>Wikipedia. 2021. « Et in Arcadia ego ». Dans Wikipedia. Consulté le 31 janvier 2021. <a href="https://en.wikipedia.org/w/index.php?title=Et_in_Arcadia_ego&oldid=1003943423.">https://en.wikipedia.org/w/index.php?title=Et_in_Arcadia_ego&oldid=1003943423</a></td>
 </tr>
 <tr>
 <td class="en">Wildfang, Frederic B. 2005. <em>Lake Havasu City</em>. Charleston SC: Arcadia.</td>
@@ -1057,8 +1057,8 @@ date: 2021-06-17
 <td>Williams, A. Susan. 1993. <em>The Greeks.</em> Wayland.</td>
 </tr>
 <tr>
-<td class="en">Williams, John. 2020. Goethe’s Faust. London: Routledge. [https://doi.org/10.4324/9781003006121.](https://doi.org/10.4324/9781003006121)</td>
-<td>Williams, John. 2020. Goethe’s Faust. London : Routledge. [https://doi.org/10.4324/9781003006121.](https://doi.org/10.4324/9781003006121)</td>
+<td class="en">Williams, John. 2020. Goethe’s Faust. London: Routledge. <a href="https://doi.org/10.4324/9781003006121.">https://doi.org/10.4324/9781003006121</a></td>
+<td>Williams, John. 2020. Goethe’s Faust. London : Routledge. <a href="https://doi.org/10.4324/9781003006121.">https://doi.org/10.4324/9781003006121</a></td>
 </tr>
 <tr>
 <td class="en">Willis, Sam. 2010. <em>The ‘Fighting Temeraire’: Legend of Trafalgar</em>. Edition. London: Quercus.</td>

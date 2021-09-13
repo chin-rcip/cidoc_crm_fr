@@ -110,7 +110,7 @@ v71:
     url: /v7.1/classes/E7
   - page: E12 Production
     url: /v7.1/classes/E12
-  - page: E18 Chose matérielle
+  - page: E18 Chose matérielle façonnée
     url: /v7.1/classes/E18
   - page: E19 Objet matériel
     url: /v7.1/classes/E19
@@ -118,7 +118,7 @@ v71:
     url: /v7.1/classes/E20
   - page: E21 Personne
     url: /v7.1/classes/E21
-  - page: E22 Made Object
+  - page: E22 Objet façonné
     url: /v7.1/classes/E22
   - page: E24 Made Thing
     url: /v7.1/classes/E24

@@ -104,32 +104,70 @@ v71:
     url: /v7.1/classes/E4
   - page: E5 Évènement
     url: /v7.1/classes/E5
+  - page: E6 Destruction
+    url: /v7.1/classes/E6
   - page: E7 Activité
     url: /v7.1/classes/E7
   - page: E12 Production
     url: /v7.1/classes/E12
   - page: E18 Chose matérielle
     url: /v7.1/classes/E18
+  - page: E19 Objet matériel
+    url: /v7.1/classes/E19
+  - page: E20 Objet biologique
+    url: /v7.1/classes/E20
   - page: E21 Personne
     url: /v7.1/classes/E21
+  - page: E22 Made Object
+    url: /v7.1/classes/E22
+  - page: E24 Made Thing
+    url: /v7.1/classes/E24
+  - page: E33 Objet linguistique
+    url: /v7.1/classes/E33
+  - page: E36 Entité visuelle
+    url: /v7.1/classes/E36
+  - page: E37 Marque
+    url: /v7.1/classes/E37
   - page: E39 Acteur
     url: /v7.1/classes/E39
+  - page: E41 Appellation
+    url: /v7.1/classes/E41
+  - page: E42 Identifiant
+    url: /v7.1/classes/E42
   - page: E52 Intervalle temporel
     url: /v7.1/classes/E52
+  - page: E53 Lieu
+    url: /v7.1/classes/E53
   - page: E63 Début d’Existence
     url: /v7.1/classes/E63
   - page: E64 Fin d’existence
     url: /v7.1/classes/E64
+  - page: E65 Création
+    url: /v7.1/classes/E65
+  - page: E66 Formation
+    url: /v7.1/classes/E66
   - page: E67 Naissance
     url: /v7.1/classes/E67
+  - page: E68 Dissolution
+    url: /v7.1/classes/E68
+  - page: E69 Mort
+    url: /v7.1/classes/E69
   - page: E70 Chose
     url: /v7.1/classes/E70
   - page: E72 Objet juridique
     url: /v7.1/classes/E72
+  - page: E73 Objet informationnel
+    url: /v7.1/classes/E73
   - page: E74 Groupe
     url: /v7.1/classes/E74
+  - page: E77 Entité persistante
+    url: /v7.1/classes/E77
   - page: E81 Transformation
     url: /v7.1/classes/E81
+  - page: E83 Création de type
+    url: /v7.1/classes/E83
+  - page: E90 Objet symbolique
+    url: /v7.1/classes/E90
 
 - title: PROPRIÉTÉS
   group: proprietes
@@ -142,6 +180,18 @@ v71:
     url: /v7.1/proprietes/P2
   - page: P3 a pour note
     url: /v7.1/proprietes/P3
+  - page: P4 a pour intervalle temporel (est l’intervalle temporel de)
+    url: /v7.1/proprietes/P4
+  - page: P7 a eu lieu dans (a été témoin de)
+    url: /v7.1/proprietes/P7
+  - page: P8 a eu lieu à (a été témoin de)
+    url: /v7.1/proprietes/P8
+  - page: P9 comprend (fait partie de)
+    url: /v7.1/proprietes/P9
+  - page: P11 a eu pour participant (a participé à)
+    url: /v7.1/proprietes/P11
+  - page: P12 a eu lieu en présence de (a été présent à)
+    url: /v7.1/proprietes/P12
 
 - title: Bibliographie originale
   url: /v7.1/bibliographie-originale

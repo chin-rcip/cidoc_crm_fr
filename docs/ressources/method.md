@@ -131,7 +131,7 @@ Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veu
 
 ## Contact {#contact-fr}
 
-Si vous désirez obtenir une copie des gabarits et des protocoles utilisés afin d’entamer une traduction du CIDOC CRM, ou pour toute autre question à cet égard, veuillez nous contacter au [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) en indiquant « Traduction du CIDOC CRM » dans l’objet du courriel.
+Si vous désirez obtenir une copie des gabarits et des protocoles utilisés afin d’entamer une traduction du CIDOC CRM, ou pour toute autre question à cet égard, veuillez nous contacter au [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca) en indiquant « Traduction du CIDOC CRM » dans l’objet du courriel.
 
 ---
 
@@ -259,4 +259,4 @@ For more details about how the Translation Group operates, please consult the [M
 
 ## Contact {#contact-en}
 
-If you would like a copy of the templates and protocols used to begin translating the CIDOC CRM, or if you have any other questions about the translation of the CIDOC CRM, please contact us at [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) and put “CIDOC CRM Translation” in the subject line.
+If you would like a copy of the templates and protocols used to begin translating the CIDOC CRM, or if you have any other questions about the translation of the CIDOC CRM, please contact us at [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca) and put “CIDOC CRM Translation” in the subject line.

@@ -19,7 +19,7 @@ date: 2021-05-06
 
 ## Signaler un problème de traduction {#signaler-un-probleme-de-traduction}
 
-Si vous désirez signaler un problème de traduction, vous pouvez nous contacter au [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) en indiquant « Traduction du CIDOC CRM » dans l’objet du courriel et en détaillant la nature du problème dans le corps du courriel.
+Si vous désirez signaler un problème de traduction, vous pouvez nous contacter au [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca) en indiquant « Traduction du CIDOC CRM » dans l’objet du courriel et en détaillant la nature du problème dans le corps du courriel.
 
 Veuillez indiquer :
 
@@ -45,7 +45,7 @@ Le Groupe évalue toutes les demandes d’adhésion reçues sur la base des crit
 
 Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veuillez consulter la section [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement).
 
-Si vous désirez poser votre candidature, veuillez nous transmettre au [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) un curriculum vitæ à jour, une lettre de présentation et un échantillon de texte attestant vos capacités de rédaction.
+Si vous désirez poser votre candidature, veuillez nous transmettre au [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca) un curriculum vitæ à jour, une lettre de présentation et un échantillon de texte attestant vos capacités de rédaction.
 
 
 ---
@@ -63,7 +63,7 @@ Si vous désirez poser votre candidature, veuillez nous transmettre au [pch.RCIP
 
 ## Report a translation issue
 
-If you wish to report a translation issue, please contact us at [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca). Put “CIDOC CRM Translation” in the subject line and give details about the nature of the issue in the body of your email.
+If you wish to report a translation issue, please contact us at [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca). Put “CIDOC CRM Translation” in the subject line and give details about the nature of the issue in the body of your email.
 
 Please indicate:
 
@@ -89,4 +89,4 @@ The Group evaluates all membership requests using the following criteria:
 
 For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement) section (available only in French).
 
-If you wish to apply, please send your current resumé to [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca) along with a cover letter and a writing sample demonstrating your writing skills.
+If you wish to apply, please send your current resumé to [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca) along with a cover letter and a writing sample demonstrating your writing skills.

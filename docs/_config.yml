@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Traduction en français du CIDOC CRM
-email: pch.RCIP-CHIN.pch@canada.ca
+email: rcip-chin@pch.gc.ca
 description: >- # this means to ignore newlines until "baseurl:"
   La traduction de l’anglais vers le français de la documentation afférente au CIDOC CRM.
 baseurl: "/cidoc_crm_fr-ca" # the subpath of your site, e.g. /blog

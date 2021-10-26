@@ -18,7 +18,7 @@ En 2014, une version en français du CIDOC CRM a été publiée sous le titre *I
 
 Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place par des intervenants du milieu patrimonial francophone canadien afin de rendre ce standard disponible sous licence ouverte et gratuitement, et ce avec l’aval du CRM SIG. Les résultats de ces travaux seront donc accessibles à l’ensemble de la communauté patrimoniale internationale et francophone.
 
-> *Avertissement : Cette traduction en français du CIDOC CRM est actuellement en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*
+> *Avertissement : Cette traduction en français du CIDOC CRM est en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*
 
 
 ## Dates

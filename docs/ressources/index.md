@@ -655,8 +655,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="even">
 <td>P16</td>
 <td>used specific object (was used for)</td>
-<td>a utilisé l'objet spécifique (a été utilisé pour)</td>
-<td><code class="language-plaintext highlighter-rouge">P16_a_utilisé_l’objet_spécifique (a_été_utilisé_pour)</code> </td>
+<td>a mobilisé l'objet spécifique (a été mobilisé pour)</td>
+<td><code class="language-plaintext highlighter-rouge">P16_a_mobilisé_l’objet_spécifique (a_été_mobilisé_pour)</code> </td>
 </tr>
 <tr class="odd">
 <td>P17</td>
@@ -753,16 +753,16 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="odd">
 <td>P32</td>
 <td>used general technique (was technique of)</td>
-<td>a utilisé comme technique générale (a été une technique générale mise en œuvre dans)</td>
-<td><p><code class="language-plaintext highlighter-rouge">P32_a_utilisé_comme_technique_générale (a_été_une_technique_générale_mise_en_œuvre_dans)</code> </p>
+<td>a mobilisé comme technique générale (a été une technique générale mise en œuvre dans)</td>
+<td><p><code class="language-plaintext highlighter-rouge">P32_a_mobilisé_comme_technique_générale (a_été_une_technique_générale_mise_en_œuvre_dans)</code> </p>
 <p>Une technique spécifique plutôt que la puisqu'il est possible que ce ne soit pas la seule.</p>
 <p>Générique est un anglicisme de sorte que nous avons préféré générale.</p></td>
 </tr>
 <tr class="even">
 <td>P33</td>
 <td>used specific technique (was used by)</td>
-<td>a utilisé comme technique spécifique (a été une technique spécifique mise en œuvre dans)</td>
-<td><p><code class="language-plaintext highlighter-rouge">P33_a_utilisé_comme_technique_spécifique (a_été_une_technique_spécifique_mise_en_œuvre_dans)</code> </p>
+<td>a mobilisé comme technique spécifique (a été une technique spécifique mise en œuvre dans)</td>
+<td><p><code class="language-plaintext highlighter-rouge">P33_a_mobilisé_comme_technique_spécifique (a_été_une_technique_spécifique_mise_en_œuvre_dans)</code> </p>
 <p>Une technique spécifique plutôt que la puisqu'il est possible que ce ne soit pas la seule.</p></td>
 </tr>
 <tr class="odd">
@@ -1208,8 +1208,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="even">
 <td>P125</td>
 <td>used object of type (was type of object used in)</td>
-<td>a utilisé un objet du type (a été le type d’objet employé pour)</td>
-<td><code class="language-plaintext highlighter-rouge">P125_a_utilisé_un_objet_du_type (a_été_le_type_d’objet_employé_pour)</code> </td>
+<td>a mobilisé un objet du type (a été le type d’objet employé pour)</td>
+<td><code class="language-plaintext highlighter-rouge">P125_a_mobilisé_un_objet_du_type (a_été_le_type_d’objet_employé_pour)</code> </td>
 </tr>
 <tr class="odd">
 <td>P126</td>
@@ -1306,8 +1306,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="even">
 <td>P142</td>
 <td>used constituent (was used in)</td>
-<td>a utilisé comme élément (a été utilisé dans)</td>
-<td><code class="language-plaintext highlighter-rouge">P142_a_utilisé_comme_élément (a_été_utilisé_dans)</code> </td>
+<td>a mobilisé comme élément (a été mobilisé dans)</td>
+<td><code class="language-plaintext highlighter-rouge">P142_a_mobilisé_comme_élément (a_été_mobilisé_dans)</code> </td>
 </tr>
 <tr class="odd">
 <td>P143</td>
@@ -1633,8 +1633,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="odd">
 <td>PC16</td>
 <td>used specific object</td>
-<td>A utilisé l'objet spécifique (A été utilisé pour)</td>
-<td><code class="language-plaintext highlighter-rouge">PC16_A_utilisé_l’objet_spécifique (A_été_utilisé_pour)</code> </td>
+<td>A mobilisé l'objet spécifique (A été mobilisé pour)</td>
+<td><code class="language-plaintext highlighter-rouge">PC16_A_mobilisé_l’objet_spécifique (A_été_mobilisé_pour)</code> </td>
 </tr>
 <tr class="even">
 <td>P16.1</td>

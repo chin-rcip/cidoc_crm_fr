@@ -185,22 +185,22 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="even">
 <td>E22</td>
 <td>Human-Made Object</td>
-<td>Objet façonné</td>
-<td><p><code class="language-plaintext highlighter-rouge">E22_Objet_façonné</code> </p>
+<td>Objet élaboré par l’humain</td>
+<td><p><code class="language-plaintext highlighter-rouge">E22_Objet_élaboré_par_l’humain</code> </p>
 <p>La fabrication repose sur le fait d'utiliser des matières premières de manière à imiter un original alors que le façonnement reflète le fait qu'il s'agit d'une chose faite par l'humain sans reposer sur le fait d'utiliser des matières premières, ce qui est plus près de la définition originale. Ce terme a été préféré à « fabriqué » car il signale la notion de fabrication faite par l’humain plus précisément alors que la « fabrication » en général pourrait relever d’autres agents. </p></td>
 </tr>
 <tr class="odd">
 <td>E24</td>
 <td>Physical Human-Made Thing</td>
-<td>Chose matérielle façonnée</td>
-<td><p><code class="language-plaintext highlighter-rouge">E24_Chose_matérielle_façonnée</code> </p>
+<td>Chose matérielle élaborée par l’humain</td>
+<td><p><code class="language-plaintext highlighter-rouge">E24_Chose_matérielle_élaborée_par_l’humain</code> </p>
 <p>La fabrication repose sur le fait d'utiliser des matières premières de manière à imiter un original alors que le façonnement reflète le fait qu'il s'agit d'une chose faite par l'humain sans reposer sur le fait d'utiliser des matières premières, ce qui est plus près de la définition originale.</p></td>
 </tr>
 <tr class="even">
 <td>E25</td>
 <td>Human-Made Feature</td>
-<td>Caractéristique façonnée</td>
-<td><p><code class="language-plaintext highlighter-rouge">E25_Caractéristique_façonnée</code> </p>
+<td>Caractéristique élaborée par l’humain</td>
+<td><p><code class="language-plaintext highlighter-rouge">E25_Caractéristique_élaborée_par_l’humain</code> </p>
 <p>La fabrication repose sur le fait d'utiliser des matières premières de manière à imiter un original alors que le façonnement reflète le fait qu'il s'agit d'une chose faite par l'humain sans reposer sur le fait d'utiliser des matières premières, ce qui est plus près de la définition originale.</p></td>
 </tr>
 <tr class="odd">
@@ -280,7 +280,7 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <td>E39</td>
 <td>Actor</td>
 <td>Acteur</td>
-<td><p><code class="language-plaintext highlighter-rouge">E39_Acteur</code> </p>
+<td><p><code class="language-plaintext highlighter-rouge">E39_Actant</code> </p>
 <p>L'introduction de CIDOC CRM fait usage du terme Agent pour référer à des entités actantes qui ne sont pas définies comme des personnes ou des groupes. Il semble donc préférable de s'en tenir à Acteur ici afin d'utiliser Agent autre part.</p></td>
 </tr>
 <tr class="even">
@@ -413,8 +413,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="odd">
 <td>E71</td>
 <td>Human-Made Thing</td>
-<td>Chose façonnée</td>
-<td><p><code class="language-plaintext highlighter-rouge">E71_Chose_façonnée</code> </p>
+<td>Chose élaborée par l’humain</td>
+<td><p><code class="language-plaintext highlighter-rouge">E71_Chose_élaborée_par_l’humain</code> </p>
 <p>L'utilisation du terme façonnée est cohérente avec les autres appellations comparables.</p></td>
 </tr>
 <tr class="even">
@@ -621,8 +621,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="odd">
 <td>P11</td>
 <td>had participant (participated in)</td>
-<td>a eu pour participant (a participé à)</td>
-<td><p><code class="language-plaintext highlighter-rouge">P11_a_eu_pour_participant (a_participé_à)</code> </p>
+<td>a eu pour actant participant (a participé à)</td>
+<td><p><code class="language-plaintext highlighter-rouge">P11_a_eu_pour_actant_participant (a_participé_à)</code> </p>
 <p>Puisque l'action est précise et achevée ("<em>instances of E53 Place and E52 Time-Span where and when these events happened provide us with constraints about the presence of the related instances of E39 Actor in the past</em>") plutôt que d'être en cours, l'utilisation du passé composé semble préférable à l'imparfait.</p></td>
 </tr>
 <tr class="even">
@@ -858,15 +858,15 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="even">
 <td>P49</td>
 <td>has former or current keeper (is former or current keeper of)</td>
-<td>a pour détenteur actuel ou antérieur (est détenteur actuel ou antérieur de)</td>
-<td><p><code class="language-plaintext highlighter-rouge">P49_a_pour_détenteur_actuel_ou_antérieur (est_détenteur_actuel_ou_antérieur_de)</code> </p>
+<td>a pour actant détenteur actuel ou antérieur (est actant détenteur actuel ou antérieur de)</td>
+<td><p><code class="language-plaintext highlighter-rouge">P49_a_pour_actant_détenteur_actuel_ou_antérieur (est_actant_détenteur_actuel_ou_antérieur_de)</code> </p>
 <p>L'utilisation du terme détenteur semble préférable dans la mesure où il reconnaît à la fois la responsabilité légale ainsi que la détention de l'objet, ce à quoi le terme "keeper" fait allusion (en plus de la définition qui parle de "custody" et non pas de "responsibility"</p></td>
 </tr>
 <tr class="odd">
 <td>P50</td>
 <td>has current keeper (is current keeper of)</td>
-<td>a pour détenteur actuel (est détenteur actuel de)</td>
-<td><p><code class="language-plaintext highlighter-rouge">P50_a_pour_détenteur_actuel (est_détenteur_actuel_de)</code> </p>
+<td>a pour actant détenteur actuel (est actant détenteur actuel de)</td>
+<td><p><code class="language-plaintext highlighter-rouge">P50_a_pour_actant_détenteur_actuel (est_actant_détenteur_actuel_de)</code> </p>
 <p>L'utilisation du terme détenteur semble préférable dans la mesure où il reconnaît à la fois la responsabilité légale ainsi que la détention de l'objet, ce à quoi le terme "keeper" fait allusion (en plus de la définition qui parle de "custody" et non pas de "responsibility"</p></td>
 </tr>
 <tr class="even">
@@ -1152,8 +1152,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="odd">
 <td>P109</td>
 <td>has current or former curator (is current or former curator of)</td>
-<td>a pour conservateur actuel ou antérieur (est conservateur actuel ou antérieur de)</td>
-<td><code class="language-plaintext highlighter-rouge">P109_a_pour_conservateur_actuel_ou_antérieur (est_conservateur_actuel_ou_antérieur_de)</code> </td>
+<td>a pour actant en charge de la collection actuellement ou antérieurement (est actuellement ou antérieurement en charge de la collection de)</td>
+<td><code class="language-plaintext highlighter-rouge">P109_a_pour_actant_en_charge_de_la_collection_actuellement_ou_antérieurement (est_actuellement_ou_antérieurement_en_charge_de_la_collection_de)</code> </td>
 </tr>
 <tr class="even">
 <td>P110</td>

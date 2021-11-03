@@ -110,7 +110,7 @@ v71:
     url: /v7.1/classes/E7
   - page: E12 Production
     url: /v7.1/classes/E12
-  - page: E18 Chose matérielle façonnée
+  - page: E18 Chose matérielle
     url: /v7.1/classes/E18
   - page: E19 Objet matériel
     url: /v7.1/classes/E19
@@ -118,9 +118,9 @@ v71:
     url: /v7.1/classes/E20
   - page: E21 Personne
     url: /v7.1/classes/E21
-  - page: E22 Objet façonné
+  - page: E22 Objet élaboré par l’humain
     url: /v7.1/classes/E22
-  - page: E24 Made Thing
+  - page: E24 Chose matérielle élaborée par l’humain
     url: /v7.1/classes/E24
   - page: E33 Objet linguistique
     url: /v7.1/classes/E33
@@ -128,7 +128,7 @@ v71:
     url: /v7.1/classes/E36
   - page: E37 Marque
     url: /v7.1/classes/E37
-  - page: E39 Acteur
+  - page: E39 Actant
     url: /v7.1/classes/E39
   - page: E41 Appellation
     url: /v7.1/classes/E41
@@ -188,7 +188,7 @@ v71:
     url: /v7.1/proprietes/P8
   - page: P9 comprend (fait partie de)
     url: /v7.1/proprietes/P9
-  - page: P11 a eu pour participant (a participé à)
+  - page: P11 a eu pour actant participant (a participé à)
     url: /v7.1/proprietes/P11
   - page: P12 a eu lieu en présence de (a été présent à)
     url: /v7.1/proprietes/P12

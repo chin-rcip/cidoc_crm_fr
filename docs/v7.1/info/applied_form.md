@@ -210,14 +210,14 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |E19|-|-|-|-|-|<span class="en">Physical Object </span>`E19_Objet_matériel`|||||
 |E20|-|-|-|-|-|-|<span class="en">Biological Object </span>`E20_Objet_biologique`||||
 |E21|-|-|-|-|-|-|-|<span class="en">Person </span>`E21_Personne`|||
-|E22|-|-|-|-|-|-|<span class="en">Human-Made Object </span>`E22_Objet_façonné`||||
-|E24|-|-|-|-|-|<span class="en">Physical Human-Made Thing </span>`E24_Chose_matérielle_façonnée`|||||
-|E22|-|-|-|-|-|-|<span class="en"><em>Human-Made Object  </em></span>*`E22_Objet_façonné`*          ||||
-|E25|-|-|-|-|-|-|<span class="en">Human-Made Feature </span>`E25_Caractéristique_façonnée`||||
+|E22|-|-|-|-|-|-|<span class="en">Human-Made Object </span>`E22_Objet_élaboré_par_l’humain`||||
+|E24|-|-|-|-|-|<span class="en">Physical Human-Made Thing </span>`E24_Chose_matérielle_élaborée_par_l’humain`|||||
+|E22|-|-|-|-|-|-|<span class="en"><em>Human-Made Object  </em></span>*`E22_Objet_élaboré_par_l’humain`*          ||||
+|E25|-|-|-|-|-|-|<span class="en">Human-Made Feature </span>`E25_Caractéristique_élaborée_par_l’humain`||||
 |E78|-|-|-|-|-|-|<span class="en">Curated Holding </span>`E78_Collection`||||
 |E26|-|-|-|-|-|<span class="en">Physical Feature </span>`E26_Caractéristique_physique`|||||
 |E27|-|-|-|-|-|-|<span class="en">Site </span>`E27_Site`||||
-|E25|-|-|-|-|-|-|<span class="en"><em>Human-Made Feature  </em></span>*`E25_Caractéristique_façonnée`*    ||||
+|E25|-|-|-|-|-|-|<span class="en"><em>Human-Made Feature  </em></span>*`E25_Caractéristique_élaborée_par_l’humain`*    ||||
 |E90|-|-|-|-|<span class="en">Symbolic Object E90_Objet_symbolique             ||||||
 |E73|-|-|-|-|-|<span class="en">Information Object </span>`E73_Objet_informationnel`|||||
 |E29|-|-|-|-|-|-|<span class="en">Design or Procedure </span>`E29_Conceptualisation_ou_procédure`||||
@@ -235,10 +235,10 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |E95|-|-|-|-|-|-|<span class="en">Spacetime Primitive </span>`E95_Primitive_spatio-temporelle`||||
 |E94|-|-|-|-|-|-|<span class="en">Space Primitive </span>`E94_Primitive_spatiale`||||
 |E61|-|-|-|-|-|-|<span class="en">Time Primitive </span>`E61_Primitive_temporelle`||||
-|E71|-|-|-|<span class="en">Human-Made Thing </span>`E71_Chose_façonnée`|||||||
-|E24|-|-|-|-|<span class="en"><em>Physical Human-Made Thing  </em></span>*`E24_Chose_matérielle_façonnée`* ||||||
-|E22|-|-|-|-|-|<span class="en"><em>Human-Made Object  </em></span>*`E22_Objet_façonné`*          |||||
-|E25|-|-|-|-|-|<span class="en"><em>Human-Made Feature  </em></span>*`E25_Caractéristique_façonnée`*    |||||
+|E71|-|-|-|<span class="en">Human-Made Thing </span>`E71_Chose_élaborée_par_l’humain`|||||||
+|E24|-|-|-|-|<span class="en"><em>Physical Human-Made Thing  </em></span>*`E24_Chose_matérielle_élaborée_par_l’humain`* ||||||
+|E22|-|-|-|-|-|<span class="en"><em>Human-Made Object  </em></span>*`E22_Objet_élaboré_par_l’humain`*          |||||
+|E25|-|-|-|-|-|<span class="en"><em>Human-Made Feature  </em></span>*`E25_Caractéristique_élaborée_par_l’humain`*    |||||
 |E78|-|-|-|-|-|<span class="en"><em>Curated Holding  </em></span>*`E78_Collection`*             |||||
 |E28|-|-|-|-|<span class="en">Conceptual Object </span>`E28_Objet_conceptuel`||||||
 |E90|-|-|-|-|-|<span class="en"><em>Symbolique Object  </em></span>*`E90_Objet_symbolique`*         |||||
@@ -276,7 +276,7 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |E58|-|-|-|-|-|-|<span class="en">Measurement Unit </span>`E58_Unité_de_mesure`||||
 |E98|-|-|-|-|-|-|-|<span class="en">Currency </span>`E98_Monnaie`|||
 |E99|-|-|-|-|-|-|<span class="en">Product Type </span>`E99_Modèle_de_produit`||||
-|E39|-|-|<span class="en">Actor </span>`E39_Acteur`||||||||
+|E39|-|-|<span class="en">Actor </span>`E39_Actant`||||||||
 |E74|-|-|-|<span class="en">Group </span>`E74_Groupe`|||||||
 |E21|-|-|-|<span class="en"><em>Person  </em></span>*`E21_Personne`*        |||||||
 |E52|-|<span class="en">Time-Span </span>`E52_Intervalle_temporel`|||||||||
@@ -342,7 +342,7 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |**<span class="en">Property id - </span> Identifiant unique de propriété**|**<span class="en">Property Name - </span> Nom de la propriété**||||||**<span class="en">Entity Domain - </span> Domaine**|**<span class="en">Entity Range - </span> Portée**|
 |P1|<span class="en">is identified by (identifies) </span>`P1_est_identifié_par (identifie)`||||||<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|<span class="en">E41 Appellation </span>`E41_Appellation`|
 |P48|-|<span class="en">has preferred identifier (is preferred identifier of) </span>`P48_a_pour_identifiant_préférentiel (est_identifiant_préférentiel_de)`|||||<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|<span class="en">E42 Identifier </span>`E42_Identifiant`|
-|P102|-|<span class="en">has title (is title of) </span>`P102_a_pour_titre (est_titre_de)`|||||<span class="en">E71 Human-Made Thing </span>`E71_Chose_façonnée`|<span class="en">E35 Title </span>`E35_Titre`|
+|P102|-|<span class="en">has title (is title of) </span>`P102_a_pour_titre (est_titre_de)`|||||<span class="en">E71 Human-Made Thing </span>`E71_Chose_élaborée_par_l’humain`|<span class="en">E35 Title </span>`E35_Titre`|
 |P1i|<span class="en">identifies </span>`P1i_identifie`||||||<span class="en">E41 Appellation </span>`E41_Appellation`|<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|
 |P168|-|<span class="en">place is defined by (defines place) </span>`P168_lieu_défini_par (définit_le_lieu)`|||||<span class="en">E53 Place </span>`E53_Lieu`|<span class="en">E94 Space Primitive </span>`E94_Primitive_spatiale`|
 |P169|-|<span class="en">defines spacetime volume (spacetime volume is defined by) </span>`P169_volume_spatio-temporel_défini_par (définit_le_volume_spatio-temporel)`|||||<span class="en">E95 Spacetime Primitive </span>`E95_Primitive_spatio-temporelle`|<span class="en">E92 Spacetime Volume </span>`E92_Volume_spatio-temporel`|
@@ -361,17 +361,17 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |P12|<span class="en">occured in the presence of (was present at) </span>`P12_a_eu_lieu_en_présence_de (a_été_présent_à)`||||||<span class="en">E5 Event </span>`E5_Évènement`|<span class="en">E77 Persistent Item </span>`E77_Entité_persistante`|
 |P111|-|<span class="en">added (was added by) </span>`P111_a_ajouté (a_été_ajouté_par)`|||||<span class="en">E79 Part Addition </span>`E79_Ajout_d’élément`|<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|
 |P113|-|<span class="en">removed (was removed by) </span>`P113_a_retiré (a_été_retiré_par)`|||||<span class="en">P80 Part Removal </span>`E80_Retrait_d’élément`|<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|
-|P11|-|<span class="en">had participant (participated in) </span>`P11_a_eu_pour_participant (a_participé_à)`|||||<span class="en">E5 Event </span>`E5_Évènement`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P14|-|-|<span class="en">carried out by (performed) </span>`P14_a_été_effectué_par (a_effectué)`||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P22|-|-|-|<span class="en">transferred title to (acquired title through) </span>`P22_a_transféré_le_titre_de_propriété_à (a_acquis_le_titre_de_propriété_par)`|||<span class="en">E8 Acquisition </span>`E8_Acquisition`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P23|-|-|-|<span class="en">transferred title from (surrendered title through) </span>`P23_a_transféré_le_titre_de_propriété_de (a_cédé_le_titre_de_propriété_à)`|||<span class="en">E8 Acquisition </span>`E8_Acquisition`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P28|-|-|-|<span class="en">Custody surrendered by (surrendered custody through) </span>`P28_a_mis_fin_à_la_garde_par (a_cédé_la_garde_par)`|||<span class="en">E10 Transfer of Custody </span>`E10_Transfert_de_la_garde`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P29|-|-|-|<span class="en">custody received by (received custody through) </span>`P29_a_confié_la_garde_par (a_reçu_la_garde_par)`|||<span class="en">E10 Transfer of Custody </span>`E10_Transfert_de_la_garde`|<span class="en">E39 Actor </span>`E39_Acteur`|
+|P11|-|<span class="en">had participant (participated in) </span>`P11_a_eu_pour_actant_participant (a_participé_à)`|||||<span class="en">E5 Event </span>`E5_Évènement`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P14|-|-|<span class="en">carried out by (performed) </span>`P14_a_été_effectué_par (a_effectué)`||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P22|-|-|-|<span class="en">transferred title to (acquired title through) </span>`P22_a_transféré_le_titre_de_propriété_à (a_acquis_le_titre_de_propriété_par)`|||<span class="en">E8 Acquisition </span>`E8_Acquisition`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P23|-|-|-|<span class="en">transferred title from (surrendered title through) </span>`P23_a_transféré_le_titre_de_propriété_de (a_cédé_le_titre_de_propriété_à)`|||<span class="en">E8 Acquisition </span>`E8_Acquisition`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P28|-|-|-|<span class="en">Custody surrendered by (surrendered custody through) </span>`P28_a_mis_fin_à_la_garde_par (a_cédé_la_garde_par)`|||<span class="en">E10 Transfer of Custody </span>`E10_Transfert_de_la_garde`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P29|-|-|-|<span class="en">custody received by (received custody through) </span>`P29_a_confié_la_garde_par (a_reçu_la_garde_par)`|||<span class="en">E10 Transfer of Custody </span>`E10_Transfert_de_la_garde`|<span class="en">E39 Actor </span>`E39_Actant`|
 |P96|-|-|<span class="en">by mother (gave birth) </span>`P96_de_mère (a_donné_naissance_à)`||||<span class="en">E67 Birth </span>`E67_Naissance`|<span class="en">E21 Person </span>`E21_Personne`|
 |P99|-|-|<span class="en">dissolved (was dissolved by) </span>`P99_a_dissout (a_été_dissout_par)`||||<span class="en">E68 Dissolution </span>`E68_Dissolution`|<span class="en">E74 Group </span>`E74_Groupe`|
-|P143|-|-|<span class="en">joined (was joined by) </span>`P143_a_fait_adhérer (a_adhéré_par)`||||<span class="en">E85 Joining </span>`E85_Adhésion`|<span class="en">E39 Actor </span>`E39_Acteur`|
+|P143|-|-|<span class="en">joined (was joined by) </span>`P143_a_fait_adhérer (a_adhéré_par)`||||<span class="en">E85 Joining </span>`E85_Adhésion`|<span class="en">E39 Actor </span>`E39_Actant`|
 |P144|-|-|<span class="en">joined with (gained memeber by) </span>`P144_a_fait_adhérer_à (a_accueilli_un_membre_par)`||||<span class="en">E85 Joining </span>`E85_Adhésion`|<span class="en">E74 Group </span>`E74_Groupe`|
-|P145|-|-|<span class="en">separated (left by) </span>`P145_a_dissocié_de (s’est_dissocié_par)`||||<span class="en">E86 Leaving </span>`E86_Départ`|<span class="en">E39 Actor </span>`E39_Acteur`|
+|P145|-|-|<span class="en">separated (left by) </span>`P145_a_dissocié_de (s’est_dissocié_par)`||||<span class="en">E86 Leaving </span>`E86_Départ`|<span class="en">E39 Actor </span>`E39_Actant`|
 |P146|-|-|<span class="en">separated from (lost member by) </span>`P146_s’est_dissocié_par (a_perdu_un_membre_par)`||||<span class="en">E86 Leaving </span>`E86_Départ`|<span class="en">E74 Group </span>`E74_Groupe`|
 |P151|-|-|<span class="en">was formed from (participated in) </span>`P151_a_été_formé_de (a_participé_à)`||||<span class="en">E66 Formation </span>`E66_Formation`|<span class="en">E74 Group </span>`E74_Groupe`|
 |P16|-|<span class="en">used specific object (was used for) </span>`P16_a_utilisé_l’objet_spécifique (a_été_utilisé_pour)`|||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E70 Thing </span>`E70_Chose`|
@@ -380,15 +380,15 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |P142|-|-|<span class="en">used constituent (was used in) </span>`P142_a_utilisé_comme_élément (a_été_utilisé_dans)`||||<span class="en">E15 Identifier Assignment </span>`E15_Attribution_d’identifiant`|<span class="en">E90 Symbolic Object </span>`E90_Objet_symbolique`|
 |P25|-|<span class="en">moved (moved by) </span>`P25_a_déplacé (a_été_déplacé_par)`|||||<span class="en">E9 Move </span>`E9_Déplacement`|<span class="en">E19 Physical Object </span>`E19_Objet_matériel`|
 |P31|-|<span class="en">has modified (was modified by) </span>`P31_a_modifié (a_été_modifié_par)`|||||<span class="en">E11 Modification </span>`E11_Modification`|<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|
-|P108|-|-|<span class="en">has produced (was produced by) </span>`P108_a_produit (a_été_produit_par)`||||<span class="en">E12 Production </span>`E12_Production`|<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_façonnée`|
-|P110|-|-|<span class="en">augmented (was augmented by) </span>`P110_a_augmenté (a_été_augmenté_par)`||||<span class="en">E79 Part Addition </span>`E79_Ajout_d’élément`|<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_façonnée`|
-|P112|-|-|<span class="en">diminished (was diminished by) </span>`P112_a_diminué (a_été_diminué_par)`||||<span class="en">P80 Part Removal </span>`E80_Retrait_d’élément`|<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_façonnée`|
+|P108|-|-|<span class="en">has produced (was produced by) </span>`P108_a_produit (a_été_produit_par)`||||<span class="en">E12 Production </span>`E12_Production`|<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_élaborée_par_l’humain`|
+|P110|-|-|<span class="en">augmented (was augmented by) </span>`P110_a_augmenté (a_été_augmenté_par)`||||<span class="en">E79 Part Addition </span>`E79_Ajout_d’élément`|<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_élaborée_par_l’humain`|
+|P112|-|-|<span class="en">diminished (was diminished by) </span>`P112_a_diminué (a_été_diminué_par)`||||<span class="en">P80 Part Removal </span>`E80_Retrait_d’élément`|<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_élaborée_par_l’humain`|
 |P92|-|<span class="en">brought into existence (was brought into existence by) </span>`P92_a_fait_exister (a_commencé_à_exister_par)`|||||<span class="en">E63 Beginning of Existence </span>`E63_Début_d’existence`|<span class="en">E77 Persistent Item </span>`E77_Entité_persistante`|
 |P94|-|-|<span class="en">has created (was creates by) </span>`P94_a_créé (a_été_créé_par)`||||<span class="en">E65 Creation </span>`E65_Création`|<span class="en">E28 Conceptual Object </span>`E28_Objet_conceptuel`|
 |P135|-|-|-|<span class="en">created type (was created by) </span>`P135_a_créé_le_type (a_été_créé_par)`|||<span class="en">E83 Type Creation </span>`E83_Création_de_type`|<span class="en">E55 Type </span>`E55_Type`|
 |P95|-|-|<span class="en">has formed (was formed by) </span>`P95_a_fondé (a_été_fondé_par)`||||<span class="en">E66 Formation </span>`E66_Formation`|<span class="en">E74 Group </span>`E74_Groupe`|
 |P98|-|-|<span class="en">brought into life (was born) </span>`P98_a_donné_vie_à (a_été_dissous_par)`||||<span class="en">E67 Birth </span>`E67_Naissance`|<span class="en">E21 Person </span>`E21_Personne`|
-|P108|-|-|<span class="en">has produced (was produced by) </span>`P108_a_produit (a_été_produit_par)`||||<span class="en">E12 Production </span>`E12_Production`|<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_façonnée`|
+|P108|-|-|<span class="en">has produced (was produced by) </span>`P108_a_produit (a_été_produit_par)`||||<span class="en">E12 Production </span>`E12_Production`|<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_élaborée_par_l’humain`|
 |P123|-|-|<span class="en">resulted in (resutled from) </span>`P123_a_eu_pour_résultat (a_résulté_de)`||||<span class="en">E81 Transformation </span>`E81_Transformation`|<span class="en">E77 Persistent Item </span>`E77_Entité_persistante`|
 |P93|-|<span class="en">took out of existence (was taken out of existence by) </span>`P93_a_mis_fin_à_l’existence_de (a_cessé_d’exister_par)`|||||<span class="en">E64 End of Existence </span>`E64_Fin_d’existence`|<span class="en">E77 Persistent Item </span>`E77_Entité_persistante`|
 |P13|-|-|<span class="en">destroyed (was destroyed by) </span>`P13_a_détruit (a_été_détruit_par)`||||<span class="en">E6 Destruction </span>`E6_Destruction`|<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|
@@ -403,7 +403,7 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |P17|-|<span class="en">was motivated by (motivated) </span>`P17_a_été_motivé_par (a_motivé)`|||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|
 |P134|-|<span class="en">continued (was continued by) </span>`P134_a_continué (a_été_continué_par)`|||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E7 Activity </span>`E7_Activité`|
 |P136|-|<span class="en">was based on (supported type creation) </span>`P136_a_été_fondé_sur (a_fondé_la_création_du_type)`|||||<span class="en">E83 Type Creation </span>`E83_Création_de_type`|<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|
-|P19|<span class="en">was intended use of (was made for) </span>`P19_a_été_l’usage_prévu_de (a_été_élaboré_pour)`||||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E71 Human-Made Thing </span>`E71_Chose_façonnée`|
+|P19|<span class="en">was intended use of (was made for) </span>`P19_a_été_l’usage_prévu_de (a_été_élaboré_pour)`||||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E71 Human-Made Thing </span>`E71_Chose_élaborée_par_l’humain`|
 |P20|<span class="en">has specific purpose (was purpose of) </span>`P20_a_eu_pour_finalité_spécifique (a_été_finalité_de)`||||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E5 Event </span>`E5_Évènement`|
 |P21|<span class="en">had general purpose (was purpose of) </span>`P21_a_eu_pour_finalité_générale (a_été_finalité_de)`||||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E55 Type </span>`E55_Type`|
 |P24|<span class="en">transferred title of (changed ownership through) </span>`P24_a_transféré_le_titre_de_propriété_du (a_changé_de_propriétaire_par)`||||||<span class="en">E8 Acquisition </span>`E8_Acquisition`|<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|
@@ -413,18 +413,18 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |P43|<span class="en">has dimension (is dimension of) </span>`P43_a_pour_dimension (est_dimension_de)`||||||<span class="en">E70 Thing </span>`E70_Chose`|<span class="en">E54 Dimension </span>`E54_Dimension`|
 |P44|<span class="en">has condition (is condition of) </span>`P44_a_pour_état_matériel (est_état_matériel_de)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E3 Condition State </span>`E3_État_matériel`|
 |P45|<span class="en">consists of (is incorporated in) </span>`P45_consiste_en (inclut)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E57 Material </span>`E57_Matériau`|
-|P49|<span class="en">has former or current keeper (is former or current keeper of) </span>`P49_a_pour_détenteur_actuel_ou_antérieur (est_détenteur_actuel_ou_antérieur_de)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P50|-|<span class="en">has current keeper (is current keeper of) </span>`P50_a_pour_détenteur_actuel (est_détenteur_actuel_de)`|||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P109|-|<span class="en">has current or former curator (is current or former curator of) </span>`P109_a_pour_conservateur_actuel_ou_antérieur (est_conservateur_actuel_ou_antérieur_de)`|||||<span class="en">E78 Curated Holding </span>`E78_Collection`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P51|<span class="en">has former or current owner (is former or current owner of) </span>`P51_a_pour_propriétaire_actuel_ou_antérieur (est_propriétaire_actuel_ou_antérieur_de)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P52|-|<span class="en">has current owner (is current owner of) </span>`P52_a_pour_propriétaire_actuel (est_propriétaire_actuel_de)`|||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Acteur`|
+|P49|<span class="en">has former or current keeper (is former or current keeper of) </span>`P49_a_pour_actant_détenteur_actuel_ou_antérieur (est_actant_détenteur_actuel_ou_antérieur_de)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P50|-|<span class="en">has current keeper (is current keeper of) </span>`P50_a_pour_actant_détenteur_actuel (est_actant_détenteur_actuel_de)`|||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P109|-|<span class="en">has current or former curator (is current or former curator of) </span>`P109_a_pour_actant_en_charge_de_la_collection_actuellement_ou_antérieurement (est_actuellement_ou_antérieurement_en_charge_de_la_collection_de)`|||||<span class="en">E78 Curated Holding </span>`E78_Collection`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P51|<span class="en">has former or current owner (is former or current owner of) </span>`P51_a_pour_propriétaire_actuel_ou_antérieur (est_propriétaire_actuel_ou_antérieur_de)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P52|-|<span class="en">has current owner (is current owner of) </span>`P52_a_pour_propriétaire_actuel (est_propriétaire_actuel_de)`|||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Actant`|
 |P53|<span class="en">has former or current location (is former or current location of) </span>`P53_a_pour_localisation_actuelle_ou_antérieure (est_localisation_actuelle_ou_antérieure_de)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E53 Place </span>`E53_Lieu`|
 |P55|-|<span class="en">has current location (currently holds) </span>`P55_a_actuellement_pour_localisation (est_actuellement_localisation_de)`|||||<span class="en">E19 Physical Object </span>`E19_Objet_matériel`|<span class="en">E53 Place </span>`E53_Lieu`|
 |P156|-|<span class="en">occupies (is occupied by) </span>`P156_occupe (est_occupé_par)`|||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E53 Place </span>`E53_Lieu`|
 |P54|<span class="en">has current permanent location (is current permanent location of) </span>`P54_a_actuellement_pour_localisation_fixe (est_actuellement_localisation_fixe_de)`||||||<span class="en">E19 Physical Object </span>`E19_Objet_matériel`|<span class="en">E53 Place </span>`E53_Lieu`|
 |P57|<span class="en">has number of parts </span>`P57_a_pour_nombre_d’éléments`||||||<span class="en">E19 Physical Object </span>`E19_Objet_matériel`|<span class="en">E60 Number </span>`E60_Nombre`|
 |P59|<span class="en">has section (is located on or within) </span>`P59_a_pour_section (se_situe_sur_ou_dans)`||||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E53 Place </span>`E53_Lieu`|
-|P62|<span class="en">depicts (is depicted by) </span>`P62_illustre (est_illustré_par)`||||||<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_façonnée`|<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|
+|P62|<span class="en">depicts (is depicted by) </span>`P62_illustre (est_illustré_par)`||||||<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_élaborée_par_l’humain`|<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|
 |P67|<span class="en">refers to (is referred to by) </span>`P67_renvoie_à (fait_l’objet_d’un_renvoi_par)`||||||<span class="en">E89 Propositional Object </span>`E89_Objet_propositionnel`|<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|
 |P68|-|<span class="en">foresees use of (use foreseen by) </span>`P68_prévoit_l’usage_de (usage_prévu_de)`|||||<span class="en">E29 Design or Procedure </span>`E29_Conceptualisation_ou_procédure`|<span class="en">E57 Material </span>`E57_Matériau`|
 |P70|-|<span class="en">documents (is documented in) </span>`P70_documente (est_documenté_dans)`|||||<span class="en">E31 Document </span>`E31_Document`|<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|
@@ -433,9 +433,9 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |P138|-|<span class="en">represents (has representation) </span>`P138_représente (est_représenté_par)`|||||<span class="en">E36 Visual Item </span>`E36_Entité_visuelle`|<span class="en">E1 CRM Entity </span>`E1_Entité_CRM`|
 |P69|<span class="en">has association with (is associated with) </span>`P69_est_associé_à`||||||<span class="en">E29 Design or Procedure </span>`E29_Conceptualisation_ou_procédure`|<span class="en">E29 Design or Procedure </span>`E29_Conceptualisation_ou_procédure`|
 |P72|<span class="en">has language (is language of) </span>`P72_a_pour_langue (est_la_langue_de)`||||||<span class="en">E33 Linguistic Object </span>`E33_Objet_linguistique`|<span class="en">E56 Language </span>`E56_Langue`|
-|P74|<span class="en">has current or former residence (is current or former residence of) </span>`P74_a_pour_résidence_actuelle_ou_antérieure (est_résidence_actuelle_ou_antérieure_de)`||||||<span class="en">E39 Actor </span>`E39_Acteur`|<span class="en">E53 Place </span>`E53_Lieu`|
-|P75|<span class="en">possesses (is possessed by) </span>`P75_possède (est_possédé_par)`||||||<span class="en">E39 Actor </span>`E39_Acteur`|<span class="en">E30 Right </span>`E30_Droit`|
-|P76|<span class="en">has contact point (provides access to) </span>`P76_a_pour_coordonnées (permet_de_contacter)`||||||<span class="en">E39 Actor </span>`E39_Acteur`|<span class="en">E41 Appellation </span>`E41_Appellation`|
+|P74|<span class="en">has current or former residence (is current or former residence of) </span>`P74_a_pour_résidence_actuelle_ou_antérieure (est_résidence_actuelle_ou_antérieure_de)`||||||<span class="en">E39 Actor </span>`E39_Actant`|<span class="en">E53 Place </span>`E53_Lieu`|
+|P75|<span class="en">possesses (is possessed by) </span>`P75_possède (est_possédé_par)`||||||<span class="en">E39 Actor </span>`E39_Actant`|<span class="en">E30 Right </span>`E30_Droit`|
+|P76|<span class="en">has contact point (provides access to) </span>`P76_a_pour_coordonnées (permet_de_contacter)`||||||<span class="en">E39 Actor </span>`E39_Actant`|<span class="en">E41 Appellation </span>`E41_Appellation`|
 |P81|<span class="en">ongoing throughout </span>`P81_a_couvert`||||||<span class="en">E52 Time-Span </span>`E52_Intervalle_temporel `|<span class="en">E61 Time Primitive </span>`E61_Primitive_temporelle`|
 |P82|<span class="en">at some time within </span>`P82_a_eu_lieu_durant`||||||<span class="en">E52 Time-Span </span>`E52_Intervalle_temporel `|<span class="en">E61 Time Primitive </span>`E61_Primitive_temporelle`|
 |P86|<span class="en">falls within (contains) </span>`P86_s’insère_dans (inclut)`||||||<span class="en">E52 Time-Span </span>`E52_Intervalle_temporel `|<span class="en">E52 Time-Span </span>`E52_Intervalle_temporel `|
@@ -445,13 +445,13 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |P180|-|<span class="en">has currency </span>`P180_a_pour_monnaie (était_la_monnaie_de)`|||||<span class="en">E97 Monetary Amount </span>`E97_Valeur_monétaire`|<span class="en">E98 Currency </span>`E98_Monnaie`|
 |P97|<span class="en">from father (was father for) </span>`P97_de_père (a_été_père_pour)`||||||<span class="en">E67 Birth </span>`E67_Naissance`|<span class="en">E21 Person </span>`E21_Personne`|
 |P101|<span class="en">had as general use (was use of) </span>`P101_a_eu_pour_usage_général (a_été_l’usage_général_de)`||||||<span class="en">E70 Thing </span>`E70_Chose`|<span class="en">E55 Type </span>`E55_Type`|
-|P103|<span class="en">was intended for (was intention of) </span>`P103_a_eu_pour_raison_d’être (a_été_raison_d’être_de)`||||||<span class="en">E71 Human-Made Thing </span>`E71_Chose_façonnée`|<span class="en">E55 Type </span>`E55_Type`|
+|P103|<span class="en">was intended for (was intention of) </span>`P103_a_eu_pour_raison_d’être (a_été_raison_d’être_de)`||||||<span class="en">E71 Human-Made Thing </span>`E71_Chose_élaborée_par_l’humain`|<span class="en">E55 Type </span>`E55_Type`|
 |P104|<span class="en">is subject to (applies to) </span>`P104_est_soumis_à (s’applique_à)`||||||<span class="en">E72 Legal Object </span>`E72_Objet_juridique`|<span class="en">E30 Right </span>`E30_Droit`|
-|P105|<span class="en">right held by (has right on) </span>`P105_droit_détenu_par (détient_un_droit_sur)`||||||<span class="en">E72 Legal Object </span>`E72_Objet_juridique`|<span class="en">E39 Actor </span>`E39_Acteur`|
-|P52|-|<span class="en">has current owner (is current owner of) </span>`P52_a_pour_propriétaire_actuel (est_propriétaire_actuel_de)`|||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Acteur`|
+|P105|<span class="en">right held by (has right on) </span>`P105_droit_détenu_par (détient_un_droit_sur)`||||||<span class="en">E72 Legal Object </span>`E72_Objet_juridique`|<span class="en">E39 Actor </span>`E39_Actant`|
+|P52|-|<span class="en">has current owner (is current owner of) </span>`P52_a_pour_propriétaire_actuel (est_propriétaire_actuel_de)`|||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E39 Actor </span>`E39_Actant`|
 |P106|<span class="en">is composed of (forms part of) </span>`P106_est_composé_de (fait_partie_de)`||||||<span class="en">E90 Symbolic Object </span>`E90_Objet_symbolique`|<span class="en">E90 Symbolic Object </span>`E90_Objet_symbolique`|
 |P165|-|<span class="en">incorporates (is incorporated in) </span>`P165_inclut (est_inclus_dans)`|||||<span class="en">E73 Information Object </span>`E73_Objet_informationnel`|<span class="en">E90 Symbolic Object </span>`E90_Objet_symbolique`|
-|P107|<span class="en">has current or former member (is current or former member of) </span>`P107_a_pour_membre_actuel_ou_antérieur (est_membre_actuel_ou_antérieur_de)`||||||<span class="en">E74 Group </span>`E74_Groupe`|<span class="en">E39 Actor </span>`E39_Acteur`|
+|P107|<span class="en">has current or former member (is current or former member of) </span>`P107_a_pour_membre_actuel_ou_antérieur (est_membre_actuel_ou_antérieur_de)`||||||<span class="en">E74 Group </span>`E74_Groupe`|<span class="en">E39 Actor </span>`E39_Actant`|
 |P121|<span class="en">overlaps with </span>`P121_se_superpose_partiellement_à`||||||<span class="en">E53 Place </span>`E53_Lieu`|<span class="en">E53 Place </span>`E53_Lieu`|
 |P122|<span class="en">borders with </span>`P122_est_limitrophe_de`||||||<span class="en">E53 Place </span>`E53_Lieu`|<span class="en">E53 Place </span>`E53_Lieu`|
 |P125|<span class="en">used object of type (was type of object used in) </span>`P125_a_utilisé_un_objet_du_type (a_été_le_type_d’objet_employé_pour)`||||||<span class="en">E7 Activity </span>`E7_Activité`|<span class="en">E55 Type </span>`E55_Type`|
@@ -461,7 +461,7 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |P130|<span class="en">shows freatures of (features are also found on) </span>`P130_présente_des_caractéristiques de (a_des_caractéristiques_également_présentes_sur)`||||||<span class="en">E70 Thing </span>`E70_Chose`|<span class="en">E70 Thing </span>`E70_Chose`|
 |P73i|-|<span class="en">is translation of </span>`P73i_est_traduction_de`|||||<span class="en">E33 Linguistic Object </span>`E33_Objet_linguistique`|<span class="en">E33 Linguistic Object </span>`E33_Objet_linguistique`|
 |P128|-|<span class="en">carries (is carried by) </span>`P128_est_support_de (a_pour_support)`|||||<span class="en">E18 Physical Thing </span>`E18_Chose_matérielle`|<span class="en">E90 Symbolic Object </span>`E90_Objet_symbolique`|
-|P65|-||<span class="en">shows visual item (is shown by) </span>`P65_représente_l’entité_visuelle (est_représenté_par)`||||<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_façonnée `|<span class="en">E36 Visual Item </span>`E36_Entité_visuelle`|
+|P65|-||<span class="en">shows visual item (is shown by) </span>`P65_représente_l’entité_visuelle (est_représenté_par)`||||<span class="en">E24 Physical Human-Made Thing </span>`E24_Chose_matérielle_élaborée_par_l’humain `|<span class="en">E36 Visual Item </span>`E36_Entité_visuelle`|
 |P132|<span class="en">spatiotemporally ocerlaps with </span>`P132_se_superpose_spatio-temporellement_et_partiellement`||||||<span class="en">E92 Spacetime Volume </span>`E92_Volume_spatio-temporel`|<span class="en">E92 Spacetime Volume </span>`E92_Volume_spatio-temporel`|
 |P10|-|<span class="en">falls within (contains) </span>`P10_s’insère_dans_le_cours_de (contient)`|||||<span class="en">E92 Spacetime Volume </span>`E92_Volume_spatio-temporel`|<span class="en">E92 Spacetime Volume </span>`E92_Volume_spatio-temporel`|
 |P9i|-||<span class="en">forms part of </span>`P9i_fait_partie_de`||||<span class="en">E4 Period </span>`E4_Période`|<span class="en">E4 Period </span>`E4_Période`|

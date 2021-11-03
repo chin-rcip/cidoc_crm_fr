@@ -370,7 +370,7 @@ date: 2021-05-05
 <p>Choses (<code class="language-plaintext highlighter-rouge">E70_Chose</code> et ses sous-classes)</p>
 </li>
 <li>
-<p>Acteurs (<code class="language-plaintext highlighter-rouge">E39_Acteur</code> et ses sous-classes)</p>
+<p>Acteurs (<code class="language-plaintext highlighter-rouge">E39_Actant</code> et ses sous-classes)</p>
 </li>
 <li>
 <p>Autres</p>

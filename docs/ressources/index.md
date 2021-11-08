@@ -1091,8 +1091,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="odd">
 <td>P99</td>
 <td>dissolved (was dissolved by)</td>
-<td>a dissout (a été dissout par)</td>
-<td><code class="language-plaintext highlighter-rouge">P99_a_dissout (a_été_dissout_par)</code> </td>
+<td>a dissous (a été dissous par)</td>
+<td><code class="language-plaintext highlighter-rouge">P99_a_dissous (a_été_dissous_par)</code> </td>
 </tr>
 <tr class="even">
 <td>P100</td>

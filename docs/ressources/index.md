@@ -1356,8 +1356,8 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 <tr class="even">
 <td>P151</td>
 <td>was formed from (participated in)</td>
-<td>a été formé de (a participé à)</td>
-<td><code class="language-plaintext highlighter-rouge">P151_a_été_formé_de (a_participé_à)</code> </td>
+<td>a été formé à partir de (a participé à)</td>
+<td><code class="language-plaintext highlighter-rouge">P151_a_été_formé_à_partir_de (a_participé_à)</code> </td>
 </tr>
 <tr class="odd">
 <td>P152</td>

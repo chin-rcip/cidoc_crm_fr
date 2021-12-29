@@ -32,7 +32,7 @@ Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place pa
 
 ## But
 
-Le Groupe de travail pour la traduction du CIDOC CRM a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.0 feront l’objet d’une traduction :
+Le Groupe de travail pour la traduction du CIDOC CRM a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 feront l’objet d’une traduction :
 
   - Introduction
 

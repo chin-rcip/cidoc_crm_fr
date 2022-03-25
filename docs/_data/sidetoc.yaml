@@ -232,9 +232,9 @@ mandat:
   url: /ressources/mandat-fonctionnement#membres
   hash: membres
   subfolder:
-  - page: Membres
-    url: /ressources/mandat-fonctionnement#membres-2
-    hash: membres-2
+  - page: Composition du Groupe de travail
+    url: /ressources/mandat-fonctionnement#composition-du-groupe-de-travail
+    hash: composition-du-groupe-de-travail
   - page: Protocole de sélection
     url: /ressources/mandat-fonctionnement#protocole-de-selection
     hash: protocole-de-selection
@@ -252,6 +252,41 @@ mandat:
     url: /ressources/mandat-fonctionnement#flux-de-travail
     hash: flux-de-travails
 
+- title: Mandate and Operation
+  url: /ressources/mandat-fonctionnement#en
+  hash: en
+- title: Introduction
+  url: /ressources/mandat-fonctionnement#introduction-en
+  hash: introduction-en
+- title: Purpose
+  url: /ressources/mandat-fonctionnement#purpose
+  hash: purpose
+- title: Responsibilities
+  url: /ressources/mandat-fonctionnement#responsibilities
+  hash: responsibilities
+- title: Members
+  url: /ressources/mandat-fonctionnement#members
+  hash: members
+  subfolder:
+  - page: Composition of the Working Group
+    url: /ressources/mandat-fonctionnement#composition-of-the-working-group
+    hash: composition-of-the-working-group
+  - page: Selection Protocol
+    url: /ressources/mandat-fonctionnement#selection-protocol
+    hash: selection-protocol
+  - page: Selection Criteria and Areas of Expertise
+    url: /ressources/mandat-fonctionnement#selection-criteria-and-areas-of-expertise
+    hash: selection-criteria-and-areas-of-expertise
+- title: Activities and Tools
+  url: /ressources/mandat-fonctionnement#activities-and-tools
+  hash: activities-and-tools
+  subfolder:
+  - page: Meetings
+    url: /ressources/mandat-fonctionnement#meetings
+    hash: meetings
+  - page: Workflow
+    url: /ressources/mandat-fonctionnement#workflow
+    hash: workflow
 
 methodologie:
 

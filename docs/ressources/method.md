@@ -7,7 +7,7 @@ tab: ressources
 date: 2021-05-06
 ---
 
-[*English follows*](#methodology)
+[*English follows*](#en)
 
 **Version** : 1.0
 
@@ -135,7 +135,7 @@ Si vous désirez obtenir une copie des gabarits et des protocoles utilisés afin
 
 ---
 
-<h1 class="post-title" id="methodology">Methodology</h1>
+<h1 class="post-title" id="en">Methodology</h1>
 
 **Version**: 1.0
 

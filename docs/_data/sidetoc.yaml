@@ -332,8 +332,8 @@ methodologie:
   hash: contact-fr
 
 - title: Methodology
-  url: /ressources/methodologie#methodology
-  hash: methodology
+  url: /ressources/methodologie#en
+  hash: en
 - title: Content suitable for translation
   url: /ressources/methodologie#content-suitable-for-translation
   hash: content-suitable-for-translation
@@ -383,8 +383,8 @@ participation:
   url: /ressources/participation#se-joindre-a-leffort-de-traduction
   hash: se-joindre-a-leffort-de-traduction
 - title: Participation
-  url: /ressources/participation#participation-en
-  hash: participation-en
+  url: /ressources/participation#en
+  hash: en
 - title: Report a translation issue
   url: /ressources/participation#report-a-translation-issue
   hash: report-a-translation-issue

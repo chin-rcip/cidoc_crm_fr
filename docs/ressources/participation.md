@@ -7,7 +7,7 @@ tab: ressources
 date: 2021-05-06
 ---
 
-[*English follows*](#participation-en)
+[*English follows*](#en)
 
 **Version** : 1.0
 
@@ -50,7 +50,7 @@ Si vous désirez poser votre candidature, veuillez nous transmettre au [rcip-chi
 
 ---
 
-<h1 class="post-title" id="participation-en">Participation</h1>
+<h1 class="post-title" id="en">Participation</h1>
 
 **Version**: 1.0
 

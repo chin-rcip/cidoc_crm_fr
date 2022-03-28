@@ -7,6 +7,7 @@ tab: ressources
 date: 2021-05-06
 ---
 
+[*English follows*](#en)
 
 **Date de création** : 2021-02-10
 

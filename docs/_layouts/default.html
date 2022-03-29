@@ -153,7 +153,19 @@
 
 
        $(document).ready(function() {
-
+        // styling H1 in sidebar
+        $(".sidebar a").each(function(){
+          let tocId = $(this).attr("id").split("-")[1];
+          let h1 = $(".main-content h1");
+          if (h1.length > 1){
+            for (i = 1; i < h1.length; i++){
+              let h1Id = $(h1[i]).attr("id");
+              if (h1Id != undefined && tocId == h1Id){
+                $(this).addClass('h3');
+              }
+            }
+          }
+        })
         // Hide all tooltips on window load
         $(".tooltip").hide();
         highlight();

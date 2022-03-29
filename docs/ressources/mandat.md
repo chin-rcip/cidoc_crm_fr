@@ -4,14 +4,14 @@ title: Mandat & Fonctionnement
 permalink: /ressources/mandat-fonctionnement
 sidebar: mandat
 tab: ressources
-date: 2021-05-06
+date: 2022-03-11
 ---
 
 [*English follows*](#en)
 
 **Date de création** : 2021-02-10
 
-**Dernière mise à jour** : 2021-05-06
+**Dernière mise à jour** : 2022-03-11
 
 **Résumé** : Renseignements généraux sur les objectifs, le but, la composition et la structure opérationnelle du Groupe de travail.
 
@@ -177,7 +177,7 @@ Les contenus disponibles en français sont exportés sur une base trimestrielle 
 
 **Creation date**: 2021-02-10
 
-**Last update**: 2021-05-06
+**Last update**: 2022-03-11
 
 **Abstract**: Background information on the Working Group’s objectives, purpose, composition, and operational structure.
 

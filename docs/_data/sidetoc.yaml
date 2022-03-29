@@ -250,7 +250,7 @@ mandat:
     hash: reunions
   - page: Flux de travail
     url: /ressources/mandat-fonctionnement#flux-de-travail
-    hash: flux-de-travails
+    hash: flux-de-travail
 
 - title: Mandate and Operation
   url: /ressources/mandat-fonctionnement#en
@@ -478,3 +478,77 @@ tutcidocfr:
 - title: Bibliographie
   url: /ressources/tutoriel-cidoc-crm#bibliographie
   hash: bibliographie
+
+- title: CIDOC CRM Tutorial
+  url: /ressources/tutoriel-cidoc-crm#en
+  hash: en
+- title: Main Uses
+  url: /ressources/tutoriel-cidoc-crm#main-uses
+  hash: main-uses
+- title: Context
+  url: /ressources/tutoriel-cidoc-crm#context
+  hash: context
+- title: Essential Vocabularies and Prior Knowledge
+  url: /ressources/tutoriel-cidoc-crm#essential-vocabularies-and-prior-knowledge
+  hash: essential-vocabularies-and-prior-knowledge
+- title: Intended Audience and Section Description
+  url: /ressources/tutoriel-cidoc-crm#intended-audience-and-section-description
+  hash: intended-audience-and-section-description
+  subfolder:
+  - page: Audience
+    url: /ressources/tutoriel-cidoc-crm#audience
+    hash: audience
+  - page: Sections
+    url: /ressources/tutoriel-cidoc-crm#sections-en
+    hash: sections-en
+- title: How-To
+  url: /ressources/tutoriel-cidoc-crm#how-to
+  hash: how-to
+  subfolder:
+  - page: Versions and Extensions
+    url: /ressources/tutoriel-cidoc-crm#versions-and-extensions
+    hash: versions-and-extensions
+  - page: Structure of CIDOC CRM Entities
+    url: /ressources/tutoriel-cidoc-crm#structure-of-cidoc-crm-entities
+    hash: structure-of-cidoc-crm-entities
+    subsubfolder:
+    - page: CIDOC CRM Naming Conventions
+      url: /ressources/tutoriel-cidoc-crm#cidoc-crm-naming-conventions
+      hash: cidoc-crm-naming-conventions
+    - page: Classes
+      url: /ressources/tutoriel-cidoc-crm#classes-en
+      hash: classes-en
+    - page: Properties
+      url: /ressources/tutoriel-cidoc-crm#properties
+      hash: properties
+    - page: Domain and Range
+      url: /ressources/tutoriel-cidoc-crm#domain-and-range
+      hash: domain-and-range
+    - page: Super-class/Sub-class and Super-property/Sub-property
+      url: /ressources/tutoriel-cidoc-crm#super-classsub-class-and-super-propertysub-property
+      hash: super-classsub-class-and-super-propertysub-property
+  - page: CIDOC CRM Conceptual Framework
+    url: /ressources/tutoriel-cidoc-crm#cidoc-crm-conceptual-framework
+    hash: cidoc-crm-conceptual-framework
+    subsubfolder:
+    - page: Temporal Entities
+      url: /ressources/tutoriel-cidoc-crm#temporal-entities
+      hash: temporal-entities
+    - page: CIDOC CRM Main Classes
+      url: /ressources/tutoriel-cidoc-crm#cidoc-crm-main-classes
+      hash: cidoc-crm-main-classes
+    - page: Management of Temporality in CIDOC CRM
+      url: /ressources/tutoriel-cidoc-crm#management-of-temporality-in-cidoc-crm
+      hash: management-of-temporality-in-cidoc-crm
+  - page: Identify the Right Entity
+    url: /ressources/tutoriel-cidoc-crm#identify-the-right-entity
+    hash: identify-the-right-entity
+- title: Aide-mémoire
+  url: /ressources/tutoriel-cidoc-crm#aide-memoire-en
+  hash: aide-memoire-en
+- title: For More Information
+  url: /ressources/tutoriel-cidoc-crm#for-more-information
+  hash: for-more-information
+- title: Bibliography
+  url: /ressources/tutoriel-cidoc-crm#bibliography
+  hash: bibliography

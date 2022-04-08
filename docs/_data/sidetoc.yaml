@@ -108,6 +108,12 @@ v71:
     url: /v7.1/classes/E6
   - page: E7 Activité
     url: /v7.1/classes/E7
+  - page: E8 Acquisition
+    url: /v7.1/classes/E8
+  - page: E9 Déplacement
+    url: /v7.1/classes/E9
+  - page: E13 Assignation d’attribut
+    url: /v7.1/classes/E13
   - page: E12 Production
     url: /v7.1/classes/E12
   - page: E18 Chose matérielle
@@ -122,6 +128,10 @@ v71:
     url: /v7.1/classes/E22
   - page: E24 Chose matérielle élaborée par l’humain
     url: /v7.1/classes/E24
+  - page: E28 Objet conceptuel
+    url: /v7.1/classes/E28
+  - page: E30 Droit
+    url: /v7.1/classes/E30
   - page: E33 Objet linguistique
     url: /v7.1/classes/E33
   - page: E36 Entité visuelle
@@ -138,6 +148,10 @@ v71:
     url: /v7.1/classes/E52
   - page: E53 Lieu
     url: /v7.1/classes/E53
+  - page: E55 Type
+    url: /v7.1/classes/E55
+  - page: E56 Langue
+    url: /v7.1/classes/E56
   - page: E63 Début d’Existence
     url: /v7.1/classes/E63
   - page: E64 Fin d’existence
@@ -154,6 +168,8 @@ v71:
     url: /v7.1/classes/E69
   - page: E70 Chose
     url: /v7.1/classes/E70
+  - page: E71 Chose élaborée par l’humain
+    url: /v7.1/classes/E71
   - page: E72 Objet juridique
     url: /v7.1/classes/E72
   - page: E73 Objet informationnel
@@ -166,21 +182,31 @@ v71:
     url: /v7.1/classes/E81
   - page: E83 Création de type
     url: /v7.1/classes/E83
+  - page: E85 Adhésion
+    url: /v7.1/classes/E85
+  - page: E86 Départ
+    url: /v7.1/classes/E86
+  - page: E87 Activité curatoriale
+    url: /v7.1/classes/E87
+  - page: E89 Objet propositionnel
+    url: /v7.1/classes/E89
   - page: E90 Objet symbolique
     url: /v7.1/classes/E90
+  - page: E96 Achat
+    url: /v7.1/classes/E96
 
 - title: PROPRIÉTÉS
   group: proprietes
   subfolder:
   - page: Déclaration des propriétés du CIDOC CRM
     url: /v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm
-  - page: P1 est identifié par (identifie)
+  - page: P1 P1 est identifié par (identifie)
     url: /v7.1/proprietes/P1
-  - page: P2 a pour type (est type de)
+  - page: P2 a pour type (est le type de)
     url: /v7.1/proprietes/P2
   - page: P3 a pour note
     url: /v7.1/proprietes/P3
-  - page: P4 a pour intervalle temporel (est l’intervalle temporel de)
+  - page: P4 P4 a pour intervalle temporel (est l’intervalle temporel de)
     url: /v7.1/proprietes/P4
   - page: P7 a eu lieu dans (a été témoin de)
     url: /v7.1/proprietes/P7
@@ -192,6 +218,102 @@ v71:
     url: /v7.1/proprietes/P11
   - page: P12 a eu lieu en présence de (a été présent à)
     url: /v7.1/proprietes/P12
+  - page: P14 a été effectué par (a effectué)
+    url: /v7.1/proprietes/P14
+  - page: P15 a été influencé par (a influencé)
+    url: /v7.1/proprietes/P15
+  - page: P16 a mobilisé l’objet spécifique (a été mobilisé pour)
+    url: /v7.1/proprietes/P16
+  - page: P17 a été motivé par (a motivé)
+    url: /v7.1/proprietes/P17
+  - page: P19 a été l’usage prévu de (a été élaboré pour)
+    url: /v7.1/proprietes/P19
+  - page: P20 a eu pour finalité spécifique (a été la finalité de)
+    url: /v7.1/proprietes/P20
+  - page: P21 a eu pour finalité générale (a été la finalité de)
+    url: /v7.1/proprietes/P21
+  - page: P25 a déplacé (a été déplacé par)
+    url: /v7.1/proprietes/P25
+  - page: P26 a déplacé vers (a été la destination de)
+    url: /v7.1/proprietes/P26
+  - page: P27 a déplacé depuis (a été le point de départ de)
+    url: /v7.1/proprietes/P27
+  - page: P32 a mobilisé comme technique générale (a été la technique générale mise en œuvre dans)
+    url: /v7.1/proprietes/P32
+  - page: P33 a mobilisé comme technique spécifique (a été la technique spécifique mise en œuvre dans)
+    url: /v7.1/proprietes/P33
+  - page: P65 représente l'entité visuelle (est représenté par)
+    url: /v7.1/proprietes/P65
+  - page: P72 a pour langue (est la langue de)
+    url: /v7.1/proprietes/P72
+  - page: P79 a son début qualifié par
+    url: /v7.1/proprietes/P79
+  - page: P80 a sa fin qualifiée par
+    url: /v7.1/proprietes/P80
+  - page: P81 a couvert
+    url: /v7.1/proprietes/P81
+  - page: P82 a eu lieu durant
+    url: /v7.1/proprietes/P82
+  - page: P86 s’insère dans (contient)
+    url: /v7.1/proprietes/P86
+  - page: P92 a fait exister (a commencé à exister par)
+    url: /v7.1/proprietes/P92
+  - page: P93 a mis fin à l’existence de (a cessé d’exister par)
+    url: /v7.1/proprietes/P93
+  - page: P94 a créé (a été créé par)
+    url: /v7.1/proprietes/P94
+  - page: P95 a fondé (a été fondé par)
+    url: /v7.1/proprietes/P95
+  - page: P96 de mère (a donné naissance à)
+    url: /v7.1/proprietes/P96
+  - page: P97 de père (a été père pour)
+    url: /v7.1/proprietes/P97
+  - page: P98 a donné vie à (est né)
+    url: /v7.1/proprietes/P98
+  - page: P99 a dissous (a été dissous par)
+    url: /v7.1/proprietes/P99
+  - page: P100 a été la mort de (est mort par)
+    url: /v7.1/proprietes/P100
+  - page: P106 P106 est composé de (fait partie de)
+    url: /v7.1/proprietes/P106
+  - page: P108 a produit (a été produit par)
+    url: /v7.1/proprietes/P108
+  - page: P125 a mobilisé l’objet du type (a été le type d’objet employé pour)
+    url: /v7.1/proprietes/P125
+  - page: P128 est le support de (a pour support)
+    url: /v7.1/proprietes/P128
+  - page: P134 a continué (a été continué par)
+    url: /v7.1/proprietes/P134
+  - page: P138 représente (est représenté par)
+    url: /v7.1/proprietes/P138
+  - page: P140 a assigné l’attribut à (a reçu l’attribut par)
+    url: /v7.1/proprietes/P140
+  - page: P141 a attribué (a été attribué par)
+    url: /v7.1/proprietes/P141
+  - page: P143 a fait adhérer (a adhéré par)
+    url: /v7.1/proprietes/P143
+  - page: P144 a fait adhérer à (a accueilli le membre par)
+    url: /v7.1/proprietes/P144
+  - page: P145 a dissocié (est dissocié par)
+    url: /v7.1/proprietes/P145
+  - page: P146 a dissocié de (a perdu le membre par)
+    url: /v7.1/proprietes/P146
+  - page: P147 a géré (a été géré par)
+    url: /v7.1/proprietes/P147
+  - page: P148 P148 a pour composant (est le composant de)
+    url: /v7.1/proprietes/P148
+  - page: P151 a été formé à partir de (a participé à)
+    url: /v7.1/proprietes/P151
+  - page: P165 inclut (est inclus dans)
+    url: /v7.1/proprietes/P165
+  - page: P177 a assigné le type de propriété (est le type de propriété assigné)
+    url: /v7.1/proprietes/P177
+  - page: P186 a produit la chose du type (est produit par)
+    url: /v7.1/proprietes/P186
+  - page: P190 a_pour_contenu_symbolique
+    url: /v7.1/proprietes/P190
+  - page: P191 a eu pour durée (était la durée de)
+    url: /v7.1/proprietes/P191
 
 - title: Bibliographie originale
   url: /v7.1/bibliographie-originale

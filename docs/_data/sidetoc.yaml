@@ -112,10 +112,10 @@ v71:
     url: /v7.1/classes/E8
   - page: E9 Déplacement
     url: /v7.1/classes/E9
-  - page: E13 Assignation d’attribut
-    url: /v7.1/classes/E13
   - page: E12 Production
     url: /v7.1/classes/E12
+  - page: E13 Assignation d’attribut
+    url: /v7.1/classes/E13
   - page: E18 Chose matérielle
     url: /v7.1/classes/E18
   - page: E19 Objet matériel

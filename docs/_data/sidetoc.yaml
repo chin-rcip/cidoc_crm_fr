@@ -200,13 +200,13 @@ v71:
   subfolder:
   - page: Déclaration des propriétés du CIDOC CRM
     url: /v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm
-  - page: P1 P1 est identifié par (identifie)
+  - page: P1 est identifié par (identifie)
     url: /v7.1/proprietes/P1
   - page: P2 a pour type (est le type de)
     url: /v7.1/proprietes/P2
   - page: P3 a pour note
     url: /v7.1/proprietes/P3
-  - page: P4 P4 a pour intervalle temporel (est l’intervalle temporel de)
+  - page: P4 a pour intervalle temporel (est l’intervalle temporel de)
     url: /v7.1/proprietes/P4
   - page: P7 a eu lieu dans (a été témoin de)
     url: /v7.1/proprietes/P7
@@ -274,7 +274,7 @@ v71:
     url: /v7.1/proprietes/P99
   - page: P100 a été la mort de (est mort par)
     url: /v7.1/proprietes/P100
-  - page: P106 P106 est composé de (fait partie de)
+  - page: P106 est composé de (fait partie de)
     url: /v7.1/proprietes/P106
   - page: P108 a produit (a été produit par)
     url: /v7.1/proprietes/P108
@@ -300,7 +300,7 @@ v71:
     url: /v7.1/proprietes/P146
   - page: P147 a géré (a été géré par)
     url: /v7.1/proprietes/P147
-  - page: P148 P148 a pour composant (est le composant de)
+  - page: P148 a pour composant (est le composant de)
     url: /v7.1/proprietes/P148
   - page: P151 a été formé à partir de (a participé à)
     url: /v7.1/proprietes/P151
@@ -310,7 +310,7 @@ v71:
     url: /v7.1/proprietes/P177
   - page: P186 a produit la chose du type (est produit par)
     url: /v7.1/proprietes/P186
-  - page: P190 a_pour_contenu_symbolique
+  - page: P190 a pour contenu symbolique
     url: /v7.1/proprietes/P190
   - page: P191 a eu pour durée (était la durée de)
     url: /v7.1/proprietes/P191

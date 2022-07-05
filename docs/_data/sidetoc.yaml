@@ -112,6 +112,10 @@ v71:
     url: /v7.1/classes/E8
   - page: E9 Déplacement
     url: /v7.1/classes/E9
+  - page: E10 Transfert de la garde
+    url: /v7.1/classes/E10
+  - page: E11 Modification
+    url: /v7.1/classes/E11
   - page: E12 Production
     url: /v7.1/classes/E12
   - page: E13 Assignation d’attribut
@@ -128,10 +132,20 @@ v71:
     url: /v7.1/classes/E22
   - page: E24 Chose matérielle élaborée par l’humain
     url: /v7.1/classes/E24
+  - page: E25 Caractéristique élaborée par l'humain
+    url: /v7.1/classes/E25
+  - page: E26 Caractéristique physique
+    url: /v7.1/classes/E26
+  - page: E27 Site
+    url: /v7.1/classes/E27
   - page: E28 Objet conceptuel
     url: /v7.1/classes/E28
   - page: E30 Droit
     url: /v7.1/classes/E30
+  - page: E31 Document
+    url: /v7.1/classes/E31
+  - page: E32 Document de référence
+    url: /v7.1/classes/E32
   - page: E33 Objet linguistique
     url: /v7.1/classes/E33
   - page: E36 Entité visuelle
@@ -178,6 +192,10 @@ v71:
     url: /v7.1/classes/E74
   - page: E77 Entité persistante
     url: /v7.1/classes/E77
+  - page: E79 Ajout d'élément
+    url: /v7.1/classes/E79
+  - page: E80 Retrait d'élément
+    url: /v7.1/classes/E80
   - page: E81 Transformation
     url: /v7.1/classes/E81
   - page: E83 Création de type
@@ -194,6 +212,7 @@ v71:
     url: /v7.1/classes/E90
   - page: E96 Achat
     url: /v7.1/classes/E96
+
 
 - title: PROPRIÉTÉS
   group: proprietes
@@ -218,6 +237,8 @@ v71:
     url: /v7.1/proprietes/P11
   - page: P12 a eu lieu en présence de (a été présent à)
     url: /v7.1/proprietes/P12
+  - page: P13 a détruit (a été détruit par)
+    url: /v7.1/proprietes/P13
   - page: P14 a été effectué par (a effectué)
     url: /v7.1/proprietes/P14
   - page: P15 a été influencé par (a influencé)
@@ -232,20 +253,60 @@ v71:
     url: /v7.1/proprietes/P20
   - page: P21 a eu pour finalité générale (a été la finalité de)
     url: /v7.1/proprietes/P21
+  - page: P22 a transféré le titre de propriété à (a acquis le titre de propriété par)
+    url: /v7.1/proprietes/P22
+  - page: P23 a transféré le titre de propriété de (a cédé le titre de propriété à)
+    url: /v7.1/proprietes/P23
+  - page: P24 a transféré le titre de propriété de (a changé de propriétaire par)
+    url: /v7.1/proprietes/P24
   - page: P25 a déplacé (a été déplacé par)
     url: /v7.1/proprietes/P25
   - page: P26 a déplacé vers (a été la destination de)
     url: /v7.1/proprietes/P26
   - page: P27 a déplacé depuis (a été le point de départ de)
     url: /v7.1/proprietes/P27
+  - page: P28 a mis fin à la garde par (a cédé la garde par)
+    url: /v7.1/proprietes/P28
+  - page: P29 a confié la garde par (a reçu la garde par)
+    url: /v7.1/proprietes/P29
+  - page: P30 a transféré la garde de (a été l’objet d’un transfert de garde par)
+    url: /v7.1/proprietes/P30
+  - page: P31 a modifié (a été modifié par)
+    url: /v7.1/proprietes/P31
   - page: P32 a mobilisé comme technique générale (a été la technique générale mise en œuvre dans)
     url: /v7.1/proprietes/P32
   - page: P33 a mobilisé comme technique spécifique (a été la technique spécifique mise en œuvre dans)
     url: /v7.1/proprietes/P33
+  - page: P43 a pour dimension (est la dimension de)
+    url: /v7.1/proprietes/P43
+  - page: P44 a pour état matériel (est l'état matériel de)
+    url: /v7.1/proprietes/P44
+  - page: P45 comprend (est inclus dans)
+    url: /v7.1/proprietes/P45
+  - page: P46 est composé de (fait partie de)
+    url: /v7.1/proprietes/P46
+  - page: P49 a pour actant détenteur actuel ou antérieur (est l’actant détenteur actuel ou antérieur de)
+    url: /v7.1/proprietes/P49
+  - page: P50 a pour actant détenteur actuel (est l’actant détenteur actuel)
+    url: /v7.1/proprietes/P50
+  - page: P51 a pour propriétaire actuel ou antérieur (est l’actant propriétaire actuel ou antérieur de)
+    url: /v7.1/proprietes/P51
+  - page: P52 a pour propriétaire actuel (est l'actant propriétaire actuel de)
+    url: /v7.1/proprietes/P52
+  - page: P53 a pour localisation actuelle ou antérieure (est la localisation actuelle ou antérieure de)
+    url: /v7.1/proprietes/P53
+  - page: P62 illustre (est illustré par)
+    url: /v7.1/proprietes/P62
   - page: P65 représente l'entité visuelle (est représenté par)
     url: /v7.1/proprietes/P65
+  - page: P70 documente (est documenté dans)
+    url: /v7.1/proprietes/P70
+  - page: P71 énumère (est énuméré par)
+    url: /v7.1/proprietes/P71
   - page: P72 a pour langue (est la langue de)
     url: /v7.1/proprietes/P72
+  - page: P73 a pour traduction (est traduction de)
+    url: /v7.1/proprietes/P73
   - page: P79 a son début qualifié par
     url: /v7.1/proprietes/P79
   - page: P80 a sa fin qualifiée par
@@ -266,7 +327,7 @@ v71:
     url: /v7.1/proprietes/P95
   - page: P96 de mère (a donné naissance à)
     url: /v7.1/proprietes/P96
-  - page: P97 de père (a été père pour)
+  - page: P97 de père (a été le père pour)
     url: /v7.1/proprietes/P97
   - page: P98 a donné vie à (est né)
     url: /v7.1/proprietes/P98
@@ -274,14 +335,30 @@ v71:
     url: /v7.1/proprietes/P99
   - page: P100 a été la mort de (est mort par)
     url: /v7.1/proprietes/P100
+  - page: P101 a eu pour usage général (a été l'usage général de)
+    url: /v7.1/proprietes/P101
   - page: P106 est composé de (fait partie de)
     url: /v7.1/proprietes/P106
   - page: P108 a produit (a été produit par)
     url: /v7.1/proprietes/P108
+  - page: P110 a augmenté (a été augmenté par)
+    url: /v7.1/proprietes/P110
+  - page: P111 a ajouté (a été ajouté par)
+    url: /v7.1/proprietes/P111
+  - page: P112 a diminué (a été diminué par)
+    url: /v7.1/proprietes/P112
+  - page: P113 a retiré (a été retiré par)
+    url: /v7.1/proprietes/P113
   - page: P125 a mobilisé l’objet du type (a été le type d’objet employé pour)
     url: /v7.1/proprietes/P125
+  - page: P126 a employé (a été employé dans)
+    url: /v7.1/proprietes/P126
   - page: P128 est le support de (a pour support)
     url: /v7.1/proprietes/P128
+  - page: P129 a pour sujet (est le sujet de)
+    url: /v7.1/proprietes/P129
+  - page: P130 présente les caractéristiques de (a les caractéristiques aussi présentes sur)
+    url: /v7.1/proprietes/P130
   - page: P134 a continué (a été continué par)
     url: /v7.1/proprietes/P134
   - page: P138 représente (est représenté par)
@@ -314,6 +391,7 @@ v71:
     url: /v7.1/proprietes/P190
   - page: P191 a eu pour durée (était la durée de)
     url: /v7.1/proprietes/P191
+
 
 - title: Bibliographie originale
   url: /v7.1/bibliographie-originale

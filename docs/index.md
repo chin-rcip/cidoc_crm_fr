@@ -30,7 +30,7 @@ Dernière mise à jour : 2021-06-03
 ## Éditeurs et Éditrices 
 
 * Frédéric Bricaud, à titre personnel
-* Stephen Hart, Réseau canadien d'information sur le patrimoine
+* Stephen Hart, à titre personnel
 * Karine Léonard Brouillet, Réseau canadien d'information sur le patrimoine
 * Marie-Elaine Mathieu, à titre personnel
 * Philippe Michon, Réseau canadien d'information sur le patrimoine

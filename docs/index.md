@@ -30,6 +30,7 @@ Dernière mise à jour : 2022-09-28
 ## Éditeurs et Éditrices 
 
 * Frédéric Bricaud, à titre personnel
+* Camille Crevier-Lalonde, à titre personnel
 * Stephen Hart, à titre personnel
 * Karine Léonard Brouillet, Réseau canadien d'information sur le patrimoine
 * Marie-Elaine Mathieu, à titre personnel

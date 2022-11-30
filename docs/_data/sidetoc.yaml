@@ -100,6 +100,8 @@ v71:
     url: /v7.1/classes/E1
   - page: E2 Entité temporelle
     url: /v7.1/classes/E2
+  - page: E3 État matériel
+    url: /v7.1/classes/E3
   - page: E4 Période
     url: /v7.1/classes/E4
   - page: E5 Évènement
@@ -120,6 +122,12 @@ v71:
     url: /v7.1/classes/E12
   - page: E13 Assignation d’attribut
     url: /v7.1/classes/E13
+  - page: E14 Évaluation d’état matériel
+    url: /v7.1/classes/E14
+  - page: E15 Assignation d’identifiant
+    url: /v7.1/classes/E15
+  - page: E16 Mesurage
+    url: /v7.1/classes/E16
   - page: E18 Chose matérielle
     url: /v7.1/classes/E18
   - page: E19 Objet matériel
@@ -166,6 +174,14 @@ v71:
     url: /v7.1/classes/E55
   - page: E56 Langue
     url: /v7.1/classes/E56
+  - page: E59 Valeur primitive
+    url: /v7.1/classes/E59
+  - page: E60 Nombre
+    url: /v7.1/classes/E60
+  - page: E61 Primitive temporelle
+    url: /v7.1/classes/E61
+  - page: E62 Chaîne de caractères
+    url: /v7.1/classes/E62
   - page: E63 Début d’Existence
     url: /v7.1/classes/E63
   - page: E64 Fin d’existence
@@ -210,6 +226,10 @@ v71:
     url: /v7.1/classes/E89
   - page: E90 Objet symbolique
     url: /v7.1/classes/E90
+  - page: E92 Volume spatio-temporel
+    url: /v7.1/classes/E92
+  - page: E93 Présence
+    url: /v7.1/classes/E93
   - page: E96 Achat
     url: /v7.1/classes/E96
 
@@ -233,6 +253,8 @@ v71:
     url: /v7.1/proprietes/P8
   - page: P9 comprend (fait partie de)
     url: /v7.1/proprietes/P9
+  - page: P10 s’insère dans (contient)
+    url: /v7.1/proprietes/P10
   - page: P11 a eu pour actant participant (a participé à)
     url: /v7.1/proprietes/P11
   - page: P12 a eu lieu en présence de (a été présent à)
@@ -277,6 +299,18 @@ v71:
     url: /v7.1/proprietes/P32
   - page: P33 a mobilisé comme technique spécifique (a été la technique spécifique mise en œuvre dans)
     url: /v7.1/proprietes/P33
+  - page: P34 a porté sur (a été évalué par)
+    url: /v7.1/proprietes/P34
+  - page: P35 a identifié (a été identifié par)
+    url: /v7.1/proprietes/P35
+  - page: P37 a assigné (a été assigné par)
+    url: /v7.1/proprietes/P37
+  - page: P38 a retiré l'assignation (a été retiré par)
+    url: /v7.1/proprietes/P38
+  - page: P39  a mesuré (a été mesuré par)
+    url: /v7.1/proprietes/P39
+  - page: P40 a relevé comme dimension (a été relevé par)
+    url: /v7.1/proprietes/P40
   - page: P43 a pour dimension (est la dimension de)
     url: /v7.1/proprietes/P43
   - page: P44 a pour état matériel (est l'état matériel de)
@@ -285,6 +319,8 @@ v71:
     url: /v7.1/proprietes/P45
   - page: P46 est composé de (fait partie de)
     url: /v7.1/proprietes/P46
+  - page: P48 a pour identifiant préférentiel (est l’identifiant préférentiel de)
+    url: /v7.1/proprietes/P48
   - page: P49 a pour actant détenteur actuel ou antérieur (est l’actant détenteur actuel ou antérieur de)
     url: /v7.1/proprietes/P49
   - page: P50 a pour actant détenteur actuel (est l’actant détenteur actuel)
@@ -295,6 +331,10 @@ v71:
     url: /v7.1/proprietes/P52
   - page: P53 a pour localisation actuelle ou antérieure (est la localisation actuelle ou antérieure de)
     url: /v7.1/proprietes/P53
+  - page: P55 a actuellement pour localisation (est actuellement la localisation de)
+    url: /v7.1/proprietes/P55
+  - page: P59 a pour section (se situe sur ou dans)
+    url: /v7.1/proprietes/P59
   - page: P62 illustre (est illustré par)
     url: /v7.1/proprietes/P62
   - page: P65 représente l'entité visuelle (est représenté par)
@@ -339,6 +379,8 @@ v71:
     url: /v7.1/proprietes/P101
   - page: P106 est composé de (fait partie de)
     url: /v7.1/proprietes/P106
+  - page: P107 a pour membre actuel ou antérieur (est le membre actuel ou antérieur de)
+    url: /v7.1/proprietes/P107
   - page: P108 a produit (a été produit par)
     url: /v7.1/proprietes/P108
   - page: P110 a augmenté (a été augmenté par)
@@ -359,14 +401,22 @@ v71:
     url: /v7.1/proprietes/P129
   - page: P130 présente les caractéristiques de (a les caractéristiques aussi présentes sur)
     url: /v7.1/proprietes/P130
+  - page: P132 recoupe spatio-temporellement
+    url: /v7.1/proprietes/P132
+  - page: P133 est distinct spatio-temporellement de
+    url: /v7.1/proprietes/P133
   - page: P134 a continué (a été continué par)
     url: /v7.1/proprietes/P134
+  - page: P137 exemplifie (est exemplifié par)
+    url: /v7.1/proprietes/P137
   - page: P138 représente (est représenté par)
     url: /v7.1/proprietes/P138
   - page: P140 a assigné l’attribut à (a reçu l’attribut par)
     url: /v7.1/proprietes/P140
   - page: P141 a attribué (a été attribué par)
     url: /v7.1/proprietes/P141
+  - page: P142 a mobilisé comme élément (a été mobilisé dans)
+    url: /v7.1/proprietes/P142
   - page: P143 a fait adhérer (a adhéré par)
     url: /v7.1/proprietes/P143
   - page: P144 a fait adhérer à (a accueilli le membre par)
@@ -381,8 +431,20 @@ v71:
     url: /v7.1/proprietes/P148
   - page: P151 a été formé à partir de (a participé à)
     url: /v7.1/proprietes/P151
+  - page: P156 occupe (est occupé par)
+    url: /v7.1/proprietes/P156
+  - page: P160 a pour projection temporelle (est la projection temporelle de)
+    url: /v7.1/proprietes/P160
+  - page: P161 a pour projection spatiale (est la projection spatiale de)
+    url: /v7.1/proprietes/P161
+  - page: P164 est temporellement spécifié par (était l'intervalle temporel de)
+    url: /v7.1/proprietes/P164
   - page: P165 inclut (est inclus dans)
     url: /v7.1/proprietes/P165
+  - page: P166 a été une présence de (a eu pour présence)
+    url: /v7.1/proprietes/P166
+  - page: P167 s’inscrivait dans (comporte)
+    url: /v7.1/proprietes/P167
   - page: P177 a assigné le type de propriété (est le type de propriété assigné)
     url: /v7.1/proprietes/P177
   - page: P186 a produit la chose du type (est produit par)
@@ -391,6 +453,10 @@ v71:
     url: /v7.1/proprietes/P190
   - page: P191 a eu pour durée (était la durée de)
     url: /v7.1/proprietes/P191
+  - page: P195 a été une présence de (a eu pour présence)
+    url: /v7.1/proprietes/P195
+  - page: P196 définit (est défini par)
+    url: /v7.1/proprietes/P196
 
 
 - title: Bibliographie originale

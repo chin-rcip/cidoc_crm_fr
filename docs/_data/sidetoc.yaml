@@ -12,9 +12,6 @@ v71:
     - page: Portée du CIDOC CRM
       url: /v7.1/information/introduction#portee-du-cidoc-crm
       hash: portee-du-cidoc-crm
-    # - page: Exemples
-    #   url: /v7.1/information/introduction#exemples
-    #   hash: exemples
   - page: Terminologie
     url: /v7.1/information/terminologie
   - page: Compatibilité avec le CIDOC CRM
@@ -56,40 +53,45 @@ v71:
     - page: De l’héritage et de la transitivité
       url: /v7.1/information/principes-de-modelisation#de-lheritage-et-de-la-transitivite
       hash: de-lheritage-et-de-la-transitivite
+  - page: Introduction aux concepts fondamentaux
+    url: /v7.1/information/introduction-aux-concepts-fondamentaux
+    subsubfolder:
+    - page: Des relations évènementielles
+      url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-evenementielles
+      hash: des-relations-evenementielles
+      sub-subsubfolder:
+      - page: Des relations spatiales
+        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-spatiales
+        hash: des-relations-spatiales
+      - page: Des relations temporelles
+        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-temporelles
+        hash: des-relations-temporelles
+      - page: Des relations spatio-temporelles
+        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-spatio-temporelles
+        hash: des-relations-spatio-temporelles
+    - page: Construits spécifiques de modélisation
+      url: /v7.1/information/introduction-aux-concepts-fondamentaux#construits-specifiques-de-modelisation
+      hash: construits-specifiques-de-modelisation
+      sub-subsubfolder:
+      - page: Des Types
+        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-types
+        hash: des-types
+      - page: Des relations temporelles primitives fondées sur des frontières floues
+        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-temporelles-primitives-fondees-sur-des-frontieres-floues
+        hash: des-relations-temporelles-primitives-fondees-sur-des-frontieres-floues
   - page: Application formelle
     url: /v7.1/information/application-formelle
     subsubfolder:
-    - page: Des hiérarchies de classes et de propriétés
+    - page: Hiérarchies de classes et de propriétés
       url: /v7.1/information/application-formelle#hierarchies-de-classes-et-de-proprietes
       hash: hierarchies-de-classes-et-de-proprietes
       sub-subsubfolder:
-      - page: Classes
-        url: /v7.1/information/application-formelle#hierarchies-de-classes
-        hash: hierarchies-de-classes
-      - page: Propriétés
-        url: /v7.1/information/application-formelle#hierarchies-de-proprietes
-        hash: hierarchies-de-proprietes
-  
-  
-  # - page: Annexe
-  #   url: /v7.1/information/annexe
-  #   subsubfolder:
-  #   - page: Classes et propriétés dépréciée
-  #     url: /v7.1/information/annexe#classes-et-proprietes-depreciees
-  #     hash: classes-et-proprietes-depreciees
-  #     sub-subsubfolder:
-  #     - page: Instructions de migration des classes dépréciée
-  #       url: /v7.1/information/annexe#instructions-de-migration-des-classes-depreciees
-  #       hash: instructions-de-migration-des-classes-depreciees
-  #     - page: Instructions de migration pour E81_Transformation (domain d’application restreint)
-  #       url: /v7.1/information/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint
-  #       hash: instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint
-  #     - page: Instructions de migration des propriétés dépréciée
-  #       url: /v7.1/information/annexe#instructions-de-migration-des-proprietes-depreciees
-  #       hash: instructions-de-migration-des-proprietes-depreciees
-  #   - page: Modifications 
-  #     url: /v7.1/information/annexe#modifications
-  #     hash: modifications
+      - page: Liste hiérarchisée des classes du CIDOC CRM
+        url: /v7.1/information/application-formelle#liste-hierarchisee-des-classes-du-cidoc-crm
+        hash: liste-hierarchisee-des-classes-du-cidoc-crm
+      - page: Liste hiérarchisée des propriétés du CIDOC CRM
+        url: /v7.1/information/application-formelle#liste-hierarchisee-des-proprietes-du-cidoc-crm
+        hash: liste-hierarchisee-des-proprietes-du-cidoc-crm
 
 - title: CLASSES
   group: classes
@@ -469,13 +471,13 @@ v71:
     url: /v7.1/annexe#classes-et-proprietes-depreciees
     hash: classes-et-proprietes-depreciees
     subsubfolder:
-    - page: Instructions de migration des classes dépréciée
+    - page: Instructions de migration des classes dépréciées
       url: /v7.1/annexe#instructions-de-migration-des-classes-depreciees
       hash: instructions-de-migration-des-classes-depreciees
     - page: Instructions de migration pour E81_Transformation (domain d’application restreint)
       url: /v7.1/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint
       hash: instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint
-    - page: Instructions de migration des propriétés dépréciée
+    - page: Instructions de migration des propriétés dépréciées
       url: /v7.1/annexe#instructions-de-migration-des-proprietes-depreciees
       hash: instructions-de-migration-des-proprietes-depreciees
   - page: Modifications 

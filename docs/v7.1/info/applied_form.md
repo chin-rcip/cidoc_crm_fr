@@ -5,12 +5,12 @@ titleEn: Applied Form - Application formelle
 permalink: /v7.1/information/application-formelle
 sidebar: v71
 group: info
-date: 2021-06-03
+date: 2022-11-07
 ---
 
 **Date de création** : 2020-20-10
 
-**Dernière mise à jour** : 2021-06-03
+**Dernière mise à jour** : 2022-11-07
 
 <div class="lang-buttons">
   <button id="fr" class="activate">FR</button>
@@ -19,141 +19,136 @@ date: 2021-06-03
 
 <table class="text">
 <colgroup>
-<col style="width: 50%">
+<col style="width:50%">
 </colgroup>
 <tbody>
 <tr>
-<td class="en"><p>The CIDOC CRM is an ontology in the sense used in computer science. It has been expressed as an object-oriented semantic model, in the hope that this formulation will be comprehensible to both documentation experts and information scientists alike, while at the same time being readily converted to machine-readable formats such as RDF Schema or OWL. It can be implemented in Relational or Object-Oriented schema. CIDOC CRM instances can also be encoded in RDF, JSON LD, XML, OWL among and others</p>
-<p>Although the definition of the CIDOC CRM provided here is complete, it is an intentionally compact and concise presentation of the CIDOC CRM’s 81 classes and 160 unique properties. It does not attempt to articulate the inheritance of properties by subclasses throughout the class hierarchy (this would require the declaration of several thousand properties, as opposed to 160). However, this definition does contain all of the information necessary to infer and automatically generate a full declaration of all properties, including inherited properties.</p></td>
-<td><p>Le CIDOC CRM est une ontologie (dans le sens informatique du terme) prenant la forme d’un modèle sémantique orienté-objet destiné à la conversion vers des formats lisibles par des machines (p. ex. <a href="https://www.w3.org/RDF/"><strong>RDF</strong></a> Schema, <a href="https://www.w3.org/OWL/"><strong>OWL</strong></a>), mais formulé afin d’être compris tant par les informaticiens que par les experts de la documentation. Son implémentation peut être faite sous forme de schémas relationnels ou orientés-objets et les instances de CIDOC CRM peuvent notamment être encodées en RDF, <a href="https://json-ld.org/"><strong>JSON-LD</strong></a>, <a href="https://www.w3.org/XML/"><strong>XML</strong></a> ou OWL.</p>
-<p>La définition ci-présentée du CIDOC CRM est complète, bien qu’elle demeure une présentation intentionnellement concise et succincte de ses 81 classes et 160 propriétés uniques. Celle-ci n’a donc pas pour objectif de décliner l’héritage des propriétés par sous-classes à travers la hiérarchie des classes (ce qui exigerait la déclaration de plusieurs milliers de propriétés plutôt que de 160). Par contre, cette définition contient toute l’information nécessaire à l’inférence et à la génération automatique d’une déclaration complète des propriétés, ce qui inclut les propriétés héritées.</p></td>
+<td class="en">
+<p>The CIDOC CRM is an ontology in the sense used in computer science. It has been expressed as an object-oriented semantic model, in the hope that this formulation will be comprehensible to both documentation experts and information scientists alike, while at the same time being readily converted to machine-readable formats such as RDF Schema or OWL. It can be implemented in Relational or Object-Oriented schema. CIDOC CRM instances can also be encoded in RDF, JSON LD, XML, OWL among and others</p>
+<p></p>
+<p>Although the definition of the CIDOC CRM provided here is complete, it is an intentionally compact and concise presentation of the CIDOC CRM’s  81 classes and 160 unique properties. It does not attempt to articulate the inheritance of properties by subclasses throughout the class hierarchy (this would require the declaration of several thousand properties, as opposed to 160). However, this definition does contain all of the information necessary to infer and automatically generate a full declaration of all properties, including inherited properties. </p>
+</td>
+<td>
+<p>Le CIDOC CRM est une ontologie (dans le sens informatique du terme) prenant la forme d’un modèle sémantique orienté-objet destiné à la conversion vers des formats lisibles par des machines (p. ex. <a href="https://www.w3.org/RDF/"><span class="underline">RDF</span></a> Schema, <a href="https://www.w3.org/OWL/"><span class="underline">OWL</span></a>), mais formulé afin d’être compris tant par les informaticiens que par les experts de la documentation. Son implémentation peut être faite sous forme de schémas relationnels ou orientés-objets et les instances de CIDOC CRM peuvent notamment être encodées en RDF, <a href="https://json-ld.org/"><span class="underline">JSON-LD</span></a>, <a href="https://www.w3.org/XML/"><span class="underline">XML</span></a> ou OWL. </p>
+<p></p>
+<p>La définition ci-présentée du CIDOC CRM est complète, bien qu’elle demeure une présentation intentionnellement concise et succincte de ses 81 classes et 160 propriétés uniques. Celle-ci n’a donc pas pour objectif de décliner l’héritage des propriétés par sous-classes à travers la hiérarchie des classes (ce qui exigerait la déclaration de plusieurs milliers de propriétés plutôt que de 160). Par contre, cette définition contient toute l’information nécessaire à l’inférence et à la génération automatique d’une déclaration complète des propriétés, ce qui inclut les propriétés héritées. </p>
+</td>
 </tr>
 </tbody>
 </table>
 <table>
 <tbody>
-<tr class="odd">
-<th><em>Note traducteur</em></th>
-<td></td>
+<tr>
+<th style="width:15%"><p><em>Note traducteur</em></p>
+</th>
+<td colspan="1">
+</td>
 </tr>
-<tr class="even">
-<th><em>Références</em></th>
-<td><p>JSON-LD Working Group. 2014. « JSON-LD - JSON for Linking Data ». JSON-LD. 16 janvier 2014. <a href="https://json-ld.org/">https://json-ld.org/</a>.</p>
-<p>OWL Working Group. 2012. « OWL - Semantic Web Standards ». W3C. 11 décembre 2012. <a href="https://www.w3.org/OWL/">https://www.w3.org/OWL/</a>.</p>
-<p>RDF Working Group. 2014. « RDF - Semantic Web Standards ». W3C. 25 février 2014. <a href="https://www.w3.org/RDF/">https://www.w3.org/RDF/</a>.</p>
-<p>XML Working Group. 2016. « Extensible Markup Language (XML) ». W3C. 11 octobre 2016. <a href="https://www.w3.org/XML/">https://www.w3.org/XML/</a>.</p></td>
+<tr>
+<th><p><em>Références</em></p>
+</th>
+<td colspan="1">
+<p>JSON-LD Working Group. 2014. « JSON-LD - JSON for Linking Data ». JSON-LD. 16 janvier 2014.<a href="https://json-ld.org/"><span class="underline"> </span></a><a href="https://json-ld.org/"><span class="underline">https://json-ld.org/</span></a>.</p>
+<p>OWL Working Group. 2012. « OWL - Semantic Web Standards ». W3C. 11 décembre 2012.<a href="https://www.w3.org/OWL/"><span class="underline"> </span></a><a href="https://www.w3.org/OWL/"><span class="underline">https://www.w3.org/OWL/</span></a>.</p>
+<p>RDF Working Group. 2014. « RDF - Semantic Web Standards ». W3C. 25 février 2014.<a href="https://www.w3.org/RDF/"><span class="underline"> </span></a><a href="https://www.w3.org/RDF/"><span class="underline">https://www.w3.org/RDF/</span></a>.</p>
+<p>XML Working Group. 2016. « Extensible Markup Language (XML) ». W3C. 11 octobre 2016.<a href="https://www.w3.org/XML/"><span class="underline"> </span></a><a href="https://www.w3.org/XML/"><span class="underline">https://www.w3.org/XML/</span></a>.</p>
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-
 
 <h2 id="hierarchies-de-classes-et-de-proprietes"><span class="en heading">Class & Property Hierarchies - </span>Hiérarchies de classes et de propriétés</h2>
 
 <table class="text">
 <colgroup>
-<col style="width: 50%">
+<col style="width:50%">
 </colgroup>
 <tbody>
 <tr>
-<td class="en"><p>Although they do not provide comprehensive definitions, compact mono-hierarchical presentations of the class and property IsA hierarchies have been found to significantly aid comprehension and navigation of the CIDOC CRM. Since the CRM is poly-hierarchical, a mono-hierarchical presentation form is achieved by a top-down expansion of all inverse IsA relations regardless whether a concept has already be presented at another place in the same hierarchy. This form is provided below.</p>
+<td class="en">
+<p>Although they do not provide comprehensive definitions, compact mono-hierarchical presentations of the class and property IsA hierarchies have been found to significantly aid comprehension and navigation of the CIDOC CRM. Since the CRM is poly-hierarchical, a mono-hierarchical presentation form is achieved by a top-down expansion of all inverse IsA relations regardless whether a concept has already be presented at another place in the same hierarchy. This form is provided below.</p>
+<p></p>
 <p>The class hierarchy presented below has the following format:</p>
-<ul>
-<li>
-<p>Each line begins with a unique class identifier, consisting of a number preceded by the letter “E” (originally denoting “entity,” although now replaced by convention with the term “class”).</p>
+<p></p>
+<ul><li><p>Each line begins with a unique class identifier, consisting of a number preceded by the letter “E” (originally denoting “entity,” although now replaced by convention with the term “class”).</p>
 </li>
-<li>
-<p>A series of hyphens (“-”) follows the unique class identifier, indicating the hierarchical position of the class in the IsA hierarchy.</p>
+<li><p>A series of hyphens (“-”) follows the unique class identifier, indicating the hierarchical position of the class in the IsA hierarchy.</p>
 </li>
-<li>
-<p>The English name of the class appears to the right of the hyphens.</p>
+<li><p>The English name of the class appears to the right of the hyphens.</p>
 </li>
-<li>
-<p>The index is ordered by hierarchical level, in a “depth first” manner, from the smaller to the larger subhierarchies.</p>
+<li><p>The index is ordered by hierarchical level, in a “depth first” manner, from the smaller to the larger subhierarchies.</p>
 </li>
-<li>
-<p>Classes that appear in more than one position in the class hierarchy as a result of multiple inheritance are shown in an italic typeface.</p>
-</li>
-</ul>
+<li><p>Classes that appear in more than one position in the class hierarchy as a result of multiple inheritance are shown in an italic typeface.</p>
+</li></ul>
+<p></p>
 <p>The property hierarchy presented below has the following format:</p>
-<ul>
-<li>
-<p>Each line begins with a unique property identifier, consisting of a number preceded by the letter “P” (for “property”).</p>
+<p></p>
+<ul><li><p>Each line begins with a unique property identifier, consisting of a number preceded by the letter “P” (for “property”).</p>
 </li>
-<li>
-<p>A series of hyphens (“-”) follows the unique property identifier, indicating the hierarchical position of the property in the IsA hierarchy.</p>
+<li><p>A series of hyphens (“-”) follows the unique property identifier, indicating the hierarchical position of the property in the IsA hierarchy.</p>
 </li>
-<li>
-<p>The English name of the property appears to the right of the hyphens, followed by its inverse name in parentheses for reading in the range to domain direction.</p>
+<li><p>The English name of the property appears to the right of the hyphens, followed by its inverse name in parentheses for reading in the range to domain direction.</p>
 </li>
-</ul>
-<ul>
-<li>
-<p>The domain class for which the property is declared.</p>
+<li><p>The domain class for which the property is declared.</p>
 </li>
-<li>
-<p>The range class that the property references.</p>
+<li><p>The range class that the property references.</p>
 </li>
-<li>
-<p>The index is ordered by hierarchical level, in a “depth first” manner, from the smaller to the larger subhierarchies, and by property number between equal siblings.</p>
+<li><p>The index is ordered by hierarchical level, in a “depth first” manner, from the smaller to the larger subhierarchies, and by property number between equal siblings.</p>
 </li>
-<li>
-<p>Properties that appear in more than one position in the property hierarchy as a result of multiple inheritance are shown in an italic typeface.</p>
+<li><p>Properties that appear in more than one position in the property hierarchy as a result of multiple inheritance are shown in an italic typeface.</p>
+</li></ul>
+</td>
+<td>
+<p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations <code class="language-plaintext highlighter-rouge">estUn</code> indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie. </p>
+<p></p>
+<p>La hiérarchie de classes présentée ci-bas reprend la forme suivante : </p>
+<p></p>
+<ul><li><p>Chaque ligne commence avec un identifiant de classe unique composé d’un nombre précédé de la lettre « E » (qui signalait autrefois une « entité”, bien que le terme « classe » soit maintenant préféré). </p>
 </li>
-</ul></td>
-<td><p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations <code class="language-plaintext highlighter-rouge">estUn</code> indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie.</p>
-<p>La hiérarchie de classes présentée ci-bas reprend la forme suivante :</p>
-<ul>
-<li>
-<p>Chaque ligne commence avec un identifiant de classe unique composé d’un nombre précédé de la lettre « E » (qui signalait autrefois une « entité”, bien que le terme « classe » soit maintenant préféré).</p>
+<li><p>Une série de traits d’union (« - ») suit cet identifiant de classe unique et indique la position de la classe dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>. </p>
 </li>
-<li>
-<p>Une série de traits d’union (« - ») suit cet identifiant de classe unique et indique la position de la classe dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>.</p>
+<li><p>Le nom de la classe se trouve à droite des traits d’union. </p>
 </li>
-<li>
-<p>Le nom de la classe se trouve à droite des traits d’union.</p>
+<li><p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges. </p>
 </li>
-<li>
-<p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges.</p>
+<li><p>L’apparition de classes dans de multiples positions dans la hiérarchie des classes en raison d’héritages multiples est signalée par l’usage des italiques. </p>
+</li></ul>
+<p></p>
+<p>La hiérarchie des propriétés présentée ci-bas reprend la forme suivante : </p>
+<p></p>
+<ul><li><p>Chaque ligne commence avec un identifiant de propriété unique composé d’un nombre précédé de la lettre « P » (pour « propriété »). </p>
 </li>
-<li>
-<p>L’apparition de classes dans de multiples positions dans la hiérarchie des classes en raison d’héritages multiples est signalée par l’usage des italiques.</p>
+<li><p>Une série de traits d’union (« - ») suit cet identifiant de propriété unique et indique la position de la propriété dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>. </p>
 </li>
-</ul>
-<p>La hiérarchie des propriétés présentée ci-bas reprend la forme suivante :</p>
-<ul>
-<li>
-<p>Chaque ligne commence avec un identifiant de propriété unique composé d’un nombre précédé de la lettre « P » (pour « propriété »).</p>
+<li><p>Le nom de la propriété se trouve à droite des traits d’union, suivi par le nom de la propriété inverse entre parenthèses (à des fins de lecture depuis la portée vers le domaine). </p>
 </li>
-<li>
-<p>Une série de traits d’union (« - ») suit cet identifiant de propriété unique et indique la position de la propriété dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>.</p>
+<li><p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges, puis par numéro de propriété dans le cas de propriétés-soeurs égales. </p>
 </li>
-<li>
-<p>Le nom de la propriété se trouve à droite des traits d’union, suivi par le nom de la propriété inverse entre parenthèses (à des fins de lecture depuis la portée vers le domaine).</p>
-</li>
-<li>
-<p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges, puis par numéro de propriété dans le cas de propriétés-soeurs égales.</p>
-</li>
-<li>
-<p>L’apparition de propriétés dans de multiples positions dans la hiérarchie des propriétés en raison d’héritages multiples est signalée par l’usage des italiques.</p>
-</li>
-</ul></td>
+<li><p>L’apparition de propriétés dans de multiples positions dans la hiérarchie des propriétés en raison d’héritages multiples est signalée par l’usage des italiques. </p>
+</li></ul>
+</td>
 </tr>
 </tbody>
 </table>
 <table>
 <tbody>
-<tr class="odd">
-<th><em>Note traducteur</em></th>
-<td><span class="empty-cell">Invisible placeholder content for empty cells to control the width of the heading colums.</span></td>
+<tr>
+<th style="width:15%"><p><em>Note traducteur</em></p>
+</th>
+<td colspan="1">
+</td>
 </tr>
-<tr class="even">
-<th><em>Références</em></th>
-<td></td>
+<tr>
+<th><p><em>Références</em></p>
+</th>
+<td colspan="1">
+</td>
 </tr>
 </tbody>
 </table>
 
-<h3 id="hierarchies-de-classes"><span class="en heading">Classes - </span>Classes</h3>
+<h3 id="liste-hierarchisee-des-classes-du-cidoc-crm"><span class="en heading">CIDOC CRM Class Hierarchy - </span>Liste hiérarchisée des classes du CIDOC CRM</h3>
 
 > *Avertissement : Cette traduction en français du CIDOC CRM est en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*
 
@@ -327,7 +322,7 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |E95|-|-|<span class="en"><em>Spacetime Primitive  </em></span>*`E95_Primitive_spatio-temporelle`* ||||||||
 
 
-<h3 id="hierarchies-de-proprietes"><span class="en heading">Properties - </span>Propriétés</h3>
+<h3 id="liste-hierarchisee-des-proprietes-du-cidoc-crm"><span class="en heading">CIDOC CRM Property Hierarchy - </span>Liste hiérarchisée des propriétés du CIDOC CRM</h3>
 
 > *Avertissement : Cette traduction en français du CIDOC CRM est en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*
 

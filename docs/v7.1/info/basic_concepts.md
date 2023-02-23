@@ -749,8 +749,8 @@ date: 2022-11-07
 </tbody>
 </table>
 
-<p style="font-size:20px;margin-bottom:15px;"><span class="en heading">Notation - </span>Notation</p>
-<!-- <h4 id="notation"><span class="en heading">Notation - </span>Notation</h4> -->
+<h4 id="notation"><span class="en heading">Notation - </span>Notation</h4>
+
 <table class="text">
 <colgroup>
 <col style="width:50%">
@@ -812,8 +812,9 @@ date: 2022-11-07
 </tbody>
 </table>
 
-<p style="font-size:20px;margin-bottom:15px;"><span class="en heading">Overview of Temporal Relation Primitives - </span>Aperçu des relations temporelles primitives</p>
-<!-- <h4 id="notation"><span class="en heading">Overview of Temporal Relation Primitives - </span>Aperçu des relations temporelles primitives</h4> -->
+
+<h4 id="apercu-des-relations-temporelles-primitives"><span class="en heading">Overview of Temporal Relation Primitives - </span>Aperçu des relations temporelles primitives</h4>
+
 <table class="text">
 <colgroup>
 <col style="width:50%">

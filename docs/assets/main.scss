@@ -139,6 +139,7 @@ li a.active {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: normal;
+    border-top: solid 2px;
 }
 
 .sidebar ul {
@@ -150,27 +151,17 @@ li a.active {
 .mainlist>li>a {
     font-weight: bold;
 }
-.mainlist.toggle-sidebar>li {
-    margin-bottom: 10px;
+.mainlist .sublist {
+    margin-left: 20px;
 }
-.sublist.indent>li>a {
-    padding-left: 20px;
+.toggle-sidebar-list {
+    margin-top: 10px;
 }
 
 .sidebar a:hover {
     color: black;
 }
 
-.subsublist>li>a {
-    padding-left: 20px;
-}
-.subsublist.indent>li>a {
-    padding-left: 40px;
-}
-
-.sub-subsublist>li>a {
-    padding-left: 40px
-}
 .sidebar {
     border-right-style: solid;
     border-right-width: 2px;
@@ -213,18 +204,7 @@ a::after {
         display: inline-block;
         overflow: hidden;
         text-overflow: ellipsis;
-    }
-
-    .mainlist>li>a {
         width: calc(100%);
-    }
-
-    .sublist>li>a {
-        width: calc(100% - 20px);
-    }
-
-    .subsublist>li>a {
-        width: calc(100% - 40px);
     }
 
     .tooltip {

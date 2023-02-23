@@ -43,8 +43,8 @@ date: 2022-11-07
 <p></p>
 <p>Le CIDOC CRM porte principalement sur l’échange et la médiation d’information structurée et n’exige pas l’interprétation d’information non structurée dans une forme logique. L’information non structurée peut être traitée par le CIDOC CRM, mais les résultats qui en découlent ne sont pas pris en compte dans l’évaluation de la conformité d’un système. </p>
 <p></p>
-<p>Tout système documentaire sera considéré conforme [n.d.t. avec les règles du CIDOC CRM], peu importe les structures de données internes qu’il utilise, si des algorithmes peuvent transformer les données non structurées du système en une forme compatible avec le CIDOC CRM sans que la signification n’en soit affectée. </p>
-<p><code class="language-plaintext highlighter-rouge"></code></p>
+<p>Tout système documentaire sera considéré conforme [n.d.t. avec les règles du CIDOC CRM], peu importe les structures de données internes qu’il utilise, si des algorithmes peuvent transformer les données non structurées du système en une forme compatible avec le CIDOC CRM sans que la signification n’en soit affectée.</p>
+<p></p>
 <p>« Sans que la signification n’en soit affectée » signifie que les concepteurs et les utilisateurs du système considèrent que la représentation résultant de l’utilisation de cet algorithme correspond aux définitions sémantiques fournies dans ce standard. </p>
 </td>
 </tr>
@@ -322,7 +322,7 @@ date: 2022-11-07
 <p><strong>(0,n:1,1)</strong></p>
 </td>
 <td>
-<p>Une <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#instance"><span class="underline">instance</span></a> individuelle du <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#domaine"><span class="underline">domaine</span></a> de cette <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#propriete"><span class="underline">propriété</span></a> peut n’avoir aucune, une ou plusieurs instance(s) de cette propriété, mais une instance individuelle de sa <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#portee"><span class="underline">portée</span></a> ne doit être référencée que par une seule instance de cette même propriété. En d’autres termes, le domaine de cette propriété est optionnel et répétable [n.d.t. c.-à-d. qu’une même propriété peut être utilisée à plusieurs reprises avec une même instance de son domaine], mais sa portée est nécessaire et non répétable [n.d.t. c.-à-d. qu’une même propriété peut être utilisée à plusieurs reprises avec une même instance de son domaine]. Cette situation est parfois qualifiée de « sortance ». <code class="language-plaintext highlighter-rouge"></code></p>
+<p>Une <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#instance"><span class="underline">instance</span></a> individuelle du <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#domaine"><span class="underline">domaine</span></a> de cette <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#propriete"><span class="underline">propriété</span></a> peut n’avoir aucune, une ou plusieurs instance(s) de cette propriété, mais une instance individuelle de sa <a href="/cidoc_crm_fr-ca/v7.1/information/terminologie#portee"><span class="underline">portée</span></a> ne doit être référencée que par une seule instance de cette même propriété. En d’autres termes, le domaine de cette propriété est optionnel et répétable [n.d.t. c.-à-d. qu’une même propriété peut être utilisée à plusieurs reprises avec une même instance de son domaine], mais sa portée est nécessaire et non répétable [n.d.t. c.-à-d. qu’une même propriété peut être utilisée à plusieurs reprises avec une même instance de son domaine]. Cette situation est parfois qualifiée de « sortance ».</p>
 </td>
 </tr>
 <tr>

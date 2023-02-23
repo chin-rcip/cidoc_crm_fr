@@ -1,0 +1,91 @@
+class: mainlist
+toc:
+
+- title: Contenu propice à une traduction
+  url: /ressources/methodologie#contenu-propice-a-une-traduction
+  hash: contenu-propice-a-une-traduction
+- title: Méthodologie de traduction
+  url: /ressources/methodologie#methodologie-de-traduction
+  hash: methodologie-de-traduction
+  class: sublist
+  subfolder:
+  - title: Principes de traduction
+    url: /ressources/methodologie#principes-de-traduction
+    hash: principes-de-traduction
+    class: sublist
+    subfolder:
+    - title: Signification
+      url: /ressources/methodologie#signification
+      hash: signification
+    - title: Précision
+      url: /ressources/methodologie#precision
+      hash: precision
+    - title: Simplicité
+      url: /ressources/methodologie#simplicite
+      hash: simplicite
+    - title: Inclusivité
+      url: /ressources/methodologie#inclusivite
+      hash: inclusivite
+- title: Outils de traduction
+  url: /ressources/methodologie#outils-de-traduction
+  hash: outils-de-traduction
+  class: sublist
+  subfolder:
+    - title: Guide de style
+      url: /ressources/methodologie#guide-de-style
+      hash: guide-de-style
+    - title: Gabarits et protocoles
+      url: /ressources/methodologie#gabarits-et-protocoles
+      hash: gabarits-et-protocoles
+    - title: Processus
+      url: /ressources/methodologie#processus
+      hash: processus
+- title: Contact
+  url: /ressources/methodologie#contact-fr
+  hash: contact-fr
+
+- title: Methodology
+  url: /ressources/methodologie#en
+  hash: en
+- title: Content suitable for translation
+  url: /ressources/methodologie#content-suitable-for-translation
+  hash: content-suitable-for-translation
+- title: Translation methodology
+  url: /ressources/methodologie#translation-methodology
+  hash: translation-methodology
+  class: sublist
+  subfolder:
+  - title: Translation principles
+    url: /ressources/methodologie#translation-principles
+    hash: translation-principles
+    class: sublist
+    subfolder:
+    - title: Meaning
+      url: /ressources/methodologie#meaning
+      hash: meaning 
+    - title: Accuracy
+      url: /ressources/methodologie#accuracy
+      hash: accuracy 
+    - title: Simplicity
+      url: /ressources/methodologie#simplicity
+      hash: simplicity 
+    - title: Inclusivity
+      url: /ressources/methodologie#inclusivity
+      hash: inclusivity 
+- title: Translation tools
+  url: /ressources/methodologie#translation-tools
+  hash: translation-tools
+  class: sublist
+  subfolder:
+  - title: Style guide
+    url: /ressources/methodologie#style-guide
+    hash: style-guide 
+  - title: Templates and protocols
+    url: /ressources/methodologie#templates-and-protocols
+    hash: templates-and-protocols 
+  - title: Process
+    url: /ressources/methodologie#process
+    hash: process
+- title: Contact
+  url: /ressources/methodologie#contact-en
+  hash: contact-en

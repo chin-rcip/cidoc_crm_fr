@@ -1,0 +1,12 @@
+class: mainlist
+toc:
+
+- title: Notes méthodologiques
+  url: /ressources/index#notes-methodologiques
+  hash: notes-methodologiques
+- title: Methodological Notes
+  url: /ressources/index#methodological-notes
+  hash: methodological-notes
+- title: CIDOC CRM - EN/FR
+  url: /ressources/index#cidoc-crm---enfr
+  hash: cidoc-crm---enfr

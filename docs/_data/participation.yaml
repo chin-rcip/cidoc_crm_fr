@@ -1,0 +1,18 @@
+class: mainlist
+toc:
+
+- title: Signaler un problème de traduction
+  url: /ressources/participation#signaler-un-probleme-de-traduction
+  hash: signaler-un-probleme-de-traduction
+- title: Se joindre à l’effort de traduction
+  url: /ressources/participation#se-joindre-a-leffort-de-traduction
+  hash: se-joindre-a-leffort-de-traduction
+- title: Participation
+  url: /ressources/participation#en
+  hash: en
+- title: Report a translation issue
+  url: /ressources/participation#report-a-translation-issue
+  hash: report-a-translation-issue
+- title: Join the translation effort
+  url: /ressources/participation#join-the-translation-effort
+  hash: join-the-translation-effort

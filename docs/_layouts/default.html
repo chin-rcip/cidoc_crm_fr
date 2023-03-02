@@ -34,7 +34,7 @@
         {%- include footer.html -%}
       </div>
     </main>
-
+    <script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
     <script type="text/javascript">
       function active(element) {
         var cur_active = document.getElementsByClassName("active");
@@ -75,6 +75,25 @@
         }
       };
 
+      // calculate max-min-width-height of diagrams
+      function diagramResize() {
+        var main_content_width = $(".main-content").width(); // main-content width
+        var diagrams = $(".geDiagramContainer,.mxgraph");
+        var diagram_height = 400;
+        if ($("#en-fr").hasClass("activate")){
+          var diagram_width = main_content_width/2 - 35;
+        } else {
+          diagram_width = main_content_width - 35;
+        };
+        diagrams.css({
+          "max-width":diagram_width,
+          "min-width":diagram_width,
+          "max-height":diagram_height,
+          "min-height":diagram_height,
+          "overflow": "auto"
+        });
+      };
+
       // show/hide sidebar item
       $(".mainlist>li>.toggle-sidebar-list").on("click", function() {
         $(this).siblings().toggle();
@@ -100,13 +119,16 @@
       });
 
 
-       $(document).ready(function() {
+      $(document).ready(function() {
         // styling H1 in sidebar
         $("#toc-en").addClass("h3");
         
         // Hide all tooltips on window load
         $(".tooltip").hide();
         highlight();
+
+        // Diagrams
+        diagramResize();
 
         // dropdown menu toggle
         $(".has-dropdown").click(function(){
@@ -130,13 +152,16 @@
         }
       });
 
-     
+      // adjust diagrams width on window resizing
+      $(window).resize(function() {
+        diagramResize();
+      });
 
       // switching language by clicking language button
       $(".lang-buttons>button").click(function(){
         $(this).siblings().removeClass("activate");
         $(this).addClass("activate");
-        // content_by_lang(this);
+        diagramResize();
         var button_id = $(this).attr("id");
         if (button_id == "en-fr"){
           $(".en").addClass("show");
@@ -149,7 +174,7 @@
       });
       
 
-       // scroll sidebar and highlight corresponding headers
+      // scroll sidebar and highlight corresponding headers
       $(".column.content").scroll(function(){
         highlight();
       });

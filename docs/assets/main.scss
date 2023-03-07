@@ -273,6 +273,10 @@ td {
     visibility: hidden;
 }
 
+/*--- diagrams ---*/
+.geDiagramContainer {
+    overflow: auto !important;
+}
 /*--- disclaimer ---*/
 
 blockquote {

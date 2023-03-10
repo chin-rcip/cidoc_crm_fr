@@ -385,7 +385,7 @@ date: 2022-11-07
 <p><code class="language-plaintext highlighter-rouge">P78_est_identifié_par (identifie)</code><em> </em>: <code class="language-plaintext highlighter-rouge">E50_Date</code></p>
 </td>
 <td>
-<p>utiliser <code class="language-plaintext highlighter-rouge">P170i_définit_le_temps</code> : <code class="language-plaintext highlighter-rouge">E61_Primitive_temporelle</code></p>
+<p>utiliser <code class="language-plaintext highlighter-rouge">P170i_temps_défini_par</code> : <code class="language-plaintext highlighter-rouge">E61_Primitive_temporelle</code></p>
 </td>
 </tr>
 <tr>
@@ -401,7 +401,7 @@ date: 2022-11-07
 <p><code class="language-plaintext highlighter-rouge">P88_consiste_en (fait_partie_de)</code></p>
 </td>
 <td>
-<p>s’il s’agit d’une décomposition géométrique, utiliser <code class="language-plaintext highlighter-rouge">P89i_inclut</code></p>
+<p>s’il s’agit d’une décomposition géométrique, utiliser <code class="language-plaintext highlighter-rouge">P89i_contient</code></p>
 <p></p>
 <p>Si le lieu dont il est question est une instance de <code class="language-plaintext highlighter-rouge">E26_Caractéristique_physique</code> et que l’usage de <code class="language-plaintext highlighter-rouge">P88_consiste_en</code> a pour objectif de décrire la décomposition en des composantes naturelles, décrire explicitement l’instance de <code class="language-plaintext highlighter-rouge">E26_Caractéristique_physique</code> ainsi que ses composantes en utilisant <code class="language-plaintext highlighter-rouge">P46_est_composé_de</code></p>
 </td>

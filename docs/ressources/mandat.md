@@ -117,9 +117,11 @@ Le Groupe de travail est composé d’employés·es du RCIP (identifiés·es par
 
 * Marie-Pier Blain (traductrice)
 
+* Camille Crevier-Lalonde (traductrice)
+
 * Frédéric Bricaud (traducteur)
 
-* Stephen Hart\* (traducteur)
+* Stephen Hart (traducteur)
 
 * Karine Léonard Brouillet\* (traductrice)
 
@@ -283,9 +285,11 @@ The Working Group is composed of CHIN staff (denoted by \*) and external experts
 
 * Marie-Pier Blain (translator)
 
+* Camille Crevier-Lalonde (translator)
+
 * Frédéric Bricaud (translator)
 
-* Stephen Hart\* (translator)
+* Stephen Hart (translator)
 
 * Karine Léonard Brouillet\* (translator)
 

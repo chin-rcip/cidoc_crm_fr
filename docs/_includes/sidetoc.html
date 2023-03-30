@@ -2,28 +2,37 @@
 <ul class="{{ include.class }}" style="{{ include.style }}">
   {% for item in include.toc %}
     <li>
-      {% if item.url %}
-      {% assign item_url = "/cidoc_crm_fr-ca" | append: item.url %}
-      {% assign item_url_split = item.url | split: "#" %}
-      <a {% if item.hash %}id="toc-{{ item.hash }}"{% endif %} href="{{ item_url }}" onclick="active(this)">{{ item.title }}
-        <span class="tooltip">{{ item.title }}</span>
-      </a>
-        {% if item.subfolder and item_url_split[0] == page.url %}
-          {% include sidetoc.html toc=item.subfolder class=item.class %}
-        {% endif %}
-      {% elsif item.group %}
+    {% if item.group %}
+      {% if item.title %}
       <a href="javascript:void(0)" class="toggle-sidebar-list {% if item.group == page.group%}open{% endif %}">{{ item.title }}
         <span class="triangle">{% if item.group == page.group %}&#9660;{% else %}&#9655;{% endif %}</span>
         <span class="tooltip">{{ item.title }}</span>
       </a>
-        {% if item.subfolder %}
-          {% if item.group != page.group %}
-          {% assign display = "display:none" %}
-          {% else %} {% assign display = "" %}
-          {% endif %}
-        {% include sidetoc.html toc=item.subfolder class=item.class style=display %}
-        {% endif %}
       {% endif %}
+      {% if item.subfolder %}
+        {% if item.group != page.group %}
+        {% assign display = "display:none" %}
+        {% else %} {% assign display = "" %}
+        {% endif %}
+      {% include sidetoc.html toc=item.subfolder class=item.class style=display %}
+      {% endif %}
+    {% else %}
+      {% if item.url %}
+        {% assign base_url = item.url %}
+        {% assign item_url = "/cidoc_crm_fr-ca" | append: base_url %}
+      {% else %}
+        {% assign base_url = page.url %}
+        {% assign item_url = "/cidoc_crm_fr-ca" | append: base_url | append: '#' | append: item.hash %}
+      {% endif %}
+      {% if item.title %}
+      <a {% if item.hash %}id="toc-{{ item.hash }}"{% endif %} href="{{ item_url }}" onclick="active(this)">{{ item.title }}
+        <span class="tooltip">{{ item.title }}</span>
+      </a>
+      {% endif %}
+      {% if item.subfolder and base_url == page.url %}
+        {% include sidetoc.html toc=item.subfolder class=item.class %}
+      {% endif %}
+    {% endif %}
       
     </li>
   {% endfor %}

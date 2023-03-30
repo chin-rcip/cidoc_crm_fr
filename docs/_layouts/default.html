@@ -40,9 +40,9 @@
         var cur_active = document.getElementsByClassName("active");
         var i;
         for (i = 0; i < cur_active.length; i++) {
-          cur_active[i].setAttribute("class", "");
+          cur_active[i].classList.remove("active");
         };
-        element.setAttribute("class", "active");
+        element.classList.add("active");
       };
 
       function highlight() {

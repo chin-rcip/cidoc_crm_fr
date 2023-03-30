@@ -1,75 +1,58 @@
 class: mainlist
 toc:
 
-- title: Introduction
-  url: /ressources/mandat-fonctionnement#introduction
-  hash: introduction
-- title: But
-  url: /ressources/mandat-fonctionnement#but
-  hash: but
-- title: Responsabilités
-  url: /ressources/mandat-fonctionnement#responsabilites
-  hash: responsabilites
-- title: Membres
-  url: /ressources/mandat-fonctionnement#membres
-  hash: membres
-  class: sublist
+- class: sublist
   subfolder:
-  - title: Composition du Groupe de travail
-    url: /ressources/mandat-fonctionnement#composition-du-groupe-de-travail
-    hash: composition-du-groupe-de-travail
-  - title: Protocole de sélection
-    url: /ressources/mandat-fonctionnement#protocole-de-selection
-    hash: protocole-de-selection
-  - title: Critères de sélection et domaines d’expertise
-    url: /ressources/mandat-fonctionnement#criteres-de-selection-et-domaines-dexpertise
-    hash: criteres-de-selection-et-domaines-dexpertise
-- title: Activités et outils
-  url: /ressources/mandat-fonctionnement#activites-et-outils
-  hash: activites-et-outils
-  class: sublist
-  subfolder:
-  - title: Réunions
-    url: /ressources/mandat-fonctionnement#reunions
-    hash: reunions
-  - title: Flux de travail
-    url: /ressources/mandat-fonctionnement#flux-de-travail
-    hash: flux-de-travail
+  - title: Introduction
+    hash: introduction
+  - title: But
+    hash: but
+  - title: Responsabilités
+    hash: responsabilites
+  - title: Membres
+    hash: membres
+    class: sublist
+    subfolder:
+    - title: Composition du Groupe de travail
+      hash: composition-du-groupe-de-travail
+    - title: Protocole de sélection
+      hash: protocole-de-selection
+    - title: Critères de sélection et domaines d’expertise
+      hash: criteres-de-selection-et-domaines-dexpertise
+  - title: Activités et outils
+    hash: activites-et-outils
+    class: sublist
+    subfolder:
+    - title: Réunions
+      hash: reunions
+    - title: Flux de travail
+      hash: flux-de-travail
 
 - title: Mandate and Operation
-  url: /ressources/mandat-fonctionnement#en
   hash: en
-- title: Introduction
-  url: /ressources/mandat-fonctionnement#introduction-en
-  hash: introduction-en
-- title: Purpose
-  url: /ressources/mandat-fonctionnement#purpose
-  hash: purpose
-- title: Responsibilities
-  url: /ressources/mandat-fonctionnement#responsibilities
-  hash: responsibilities
-- title: Members
-  url: /ressources/mandat-fonctionnement#members
-  hash: members
   class: sublist
   subfolder:
-  - title: Composition of the Working Group
-    url: /ressources/mandat-fonctionnement#composition-of-the-working-group
-    hash: composition-of-the-working-group
-  - title: Selection Protocol
-    url: /ressources/mandat-fonctionnement#selection-protocol
-    hash: selection-protocol
-  - title: Selection Criteria and Areas of Expertise
-    url: /ressources/mandat-fonctionnement#selection-criteria-and-areas-of-expertise
-    hash: selection-criteria-and-areas-of-expertise
-- title: Activities and Tools
-  url: /ressources/mandat-fonctionnement#activities-and-tools
-  hash: activities-and-tools
-  class: sublist
-  subfolder:
-  - title: Meetings
-    url: /ressources/mandat-fonctionnement#meetings
-    hash: meetings
-  - title: Workflow
-    url: /ressources/mandat-fonctionnement#workflow
-    hash: workflow
+  - title: Introduction
+    hash: introduction-en
+  - title: Purpose
+    hash: purpose
+  - title: Responsibilities
+    hash: responsibilities
+  - title: Members
+    hash: members
+    class: sublist
+    subfolder:
+    - title: Composition of the Working Group
+      hash: composition-of-the-working-group
+    - title: Selection Protocol
+      hash: selection-protocol
+    - title: Selection Criteria and Areas of Expertise
+      hash: selection-criteria-and-areas-of-expertise
+  - title: Activities and Tools
+    hash: activities-and-tools
+    class: sublist
+    subfolder:
+    - title: Meetings
+      hash: meetings
+    - title: Workflow
+      hash: workflow

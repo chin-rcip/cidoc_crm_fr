@@ -144,16 +144,19 @@ li a.active {
 
 .sidebar ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
 }
 
 .mainlist>li>a {
     font-weight: bold;
 }
-.mainlist .sublist {
+.mainlist {
+    margin: 0;
+}
+.sublist {
     margin-left: 20px;
 }
+
 .toggle-sidebar-list {
     margin-top: 10px;
 }

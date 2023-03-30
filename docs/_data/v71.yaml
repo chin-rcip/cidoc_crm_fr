@@ -11,10 +11,8 @@ toc:
     class: sublist
     subfolder:
     - title: Objectifs du CIDOC CRM
-      url: /v7.1/information/introduction#objectifs-du-cidoc-crm
       hash: objectifs-du-cidoc-crm
     - title: Portée du CIDOC CRM
-      url: /v7.1/information/introduction#portee-du-cidoc-crm
       hash: portee-du-cidoc-crm
   - title: Terminologie
     url: /v7.1/information/terminologie
@@ -23,93 +21,70 @@ toc:
     class: sublist
     subfolder:
     - title: Quantificateurs de propriétés
-      url: /v7.1/information/compatibilite-avec-le-cidoc-crm#quantificateurs-de-proprietes
       hash: quantificateurs-de-proprietes
     - title: Convention d’appellation
-      url: /v7.1/information/compatibilite-avec-le-cidoc-crm#convention-dappellation
       hash: convention-dappellation
     - title: Des expressions logiques utilisées dans le CIDOC CRM
-      url: /v7.1/information/compatibilite-avec-le-cidoc-crm#des-expressions-logiques-utilisees-dans-le-cidoc-crm
       hash: des-expressions-logiques-utilisees-dans-le-cidoc-crm
   - title: Principes de modélisation
     url: /v7.1/information/principes-de-modelisation
     class: sublist
     subfolder:
     - title: De la réalité, des bases de connaissance et du CIDOC CRM
-      url: /v7.1/information/principes-de-modelisation#de-la-realite-des-bases-de-connaissance-et-du-cidoc-crm
       hash: de-la-realite-des-bases-de-connaissance-et-du-cidoc-crm
     - title: De l’auctorialité des contenus d’une base de connaissance
-      url: /v7.1/information/principes-de-modelisation#de-lauctorialite-des-contenus-dune-base-de-connaissances
       hash: de-lauctorialite-des-contenus-dune-base-de-connaissances
     - title: Des extensions de CIDOC CRM
-      url: /v7.1/information/principes-de-modelisation#des-extensions-de-cidoc-crm
       hash: des-extensions-de-cidoc-crm
     - title: De la minimalité
-      url: /v7.1/information/principes-de-modelisation#de-la-minimalite
       hash: de-la-minimalite
     - title: Des raccourcis 
-      url: /v7.1/information/principes-de-modelisation#des-raccourcis
       hash: des-raccourcis
     - title: De la monotonicité
-      url: /v7.1/information/principes-de-modelisation#de-la-monotonicite
       hash: de-la-monotonicite
     - title: De la disjonction
-      url: /v7.1/information/principes-de-modelisation#de-la-disjonction
       hash: de-la-disjonction
     - title: De l’héritage et de la transitivité
-      url: /v7.1/information/principes-de-modelisation#de-lheritage-et-de-la-transitivite
       hash: de-lheritage-et-de-la-transitivite
   - title: Introduction aux concepts fondamentaux
     url: /v7.1/information/introduction-aux-concepts-fondamentaux
     class: sublist
     subfolder:
     - title: Des relations évènementielles
-      url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-evenementielles
       hash: des-relations-evenementielles
       class: sublist
       subfolder:
       - title: Des relations spatiales
-        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-spatiales
         hash: des-relations-spatiales
       - title: Des relations temporelles
-        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-temporelles
         hash: des-relations-temporelles
       - title: Des relations spatio-temporelles
-        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-spatio-temporelles
         hash: des-relations-spatio-temporelles
     - title: Construits spécifiques de modélisation
-      url: /v7.1/information/introduction-aux-concepts-fondamentaux#construits-specifiques-de-modelisation
       hash: construits-specifiques-de-modelisation
       class: sublist
       subfolder:
       - title: Des Types
-        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-types
         hash: des-types
       - title: Des relations temporelles primitives fondées sur des frontières floues
-        url: /v7.1/information/introduction-aux-concepts-fondamentaux#des-relations-temporelles-primitives-fondees-sur-des-frontieres-floues
         hash: des-relations-temporelles-primitives-fondees-sur-des-frontieres-floues
         class: sublist
         subfolder:
         - title: Notation
-          url: /v7.1/information/introduction-aux-concepts-fondamentaux#notation
           hash: notation
         - title: Aperçu des relations temporelles primitives
-          url: /v7.1/information/introduction-aux-concepts-fondamentaux#apercu-des-relations-temporelles-primitives
           hash: apercu-des-relations-temporelles-primitives
   - title: Application formelle
     url: /v7.1/information/application-formelle
     class: sublist
     subfolder:
     - title: Hiérarchies de classes et de propriétés
-      url: /v7.1/information/application-formelle#hierarchies-de-classes-et-de-proprietes
       hash: hierarchies-de-classes-et-de-proprietes
       class: sublist
       subfolder:
       - title: Liste hiérarchisée des classes du CIDOC CRM
-        url: /v7.1/information/application-formelle#liste-hierarchisee-des-classes-du-cidoc-crm
         hash: liste-hierarchisee-des-classes-du-cidoc-crm
       - title: Liste hiérarchisée des propriétés du CIDOC CRM
-        url: /v7.1/information/application-formelle#liste-hierarchisee-des-proprietes-du-cidoc-crm
         hash: liste-hierarchisee-des-proprietes-du-cidoc-crm
 
 - title: CLASSES
@@ -489,19 +464,14 @@ toc:
   url: /v7.1/annexe
   subfolder:
   - title: Classes et propriétés dépréciées
-    url: /v7.1/annexe#classes-et-proprietes-depreciees
     hash: classes-et-proprietes-depreciees
     subsubfolder:
     - title: Instructions de migration des classes dépréciées
-      url: /v7.1/annexe#instructions-de-migration-des-classes-depreciees
       hash: instructions-de-migration-des-classes-depreciees
     - title: Instructions de migration pour E81_Transformation (domain d’application restreint)
-      url: /v7.1/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint
       hash: instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint
     - title: Instructions de migration des propriétés dépréciées
-      url: /v7.1/annexe#instructions-de-migration-des-proprietes-depreciees
       hash: instructions-de-migration-des-proprietes-depreciees
   - title: Modifications 
-    url: /v7.1/annexe#modifications
     hash: modifications
 

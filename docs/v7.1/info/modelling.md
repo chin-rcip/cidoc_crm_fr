@@ -4,7 +4,7 @@ title:  Principes de modélisation
 titleEn: Modelling principles - Principes de modélisation
 permalink: /v7.1/information/principes-de-modelisation
 sidebar: v71
-group: info
+group: information
 date: 2022-11-07
 ---
 

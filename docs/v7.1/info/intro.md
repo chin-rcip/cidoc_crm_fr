@@ -4,7 +4,7 @@ title: CIDOC CRM Version 7.1
 titleEn: CIDOC CRM Version 7.1
 permalink: /v7.1/information/introduction
 sidebar: v71
-group: info
+group: information
 date: 2022-11-07
 ---
 

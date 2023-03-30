@@ -4,7 +4,7 @@ title:  Compatibilité avec le CIDOC CRM
 titleEn: Compatibility with the CIDOC CRM - Compatibilité avec le CIDOC CRM
 permalink: /v7.1/information/compatibilite-avec-le-cidoc-crm
 sidebar: v71
-group: info
+group: information
 date: 2022-11-07
 ---
 

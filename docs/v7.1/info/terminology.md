@@ -4,7 +4,7 @@ title:  Terminologie
 titleEn: Terminology - Terminologie
 permalink: /v7.1/information/terminologie
 sidebar: v71
-group: info
+group: information
 date: 2022-11-07
 ---
 

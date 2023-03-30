@@ -4,7 +4,7 @@ title:  Application formelle
 titleEn: Applied Form - Application formelle
 permalink: /v7.1/information/application-formelle
 sidebar: v71
-group: info
+group: information
 date: 2022-11-07
 ---
 

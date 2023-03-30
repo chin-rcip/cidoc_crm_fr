@@ -4,7 +4,7 @@ title: Introduction aux concepts fondamentaux
 titleEn: Introduction to the basic concepts - Introduction aux concepts fondamentaux
 permalink: /v7.1/information/introduction-aux-concepts-fondamentaux
 sidebar: v71
-group: info
+group: information
 date: 2022-11-07
 ---
 

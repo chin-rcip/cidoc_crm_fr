@@ -122,7 +122,7 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 |E95|Spacetime Primitive|Primitive spatio-temporelle|`E95_Primitive_spatio-temporelle`<br>Cette formulation est cohérente avec les autres choix de la traduction (Primitive Temporelle, Primitive Spatiale, Volume Spatio-Temporel).|
 |E96|Purchase|Achat|`E96_Achat`|
 |E97|Monetary Amount|Valeur monétaire|`E97_Valeur_monétaire`<br>En français, le caractère économique et mesurable d'un bien est reflété dans l'utilisation du terme valeur associé à la monnaie de sorte qu'il n'y a pas d'ambiguïté quant à l'aspect quantitatif et que l'expression d'usage semble plus proche de la définition originale qu'une traduction littérale.|
-|E98|Currency|Monnaie|`E98_Monnaie`|
+|E98|Currency|Unité monétaire|`E98_Unité_monétaire`|
 |E99|Product Type|Modèle de produit|`E99_Modèle_de_produit`<br>Le terme modèle est celui qui est le plus proche de la définition de cette classe. Cependant, puisque le terme est utilisé dans d'autres contextes au sein de la spécification CIDOC CRM, le nom "Modèle de Produit" semble préférable.|
 |P1|is identified by (identifies)|est identifié par (identifie)|`P1_est_identifié_par (identifie)`|
 |P2|has type (is type of)|a pour type (est le type de)|`P2_a_pour_type (est_le_type_de)`<br>Puisque la plupart du temps le type est appliqué à l'information pour la classifier et qu'il n'est pas inhérent, il semble préférable d'utiliser une formulation plus proche de l'assignation.<br>Cette formulation est cohérente avec les autres choix de la traduction (a pour note, a pour durée, etc.)|
@@ -182,7 +182,7 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 |P65|shows visual item (is shown by)|représente l'entité visuelle (est représenté par)|`P65_représente_l’entité_visuelle (est_représenté_par)`<br>Cette traduction est cohérente avec celle de E36 Entité Visuelle.<br>Le terme représenté est préférable au terme présenter dans la mesure où aucune des deux entités actantes n'a d'intentionnalité.|
 |P67|refers to (is referred to by)|renvoie à (fait l'objet d'un renvoi par)|`P67_renvoie_à (fait_l’objet_d’un_renvoi_par)`|
 |P68|foresees use of (use foreseen by)|prévoit l'usage de (usage prévu de)|`P68_prévoit_l’usage_de (usage_prévu_de)`<br>Cette formulation est cohérente avec le reste de la traduction (P19, P68).|
-|P69|has association with (is associated with)|est associé à|`P69_est_associé_à`|
+|P69|has association with (is associated with)|est associé à (est associé à)|`P69_est_associé_à (est_associé_à)`|
 |P70|documents (is documented in)|documente (est documenté dans)|`P70_documente (est_documenté_dans)`|
 |P71|lists (is listed in)|énumère (est énuméré par)|`P71_énumère (est_énuméré_par)`|
 |P72|has language (is language of)|a pour langue (est la langue de)|`P72_a_pour_langue (est_la_langue_de)`|
@@ -215,7 +215,7 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 |P106|is composed of (forms part of)|est composé de (fait partie de)|`P106_est_composé_de (fait_partie_de)`|
 |P107|has current or former member (is current or former member of)|a pour membre actuel ou antérieur (est le membre actuel ou antérieur de)|`P107_a_pour_membre_actuel_ou_antérieur (est_le_membre_actuel_ou_antérieur_de)`|
 |P108|has produced (was produced by)|a produit (a été produit par)|`P108_a_produit (a_été_produit_par)`|
-|P109|has current or former curator (is current or former curator of)|P109 a pour actant en charge de la collection actuellement ou antérieurement (est actuellement ou antérieurement en charge de la collection de)|`P109_a_pour_actant_en_charge_de_la_collection_actuellement_ou_antérieurement (est_actuellement_ou_antérieurement_en_charge_de_la_collection_de)`|
+|P109|has current or former curator (is current or former curator of)|a pour responsable actuel ou antérieur de la collection (est responsable actuel ou antérieur de la collection)|`P109_a_pour_responsable_actuel_ou_antérieur_de_la_collection (est_responsable_actuel_ou_antérieur_de_la_collection)`|
 |P110|augmented (was augmented by)|a augmenté (a été augmenté par)|`P110_a_augmenté (a_été_augmenté_par)`|
 |P111|added (was added by)|a ajouté (a été ajouté par)|`P111_a_ajouté (a_été_ajouté_par)`|
 |P112|diminished (was diminished by)|a diminué (a été diminué par)|`P112_a_diminué (a_été_diminué_par)`|
@@ -230,7 +230,7 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 |P128|carries (is carried by)|est le support de (a pour support)|`P128_est_le_support_de (a_pour_support)`|
 |P129|is about (is subject of)|a pour sujet (est le sujet de)|`P129_a_pour_sujet (est_le_sujet_de)`|
 |P130|shows features of (features are also found on)|présente les caractéristiques de (a les caractéristiques aussi présentes sur)|`P130_présente_les_caractéristiques de (a_les_caractéristiques_aussi_présentes_sur)`|
-|P132|spatiotemporally overlaps with|se superpose spatio-temporellement et partiellement|`P132_se_superpose_spatio-temporellement_et_partiellement`<br>Il semble préférable de ne pas utiliser "recouvrir" qui implique qu'une entité est appliquée sur l'autre qu'elle couvre entièrement.|
+|P132|spatiotemporally overlaps with|recoupe spatio-temporellement|`P132_recoupe_spatio-temporellement`<br>Il semble préférable de ne pas utiliser "recouvrir" qui implique qu'une entité est appliquée sur l'autre qu'elle couvre entièrement.|
 |P133|is spatiotemporally separated from|est distinct spatio-temporellement de|`P133_est_distinct_spatio-temporellement_de`<br>Le terme "separated" ici semble faire référence à l'état d'un ensemble et non au fait de le disjoindre, il semble donc préférable d'utiliser distinct.|
 |P134|continued (was continued by)|a continué (a été continué par)|`P134_a_continué (a_été_continué_par)`|
 |P135|created type (was created by)|a créé le type (a été créé par)|`P135_a_créé_le_type (a_été_créé_par)`|
@@ -254,14 +254,14 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 |P157|is at rest relative to (provides reference space for)|est à l'arrêt par rapport à (procure l’espace de référence pour)|`P157_est_à_l’arrêt_par_rapport_à (procure_l’espace_de_référence_pour)`|
 |P160|has temporal projection (is temporal projection of)|a pour projection temporelle (est la projection temporelle de)|`P160_a_pour_projection_temporelle (est_la_projection_temporelle_de)`|
 |P161|has spatial projection (is spatial projection of)|a pour projection spatiale (est la projection spatiale de)|`P161_a_pour_projection_spatiale (est_la_projection_spatiale_de)`|
-|P164|is temporally specified by (temporally specifies) |est temporellement spécifié par (était l'intervalle temporel de)|`P164_est_temporellement_spécifié_par (était_l’intervalle_temporel_de)`|
+|P164|is temporally specified by (temporally specifies)|est temporellement spécifié par (spécifie temporellement)|`P164_est_temporellement_spécifié_par (spécifie_temporellement)`|
 |P165|incorporates (is incorporated in)|inclut (est inclus dans)|`P165_inclut (est_inclus_dans)`<br>Cette formulation est cohérente avec la traduction de P5, P45, P86, P89.|
 |P166|was a presence of (had presence)|a été une présence de (a eu pour présence)|`P166_a_été_une_présence_de (a_eu_pour_présence)`<br>Cette formulation est cohérente avec la traduction de P195.|
 |P167|was within (includes)|s’inscrivait dans (comporte)|`P167_s’inscrivait_dans (comporte)`|
 |P168|place is defined by (defines place)|lieu défini par (définit le lieu)|`P168_lieu_défini_par (définit_le_lieu)`|
 |P169|defines spacetime volume (spacetime volume is defined by)|volume spatio-temporel défini par (définit le volume spatio-temporel)|`P169_volume_spatio-temporel_défini_par (définit_le_volume_spatio-temporel)`|
-|P170|defines time (time is defined by)|temps défini par (définit le temps)|`P170_temps_défini_par (définit_le_temps)`|
-|P171|at some place within|a eu lieu quelque part dans|`P171_a_eu_lieu_quelque_part_dans`|
+|P170|defines time (time is defined by)|définit le temps (temps défini par)|`P170_définit_le_temps (temps_défini_par)`|
+|P171|at some place within|quelque part dans|`P171_quelque_part_dans`|
 |P172|contains|contient|`P172_contient`|
 |P173|starts before or with the end of (ends after or with the start of)|commence avant ou au moment de la fin de (se termine après ou au moment du début de)|`P173_commence_avant_ou_au_moment_de_la_fin_de (se_termine_après_ou_au_moment_du_début_de)`|
 |P174|starts before the end of (ends after the start of)|commence avant la fin de (se termine après le début de)|`P174_commence_avant_la_fin_de (se_termine_après_le_début_de)`|
@@ -269,7 +269,7 @@ In rare cases, CIDOC CRM has not followed its property naming standard by using 
 |P176|starts before the start of (starts after the start of)|commence avant le début de (commence après le début de)|`P176_commence_avant_le_début_de (commence_après_le_début_de)`|
 |P177|assigned property of type (is type of property assigned)|a assigné le type de propriété (est le type de la propriété assigné)|`P177_a_assigné_le_type_de_propriété (est le type de la propriété assigné)`|
 |P179|had sales price (was sales price of)|a eu pour prix de vente (a été le prix de vente de)|`P179_a_eu_pour_prix_de_vente (a_été_le_prix_de_vente_de)`|
-|P180|has currency (was currency of)|a pour monnaie (était la monnaie de)|`P180_a_pour_monnaie (était_la_monnaie_de)`|
+|P180|has currency (was currency of)|a pour unité monétaire (était l'unité monétaire de)|`P180_a_pour_unité_monétaire (était_l'unité_monétaire_de)`|
 |P181|has amount|a pour quantité|`P181_a_pour_quantité`|
 |P182|ends before or with the start of (starts after or with the end of)|se termine avant ou au moment du début de (commence après ou au moment de la fin de)|`P182_se_termine_avant_ou_au_moment_du_début_de (commence_après_ou_au_moment_de_la_fin_de)`|
 |P183|ends before the start of (starts after the end of)|se termine avant le début de (commence après la fin de)|`P183_se_termine_avant_le_début_de (commence_après_la_fin_de)`|

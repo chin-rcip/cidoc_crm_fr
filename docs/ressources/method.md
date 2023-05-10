@@ -19,7 +19,7 @@ date: 2021-05-06
 
 ## Contenu propice à une traduction {#contenu-propice-a-une-traduction}
 
-Le Groupe de travail pour la traduction en français du CIDOC CRM a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 font actuellement l’objet d’une traduction :
+La Traduction en français du CIDOC CRM a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 font actuellement l’objet d’une traduction :
 
   - *Introduction* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr-ca/v7.1/information/introduction))
 
@@ -45,7 +45,7 @@ Le Groupe de travail pour la traduction en français du CIDOC CRM a pour mandat 
 
 Cela équivaut au contenu « informationnel » du CIDOC CRM, mais exclut les références bibliographiques.
 
-Aucune mise à jour des versions en cours ne sera effectuée lors de la traduction initiale afin d’assurer la cohérence du contenu. Une fois l’intégralité du contenu traduit, l’objectif du Groupe de travail sera de maintenir une version française à jour grâce à une comparaison des versions anglaises concernées et une révision du contenu en question.
+Aucune mise à jour des versions en cours ne sera effectuée lors de la traduction initiale afin d’assurer la cohérence du contenu. Une fois l’intégralité du contenu traduit, l’objectif du Groupe de traduction sera de maintenir une version française à jour grâce à une comparaison des versions anglaises concernées et une révision du contenu en question.
 
 ## Méthodologie de traduction {#methodologie-de-traduction}
 
@@ -147,7 +147,7 @@ Si vous désirez obtenir une copie des gabarits et des protocoles utilisés afin
 
 ## Content suitable for translation
 
-The Working Group for the Translation of the CIDOC CRM has a mandate to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly and freely accessible. To that effect, the following elements of version 7.1 are currently being translated:
+The Translation of the CIDOC CRM has a mandate to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly and freely accessible. To that effect, the following elements of version 7.1 are currently being translated:
 
   - *Introduction* (available [here](https://chin-rcip.github.io/cidoc_crm_fr-ca/v7.1/information/introduction))
 
@@ -173,7 +173,7 @@ The Working Group for the Translation of the CIDOC CRM has a mandate to translat
 
 This is equivalent to the “data” content of the CIDOC CRM, but excludes the bibliographic references.
 
-In order to maintain consistency of content, no updates will be made to current versions during the initial translation. Once all the content has been translated, the Working Group’s objective will be to maintain an up-to-date French version by comparing the relevant English versions and revising the related content. 
+In order to maintain consistency of content, no updates will be made to current versions during the initial translation. Once all the content has been translated, the group’s objective will be to maintain an up-to-date French version by comparing the relevant English versions and revising the related content. 
 
 ## Translation methodology
 

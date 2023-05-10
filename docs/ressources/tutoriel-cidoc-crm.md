@@ -175,7 +175,7 @@ Chaque entité est décrite à l’aide d’une série de champs, dont en voici 
 
 - [Jeu d’apprentissage du CIDOC CRM](http://www.cidoc-crm-game.org/) (en anglais seulement)
 - [Tutoriels sur des aspects précis du CIDOC CRM](http://www.cidoc-crm.org/tutorialPageRes) (la plupart en anglais)
-- [Site du Groupe de travail canadien pour la traduction du CIDOC CRM](https://chin-rcip.github.io/cidoc_crm_fr-ca/)
+- [Site de la Traduction du CIDOC CRM](https://chin-rcip.github.io/cidoc_crm_fr-ca/)
 - [Vidéo de présentation du CIDOC CRM](http://www.cidoc-crm.org/cidoc-crm-tutorial) (en anglais seulement)
 
 ## Bibliographie
@@ -188,7 +188,7 @@ CIDOC CRM Special Interest Group. 2021. « Tutorials ». CIDOC CRM. octobre 2021
 
 FORTH. 2015. *CRMgeo: A Spatiotemporal Model: An Extension of CIDOC CRM to Link the CIDOC CRM to GeoSPARQL through a Spatiotemporal Refinement*. GR. [http://www.cidoc-crm.org/crmgeo/sites/default/files/CRMgeo1_2.pdf](http://www.cidoc-crm.org/crmgeo/sites/default/files/CRMgeo1_2.pdf).
 
-Groupe de travail canadien pour la traduction du CIDOC CRM. 2021. « Traduction en français du CIDOC CRM ». Traduction en français du CIDOC CRM. 3 juin 2021. [https://chin-rcip.github.io/cidoc_crm_fr-ca/](https://chin-rcip.github.io/cidoc_crm_fr-ca/).
+Traduction du CIDOC CRM. 2021. « Traduction en français du CIDOC CRM ». Traduction en français du CIDOC CRM. 3 juin 2021. [https://chin-rcip.github.io/cidoc_crm_fr-ca/](https://chin-rcip.github.io/cidoc_crm_fr-ca/).
 
 Guillem, Anaïs, et George Bruseker. (2017) 2021. « CIDOC CRM Game ». CIDOC CRM Game. 2021. [http://www.cidoc-crm-game.org/](http://www.cidoc-crm-game.org/).
 
@@ -363,7 +363,7 @@ Each entity is described using a series of fields. The main ones are listed belo
 
 * [CIDOC CRM Game](http://www.cidoc-crm-game.org/)
 * [Tutorials on specific aspects of the CIDOC CRM](http://www.cidoc-crm.org/tutorialPageRes)
-* [Canadian CIDOC CRM Translation Working Group website](https://chin-rcip.github.io/cidoc_crm_fr-ca/)
+* [CIDOC CRM Translation website](https://chin-rcip.github.io/cidoc_crm_fr-ca/)
 * [CIDOC CRM introduction video](http://www.cidoc-crm.org/cidoc-crm-tutorial)
 
 ## Bibliography
@@ -376,7 +376,7 @@ CIDOC CRM Special Interest Group. "Tutorials." CIDOC CRM. October 2021. [http://
 
 FORTH. *CRMgeo: A Spatiotemporal Model: An Extension of CIDOC CRM to Link the CIDOC CRM to GeoSPARQL through a Spatiotemporal Refinement*. GR. 2015. [http://www.cidoc-crm.org/crmgeo/sites/default/files/CRMgeo1_2.pdf](http://www.cidoc-crm.org/crmgeo/sites/default/files/CRMgeo1_2.pdf).
 
-Canadian CIDOC CRM Translation Working Group. "Traduction en français du CIDOC CRM." French translation of the CIDOC CRM. June 3, 2021. [https://chin-rcip.github.io/cidoc_crm_fr-ca/](https://chin-rcip.github.io/cidoc_crm_fr-ca/).
+CIDOC CRM Translation. "Traduction en français du CIDOC CRM." French translation of the CIDOC CRM. June 3, 2021. [https://chin-rcip.github.io/cidoc_crm_fr-ca/](https://chin-rcip.github.io/cidoc_crm_fr-ca/).
 
 Guillem, Anaïs, and George Bruseker. "CIDOC CRM Game." CIDOC CRM Game. 2021. [http://www.cidoc-crm-game.org/](http://www.cidoc-crm-game.org/).
 

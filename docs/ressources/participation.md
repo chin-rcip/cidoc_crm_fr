@@ -33,7 +33,7 @@ Veuillez indiquer :
 
 ## Se joindre à l’effort de traduction {#se-joindre-a-leffort-de-traduction}
 
-Le Groupe de travail ne publie pas d’appel de candidatures et sélectionne ses membres sur la base de leur expérience, de leurs connaissances sémantiques et de leur expertise.
+Le Groupe de traduction ne publie pas d’appel de candidatures et sélectionne ses membres sur la base de leur expérience, de leurs connaissances sémantiques et de leur expertise.
 
 Le Groupe évalue toutes les demandes d’adhésion reçues sur la base des critères suivants :
 
@@ -77,7 +77,7 @@ Please indicate:
 
 ## Join the translation effort
 
-The Working Group does not issue calls for nominations but selects its members on the basis of their experience, semantic knowledge and expertise.
+The Translation Group does not issue calls for nominations but selects its members on the basis of their experience, semantic knowledge and expertise.
 
 The Group evaluates all membership requests using the following criteria:
 

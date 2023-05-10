@@ -17,7 +17,7 @@ date: 2022-03-11
 
 ## Introduction
 
-L’ontologie CIDOC CRM est largement utilisée par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) pour le développement d’un modèle de données sémantique pour les collections canadiennes.
+L’ontologie CIDOC CRM est largement utilisée par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) pour le développement d’un modèle de données sémantique pour les collections.
 
 À l’heure actuelle, le CIDOC CRM est développé et maintenu à jour exclusivement en anglais par le CRM Special Interest Group (SIG), un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable du CIDOC CRM.
 
@@ -29,7 +29,7 @@ En 2014, une version française du CIDOC CRM a été publiée sous le titre *ISO
 
 * Le document n’est pas disponible sous licence ouverte contrairement à la documentation anglophone qui est accessible gratuitement sur le site du CIDOC CRM.
 
-Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place par des intervenants·es du milieu patrimonial francophone canadien afin d'offrir une version française à jour et accessible ouvertement et gratuitement, et ce, avec l’aval du CRM SIG. Les résultats de ces travaux seront donc disponibles à l’ensemble de la communauté patrimoniale internationale et francophone.
+Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place par des intervenants·es du milieu patrimonial francophone afin d'offrir une version française à jour et accessible ouvertement et gratuitement, et ce, avec l’aval du CRM SIG. Les résultats de ces travaux seront donc disponibles à l’ensemble de la communauté patrimoniale internationale et francophone.
 
 ## But
 
@@ -185,7 +185,7 @@ Les contenus disponibles en français sont exportés sur une base trimestrielle 
 
 ## Introduction {#introduction-en}
 
-The CIDOC CRM ontology is widely used by the heritage community for the exchange and integration of museum collection datasets and specifications. It is the standard used by many heritage organizations, including the Canadian Heritage Information Network (CHIN), for the development of a semantic data model for Canadian collections.
+The CIDOC CRM ontology is widely used by the heritage community for the exchange and integration of museum collection datasets and specifications. It is the standard used by many heritage organizations, including the Canadian Heritage Information Network (CHIN), for the development of a semantic data model for collections.
 
 Currently, the CIDOC CRM is developed and maintained exclusively in English by the CRM Special Interest Group (SIG), a subgroup of the International Council of Museums (ICOM). However, for many organizations, the reuse of French semantic content depends largely on the availability of an up-to-date, reusable translated version of the CIDOC CRM.
 
@@ -197,7 +197,7 @@ In 2014, a French version of the CIDOC CRM was published as *ISO 21127:2014. Inf
 
 * The document is not available under an open licence, unlike the English documentation which is freely available on the CIDOC CRM website.
 
-Representatives of the Canadian Francophone heritage community have launched a new initiative to translate the CIDOC CRM in order to provide an up-to-date French version that is openly accessible and free of charge, with the endorsement of the CRM SIG. The results of this work will therefore be available to the entire international and Francophone heritage community.
+Representatives of the francophone heritage community have launched a new initiative to translate the CIDOC CRM in order to provide an up-to-date French version that is openly accessible and free of charge, with the endorsement of the CRM SIG. The results of this work will therefore be available to the entire international and Francophone heritage community.
 
 ## Purpose
 

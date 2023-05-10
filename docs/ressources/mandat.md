@@ -13,7 +13,7 @@ date: 2022-03-11
 
 **Dernière mise à jour** : 2022-03-11
 
-**Résumé** : Renseignements généraux sur les objectifs, le but, la composition et la structure opérationnelle du Groupe de travail.
+**Résumé** : Renseignements généraux sur les objectifs, le but, la composition et la structure opérationnelle du Groupe de traduction.
 
 ## Introduction
 
@@ -33,7 +33,7 @@ Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place pa
 
 ## But
 
-Le Groupe de travail pour la traduction du CIDOC CRM a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 feront l’objet d’une traduction :
+Le Groupe de traduction a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 feront l’objet d’une traduction :
 
 * Introduction
 
@@ -63,7 +63,7 @@ Les références bibliographiques seront francisées, mais ne seront pas traduit
 
 * Amendments
 
-Aucune mise à jour des versions en cours ne sera effectuée lors de la traduction initiale afin d’assurer la cohérence du contenu. Une fois l’intégralité du contenu traduit, l’objectif du Groupe de travail sera de maintenir une version française à jour grâce à une comparaison des versions anglaises concernées et une révision du contenu en question.
+Aucune mise à jour des versions en cours ne sera effectuée lors de la traduction initiale afin d’assurer la cohérence du contenu. Une fois l’intégralité du contenu traduit, l’objectif du Groupe de traduction sera de maintenir une version française à jour grâce à une comparaison des versions anglaises concernées et une révision du contenu en question.
 
 ## Responsabilités {#responsabilites}
 
@@ -111,9 +111,9 @@ La version française incluera :
 
 ## Membres
 
-Le Groupe de travail est composé d’employés·es du RCIP (identifiés·es par un \*) ainsi que de spécialistes externes issus du milieu patrimonial.
+Le Groupe de traduction est composé d’employés·es du RCIP (identifiés·es par un \*) ainsi que de spécialistes externes issus du milieu patrimonial.
 
-### Composition du Groupe de travail
+### Composition du Groupe de traduction
 
 * Marie-Pier Blain (traductrice)
 
@@ -133,7 +133,7 @@ Le Groupe de travail est composé d’employés·es du RCIP (identifiés·es par
 
 ### Protocole de sélection {#protocole-de-selection}
 
-Le Groupe de travail ne publie pas d’appel de candidatures et sélectionne ses membres sur la base de leur expérience, de leurs connaissances sémantiques et de leur expertise.
+Le Groupe de traduction ne publie pas d’appel de candidatures et sélectionne ses membres sur la base de leur expérience, de leurs connaissances sémantiques et de leur expertise.
 
 Le Groupe évalue toutes les demandes d’adhésion reçues.
 
@@ -143,11 +143,11 @@ En plus d’être familiers avec les concepts de base des données ouvertes et l
 
 * Avoir d’excellentes capacités de rédaction en français et une excellente compréhension de l’anglais;
 
-* Pouvoir consacrer environ cinq heures de travail par mois aux activités du Groupe de travail et offrir une rétroaction constructive.
+* Pouvoir consacrer environ cinq heures de travail par mois aux activités du Groupe de traduction et offrir une rétroaction constructive.
 
 ## Activités et outils {#activites-et-outils}
 
-Les tâches administratives du Groupe de travail (ordre du jour, notes, documents, etc.) sont gérées par le RCIP.
+Les tâches administratives du Groupe de traduction (ordre du jour, notes, documents, etc.) sont gérées par le RCIP.
 
 Au moins un membre du RCIP est chargé de présenter les travaux effectués par les membres au CRM SIG.
 
@@ -159,7 +159,7 @@ La documentation nécessaire est disponible dans un Dossier Google.
 
 ### Réunions {#reunions}
 
-Les membres du Groupe de travail participent à une réunion mensuelle en ligne dont la date et l’heure sont déterminées selon leur disponibilité.
+Les membres du Groupe de traduction participent à une réunion mensuelle en ligne dont la date et l’heure sont déterminées selon leur disponibilité.
 
 ### Flux de travail
 
@@ -181,7 +181,7 @@ Les contenus disponibles en français sont exportés sur une base trimestrielle 
 
 **Last update**: 2022-03-11
 
-**Abstract**: Background information on the Working Group’s objectives, purpose, composition, and operational structure.
+**Abstract**: Background information on the Translation Group’s objectives, purpose, composition, and operational structure.
 
 ## Introduction {#introduction-en}
 
@@ -201,7 +201,7 @@ Representatives of the francophone heritage community have launched a new initia
 
 ## Purpose
 
-The mandate of the CIDOC CRM Translation Working Group is to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly accessible and free of charge. To this end, the following elements of version 7.1 will be translated:
+The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly accessible and free of charge. To this end, the following elements of version 7.1 will be translated:
 
 * Introduction
 
@@ -231,7 +231,7 @@ The bibliographic references will be francized but not translated, and the follo
 
 * Amendments
 
-No updates to current versions will be made during the initial translation to ensure consistency of content. Once all the content has been translated, the Working Group will endeavour to maintain an up-to-date French version by comparing the relevant English versions and reviewing the content in question.
+No updates to current versions will be made during the initial translation to ensure consistency of content. Once all the content has been translated, the Translation Group will endeavour to maintain an up-to-date French version by comparing the relevant English versions and reviewing the content in question.
 
 ## Responsibilities
 
@@ -255,7 +255,7 @@ Members are expected to:
 
 * Select common reference dictionaries to refer to (a French dictionary, an English dictionary, and a bilingual dictionary).
 
-A small team of senior revisers is appointed by the Working Group’s members to resolve translation issues that the group cannot agree on. Their decisions need to take the following into account:
+A small team of senior revisers is appointed by the Translation Group’s members to resolve translation issues that the group cannot agree on. Their decisions need to take the following into account:
 
 * Concordance with the meaning of the English version;
 
@@ -279,9 +279,9 @@ The French version will include:
 
 ## Members
 
-The Working Group is composed of CHIN staff (denoted by \*) and external experts from the heritage community.
+The Translation Group is composed of CHIN staff (denoted by \*) and external experts from the heritage community.
 
-### Composition of the Working Group
+### Composition of the Translation Group
 
 * Marie-Pier Blain (translator)
 
@@ -301,7 +301,7 @@ The Working Group is composed of CHIN staff (denoted by \*) and external experts
 
 ### Selection Protocol
 
-The Working Group does not advertise vacancies; it selects its members on the basis of their experience, semantic knowledge, and expertise.
+The Translation Group does not advertise vacancies; it selects its members on the basis of their experience, semantic knowledge, and expertise.
 
 It assesses all membership applications it receives.
 
@@ -311,11 +311,11 @@ In addition to being familiar with the basic concepts of open and linked data or
 
 * Have excellent writing skills in French and an excellent understanding of English;
 
-* Be able to devote approximately five hours per month to Working Group activities and provide constructive feedback.
+* Be able to devote approximately five hours per month to Translation Group activities and provide constructive feedback.
 
 ## Activities and Tools
 
-The Working Group’s administrative tasks (meeting agendas, notes, documents, etc.) are managed by CHIN.
+The Translation Group’s administrative tasks (meeting agendas, notes, documents, etc.) are managed by CHIN.
 
 At least one CHIN member is responsible for presenting the work done by the members at the CRM SIG.
 
@@ -327,7 +327,7 @@ The necessary documentation is available in a Google Folder.
 
 ### Meetings
 
-Working Group members attend monthly online meetings, the date and time of which are determined on the basis of their availability.
+Translation Group members attend monthly online meetings, the date and time of which are determined on the basis of their availability.
 
 ### Workflow
 

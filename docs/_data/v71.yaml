@@ -261,6 +261,8 @@ toc:
   group: proprietes
   class: mainlist
   subfolder:
+  - title: Déclaration des propriétés du CIDOC CRM
+    url: /v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm
   - title: P1 est identifié par (identifie)
     url: /v7.1/proprietes/P1
   - title: P2 a pour type (est le type de)

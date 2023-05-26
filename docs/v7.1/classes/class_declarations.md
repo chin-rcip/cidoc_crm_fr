@@ -25,7 +25,6 @@ date: 2022-11-07
 <tr>
 <td class="en">
 <p>The classes of the CIDOC CRM are comprehensively declared in this section using the following format:</p>
-<p></p>
 <ul><li><p>Class names are presented as headings in bold face, preceded by the class’ unique identifier;</p>
 </li>
 <li><p>The line “Subclass of:” declares the superclass of the class from which it inherits properties;</p>
@@ -47,7 +46,6 @@ date: 2022-11-07
 </td>
 <td>
 <p>Les classes du CIDOC CRM sont déclarées ici selon la forme suivante : </p>
-<p></p>
 <ul><li><p>Les noms de classe sont présentés comme des titres en gras précédés de l’identifiant unique de la classe;</p>
 </li>
 <li><p>La ligne « Sous-classe de : » déclare la super-classe dont la classe hérite les propriétés; </p>

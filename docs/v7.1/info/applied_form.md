@@ -1,20 +1,20 @@
 ---
 layout: page
-title:  Application formelle
+title: Application formelle
 titleEn: Applied Form - Application formelle
 permalink: /v7.1/information/application-formelle
 sidebar: v71
 group: information
-date: 2022-11-07
+date: 2023-05-26
 ---
 
-**Date de création** : 2020-20-10
+**Date de création** : 2020-10-20
 
-**Dernière mise à jour** : 2022-11-07
+**Dernière mise à jour** : 2023-05-26
 
 <div class="lang-buttons">
-  <button id="fr" class="activate">FR</button>
-  <button id="en-fr">EN-FR</button>
+ <button id="fr" class="activate">FR</button>
+ <button id="en-fr">EN-FR</button>
 </div>
 
 <table class="text">
@@ -25,12 +25,10 @@ date: 2022-11-07
 <tr>
 <td class="en">
 <p>The CIDOC CRM is an ontology in the sense used in computer science. It has been expressed as an object-oriented semantic model, in the hope that this formulation will be comprehensible to both documentation experts and information scientists alike, while at the same time being readily converted to machine-readable formats such as RDF Schema or OWL. It can be implemented in Relational or Object-Oriented schema. CIDOC CRM instances can also be encoded in RDF, JSON LD, XML, OWL among and others</p>
-<p></p>
 <p>Although the definition of the CIDOC CRM provided here is complete, it is an intentionally compact and concise presentation of the CIDOC CRM’s  81 classes and 160 unique properties. It does not attempt to articulate the inheritance of properties by subclasses throughout the class hierarchy (this would require the declaration of several thousand properties, as opposed to 160). However, this definition does contain all of the information necessary to infer and automatically generate a full declaration of all properties, including inherited properties. </p>
 </td>
 <td>
-<p>Le CIDOC CRM est une ontologie (dans le sens informatique du terme) prenant la forme d’un modèle sémantique orienté-objet destiné à la conversion vers des formats lisibles par des machines (p. ex. <a href="https://www.w3.org/RDF/"><span class="underline">RDF</span></a> Schema, <a href="https://www.w3.org/OWL/"><span class="underline">OWL</span></a>), mais formulé afin d’être compris tant par les informaticiens que par les experts de la documentation. Son implémentation peut être faite sous forme de schémas relationnels ou orientés-objets et les instances de CIDOC CRM peuvent notamment être encodées en RDF, <a href="https://json-ld.org/"><span class="underline">JSON-LD</span></a>, <a href="https://www.w3.org/XML/"><span class="underline">XML</span></a> ou OWL. </p>
-<p></p>
+<p>Le CIDOC CRM est une ontologie (dans le sens informatique du terme) prenant la forme d’un modèle sémantique orienté-objet destiné à la conversion vers des formats lisibles par des machines (p. ex. <a href="https://www.w3.org/TR/rdf-schema/"><span class="underline">RDF Schema</span></a>, <a href="https://www.w3.org/OWL/"><span class="underline">OWL</span></a>), mais formulé afin d’être compris tant par les informaticiens que par les experts de la documentation. Son implémentation peut être faite sous forme de schémas relationnels ou orientés-objets et les instances de CIDOC CRM peuvent notamment être encodées en RDF, <a href="https://json-ld.org/"><span class="underline">JSON-LD</span></a>, <a href="https://www.w3.org/XML/"><span class="underline">XML</span></a> ou OWL. </p>
 <p>La définition ci-présentée du CIDOC CRM est complète, bien qu’elle demeure une présentation intentionnellement concise et succincte de ses 81 classes et 160 propriétés uniques. Celle-ci n’a donc pas pour objectif de décliner l’héritage des propriétés par sous-classes à travers la hiérarchie des classes (ce qui exigerait la déclaration de plusieurs milliers de propriétés plutôt que de 160). Par contre, cette définition contient toute l’information nécessaire à l’inférence et à la génération automatique d’une déclaration complète des propriétés, ce qui inclut les propriétés héritées. </p>
 </td>
 </tr>
@@ -45,14 +43,13 @@ date: 2022-11-07
 </td>
 </tr>
 <tr>
-<th><p><em>Références</em></p>
+<th style="width:15%"><p><em>Références</em></p>
 </th>
 <td colspan="1">
-<p>JSON-LD Working Group. 2014. « JSON-LD - JSON for Linking Data ». JSON-LD. 16 janvier 2014.<a href="https://json-ld.org/"><span class="underline"> </span></a><a href="https://json-ld.org/"><span class="underline">https://json-ld.org/</span></a>.</p>
-<p>OWL Working Group. 2012. « OWL - Semantic Web Standards ». W3C. 11 décembre 2012.<a href="https://www.w3.org/OWL/"><span class="underline"> </span></a><a href="https://www.w3.org/OWL/"><span class="underline">https://www.w3.org/OWL/</span></a>.</p>
-<p>RDF Working Group. 2014. « RDF - Semantic Web Standards ». W3C. 25 février 2014.<a href="https://www.w3.org/RDF/"><span class="underline"> </span></a><a href="https://www.w3.org/RDF/"><span class="underline">https://www.w3.org/RDF/</span></a>.</p>
-<p>XML Working Group. 2016. « Extensible Markup Language (XML) ». W3C. 11 octobre 2016.<a href="https://www.w3.org/XML/"><span class="underline"> </span></a><a href="https://www.w3.org/XML/"><span class="underline">https://www.w3.org/XML/</span></a>.</p>
-<p></p>
+<p>JSON-LD Working Group. « JSON-LD - JSON for Linking Data ». JSON-LD, 16 janvier 2014.<a href="https://json-ld.org/"><span class="underline"> </span></a><a href="https://json-ld.org/"><span class="underline">https://json-ld.org/</span></a>.</p>
+<p>OWL Working Group. « OWL - Semantic Web Standards ». Ontologie. Cambridge, USA-MA: World Wide Web Consortium (W3C), 11 décembre 2012.<a href="https://www.w3.org/OWL/"><span class="underline"> </span></a><a href="https://www.w3.org/OWL/"><span class="underline">https://www.w3.org/OWL/</span></a>.</p>
+<p>RDF Working Group. « RDF - Semantic Web Standards ». Modèle. Cambridge, USA-MA: World Wide Web Consortium (W3C), 25 février 2014.<a href="https://www.w3.org/RDF/"><span class="underline"> </span></a><a href="https://www.w3.org/RDF/"><span class="underline">https://www.w3.org/RDF/</span></a>.</p>
+<p>XML Working Group. « Extensible Markup Language (XML) ». World Wide Web Consortium (W3C), 11 octobre 2016.<a href="https://www.w3.org/XML/"><span class="underline"> </span></a><a href="https://www.w3.org/XML/"><span class="underline">https://www.w3.org/XML/</span></a>.</p>
 </td>
 </tr>
 </tbody>
@@ -68,9 +65,7 @@ date: 2022-11-07
 <tr>
 <td class="en">
 <p>Although they do not provide comprehensive definitions, compact mono-hierarchical presentations of the class and property IsA hierarchies have been found to significantly aid comprehension and navigation of the CIDOC CRM. Since the CRM is poly-hierarchical, a mono-hierarchical presentation form is achieved by a top-down expansion of all inverse IsA relations regardless whether a concept has already be presented at another place in the same hierarchy. This form is provided below.</p>
-<p></p>
 <p>The class hierarchy presented below has the following format:</p>
-<p></p>
 <ul><li><p>Each line begins with a unique class identifier, consisting of a number preceded by the letter “E” (originally denoting “entity,” although now replaced by convention with the term “class”).</p>
 </li>
 <li><p>A series of hyphens (“-”) follows the unique class identifier, indicating the hierarchical position of the class in the IsA hierarchy.</p>
@@ -81,9 +76,7 @@ date: 2022-11-07
 </li>
 <li><p>Classes that appear in more than one position in the class hierarchy as a result of multiple inheritance are shown in an italic typeface.</p>
 </li></ul>
-<p></p>
 <p>The property hierarchy presented below has the following format:</p>
-<p></p>
 <ul><li><p>Each line begins with a unique property identifier, consisting of a number preceded by the letter “P” (for “property”).</p>
 </li>
 <li><p>A series of hyphens (“-”) follows the unique property identifier, indicating the hierarchical position of the property in the IsA hierarchy.</p>
@@ -101,10 +94,8 @@ date: 2022-11-07
 </td>
 <td>
 <p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations <code class="language-plaintext highlighter-rouge">estUn</code> indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie. </p>
-<p></p>
 <p>La hiérarchie de classes présentée ci-bas reprend la forme suivante : </p>
-<p></p>
-<ul><li><p>Chaque ligne commence avec un identifiant de classe unique composé d’un nombre précédé de la lettre « E » (qui signalait autrefois une « entité”, bien que le terme « classe » soit maintenant préféré). </p>
+<ul><li><p>Chaque ligne commence avec un identifiant de classe unique composé d’un nombre précédé de la lettre « E » (qui signalait autrefois une « entité », bien que le terme « classe » soit maintenant préféré). </p>
 </li>
 <li><p>Une série de traits d’union (« - ») suit cet identifiant de classe unique et indique la position de la classe dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>. </p>
 </li>
@@ -114,9 +105,7 @@ date: 2022-11-07
 </li>
 <li><p>L’apparition de classes dans de multiples positions dans la hiérarchie des classes en raison d’héritages multiples est signalée par l’usage des italiques. </p>
 </li></ul>
-<p></p>
 <p>La hiérarchie des propriétés présentée ci-bas reprend la forme suivante : </p>
-<p></p>
 <ul><li><p>Chaque ligne commence avec un identifiant de propriété unique composé d’un nombre précédé de la lettre « P » (pour « propriété »). </p>
 </li>
 <li><p>Une série de traits d’union (« - ») suit cet identifiant de propriété unique et indique la position de la propriété dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>. </p>
@@ -140,7 +129,7 @@ date: 2022-11-07
 </td>
 </tr>
 <tr>
-<th><p><em>Références</em></p>
+<th style="width:15%"><p><em>Références</em></p>
 </th>
 <td colspan="1">
 </td>

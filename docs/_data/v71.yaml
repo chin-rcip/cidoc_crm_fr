@@ -592,7 +592,7 @@ toc:
   subfolder:
   - title: Classes et propriétés dépréciées
     hash: classes-et-proprietes-depreciees
-    subsubfolder:
+    subfolder:
     - title: Instructions de migration des classes dépréciées
       hash: instructions-de-migration-des-classes-depreciees
     - title: Instructions de migration pour E81_Transformation (domain d’application restreint)

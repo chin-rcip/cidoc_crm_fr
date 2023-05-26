@@ -1,19 +1,19 @@
 ---
 layout: page
-title:  Annexe
+title: Annexe
 titleEn: Appendix - Annexe
 permalink: /v7.1/annexe
 sidebar: v71
-date: 2022-11-07
+date: 2023-05-26
 ---
 
-**Date de création** : 2020-20-10
+**Date de création** : 2020-10-20
 
-**Dernière mise à jour** : 2022-11-07
+**Dernière mise à jour** : 2023-05-26
 
 <div class="lang-buttons">
-  <button id="fr" class="activate">FR</button>
-  <button id="en-fr">EN-FR</button>
+ <button id="fr" class="activate">FR</button>
+ <button id="en-fr">EN-FR</button>
 </div>
 
 <h2 id="classes-et-proprietes-depreciees"><span class="en heading">Deprecated classes and properties - </span>Classes et propriétés dépréciées</h2>
@@ -29,12 +29,9 @@ date: 2022-11-07
 </td>
 <td>
 <p>La liste qui suit énumère les classes et/ou propriétés qui ont été dépréciées depuis la version 5.0.4 du CIDOC CRM (laquelle a servi d’ébauche communautaire pour ISO21127:2014 ainsi que pour cette version 7.1). Bien que le modèle CIDOC CRM soit développé selon les principes du changement monotone et que tout soit mis en oeuvre pour minimiser la rétro-incompatibilité (notamment grâce à une modélisation conservatrice tant initialement qu’au cours de l’évolution du modèle), certaines révisions exigent inévitablement des mises à jour des bases de connaissances qui s’appuient sur d’anciennes versions de l’ontologie afin de réconcilier les instances avec la version actuelle. Les tableaux ci-bas indiquent quelles classes et quelles propriétés ont été dépréciées de telle sorte qu’elles exigent une mise à jour des bases de connaissances auparavant conformes au CIDOC CRM afin d’être conformes avec la version la plus récente du standard. </p>
-<p></p>
-<p>Le tableau « <a href="#instructions-de-migration-des-classes-depreciees"><span class="underline">Instructions de migration des classes dépréciées</span></a> » énumère les classes dépréciées ainsi que les classes ou entités primitives qu’il est recommandé d’utiliser à la place de celles-ci. </p>
-<p></p>
-<p>[n.d.t. Le tableau « <a href="#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint"><span class="underline">Instructions de migration pour <code class="language-plaintext highlighter-rouge">E81_Transformation</code> (domaine d’application restreint)</span></a> » fait des recommendations quand à la meilleure manière de mettre à jour une base de connaissances suite à la restriction du domaine d’application de <code class="language-plaintext highlighter-rouge">E81_Transformation</code>.] </p>
-<p></p>
-<p>Le tableau « <a href="#instructions-de-migration-des-proprietes-depreciees"><span class="underline">Instructions de migration des propriétés dépréciées</span></a> » énumère les propriétés dépréciées ainsi que celles qu’il est recommandé d’utiliser à la place de celles-ci. C’est un bon outil pour comprendre comment bien construire de nouveaux chemins sémantiques entre des instances de classes dépréciées et les remplacements de classes ou d’entités primitives qui sont recommandés. </p>
+<p>Le tableau « <a href="https://chin-rcip.github.io/cidoc_crm_fr-ca/v7.1/annexe#instructions-de-migration-des-classes-depreciees"><span class="underline">Instructions de migration des classes dépréciées</span></a> » énumère les classes dépréciées ainsi que les classes ou entités primitives qu’il est recommandé d’utiliser à la place de celles-ci. </p>
+<p>[n.d.t. Le tableau « <a href="https://chin-rcip.github.io/cidoc_crm_fr-ca/v7.1/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint"><span class="underline">Instructions de migration pour </span></a><a href="https://chin-rcip.github.io/cidoc_crm_fr-ca/v7.1/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint"><span class="underline"><code class="language-plaintext highlighter-rouge">E81_Transformation</code></span></a><a href="https://chin-rcip.github.io/cidoc_crm_fr-ca/v7.1/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint"><span class="underline"> (domaine d’application restreint)</span></a> » fait des recommandations quand à la meilleure manière de mettre à jour une base de connaissances suite à la restriction du domaine d’application de <code class="language-plaintext highlighter-rouge">E81_Transformation</code>.] </p>
+<p>Le tableau « <a href="https://chin-rcip.github.io/cidoc_crm_fr-ca/v7.1/annexe#instructions-de-migration-des-proprietes-depreciees"><span class="underline">Instructions de migration des propriétés dépréciées</span></a> » énumère les propriétés dépréciées ainsi que celles qu’il est recommandé d’utiliser à la place de celles-ci. C’est un bon outil pour comprendre comment bien construire de nouveaux chemins sémantiques entre des instances de classes dépréciées et les remplacements de classes ou d’entités primitives qui sont recommandés. </p>
 </td>
 </tr>
 </tbody>
@@ -45,15 +42,12 @@ date: 2022-11-07
 <th style="width:15%"><p><em>Note traducteur</em></p>
 </th>
 <td colspan="1">
-<p>Une note présentant le « <a href="#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint"><span class="underline">Instructions de migration pour E81_Transformation (domaine d’application restreint)</span></a> » a été ajoutée afin d’être exhaustifs et cohérents quant à la description des tableaux présentés. </p>
 </td>
 </tr>
 <tr>
-<th><p><em>Références</em></p>
+<th style="width:15%"><p><em>Références</em></p>
 </th>
 <td colspan="1">
-<p><em></em></p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -116,7 +110,7 @@ date: 2022-11-07
 <p><code class="language-plaintext highlighter-rouge">E45_Adresse</code></p>
 </td>
 <td>
-<p>utiliser <code class="language-plaintext highlighter-rouge">E41_Appellation</code>  ,  <code class="language-plaintext highlighter-rouge">P2_a_pour_type</code> : « Adresse »</p>
+<p>utiliser <code class="language-plaintext highlighter-rouge">E41_Appellation</code>,  <code class="language-plaintext highlighter-rouge">P2_a_pour_type</code> : « Adresse »</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +194,7 @@ date: 2022-11-07
 <p><code class="language-plaintext highlighter-rouge">E51_Point_de_contact</code></p>
 </td>
 <td>
-<p>utiliser <code class="language-plaintext highlighter-rouge">E41_Appellation</code>  ,  <code class="language-plaintext highlighter-rouge">P2_a_pour_type</code> : « Point de contact »</p>
+<p>utiliser <code class="language-plaintext highlighter-rouge">E41_Appellation</code>,  <code class="language-plaintext highlighter-rouge">P2_a_pour_type</code> : « Point de contact »</p>
 </td>
 </tr>
 <tr>
@@ -242,7 +236,7 @@ date: 2022-11-07
 <p><code class="language-plaintext highlighter-rouge">E84_Porteur_d’information</code></p>
 </td>
 <td>
-<p>utiliser <code class="language-plaintext highlighter-rouge">E41_Appellation</code>  ,  <code class="language-plaintext highlighter-rouge">P2_a_pour_type</code> : « Porteur d’information »</p>
+<p>utiliser <code class="language-plaintext highlighter-rouge">E22_Objet_élaboré_par_l'humain</code>,  <code class="language-plaintext highlighter-rouge">P2_a_pour_type</code> : « Porteur d’information »</p>
 </td>
 </tr>
 <tr>
@@ -272,29 +266,21 @@ date: 2022-11-07
 <tr>
 <td class="en">
 <p>From version 7.1 on, the class E81 Transformation pertains only to instances of E18 Physical Thing, rather than to instances of E77 Persistent Item. The reason is the insight that only for physical things the form previous to a transformation must cease to exist. For instances of Conceptual Objects, any number of copies can be around that are not affected by the transformation. Similarly, transformations of instances of E74 Group do not necessarily cause the dissolution of the previous grouping.</p>
-<p></p>
 <p>Therefore, the properties <em>P123</em><em> resulted in (resulted from)</em> and <em>P124</em><em> transformed (was transformed by) </em>have now the range: E18 Physical Thing.</p>
-<p></p>
 <p>If these properties were applied in the source to instances of E28 Conceptual Object or  its subclasses, use in the migration target E65 Creation instead of E81 Transformation, <em>P94</em><em> has created (was created by)</em> instead of <em>P123</em><em> resulted in (resulted from),</em> and <em>P16</em><em> used specific object (was used for)</em> instead of <em>P124</em><em> transformed (was transformed by).</em></p>
-<p><em></em></p>
 <p>If these properties were applied in the source to instances of 74 Group, use in the migration target E66 Formation instead of E81 Transformation, <em>P95</em><em> has formed (was formed by) </em>instead of <em>P123</em><em> resulted in (resulted from),</em> and <em>P151</em><em> was formed from (participated in)</em> instead of <em>P124</em><em> transformed (was transformed by).</em></p>
 </td>
 <td>
 <p>À compter de la version 7.1, la classe <code class="language-plaintext highlighter-rouge">E81_Transformation</code> ne s’applique qu’aux instances de <code class="language-plaintext highlighter-rouge">E18_Chose_matérielle</code> alors qu’elle s’appliquait aussi, auparavant, aux instances de <code class="language-plaintext highlighter-rouge">E77_Entité_persistante</code>. Ce changement a été effectué car si la forme préexistante d’une chose matérielle doit cesser d’exister pour être remplacée, ce n’est pas le cas de ce qui n’est pas matériel. Dans le cas des instances de <code class="language-plaintext highlighter-rouge">E28_Objet_conceptuel</code>, de nombreuses copies d’un même objet peuvent exister sans être affectées par la transformation. De la même manière, la transformation des instances de <code class="language-plaintext highlighter-rouge">E74_Groupe</code> n’implique pas nécessairement la dissolution du groupement préexistant. </p>
-<p></p>
 <p>Les propriétés <code class="language-plaintext highlighter-rouge">P123_a_eu_pour_résultat (a_résulté_de)</code> et <code class="language-plaintext highlighter-rouge">P124_a transformé (a_été_transformé_par)</code> ont donc maintenant pour portée <code class="language-plaintext highlighter-rouge">E18_Chose_matérielle</code>.</p>
-<p></p>
 <p>Si dans la [n.d.t. base de connaissances] source ces propriétés étaient appliquées à des instances de <code class="language-plaintext highlighter-rouge">E28_Objet_conceptuel</code> ou de ses sous-classes, il est recommandé d’utiliser : </p>
-<p></p>
 <ul><li><p><code class="language-plaintext highlighter-rouge">E65_Création</code> au lieu de <code class="language-plaintext highlighter-rouge">E81_Transformation</code>;</p>
 </li>
 <li><p><code class="language-plaintext highlighter-rouge">P94_a_créé (a_été_créé_par)</code> au lieu de <code class="language-plaintext highlighter-rouge">P123_a_eu_pour_résultat (a_résulté_de)</code>;</p>
 </li>
 <li><p><code class="language-plaintext highlighter-rouge">P16_</code><code class="language-plaintext highlighter-rouge">a_utilisé_l'objet_spécifique (a_été_utilisé_pour)</code> au lieu de <code class="language-plaintext highlighter-rouge">P124_a transformé (a_été_transformé_par)</code>.</p>
 </li></ul>
-<p></p>
 <p>Si dans la [n.d.t. base de connaissances] source ces propriétés étaient appliquées à des instances de <code class="language-plaintext highlighter-rouge">E74_Groupe</code>, il est recommandé d’utiliser : </p>
-<p></p>
 <ul><li><p><code class="language-plaintext highlighter-rouge">E66_Formation</code> au lieu de <code class="language-plaintext highlighter-rouge">E81_Transformation</code>;</p>
 </li>
 <li><p><code class="language-plaintext highlighter-rouge">P95_a_fondé (a_été_fondé_par)</code> au lieu de <code class="language-plaintext highlighter-rouge">P123_a_eu_pour_résultat (a_résulté_de)</code>;</p>
@@ -311,16 +297,12 @@ date: 2022-11-07
 <th style="width:15%"><p><em>Note traducteur</em></p>
 </th>
 <td colspan="1">
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
-<th><p><em>Références</em></p>
+<th style="width:15%"><p><em>Références</em></p>
 </th>
 <td colspan="1">
-<p><em></em></p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -338,10 +320,8 @@ date: 2022-11-07
 <p><strong>Migration Instruction</strong></p>
 </td>
 <td>
-<p><strong></strong></p>
 </td>
 <td>
-<p><strong></strong></p>
 </td>
 </tr>
 <tr>
@@ -394,7 +374,6 @@ date: 2022-11-07
 </td>
 <td class="en">
 <p>If used as a geometric decomposition, use <em>P89i contains</em>.</p>
-<p></p>
 <p>If the respective place is defined in the source by an instance of E26 Physical Feature, and the use of <em>P88 consists of</em> aims at describing its decomposition into its natural components, describe explicitly in the migration target the instance of E26 Physical Feature and its parts using <em>P46</em><em> is composed of</em></p>
 </td>
 <td>
@@ -402,39 +381,30 @@ date: 2022-11-07
 </td>
 <td>
 <p>s’il s’agit d’une décomposition géométrique, utiliser <code class="language-plaintext highlighter-rouge">P89i_contient</code></p>
-<p></p>
 <p>Si le lieu dont il est question est une instance de <code class="language-plaintext highlighter-rouge">E26_Caractéristique_physique</code> et que l’usage de <code class="language-plaintext highlighter-rouge">P88_consiste_en</code> a pour objectif de décrire la décomposition en des composantes naturelles, décrire explicitement l’instance de <code class="language-plaintext highlighter-rouge">E26_Caractéristique_physique</code> ainsi que ses composantes en utilisant <code class="language-plaintext highlighter-rouge">P46_est_composé_de</code></p>
 </td>
 </tr>
 <tr>
 <td class="en">
 <p><em>P83 had at least duration (was minimum duration of) </em></p>
-<p><em></em></p>
 <p>and</p>
-<p></p>
 <p><em>P84 had at most duration (was maximum duration of)</em></p>
 </td>
 <td class="en">
 <p>use <em>P191</em><em> had duration (was duration of)</em>:</p>
-<p></p>
 <p>The instances of E60 Number in the full source paths: E52 Time-Span<em>. P83 had at least duration.</em> E54 Dimension<em>. P90 has value. </em>E60 Number and in E52 Time-Span<em>. P84 had at most duration.</em> E54 Dimension<em>. P90 has value. </em>E60 Number </p>
 <p>should both be merged in the migration target path into one numerical interval, instance of E60 Number:</p>
 <p>E52 Time-Span<em>.</em> <em>P191 had duration. </em>E54 Dimension<em>. P90 has value.</em> E60 Number</p>
-<p></p>
 <p>For representing intervals in RDF/OWL encoding see the respective implementation guidelines.</p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P83_a_eu_pour_durée_minimale (était_la_durée_minimale_de)</code><em></em></p>
-<p><em></em></p>
+<p><code class="language-plaintext highlighter-rouge">P83_a_eu_pour_durée_minimale (était_la_durée_minimale_de)</code></p>
 <p>et</p>
-<p></p>
-<p><code class="language-plaintext highlighter-rouge">P84_a_eu_pour_durée_maximale (était_la_durée_maximale_de)</code><em></em></p>
+<p><code class="language-plaintext highlighter-rouge">P84_a_eu_pour_durée_maximale (était_la_durée_maximale_de)</code></p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">P191_a_eu_pour_durée (était_la_durée_de)</code></p>
-<p></p>
-<p>Les instances de <code class="language-plaintext highlighter-rouge">E60_Nombre</code> qui se trouvent dans des chemins sémantiques complets (<code class="language-plaintext highlighter-rouge">E52_Intervalle_temporel</code> . <code class="language-plaintext highlighter-rouge">P83_a_eu_pour_durée_minimale</code> . <code class="language-plaintext highlighter-rouge">E54_Dimension</code> . <code class="language-plaintext highlighter-rouge">P90_a_pour_valeur</code> . <code class="language-plaintext highlighter-rouge">E60_Nombre</code>) devraient être amalgamées en un seul intervalle numérique, instance de <code class="language-plaintext highlighter-rouge">E60_Nombre</code> : <code class="language-plaintext highlighter-rouge">E52_Intervalle_temporel</code> . <code class="language-plaintext highlighter-rouge">P191_a_eu_pour_durée</code> . <code class="language-plaintext highlighter-rouge">E54_Dimension</code> . <code class="language-plaintext highlighter-rouge">P90_a_pour_valeur</code> . <code class="language-plaintext highlighter-rouge">E60_Nombre</code> </p>
-<p></p>
+<p>Les instances de <code class="language-plaintext highlighter-rouge">E60_Nombre</code> qui se trouvent dans des chemins sémantiques complets (<code class="language-plaintext highlighter-rouge">E52_Intervalle_temporel</code> . <code class="language-plaintext highlighter-rouge">P83_a_eu_pour_durée_minimale</code> . <code class="language-plaintext highlighter-rouge">E54_Dimension</code> . <code class="language-plaintext highlighter-rouge">P90_a_pour_valeur</code> . <code class="language-plaintext highlighter-rouge">E60_Nombre</code> et <code class="language-plaintext highlighter-rouge">E52_Intervalle_temporel</code> . <code class="language-plaintext highlighter-rouge">P84_a_eu_pour_durée_maximale</code> . <code class="language-plaintext highlighter-rouge">E54_Dimension</code> . <code class="language-plaintext highlighter-rouge">P90_a_pour_valeur</code> . <code class="language-plaintext highlighter-rouge">E60_Nombre</code>)  devraient être amalgamées en un seul intervalle numérique, instance de <code class="language-plaintext highlighter-rouge">E60_Nombre</code> : <code class="language-plaintext highlighter-rouge">E52_Intervalle_temporel</code> . <code class="language-plaintext highlighter-rouge">P191_a_eu_pour_durée</code> . <code class="language-plaintext highlighter-rouge">E54_Dimension</code> . <code class="language-plaintext highlighter-rouge">P90_a_pour_valeur</code> . <code class="language-plaintext highlighter-rouge">E60_Nombre</code> </p>
 <p>Pour représenter les intervalles en encodage <a href="https://www.w3.org/RDF/"><span class="underline">RDF</span></a>/<a href="https://www.w3.org/OWL/"><span class="underline">OWL</span></a>, voir les recommandations d’implémentation de chacun. </p>
 </td>
 </tr>
@@ -473,15 +443,13 @@ date: 2022-11-07
 </td>
 <td class="en">
 <p>use the <strong>full path</strong> from E2 Temporal Entity through <em>P4</em><em> has time-span</em>, E52 Time-Span, <em>P4</em><em>i is time-span of.</em> E2 Temporal Entity.</p>
-<p></p>
 <p>Theoretically, <em>P114 is equal in time to </em>is equal to the conjunction of: <em>(</em><em>P175</em><em> starts before or with the start of </em><strong>AND </strong><em>P175</em><em>i starts after or with the start of </em><strong>AND</strong><em> </em><em>P184</em><em> ends before or with the end of</em><strong> AND </strong><em>P184</em><em>i ends with or after the end of), </em>without fuzzy temporal boundaries. However, note that only a common cause or a socially declared time-span can lead to temporal equality of different instances of E2 Temporal Entity. Consequently, creating the full path is always the preferred migration strategy.</p>
 </td>
 <td>
 <p><code class="language-plaintext highlighter-rouge">P114_a_pour_équivalence_temporelle</code><em> </em>*</p>
 </td>
 <td>
-<p>utiliser le chemin sémantique complet depuis <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle </code>en passant par <code class="language-plaintext highlighter-rouge">P4_a_pour_intervalle_temporel </code>, <code class="language-plaintext highlighter-rouge">E52_Intervalle_temporel </code>, <code class="language-plaintext highlighter-rouge">P4i_est_l’intervalle_temporel_de</code> . <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code></p>
-<p></p>
+<p>utiliser le chemin sémantique complet depuis <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle </code>en passant par <code class="language-plaintext highlighter-rouge">P4_a_pour_intervalle_temporel</code>, <code class="language-plaintext highlighter-rouge">E52_Intervalle_temporel</code>, <code class="language-plaintext highlighter-rouge">P4i_est_l’intervalle_temporel_de</code> . <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code></p>
 <p>Théoriquement, <em>P114_a_pour_équivalence_temporelle</em> est l’équivalent de la conjonction de (<code class="language-plaintext highlighter-rouge">P175_commence_avant_ou_au_moment_du_début_de</code> <strong>ET</strong> <code class="language-plaintext highlighter-rouge">P175i_</code><code class="language-plaintext highlighter-rouge">commence_après_ou_au_moment_du_début_de</code> <strong>ET </strong><code class="language-plaintext highlighter-rouge">P184_se_termine_avant_ou_au_moment_de_la_fin_de</code> <strong>ET</strong> <code class="language-plaintext highlighter-rouge">P184i_se_termine_au_moment_ou_après_la_fin_de</code>) sans frontières temporelles floues. Cependant, seules une cause commune ou un intervalle temporel déclaré socialement peuvent mener à l’équivalence temporelle de différentes instances de <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code>. Par conséquent, la création d’un chemin sémantique complet est la stratégie de migration qui devrait toujours être privilégiée. </p>
 </td>
 </tr>
@@ -524,7 +492,7 @@ date: 2022-11-07
 <p><code class="language-plaintext highlighter-rouge">P117_se_produit_durant (inclut)</code><em> </em>*</p>
 </td>
 <td>
-<p>utiliser <code class="language-plaintext highlighter-rouge">P175i_commence_après_ou_au_moment_du_début_de</code> <strong>ET </strong><code class="language-plaintext highlighter-rouge">P185_se_termine_avant_la_fin_de</code></p>
+<p>utiliser <code class="language-plaintext highlighter-rouge">P176i_</code><code class="language-plaintext highlighter-rouge">commence_après_le_début_de</code> <strong>ET </strong><code class="language-plaintext highlighter-rouge">P185_se_termine_avant_la_fin_de</code></p>
 </td>
 </tr>
 <tr>
@@ -605,7 +573,7 @@ date: 2022-11-07
 <p>use <em>P184</em><em>i ends with or after the end of</em> instead</p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P178_se_termine_après_ou_au_moment_de (se_termine_avant_ou_à_la_fin_de)</code><em></em></p>
+<p><code class="language-plaintext highlighter-rouge">P178_se_termine_après_ou_au_moment_de (se_termine_avant_ou_à_la_fin_de)</code></p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">P184i_</code><code class="language-plaintext highlighter-rouge">se_termine_au_moment_de_ou_après_la_fin_de</code></p>
@@ -619,7 +587,7 @@ date: 2022-11-07
 <p>E54 Dimension. <em>P90</em><em> has value</em>: E60 Number instead</p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P181_a_pour_quantité</code><em></em></p>
+<p><code class="language-plaintext highlighter-rouge">P181_a_pour_quantité</code></p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">E54_Dimension</code> . <code class="language-plaintext highlighter-rouge">P90_a_pour_valeur</code> : <code class="language-plaintext highlighter-rouge">E60_Nombre</code></p>
@@ -627,16 +595,14 @@ date: 2022-11-07
 </tr>
 <tr>
 <td class="en">
-<p><sup>*</sup> The properties P114 to P120 have been introduced in the CIDOC CRM extension “Definition of the CRMarchaeo. An Extension of CIDOC CRM to support the archaeological excavation process”, Version 1.5.1, March 2021.<em></em></p>
+<p><sup>*</sup> The properties P114 to P120 have been introduced in the CIDOC CRM extension “Definition of the CRMarchaeo. An Extension of CIDOC CRM to support the archaeological excavation process”, Version 1.5.1, March 2021.</p>
 </td>
 <td class="en">
-<p></p>
 </td>
 <td>
 <p><sup>*</sup> Les propriétés P114 à P120 ont été introduites par l’extension « Definition of the CRMarchaeo. An Extension of CIDOC CRM to support the archaeological excavation process”, Version 1.5.1 qui date de mars 2021. </p>
 </td>
 <td>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -679,16 +645,12 @@ date: 2022-11-07
 <th style="width:15%"><p><em>Note traducteur</em></p>
 </th>
 <td colspan="1">
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
-<th><p><em>Références</em></p>
+<th style="width:15%"><p><em>Références</em></p>
 </th>
 <td colspan="1">
-<p><em></em></p>
-<p></p>
 </td>
 </tr>
 </tbody>

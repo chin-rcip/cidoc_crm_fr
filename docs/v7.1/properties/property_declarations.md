@@ -26,7 +26,6 @@ date: 2022-11-07
 <tr>
 <td class="en">
 <p>The properties of the CIDOC CRM are comprehensively declared in this section using the following format: </p>
-<p></p>
 <ul><li><p>Property names are presented as headings in bold face, preceded by unique property identifiers;</p>
 </li>
 <li><p>The line “Domain:” declares the class for which the property is defined;</p>
@@ -46,7 +45,6 @@ date: 2022-11-07
 </td>
 <td>
 <p>Les propriétés du CIDOC CRM sont déclarées ici selon la forme suivante : </p>
-<p></p>
 <ul><li><p>Les noms de propriété sont présentés comme des titres en gras précédés de l’identifiant unique de la propriété;</p>
 </li>
 <li><p>La ligne « Domaine : » déclare la classe pour laquelle la propriété est définie; </p>

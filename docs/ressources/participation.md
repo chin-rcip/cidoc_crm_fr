@@ -43,7 +43,7 @@ Le Groupe évalue toutes les demandes d’adhésion reçues sur la base des crit
 
   - capacité de consacrer environ cinq heures de travail par mois aux activités du Groupe de traduction et d’offrir une rétroaction constructive.
 
-Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veuillez consulter la section [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement).
+Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veuillez consulter la section [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr/ressources/mandat-fonctionnement).
 
 Si vous désirez poser votre candidature, veuillez nous transmettre au [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca) un curriculum vitæ à jour, une lettre de présentation et un échantillon de texte attestant vos capacités de rédaction.
 
@@ -87,6 +87,6 @@ The Group evaluates all membership requests using the following criteria:
 
   - ability to spend about five hours each month on Translation Group activities and to offer constructive feedback.
 
-For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr-ca/ressources/mandat-fonctionnement) section (available only in French).
+For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr/ressources/mandat-fonctionnement) section (available only in French).
 
 If you wish to apply, please send your current resumé to [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca) along with a cover letter and a writing sample demonstrating your writing skills.

@@ -375,6 +375,8 @@ toc:
     url: /v7.1/proprietes/P62
   - title: P65 représente l'entité visuelle (est représenté par)
     url: /v7.1/proprietes/P65
+  - title: P67 renvoie à (fait l'objet d'un renvoi par)
+    url: /v7.1/proprietes/P67
   - title: P68 prévoit l'usage de (usage prévu de)
     url: /v7.1/proprietes/P68
   - title: P69 est associé à (est associé à)

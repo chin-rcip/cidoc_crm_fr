@@ -17,7 +17,7 @@ date: 2023-06-08
 
 ## Introduction
 
-L’ontologie CIDOC CRM est largement utilisée par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) pour le développement d’un modèle de données sémantique pour les collections.
+L’ontologie CIDOC CRM est largement utilisée par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement de certains de ses modèles de données sémantiques.
 
 À l’heure actuelle, le CIDOC CRM est développé et maintenu à jour exclusivement en anglais par le CRM Special Interest Group (SIG), un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable du CIDOC CRM.
 
@@ -150,7 +150,7 @@ Les contenus disponibles en français sont exportés sur une base trimestrielle 
 
 ## Introduction {#introduction-en}
 
-The CIDOC CRM ontology is widely used by the heritage community for the exchange and integration of museum collection datasets and specifications. It is the standard used by many heritage organizations, including the Canadian Heritage Information Network (CHIN), for the development of a semantic data model for collections.
+The CIDOC CRM ontology is widely used by the heritage community for the exchange and integration of museum collection datasets and specifications. It is the standard used by many heritage organizations, including the Canadian Heritage Information Network (CHIN), for the development of some of its semantic data models.
 
 Currently, the CIDOC CRM is developed and maintained exclusively in English by the CRM Special Interest Group (SIG), a subgroup of the International Council of Museums (ICOM). However, for many organizations, the reuse of French semantic content depends largely on the availability of an up-to-date, reusable translated version of the CIDOC CRM.
 

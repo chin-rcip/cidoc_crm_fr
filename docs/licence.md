@@ -2,7 +2,7 @@
 layout: page
 title: Licence
 permalink: /licence
-date: 2021-06-03
+date: 2023-06-08
 ---
 
 [English follows](#licence-en)
@@ -29,7 +29,7 @@ Les éléments cités continuent cependant de faire l’objet de droits d’aute
 
 - la mention claire des droits liés aux données utilisées par l’ajout de liens directs vers la mention légale qui les accompagne, l’ajout d’une mention légale en pièce jointe ou la présentation de l’information requise entre guillemets. 
 
-Le Groupe de traduction demande en outre aux utilisateurs d’employer les données de façon responsable; c’est-à-dire d’éviter la fausse représentation des données ou de leurs propriétaires, de les contextualiser adéquatement et d’en faire mention lorsque c’est approprié.
+Le Groupe de traduction demande en outre aux utilisateurs d’employer les données de façon responsable, c’est-à-dire d’éviter la fausse représentation des données ou de leurs propriétaires, de les contextualiser adéquatement et d’en faire mention lorsque c’est approprié.
 
 ### Références {#references-fr}
 

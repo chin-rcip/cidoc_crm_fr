@@ -4,7 +4,7 @@ title: Participation
 permalink: /ressources/participation
 sidebar: participation
 tab: ressources
-date: 2021-05-06
+date: 2023-06-08
 ---
 
 [*English follows*](#en)
@@ -13,7 +13,7 @@ date: 2021-05-06
 
 **Date de création** : 2021-04-28
 
-**Dernière mise à jour** : 2021-05-06
+**Dernière mise à jour** : 2023-06-08
 
 **Résumé** : Comment se joindre à l'effort de traduction du CIDOC CRM.
 
@@ -23,12 +23,10 @@ Si vous désirez signaler un problème de traduction, vous pouvez nous contacter
 
 Veuillez indiquer :
 
+  - à quelle version vous faites référence; 
   - quelle section du texte original et/ou traduit pose problème selon vous (avec un hyperlien vers cette section);
-
   - le contenu que vous jugez problématique;
-
   - pourquoi la traduction vous semble inadéquate ou devrait être bonifiée;
-
   - vos noms et coordonnées.
 
 ## Se joindre à l’effort de traduction {#se-joindre-a-leffort-de-traduction}
@@ -38,9 +36,7 @@ Le Groupe de traduction ne publie pas d’appel de candidatures et sélectionne 
 Le Groupe évalue toutes les demandes d’adhésion reçues sur la base des critères suivants :
 
   - familiarité avec les concepts de base des données ouvertes et liées ou connaissances spécialisées en matière de patrimoine;
-
   - excellentes capacités de rédaction en français et excellente compréhension de l’anglais;
-
   - capacité de consacrer environ cinq heures de travail par mois aux activités du Groupe de traduction et d’offrir une rétroaction constructive.
 
 Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veuillez consulter la section [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr/ressources/mandat-fonctionnement).
@@ -56,7 +52,7 @@ Si vous désirez poser votre candidature, veuillez nous transmettre au [rcip-chi
 
 **Created date**: 2021-04-28
 
-**Last updated**: 2021-05-06
+**Last updated**: 2023-06-08
 
 **Summary**: How to join the CIDOC CRM translation effort.
 
@@ -67,12 +63,10 @@ If you wish to report a translation issue, please contact us at [rcip-chin@pch.g
 
 Please indicate:
 
+  - the version you are referring to;
   - the section of the source text and/or translation you consider to be problematic (with a hyperlink to that section);
-
   - the content you consider to be problematic;
-
   - why you believe the translation is inadequate or needs improvement;
-
   - your name and contact information.
 
 ## Join the translation effort
@@ -82,11 +76,9 @@ The Translation Group does not issue calls for nominations but selects its membe
 The Group evaluates all membership requests using the following criteria:
 
   - familiarity with basic open and linked data concepts or specialized heritage knowledge;
-
   - excellent writing skills in French and excellent understanding of English;
-
   - ability to spend about five hours each month on Translation Group activities and to offer constructive feedback.
 
-For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr/ressources/mandat-fonctionnement) section (available only in French).
+For more details about how the Translation Group operates, please consult the [Mandate & Operation](https://chin-rcip.github.io/cidoc_crm_fr/ressources/mandat-fonctionnement) section.
 
 If you wish to apply, please send your current resumé to [rcip-chin@pch.gc.ca](mailto:rcip-chin@pch.gc.ca) along with a cover letter and a writing sample demonstrating your writing skills.

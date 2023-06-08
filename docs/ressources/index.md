@@ -4,12 +4,8 @@ title: Index
 permalink: /ressources/index
 sidebar: index
 tab: ressources
-date: 2022-04-07
+date: 2023-06-08
 ---
-
-> *Avertissement : Cette traduction en français du CIDOC CRM est en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*
-
-> *Disclaimer: This French Translation of the CIDOC CRM is currently in progress.<br><br>The documentation hereby accessible is a work in progress. As such, although it is publically released, it does not constitute an official publication and changes are made on an ongoing basis. Therefore, it is preferable to wait for an official publication of the entire content of CIDOC CRM before implementing this translation.*
 
 ## Notes méthodologiques {#notes-methodologiques}
 
@@ -23,7 +19,7 @@ Lors de la traduction des entités, des principes d’uniformisation, de concord
 
   - les appellations courtes plutôt que longues (rationalisation). 
 
-Dans de rares cas, CIDOC CRM a dérogé de sa propre norme de nommage des propriétés en utilisant l’imparfait (*was*) plutôt que le passé composé (*had*). Le Groupe de traduction a fait le choix de conserver le passé composé qui précise que ce dont il est question est dans un passé *absolu* plutôt que *relatif* (ce qui est conforme avec les définitions concernées). Cette question fera l’objet d’une discussion avec le CRM SIG prochainement. 
+Dans de rares cas, le CIDOC CRM a dérogé de sa propre norme de nommage des propriétés en utilisant l’imparfait (*was*) plutôt que le passé composé (*had*). Le Groupe de traduction a fait le choix de conserver le passé composé qui précise que ce dont il est question est dans un passé *absolu* plutôt que *relatif* (ce qui est conforme avec les définitions concernées). 
 
 ## Methodological Notes
 
@@ -37,7 +33,7 @@ Principles of uniformity, consistency, and rationalization have been prioritized
 
   - shorter rather than longer appellations (rationalization). 
 
-In rare cases, CIDOC CRM has not followed its property naming standard by using the past tense (was) rather than the past perfect (had). The Translation Group has elected to use the *passé composé* throughout as it indicates that the subject is in an *absolute* past rather than a *relative* one (which is consistent with the definitions this pertains to). This issue will be discussed with the CRM SIG eventually.
+In rare cases, the CIDOC CRM has not followed its property naming standard by using the past tense (was) rather than the past perfect (had). The Translation Group has elected to use the *passé composé* throughout as it indicates that the subject is in an *absolute* past rather than a *relative* one (which is consistent with the definitions this pertains to).
 
 ## CIDOC CRM - EN/FR
 

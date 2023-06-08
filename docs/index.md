@@ -6,7 +6,7 @@ layout: home
 date: 2023-06-08
 ---
 
-Le CIDOC CRM est largement utilisé par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement d’un modèle de données sémantique pour les collections. 
+Le CIDOC CRM est largement utilisé par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement de certains de ses modèles de données sémantiques. 
 
 À l’heure actuelle, le CIDOC CRM est développé et maintenu à jour exclusivement en anglais par le CRM SIG, un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable du CIDOC CRM.
 

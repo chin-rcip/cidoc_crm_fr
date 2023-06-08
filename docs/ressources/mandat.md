@@ -4,7 +4,7 @@ title: Mandat & Fonctionnement
 permalink: /ressources/mandat-fonctionnement
 sidebar: mandat
 tab: ressources
-date: 2022-03-11
+date: 2023-06-08
 ---
 
 [*English follows*](#en)
@@ -33,80 +33,56 @@ Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place pa
 
 ## But
 
-Le Groupe de traduction a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 feront l’objet d’une traduction :
+Le Groupe de traduction a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 ont fait l’objet d’une traduction :
 
 * Introduction
-
 * Objectives of the CIDOC CRM
-
 * Terminology
-
 * Compatibility with the CIDOC CRM
-
 * Modelling Principles
-
 * Introduction to the Basic Concepts
-
 * Applied Form
-
 * Class & Property Hierarchies
-
 * CIDOC CRM Class Declarations
-
 * CIDOC CRM Property Declarations
-
-Les références bibliographiques seront francisées, mais ne seront pas traduites et les éléments suivants ne feront pas l’objet d’une traduction prioritaire :
-
 * Appendix
-
 * Editorial Notes
-
 * Amendments
 
-Aucune mise à jour des versions en cours ne sera effectuée lors de la traduction initiale afin d’assurer la cohérence du contenu. Une fois l’intégralité du contenu traduit, l’objectif du Groupe de traduction sera de maintenir une version française à jour grâce à une comparaison des versions anglaises concernées et une révision du contenu en question.
+Les références bibliographiques sont francisées, mais ne sont pas traduites. 
+
+La version 7.1.2 est actuellement en cours de traduction et devrait être disponible d'ici avril 2024.
 
 ## Responsabilités {#responsabilites}
 
 Le RCIP endosse les responsabilités administratives liées à l’effort de traduction en :
 
 * Organisant les rencontres, documents de travail et calendrier de traduction;
-
 * Désignant un représentant à l'interne pour le CRM SIG;
-
 * S’assurant du transfert depuis les documents de travail internes vers des formats (.md, .rdf, .pdf) accessibles (et déployés) sur GitHub;
-
 * Maintenant le répertoire GitHub et ses pages associées.
 
 Il est attendu des membres qu’ils :
 
 * Contribuent des traductions et une rétroaction de qualité selon les fluxs de travail établis ci-bas;
-
 * Assistent à une réunion mensuelle;
-
 * Nomment des représentants à d’autres groupes de travail pertinents lorsque c’est pertinent;
-
 * Sélectionnent des dictionnaires de référence communs auxquels se référer (un dictionnaire français, un dictionnaire anglais ainsi qu’un dictionnaire bilingue).
 
 Un groupe restreint de réviseurs séniors à même de statuer sur les problèmes de traduction où le groupe ne s’entend pas est nommé par les membres du groupe. Leurs décisions doivent prendre en compte la :
 
 * Concordance avec le sens de la version anglaise;
-
 * Cohérence interne de la version française;
-
 * Lisibilité et la réutilisabilité du contenu.
 
-Ce comité réviseur, composé de trois membres, est sélectionné sur la base de l’implication des personnes concernées, leur expertise, leur disponibilité et leur volonté. Il est composé de deux membres du Réseau canadien d’information sur le patrimoine et d’un membre externe au RCIP.
+Ce comité réviseur, composé de trois membres, est sélectionné sur la base de l’implication des personnes concernées, leur expertise, leur disponibilité et leur volonté. Il est composé d'au moins un membre du Réseau canadien d’information sur le patrimoine et d’au moins un membre externe au RCIP.
 
-La version française incluera :
+La version française comprend :
 
 * Un index des termes courants ainsi que des classes et des propriétés du CIDOC CRM;
-
 * Le contenu du CIDOC CRM mentionné ci-haut;
-
 * Des notes de traduction pour chacune des entités lorsque pertinent;
-
 * Une note méthodologique détaillant les principes de traduction appliqués (style, graphie, etc.);
-
 * Une mention légale (licence ouverte).
 
 ## Membres
@@ -116,25 +92,17 @@ Le Groupe de traduction est composé d’employés·es du RCIP (identifiés·es 
 ### Composition du Groupe de traduction
 
 * Marie-Pier Blain (traductrice)
-
 * Camille Crevier-Lalonde (traductrice)
-
 * Frédéric Bricaud (traducteur)
-
 * Stephen Hart (traducteur)
-
 * Karine Léonard Brouillet\* (traductrice)
-
 * Marie-Élaine Mathieu (traductrice)
-
 * Philippe Michon\* (traducteur, représentant auprès du CRM SIG)
-
 * Marielle St-Germain, doctorante à l'École de bibliothéconomie et des sciences de l’information de l’Université de Montréal (traductrice)
 
 ### Protocole de sélection {#protocole-de-selection}
 
 Le Groupe de traduction ne publie pas d’appel de candidatures et sélectionne ses membres sur la base de leur expérience, de leurs connaissances sémantiques et de leur expertise.
-
 Le Groupe évalue toutes les demandes d’adhésion reçues.
 
 ### Critères de sélection et domaines d’expertise {#criteres-de-selection-et-domaines-dexpertise}
@@ -142,7 +110,6 @@ Le Groupe évalue toutes les demandes d’adhésion reçues.
 En plus d’être familiers avec les concepts de base des données ouvertes et liées ou de posséder des connaissances spécialisées en matière de patrimoine, les membres doivent :
 
 * Avoir d’excellentes capacités de rédaction en français et une excellente compréhension de l’anglais;
-
 * Pouvoir consacrer environ cinq heures de travail par mois aux activités du Groupe de traduction et offrir une rétroaction constructive.
 
 ## Activités et outils {#activites-et-outils}
@@ -166,9 +133,7 @@ Les membres du Groupe de traduction participent à une réunion mensuelle en lig
 Les fluxs de travail prennent la forme suivante (la durée peut être ajustée en fonction de la charge de travail) :
 
 * Semaine 1 — Traduction individuelle;
-
 * Semaines 2-3 — Révision dans le Document Google des items traduits par les autres membres et commentaires en conséquence; dans l’éventualité où les discussions en commentaires deviendraient trop complexes, les éléments contentieux seraient discutés lors de la rencontre virtuelle mensuelle organisée par le RCIP;
-
 * Semaine 4 — Validation.
 
 Les contenus disponibles en français sont exportés sur une base trimestrielle vers les différents formats établis et rendus disponibles dans un répertoire GitHub maintenu par le RCIP.
@@ -179,7 +144,7 @@ Les contenus disponibles en français sont exportés sur une base trimestrielle 
 
 **Creation date**: 2021-02-10
 
-**Last update**: 2022-03-11
+**Last update**: 2023-06-08
 
 **Abstract**: Background information on the Translation Group’s objectives, purpose, composition, and operational structure.
 
@@ -192,89 +157,63 @@ Currently, the CIDOC CRM is developed and maintained exclusively in English by t
 In 2014, a French version of the CIDOC CRM was published as *ISO 21127:2014. Information et documentation — Une ontologie de référence pour l'échange d'informations du patrimoine culturel*. That version is no longer suitable for several reasons:
 
 * The definitions of the entities therein are no longer current;
-
 * The reference documentation and the RDF model (where only classes and properties are translated) are not aligned and are therefore difficult to use;
-
 * The document is not available under an open licence, unlike the English documentation which is freely available on the CIDOC CRM website.
 
-Representatives of the francophone heritage community have launched a new initiative to translate the CIDOC CRM in order to provide an up-to-date French version that is openly accessible and free of charge, with the endorsement of the CRM SIG. The results of this work will therefore be available to the entire international and Francophone heritage community.
+Representatives of the francophone heritage community have launched a new initiative to translate the CIDOC CRM in order to provide an up-to-date French version that is openly accessible and free of charge, with the endorsement of the CRM SIG. The results of this work is available to the entire international and Francophone heritage community.
 
 ## Purpose
 
-The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly accessible and free of charge. To this end, the following elements of version 7.1 will be translated:
+The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly accessible and free of charge. To this end, the following elements of version 7.1 have been translated:
 
 * Introduction
-
 * Objectives of the CIDOC CRM
-
 * Terminology
-
 * Compatibility with the CIDOC CRM
-
 * Modelling Principles
-
 * Introduction to the Basic Concepts
-
 * Applied Form
-
 * Class & Property Hierarchies
-
 * CIDOC CRM Class Declarations
-
 * CIDOC CRM Property Declarations
-
-The bibliographic references will be francized but not translated, and the following items will not be given priority for translation:
-
 * Appendix
-
 * Editorial Notes
-
 * Amendments
 
-No updates to current versions will be made during the initial translation to ensure consistency of content. Once all the content has been translated, the Translation Group will endeavour to maintain an up-to-date French version by comparing the relevant English versions and reviewing the content in question.
+The bibliographic references have been francized but not translated. 
+
+Version 7.1.2 is currently being translated and should be available by April 2024. 
 
 ## Responsibilities
 
 CHIN takes care of the administrative responsibilities for the translation effort by:
 
 * Organizing meetings, working documents, and the translation schedule;
-
 * Sending a representative to the CRM SIG;
-
 * Making the transfer from internal working documents to formats (.md, .rdf, .pdf) that are accessible (and deployed) on GitHub;
-
 * Maintaining the GitHub repository and its associated pages.
 
 Members are expected to:
 
 * Contribute quality translations and feedback according to the workflows set out below;
-
 * Attend monthly meetings;
-
 * Appoint representatives to other relevant working groups where appropriate;
-
 * Select common reference dictionaries to refer to (a French dictionary, an English dictionary, and a bilingual dictionary).
 
-A small team of senior revisers is appointed by the Translation Group’s members to resolve translation issues that the group cannot agree on. Their decisions need to take the following into account:
+A small team of senior revisers is appointed by the Translation Group’s members to resolve translation issues that the group cannot agree on. Their decisions have to take the following into account:
 
 * Concordance with the meaning of the English version;
-
 * Internal consistency of the French version;
-
 * Readability and reusability of content.
 
-The review panel, consisting of three members, is selected on the basis of the engagement, expertise, availability, and willingness of the persons concerned. It consists of two members from CHIN and one member from outside CHIN.
+The review panel, consisting of three members, is selected on the basis of the engagement, expertise, availability, and willingness of the persons concerned. It consists of at least one member from CHIN and one member from outside CHIN.
 
-The French version will include:
+The French version includes:
 
 * An index of common terms and CIDOC CRM classes and properties;
-
 * The CIDOC CRM content mentioned above;
-
 * Translation notes for each entity where relevant;
-
 * A methodological note detailing the translation conventions used (style, spelling, etc.);
-
 * A legal notice (open licence).
 
 ## Members
@@ -284,25 +223,17 @@ The Translation Group is composed of CHIN staff (denoted by \*) and external exp
 ### Composition of the Translation Group
 
 * Marie-Pier Blain (translator)
-
 * Camille Crevier-Lalonde (translator)
-
 * Frédéric Bricaud (translator)
-
 * Stephen Hart (translator)
-
 * Karine Léonard Brouillet\* (translator)
-
 * Marie-Élaine Mathieu (translator)
-
 * Philippe Michon\* (translator, representative on the CRM SIG)
-
 * Marielle St-Germain, doctoral student at the Université de Montréal School of Library and Information Science (translator)
 
 ### Selection Protocol
 
 The Translation Group does not advertise vacancies; it selects its members on the basis of their experience, semantic knowledge, and expertise.
-
 It assesses all membership applications it receives.
 
 ### Selection Criteria and Areas of Expertise
@@ -310,7 +241,6 @@ It assesses all membership applications it receives.
 In addition to being familiar with the basic concepts of open and linked data or having specialized heritage knowledge, members must:
 
 * Have excellent writing skills in French and an excellent understanding of English;
-
 * Be able to devote approximately five hours per month to Translation Group activities and provide constructive feedback.
 
 ## Activities and Tools

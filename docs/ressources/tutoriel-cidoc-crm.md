@@ -58,7 +58,7 @@ Ce tutoriel s’adresse aux personnes ayant des connaissances techniques et info
 
 ### Versions et extensions
 
-Le CIDOC CRM, dont la version originale est en anglais, est mis à jour sur une base régulière. Lorsque le CIDOC CRM est utilisé à des fins de recherche, il s’avère judicieux de se référer à la dernière version publiée. Toutefois, lorsque le CIDOC CRM est utilisé à des fins d'implémentation d’un modèle, il est préférable de se référer à la dernière version encodée en RDF. En date du 31 octobre 2021, il s’agit de la version 7.1.1.
+Le CIDOC CRM, dont la version originale est en anglais, est mis à jour sur une base régulière. Lorsque le CIDOC CRM est utilisé à des fins de recherche, il s’avère judicieux de se référer à la dernière version publiée. Toutefois, lorsque le CIDOC CRM est utilisé à des fins d'implémentation d’un modèle, il est préférable de se référer à la dernière version encodée en RDF.
 
 La liste de toutes les versions est accessible [ici](http://www.cidoc-crm.org/versions-of-the-cidoc-crm).
 
@@ -247,7 +247,7 @@ This tutorial is intended for people who have a background knowledge of informat
 
 ### Versions and Extensions
 
-CIDOC CRM is updated on a regular basis. When using CIDOC CRM for research, please refer to the latest published version. When using CIDOC CRM for model implementation, you should refer to the latest version encoded in RDF. As of October 31, 2021, that is version 7.1.1.
+CIDOC CRM is updated on a regular basis. When using CIDOC CRM for research, please refer to the latest published version. When using CIDOC CRM for model implementation, you should refer to the latest version encoded in RDF.
 
 A list of all versions is available [here](http://www.cidoc-crm.org/versions-of-the-cidoc-crm).
 

@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-date: 2023-04-21
+date: 2023-06-08
 ---
 
 Le CIDOC CRM est largement utilisé par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement d’un modèle de données sémantique pour les collections. 
@@ -16,9 +16,9 @@ En 2014, une version en français du CIDOC CRM a été publiée sous le titre *I
 * la documentation de référence et le modèle RDF (où seulement les classes et propriétés sont traduites) ne sont pas alignés et, de ce fait, difficilement utilisables ;	
 * le document n’est pas disponible sous licence ouverte contrairement à la documentation en anglais qui est accessible gratuitement sur le site du CIDOC CRM.
 
-Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place par des intervenants du milieu patrimonial francophone afin de rendre ce standard disponible sous licence ouverte et gratuitement, et ce avec l’aval du CRM SIG. Les résultats de ces travaux seront donc accessibles à l’ensemble de la communauté patrimoniale internationale et francophone.
+Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place par des intervenants du milieu patrimonial francophone afin de rendre ce standard disponible sous licence ouverte et gratuitement, et ce avec l’aval du CRM SIG. Les résultats de ces travaux sont donc accessibles à l’ensemble de la communauté patrimoniale internationale et francophone.
 
-> *Avertissement : Cette traduction en français du CIDOC CRM est en cours.<br><br>La documentation présentée ici est un travail actuellement en cours. À ce titre, bien qu’elle soit publiquement disponible, elle ne constitue en rien une publication officielle et des changements y sont apportés sur une base régulière. Par conséquent, il est préférable d’attendre une publication officielle de l’entièreté du contenu du CIDOC CRM avant d’implémenter cette traduction.*
+> *Nous traduisons actuellement la version 7.1.2 du CIDOC CRM. Pour une traduction complète et stable, veuillez vous référer à la version 7.1 disponible ici, laquelle sera bientôt aussi disponible sur le site web du CIDOC CRM SIG.*
 
 
 ## Dates

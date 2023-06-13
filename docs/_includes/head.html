@@ -8,6 +8,39 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  <meta name="author" content="Groupe canadien de traduction en français du CIDOC CRM">
-  <meta name="DC.Rights" content="CC BY Groupe canadien de traduction en français du CIDOC CRM 2021">
+  {%- if page.url contains "/v7.1/" -%}
+    <meta name="dcterms:creator" content="CIDOC CRM Special Interest Group">
+    <meta property="bibo:translator" content="Frédéric Bricaud">
+    <meta property="bibo:translator" content="Camille Crevier-Lalonde">
+    <meta property="bibo:translator" content="Stephen Hart">
+    <meta property="bibo:translator" content="Karine Léonard Brouillet">
+    <meta property="bibo:translator" content="Marie-Elaine Mathieu">
+    <meta property="bibo:translator" content="Philippe Michon">
+    <meta property="bibo:translator" content="Marielle St-Germain">
+    <meta property="bibo:translator" content="Marie-Pier Blain">
+    <meta property="bib:contributors" content="Trang Dang">
+    <meta property="z:translators" content="Frédéric Bricaud">
+    <meta property="z:translators" content="Camille Crevier-Lalonde">
+    <meta property="z:translators" content="Stephen Hart">
+    <meta property="z:translators" content="Karine Léonard Brouillet">
+    <meta property="z:translators" content="Marie-Elaine Mathieu">
+    <meta property="z:translators" content="Philippe Michon">
+    <meta property="z:translators" content="Marielle St-Germain">
+    <meta property="z:translators" content="Marie-Pier Blain">
+  {%- else -%}
+    <meta name="dcterms:creator" content="Traduction en français du CIDOC CRM">
+    {%- if page.url contains "/ressources/" -%}
+      <meta property="bib:contributors" content="Frédéric Bricaud">
+      <meta property="bib:contributors" content="Camille Crevier-Lalonde">
+      <meta property="bib:contributors" content="Stephen Hart">
+      <meta property="bib:contributors" content="Karine Léonard Brouillet">
+      <meta property="bib:contributors" content="Marie-Elaine Mathieu">
+      <meta property="bib:contributors" content="Philippe Michon">
+      <meta property="bib:contributors" content="Marielle St-Germain">
+      <meta property="bib:contributors" content="Marie-Pier Blain">
+      <meta property="bib:contributors" content="Trang Dang">
+    {%- endif -%}
+  {%- endif -%}
+  
+  <meta name="DC.Rights" content="CC BY Traduction en français du CIDOC CRM 2023">
 </head>

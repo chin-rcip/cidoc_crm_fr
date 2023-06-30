@@ -202,7 +202,7 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |E26|-|-|-|-|-|<span class="en">Physical Feature </span>`E26_Caractéristique_physique`|||||
 |E27|-|-|-|-|-|-|<span class="en">Site </span>`E27_Site`||||
 |E25|-|-|-|-|-|-|<span class="en"><em>Human-Made Feature  </em></span>*`E25_Caractéristique_élaborée_par_l’humain`*    ||||
-|E90|-|-|-|-|<span class="en">Symbolic Object E90_Objet_symbolique             ||||||
+|E90|-|-|-|-|<span class="en">Symbolic Object </span>`E90_Objet_symbolique`||||||
 |E73|-|-|-|-|-|<span class="en">Information Object </span>`E73_Objet_informationnel`|||||
 |E29|-|-|-|-|-|-|<span class="en">Design or Procedure </span>`E29_Conceptualisation_ou_procédure`||||
 |E31|-|-|-|-|-|-|<span class="en">Document </span>`E31_Document`||||
@@ -213,7 +213,7 @@ The documentation hereby accessible is a work in progress. As such, although it 
 |E36|-|-|-|-|-|-|<span class="en">Visual Item </span>`E36_Entité_visuelle`||||
 |E37|-|-|-|-|-|-|-|<span class="en">Mark </span>`E37_Marque`|||
 |E34|-|-|-|-|-|-|-|-|<span class="en">Inscription </span>`E34_Inscription`||
-|E41|-|-|-|-|-|<span class="en">Appellation E41_Appellation                |||||
+|E41|-|-|-|-|-|<span class="en">Appellation </span>`E41_Appellation`|||||
 |E42|-|-|-|-|-|-|<span class="en">Identifier </span>`E42_Identifiant`||||
 |E35|-|-|-|-|-|-|<span class="en">Title </span>`E35_Titre`||||
 |E95|-|-|-|-|-|-|<span class="en">Spacetime Primitive </span>`E95_Primitive_spatio-temporelle`||||

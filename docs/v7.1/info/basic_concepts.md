@@ -431,7 +431,7 @@ date: 2023-05-26
 </tbody>
 </table>
 
-<h2 id=""><span class="en heading">Specific Modelling Constructs - </span></h2>
+<h2 id=""><span class="en heading">Specific Modelling Constructs - </span>Construits spécifiques de modélisation</h2>
 
 <h3 id="des-types"><span class="en heading">About Types - </span>Des Types</h3>
 

@@ -676,6 +676,7 @@ date: 2023-05-26
 <p>Property</p>
 </td>
 <td class="en">
+<p>Interpretation</p>    
 </td>
 <td>
 </td>
@@ -694,6 +695,7 @@ date: 2023-05-26
 <p><strong>P173 starts before or with the end of</strong></p>
 </td>
 <td class="en">
+<p>A<sup>start</sup> ≤ B<sup>end</sup></p>
 </td>
 <td>
 <p>1</p>
@@ -713,6 +715,7 @@ date: 2023-05-26
 <p><strong>P174 starts before the end of</strong></p>
 </td>
 <td class="en">
+<p>A<sup>start</sup> < B<sup>end</sup></p>
 </td>
 <td>
 <p>2</p>
@@ -732,6 +735,7 @@ date: 2023-05-26
 <p><strong>P175 starts before or with the start of</strong></p>
 </td>
 <td class="en">
+<p>A<sup>start</sup> ≤ B<sup>start</sup></p>
 </td>
 <td>
 <p>3</p>
@@ -751,6 +755,7 @@ date: 2023-05-26
 <p><strong>P176 starts before the start of</strong></p>
 </td>
 <td class="en">
+<p>A<sup>start</sup> < B<sup>start</sup></p>    
 </td>
 <td>
 <p>4</p>
@@ -770,6 +775,7 @@ date: 2023-05-26
 <p><strong>P182 ends before or with the start of</strong></p>
 </td>
 <td class="en">
+<p>A<sup>end</sup> ≤ B<sup>start</sup></p>    
 </td>
 <td>
 <p>5</p>
@@ -789,6 +795,7 @@ date: 2023-05-26
 <p><strong>P183 ends before the start of</strong></p>
 </td>
 <td class="en">
+<p>A<sup>end</sup> < B<sup>start</sup></p>
 </td>
 <td>
 <p>6</p>
@@ -808,6 +815,7 @@ date: 2023-05-26
 <p><strong>P184 ends before or with the end of</strong></p>
 </td>
 <td class="en">
+<p>A<sup>end</sup> ≤ B<sup>end</sup></p>
 </td>
 <td>
 <p>7</p>
@@ -827,6 +835,7 @@ date: 2023-05-26
 <p><strong>P185 ends before the end of</strong></p>
 </td>
 <td class="en">
+<p>A<sup>end</sup> < B<sup>end</sup></p>
 </td>
 <td>
 <p>8</p>

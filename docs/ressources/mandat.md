@@ -92,8 +92,9 @@ Le Groupe de traduction est composé d’employés·es du RCIP (identifiés·es 
 ### Composition du Groupe de traduction
 
 * Marie-Pier Blain (traductrice)
-* Camille Crevier-Lalonde (traductrice)
 * Frédéric Bricaud (traducteur)
+* Camille Crevier-Lalonde (traductrice)
+* Nguyen Khanh Trang Dang\* (architecte technologique)
 * Stephen Hart (traducteur)
 * Karine Léonard Brouillet\* (traductrice)
 * Marie-Élaine Mathieu (traductrice)

@@ -37,3 +37,7 @@ Dernière mise à jour : 2023-05-26
 * Philippe Michon, Réseau canadien d'information sur le patrimoine
 * Marielle St-Germain, doctorante à l'École de bibliothéconomie et des sciences de l'information, Université de Montréal
 * Marie-Pier Blain, à titre personnel
+
+## Architecture technologique et design
+
+* Nguyen Khanh Trang Dang

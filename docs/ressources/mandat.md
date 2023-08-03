@@ -224,8 +224,9 @@ The Translation Group is composed of CHIN staff (denoted by \*) and external exp
 ### Composition of the Translation Group
 
 * Marie-Pier Blain (translator)
-* Camille Crevier-Lalonde (translator)
 * Frédéric Bricaud (translator)
+* Camille Crevier-Lalonde (translator)
+* Nguyen Khanh Trang Dang\* (technological architect)
 * Stephen Hart (translator)
 * Karine Léonard Brouillet\* (translator)
 * Marie-Élaine Mathieu (translator)

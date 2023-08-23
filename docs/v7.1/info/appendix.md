@@ -40,7 +40,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -241,7 +241,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Les traductions des classes dépréciées sont littérales et n’ont pas fait l’objet d’un examen dédié dans le cadre de ce travail. </p>
@@ -295,7 +295,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -607,7 +607,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -643,7 +643,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>

@@ -45,7 +45,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
@@ -84,7 +84,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
@@ -118,7 +118,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -148,7 +148,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -181,7 +181,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -212,7 +212,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -240,7 +240,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -271,7 +271,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée.  </p>
@@ -304,7 +304,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -338,7 +338,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -372,7 +372,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -405,7 +405,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -449,7 +449,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Le terme « dépendant » a été préféré au terme « dépendance » en guise de traduction de « dependencies » puisqu’il transmet davantage le fait qu’il s’agit d’un élément qui s’inscrit dans la suite d’un autre (qui en dépend) plutôt qu’un élément qui a lui-même « besoin » d’un autre élément (qui est en situation de dépendance). </p>
@@ -524,7 +524,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Le terme « naming convention » est parfois traduit par « convention d’appellation » ou « convention de nommage”; le terme « convention d’appellation » a été privilégié, car il semble davantage utilisé de manière générale (après avoir fait une brève recherche en ligne) et est entériné par Termium. </p>
@@ -589,7 +589,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Le terme « assomption » est peu courant, mais est préféré dans un contexte logique ou mathématique, raison pour laquelle il a été utilisé plutôt que « supposition » ou « hypothèse”. </p>
@@ -898,7 +898,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Les termes « quantifiant » ou « quantificateur » peuvent tous deux être utilisés pour désigner des « quantifiers”, la seconde option a été privilégiée pour éviter toute confusion avec le gérondif. </p>

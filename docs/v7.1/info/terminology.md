@@ -38,7 +38,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Une recherche sommaire de la documentation technique traduite sur le site du World Wide Web Consortium ne révèle pas de traduction francophone de « Resource Description Framework (RDF) », de sorte que l’appellation anglophone est préconisée dans la présente traduction. </p>
@@ -79,7 +79,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -128,7 +128,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -160,7 +160,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -186,7 +186,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -212,7 +212,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -240,7 +240,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -276,7 +276,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -310,7 +310,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -341,7 +341,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -413,7 +413,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « construct » n’a pas d’équivalent français parfait, mais une recherche sommaire révèle que le terme « construit » (n.m.) semble répandu dans les domaines de la philosophie et de la sociologie et est celui dont le sens se rapproche le plus de la forme originale. </p>
@@ -442,7 +442,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -468,7 +468,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -496,7 +496,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -532,7 +532,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -558,7 +558,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « normalization » aurait aussi pu être traduit par « standardisation”, mais puisqu’il s’agit du principe et non pas de l’application d’un standard établi, le terme « normalisation » a été utilisé. </p>
@@ -587,7 +587,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -614,7 +614,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -640,7 +640,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « behaviour » a été traduit par « fonctionnement » plutôt que par « comportement » puisqu’il s’agit d’une chose et non pas d’une personne.  </p>
@@ -670,7 +670,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « join of a data » a été traduit par « union » plutôt que par « fusion », car il s’agit de les réunir sans en annihiler l’une ou l’autre. </p>
@@ -699,7 +699,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Ajout d’une définition du décrément selon sa définition logicielle (quantité constante prédéterminée dont on soustrait la valeur d’une variable) plutôt que mathématique (diminution de la valeur d’une quantité variable). </p>
@@ -728,7 +728,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -755,7 +755,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>« Female » est un terme qui est couramment utilisé en anglais sans être considéré péjoratif. Cependant, en français, l’utilisation du terme « femelle » pour désigner des humains du sexe féminin est généralement considérée condescendante. Le terme « femme » a donc été utilisé. </p>
@@ -787,7 +787,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -813,7 +813,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>La dernière phrase du texte original semble avoir pour objectif d’inclure toutes les personnes, mais elle est formulée de manière quelque peu cavalière et ne s’aligne pas avec l’approche des autres exemples mentionnés de sorte qu’elle pourrait être considérée marginalisante et peu inclusive. Puisqu’elle n’apporte pas d’information supplémentaire, elle a été retirée du texte traduit. </p>
@@ -840,7 +840,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « query containment » a été traduit par « inclusion des requêtes ». Le « containment » est généralement traduit dans le domaine de l’algèbre par « inclusion » et dans le domaine logiciel par « contenance ». Puisqu’il s’agit d’un problème fondamentalement théorique et algorithmique, il est apparu préférable de se rapprocher de l’usage mathématique.</p>
@@ -880,7 +880,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -923,7 +923,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « merge » a été traduit par « fusion », lequel semble être la traduction la plus courante dans le domaine du traitement de l’information. </p>
@@ -955,7 +955,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -982,7 +982,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1022,7 +1022,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « information system » a été traduit par « système d’information ». </p>
@@ -1051,7 +1051,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1077,7 +1077,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1103,7 +1103,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>

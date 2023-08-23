@@ -73,7 +73,7 @@ description: Le CIDOC CRM est le standard qu’utilisent de nombreuses organisat
 <table>
 <tbody>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>

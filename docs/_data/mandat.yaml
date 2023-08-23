@@ -13,8 +13,8 @@ toc:
     hash: membres
     class: sublist
     subfolder:
-    - title: Composition du Groupe de travail
-      hash: composition-du-groupe-de-travail
+    - title: Composition du Groupe de traduction
+      hash: composition-du-groupe-de-traduction
     - title: Protocole de sélection
       hash: protocole-de-selection
     - title: Critères de sélection et domaines d’expertise
@@ -42,8 +42,8 @@ toc:
     hash: members
     class: sublist
     subfolder:
-    - title: Composition of the Working Group
-      hash: composition-of-the-working-group
+    - title: Composition of the Translation Group
+      hash: composition-of-the-translation-group
     - title: Selection Protocol
       hash: selection-protocol
     - title: Selection Criteria and Areas of Expertise

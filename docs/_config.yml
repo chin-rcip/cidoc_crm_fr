@@ -34,11 +34,13 @@ plugins:
 header_pages:
   - v7.1/info/intro.md
   - ressources/index.md
+  - ressources/instructions.md
   - ressources/mandat.md
   - ressources/method.md
   - ressources/participation.md
   - ressources/tutoriel-cidoc-crm.md
   - licence.md
+  - downloads.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

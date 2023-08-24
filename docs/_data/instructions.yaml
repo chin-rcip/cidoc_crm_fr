@@ -1,0 +1,14 @@
+class: mainlist
+toc:
+
+- class: sublist
+  subfolder:
+  - title: Comment interpréter les tableaux et les interventions des traducteur·trice·s
+    hash: comment-interpreter-les-tableaux-et-les-interventions-des-traducteur-trices
+
+- title: Instructions
+  hash: en
+  class: sublist
+  subfolder:
+  - title: How to interpret the tables and interventions by the translators
+    hash: how-to-interpret-the-tables-and-interventions-by-the-translators

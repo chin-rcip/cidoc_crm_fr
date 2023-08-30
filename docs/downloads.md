@@ -2,6 +2,7 @@
 layout: page
 title: Téléchargements
 permalink: /telechargements
+maxwidth: true
 ---
 
 |Version|Date de disponibilité|Documents disponibles|Citation|Référence|Bibliographie de la traduction

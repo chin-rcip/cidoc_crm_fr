@@ -21,17 +21,17 @@ date: 2023-06-08
 
 Le Groupe de traduction a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 ont fait l’objet d’une traduction :
 
-  - *Introduction* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/introduction))
-  - *Objectives of the CIDOC CRM* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/introduction#objectifs-du-cidoc-crm))
-  - *Terminology* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/terminologie))
-  - *Compatibility with the CIDOC CRM* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/compatibilite-avec-le-cidoc-crm))
-  - *Modelling Principles* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/principes-de-modelisation))
+  - *Introduction* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/introduction))
+  - *Objectives of the CIDOC CRM* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/introduction#objectifs-du-cidoc-crm))
+  - *Terminology* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/terminologie))
+  - *Compatibility with the CIDOC CRM* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/compatibilite-avec-le-cidoc-crm))
+  - *Modelling Principles* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/principes-de-modelisation))
   - *Introduction to the Basic Concepts* (en cours de traduction)
-  - *Applied Form* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/application-formelle))
-  - *Class & Property Hierarchies* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/application-formelle#hierarchies-de-classes-et-de-proprietes))
-  - *CIDOC CRM Class Declarations* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/classes/declaration-des-classes-du-cidoc-crm))
-  - *CIDOC CRM Property Declarations* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm))
-  - *Appendix* (disponible [ici](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/annexe))
+  - *Applied Form* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/application-formelle))
+  - *Class & Property Hierarchies* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/application-formelle#hierarchies-de-classes-et-de-proprietes))
+  - *CIDOC CRM Class Declarations* (disponible [ici](https://cidoc-crm-fr.info/v7.1/classes/declaration-des-classes-du-cidoc-crm))
+  - *CIDOC CRM Property Declarations* (disponible [ici](https://cidoc-crm-fr.info/v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm))
+  - *Appendix* (disponible [ici](https://cidoc-crm-fr.info/v7.1/annexe))
 
 Cela équivaut au contenu « informationnel » du CIDOC CRM, mais exclut les références bibliographiques qui ont été francisées sans être traduites.
 
@@ -98,7 +98,7 @@ Les traductions sont effectuées dans des documents Google Docs contenant des ta
 
 Ceci permet de comparer aisément les différentes versions originales et de procéder aux changements nécessaires lors de modifications au contenu original anglais. L’utilisation de Google Docs permet aussi de travailler en collaboration sur une plateforme largement utilisée et raisonnablement intuitive pour tous.
 
-Le contenu traduit est ensuite exporté en fichier markdown (.md) et diffusé sur Github sous [licence ouverte](https://chin-rcip.github.io/cidoc_crm_fr/licence).
+Le contenu traduit est ensuite exporté en fichier markdown (.md) et diffusé sur Github sous [licence ouverte](https://cidoc-crm-fr.info/licence).
 
 #### Processus 
 
@@ -110,7 +110,7 @@ Lorsqu’un élément de traduction fait l’objet d’une incertitude, il est d
   - la cohérence interne de la version française;
   - la lisibilité et la réutilisabilité du contenu.
 
-Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veuillez consulter la section [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr/ressources/mandat-fonctionnement).
+Pour plus de détails sur le mode de fonctionnement du Groupe de traduction, veuillez consulter la section [Mandat & Fonctionnement](https://cidoc-crm-fr.info/ressources/mandat-fonctionnement).
 
 ## Contact {#contact-fr}
 
@@ -132,17 +132,17 @@ Si vous désirez obtenir une copie des gabarits et des protocoles utilisés afin
 
 The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly accessible and free of charge. To this end, the following elements of version 7.1 have been translated:
 
-  - *Introduction* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/introduction))
-  - *Objectives of the CIDOC CRM* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/introduction#objectifs-du-cidoc-crm))
-  - *Terminology* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/terminologie))
-  - *Compatibility with the CIDOC CRM* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/compatibilite-avec-le-cidoc-crm))
-  - *Modelling Principles* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/principes-de-modelisation))
+  - *Introduction* (available [here](https://cidoc-crm-fr.info/v7.1/information/introduction))
+  - *Objectives of the CIDOC CRM* (available [here](https://cidoc-crm-fr.info/v7.1/information/introduction#objectifs-du-cidoc-crm))
+  - *Terminology* (available [here](https://cidoc-crm-fr.info/v7.1/information/terminologie))
+  - *Compatibility with the CIDOC CRM* (available [here](https://cidoc-crm-fr.info/v7.1/information/compatibilite-avec-le-cidoc-crm))
+  - *Modelling Principles* (available [here](https://cidoc-crm-fr.info/v7.1/information/principes-de-modelisation))
   - *Introduction to the Basic Concepts* (under translation)
-  - *Applied Form* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/application-formelle))
-  - *Class & Property Hierarchies* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/information/application-formelle#hierarchies-de-classes-et-de-proprietes))
-  - *CIDOC CRM Class Declarations* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/classes/declaration-des-classes-du-cidoc-crm))
-  - *CIDOC CRM Property Declarations* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm))
-  - *Appendix* (available [here](https://chin-rcip.github.io/cidoc_crm_fr/v7.1/annexe))
+  - *Applied Form* (available [here](https://cidoc-crm-fr.info/v7.1/information/application-formelle))
+  - *Class & Property Hierarchies* (available [here](https://cidoc-crm-fr.info/v7.1/information/application-formelle#hierarchies-de-classes-et-de-proprietes))
+  - *CIDOC CRM Class Declarations* (available [here](https://cidoc-crm-fr.info/v7.1/classes/declaration-des-classes-du-cidoc-crm))
+  - *CIDOC CRM Property Declarations* (available [here](https://cidoc-crm-fr.info/v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm))
+  - *Appendix* (available [here](https://cidoc-crm-fr.info/v7.1/annexe))
 
 This is equivalent to the “data” content of the CIDOC CRM, but excludes the bibliographic references which have been francized but not translated.
 
@@ -209,7 +209,7 @@ The translations are done in Google Docs documents containing predefined tables 
 
 This makes it easy to compare the different source texts and to make the necessary changes when modifications are made to the English source content. The use of Google Docs also allows group members to work together on a widely used and reasonably intuitive platform.
 
-The translated content is then exported as a markdown file (.md) and published on Github under an [open licence](https://chin-rcip.github.io/cidoc_crm_fr/licence). 
+The translated content is then exported as a markdown file (.md) and published on Github under an [open licence](https://cidoc-crm-fr.info/licence). 
 
 ### Process 
 
@@ -221,7 +221,7 @@ If there are questions about any part of the translation, they are discussed by 
   - consistency within the French translation;
   - readability and reusability of content.
 
-For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://chin-rcip.github.io/cidoc_crm_fr/ressources/mandat-fonctionnement) section.
+For more details about how the Translation Group operates, please consult the [Mandat & Fonctionnement](https://cidoc-crm-fr.info/ressources/mandat-fonctionnement) section.
 
 ## Contact {#contact-en}
 

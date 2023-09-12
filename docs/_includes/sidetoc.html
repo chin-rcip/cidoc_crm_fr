@@ -19,10 +19,10 @@
     {% else %}
       {% if item.url %}
         {% assign base_url = item.url %}
-        {% assign item_url = "/cidoc_crm_fr" | append: base_url %}
+        {% assign item_url = "" | append: base_url %}
       {% else %}
         {% assign base_url = page.url %}
-        {% assign item_url = "/cidoc_crm_fr" | append: base_url | append: '#' | append: item.hash %}
+        {% assign item_url = "" | append: base_url | append: '#' | append: item.hash %}
       {% endif %}
       {% if item.title %}
       <a {% if item.hash %}id="toc-{{ item.hash }}"{% endif %} href="{{ item_url }}" onclick="active(this)">{{ item.title }}

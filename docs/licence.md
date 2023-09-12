@@ -9,15 +9,15 @@ date: 2023-06-08
 
 Toute la documentation diffusée par le Groupe de traduction est accessible avec attribution en vertu d’une licence CC BY, ce qui signifie que le Groupe de traduction autorise les utilisateurs à distribuer, remixer, transformer et créer à partir du contenu original de cette documentation, dans quelque format que ce soit, du moment qu’une attribution au Groupe de traduction est faite en utilisant la mention suivante : 
 
-> « [Titre du contenu utilisé, version N.n] » par le [CRM SIG](http://www.cidoc-crm.org/sig-members-list), traduit par la [Traduction en français du CIDOC CRM](https://chin-rcip.github.io/cidoc_crm_fr/) sous licence [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.fr).
+> « [Titre du contenu utilisé, version N.n] » par le [CRM SIG](http://www.cidoc-crm.org/sig-members-list), traduit par la [Traduction en français du CIDOC CRM](https://cidoc-crm-fr.info/) sous licence [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.fr).
 
 Par exemple, lors d’une référence à l’entièreté du document, la mention suivante devrait apparaître : 
 
-> « CIDOC CRM, version 7.1 » par le [CRM SIG](http://www.cidoc-crm.org/sig-members-list), traduit par la [Traduction en français du CIDOC CRM](https://chin-rcip.github.io/cidoc_crm_fr/) sous licence [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.fr).
+> « CIDOC CRM, version 7.1 » par le [CRM SIG](http://www.cidoc-crm.org/sig-members-list), traduit par la [Traduction en français du CIDOC CRM](https://cidoc-crm-fr.info/) sous licence [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.fr).
 
 Lors d’une référence à une section précise, la mention suivante devrait, par exemple, apparaître : 
 
-> « Principes de modélisation, dans CIDOC CRM, version 7.1 » par le [CRM SIG](http://www.cidoc-crm.org/sig-members-list), traduit par la [Traduction en français du CIDOC CRM](https://chin-rcip.github.io/cidoc_crm_fr/) sous licence [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.fr).
+> « Principes de modélisation, dans CIDOC CRM, version 7.1 » par le [CRM SIG](http://www.cidoc-crm.org/sig-members-list), traduit par la [Traduction en français du CIDOC CRM](https://cidoc-crm-fr.info/) sous licence [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.fr).
 
 Le contenu original de cette traduction est le contenu traduit qui ne fait pas l’objet d’une citation; en ce qui a trait à la licenciation du contenu original, il est recommandé de contacter le CRM SIG.
 
@@ -49,15 +49,15 @@ Ministère de la Justice. 2020. Loi sur le droit d’auteur (R.S.C., 1985, c. C-
 
 All documentation released by the Translation Group is available with attribution under the CC BY license. This means that the Translation Group allows users to distribute, remix, adapt, and build upon the original content in this documentation, in any medium or format, so long as attribution is given to the Translation Group using the following mention: 
 
-> “[Title of the content used, version N.n]” by the [CRM SIG](http://www.cidoc-crm.org/sig-members-list), translated by the [Traduction en français du CIDOC CRM](https://chin-rcip.github.io/cidoc_crm_fr/) under the [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+> “[Title of the content used, version N.n]” by the [CRM SIG](http://www.cidoc-crm.org/sig-members-list), translated by the [Traduction en français du CIDOC CRM](https://cidoc-crm-fr.info/) under the [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 For example, when quoting the entirety of the translation, the following attribution should be made: 
 
-> “CIDOC CRM, version 7.1” by the [CRM SIG](http://www.cidoc-crm.org/sig-members-list), translated by the [Traduction en français du CIDOC CRM](https://chin-rcip.github.io/cidoc_crm_fr/) under the [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+> “CIDOC CRM, version 7.1” by the [CRM SIG](http://www.cidoc-crm.org/sig-members-list), translated by the [Traduction en français du CIDOC CRM](https://cidoc-crm-fr.info/) under the [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 When quoting a specific section, the following attribution should be made, for example: 
 
-> “Principes de modélisation, in CIDOC CRM, version 7.1” by the [CRM SIG](http://www.cidoc-crm.org/sig-members-list), translated by the [Traduction en français du CIDOC CRM](https://chin-rcip.github.io/cidoc_crm_fr/) under the [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+> “Principes de modélisation, in CIDOC CRM, version 7.1” by the [CRM SIG](http://www.cidoc-crm.org/sig-members-list), translated by the [Traduction en français du CIDOC CRM](https://cidoc-crm-fr.info/) under the [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 The original content of this translation is the translated content that is not otherwise quoted; for original content licensing matters, please refer to the CRM SIG.
 

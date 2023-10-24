@@ -29,6 +29,7 @@ Dernière mise à jour : 2023-05-26
 
 ## Éditeurs et Éditrices 
 
+* Marie-Pier Blain, à titre personnel
 * Frédéric Bricaud, à titre personnel
 * Camille Crevier-Lalonde, Musée de la civilisation
 * Stephen Hart, à titre personnel
@@ -36,7 +37,6 @@ Dernière mise à jour : 2023-05-26
 * Marie-Elaine Mathieu, Musée de la civilisation
 * Philippe Michon, Réseau canadien d'information sur le patrimoine
 * Marielle St-Germain, doctorante à l'École de bibliothéconomie et des sciences de l'information, Université de Montréal
-* Marie-Pier Blain, à titre personnel
 
 ## Architecture technologique et design
 

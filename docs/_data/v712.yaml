@@ -1,0 +1,612 @@
+class: mainlist
+heading: Version 7.1.2
+toc:
+
+- title: INFORMATION
+  group: information
+  class: mainlist
+  subfolder:
+  - title: Introduction
+    url: /v7.1.2/information/introduction
+    class: sublist
+    subfolder:
+    - title: Objectifs du CIDOC CRM
+      hash: objectifs-du-cidoc-crm
+    - title: Portée du CIDOC CRM
+      hash: portee-du-cidoc-crm
+    - title: Compatibilité avec le CIDOC CRM
+      hash: compatibilite-avec-le-cidoc-crm
+    - title: Terminologie
+      hash: terminologie
+    - title: Application formelle
+      hash: application-formelle
+      class: sublist
+      subfolder:
+      - title: Convention d’appellation
+        hash: convention-dappellation
+      - title: De l’héritage et de la transitivité
+        hash: de-lheritage-et-de-la-transitivite
+      - title: Des raccourcis
+        hash: des-raccourcis
+      - title: Des expressions logiques utilisées dans le CIDOC CRM
+        hash: des-expressions-logiques-utilisees-dans-le-cidoccrm
+      - title: Quantificateurs de propriétés
+        hash: quantificateurs-de-proprietes
+  - title: Principes de modélisation
+    url: /v7.1.2/information/principes-de-modelisation
+    class: sublist
+    subfolder:
+    - title: De la réalité, des bases de connaissance et du CIDOC CRM
+      hash: de-la-realite-des-bases-de-connaissance-et-du-cidoc-crm
+    - title: De l’auctorialité des contenus d’une base de connaissances
+      hash: de-lauctorialite-des-contenus-dune-base-de-connaissances
+    - title: Des extensions de CIDOC CRM
+      hash: des-extensions-de-cidoc-crm
+    - title: De la minimalité
+      hash: de-la-minimalite
+    - title: De la monotonicité
+      hash: de-la-monotonicite
+    - title: De la disjonction
+      hash: de-la-disjonction
+  - title: Introduction aux concepts fondamentaux
+    url: /v7.1.2/information/introduction-aux-concepts-fondamentaux
+    class: sublist
+    subfolder:
+    - title: Des relations évènementielles
+      hash: des-relations-evenementielles
+      class: sublist
+      subfolder:
+      - title: Des relations spatiales
+        hash: des-relations-spatiales
+      - title: Des relations temporelles
+        hash: des-relations-temporelles
+      - title: Des relations spatio-temporelles
+        hash: des-relations-spatio-temporelles
+    - title: Construits spécifiques de modélisation
+      hash: construits-specifiques-de-modelisation
+      class: sublist
+      subfolder:
+      - title: Des Types
+        hash: des-types
+      - title: Des relations temporelles primitives fondées sur des frontières floues
+        hash: des-relations-temporelles-primitives-fondees-sur-des-frontieres-floues
+        class: sublist
+        subfolder:
+        - title: Notation
+          hash: notation
+        - title: Aperçu des relations temporelles primitives
+          hash: apercu-des-relations-temporelles-primitives
+  - title: Hiérarchies de classes et de propriétés
+    url: /v7.1.2/information/hierarchies-de-classes-et-de-proprietes
+    class: sublist
+    subfolder:
+    - title: Liste hiérarchisée des classes du CIDOC CRM
+      hash: liste-hierarchisee-des-classes-du-cidoc-crm
+    - title: Liste hiérarchisée des propriétés du CIDOC CRM
+      hash: liste-hierarchisee-des-proprietes-du-cidoc-crm
+      class: sublist
+      subfolder:
+      - title: Propriétés de propriétés du CIDOC CRM (propriétés .1)
+        hash: proprietes-de-proprietes-du-cidoc-crm-proprietes-1
+  
+
+- title: CLASSES
+  group: classes
+  class: mainlist
+  subfolder:
+  - title: Déclaration des classes du CIDOC CRM
+    url: /v7.1.2/classes/declaration-des-classes-du-cidoc-crm
+  - title: E1 Entité CRM
+    url: /v7.1.2/classes/E1
+  - title: E2 Entité temporelle
+    url: /v7.1.2/classes/E2
+  - title: E3 État matériel
+    url: /v7.1.2/classes/E3
+  - title: E4 Période
+    url: /v7.1.2/classes/E4
+  - title: E5 Évènement
+    url: /v7.1.2/classes/E5
+  - title: E6 Destruction
+    url: /v7.1.2/classes/E6
+  - title: E7 Activité
+    url: /v7.1.2/classes/E7
+  - title: E8 Acquisition
+    url: /v7.1.2/classes/E8
+  - title: E9 Déplacement
+    url: /v7.1.2/classes/E9
+  - title: E10 Transfert de la garde
+    url: /v7.1.2/classes/E10
+  - title: E11 Modification
+    url: /v7.1.2/classes/E11
+  - title: E12 Production
+    url: /v7.1.2/classes/E12
+  - title: E13 Assignation d’attribut
+    url: /v7.1.2/classes/E13
+  - title: E14 Évaluation d’état matériel
+    url: /v7.1.2/classes/E14
+  - title: E15 Assignation d’identifiant
+    url: /v7.1.2/classes/E15
+  - title: E16 Mesurage
+    url: /v7.1.2/classes/E16
+  - title: E17 Assignation de type
+    url: /v7.1.2/classes/E17
+  - title: E18 Chose matérielle
+    url: /v7.1.2/classes/E18
+  - title: E19 Objet matériel
+    url: /v7.1.2/classes/E19
+  - title: E20 Objet biologique
+    url: /v7.1.2/classes/E20
+  - title: E21 Personne
+    url: /v7.1.2/classes/E21
+  - title: E22 Objet élaboré par l’humain
+    url: /v7.1.2/classes/E22
+  - title: E24 Chose matérielle élaborée par l’humain
+    url: /v7.1.2/classes/E24
+  - title: E25 Caractéristique élaborée par l'humain
+    url: /v7.1.2/classes/E25
+  - title: E26 Caractéristique physique
+    url: /v7.1.2/classes/E26
+  - title: E27 Site
+    url: /v7.1.2/classes/E27
+  - title: E28 Objet conceptuel
+    url: /v7.1.2/classes/E28
+  - title: E29 Conceptualisation ou procédure
+    url: /v7.1.2/classes/E29
+  - title: E30 Droit
+    url: /v7.1.2/classes/E30
+  - title: E31 Document
+    url: /v7.1.2/classes/E31
+  - title: E32 Document de référence
+    url: /v7.1.2/classes/E32
+  - title: E33 Objet linguistique
+    url: /v7.1.2/classes/E33
+  - title: E34 Inscription
+    url: /v7.1.2/classes/E34
+  - title: E35 Titre
+    url: /v7.1.2/classes/E35
+  - title: E36 Entité visuelle
+    url: /v7.1.2/classes/E36
+  - title: E37 Marque
+    url: /v7.1.2/classes/E37
+  - title: E39 Actant
+    url: /v7.1.2/classes/E39
+  - title: E41 Appellation
+    url: /v7.1.2/classes/E41
+  - title: E42 Identifiant
+    url: /v7.1.2/classes/E42
+  - title: E52 Intervalle temporel
+    url: /v7.1.2/classes/E52
+  - title: E53 Lieu
+    url: /v7.1.2/classes/E53
+  - title: E54 Dimension
+    url: /v7.1.2/classes/E54
+  - title: E55 Type
+    url: /v7.1.2/classes/E55
+  - title: E56 Langue
+    url: /v7.1.2/classes/E56
+  - title: E57 Matériau
+    url: /v7.1.2/classes/E57
+  - title: E58 Unité de mesure
+    url: /v7.1.2/classes/E58
+  - title: E59 Valeur primitive
+    url: /v7.1.2/classes/E59
+  - title: E60 Nombre
+    url: /v7.1.2/classes/E60
+  - title: E61 Primitive temporelle
+    url: /v7.1.2/classes/E61
+  - title: E62 Chaîne de caractères
+    url: /v7.1.2/classes/E62
+  - title: E63 Début d’Existence
+    url: /v7.1.2/classes/E63
+  - title: E64 Fin d’existence
+    url: /v7.1.2/classes/E64
+  - title: E65 Création
+    url: /v7.1.2/classes/E65
+  - title: E66 Formation
+    url: /v7.1.2/classes/E66
+  - title: E67 Naissance
+    url: /v7.1.2/classes/E67
+  - title: E68 Dissolution
+    url: /v7.1.2/classes/E68
+  - title: E69 Mort
+    url: /v7.1.2/classes/E69
+  - title: E70 Chose
+    url: /v7.1.2/classes/E70
+  - title: E71 Chose élaborée par l’humain
+    url: /v7.1.2/classes/E71
+  - title: E72 Objet juridique
+    url: /v7.1.2/classes/E72
+  - title: E73 Objet informationnel
+    url: /v7.1.2/classes/E73
+  - title: E74 Groupe
+    url: /v7.1.2/classes/E74
+  - title: E77 Entité persistante
+    url: /v7.1.2/classes/E77
+  - title: E78 Collection
+    url: /v7.1.2/classes/E78
+  - title: E79 Ajout d'élément
+    url: /v7.1.2/classes/E79
+  - title: E80 Retrait d'élément
+    url: /v7.1.2/classes/E80
+  - title: E81 Transformation
+    url: /v7.1.2/classes/E81
+  - title: E83 Création de type
+    url: /v7.1.2/classes/E83
+  - title: E85 Adhésion
+    url: /v7.1.2/classes/E85
+  - title: E86 Départ
+    url: /v7.1.2/classes/E86
+  - title: E87 Activité curatoriale
+    url: /v7.1.2/classes/E87
+  - title: E89 Objet propositionnel
+    url: /v7.1.2/classes/E89
+  - title: E90 Objet symbolique
+    url: /v7.1.2/classes/E90
+  - title: E92 Volume spatio-temporel
+    url: /v7.1.2/classes/E92
+  - title: E93 Présence
+    url: /v7.1.2/classes/E93
+  - title: E94 Primitive spatiale
+    url: /v7.1.2/classes/E94
+  - title: E95 Primitive spatio-temporelle
+    url: /v7.1.2/classes/E95
+  - title: E96 Achat
+    url: /v7.1.2/classes/E96
+  - title: E97 Valeur monétaire
+    url: /v7.1.2/classes/E97
+  - title: E98 Unité monétaire
+    url: /v7.1.2/classes/E98
+  - title: E99 Modèle de produit
+    url: /v7.1.2/classes/E99
+
+
+- title: PROPRIÉTÉS
+  group: proprietes
+  class: mainlist
+  subfolder:
+  - title: Déclaration des propriétés du CIDOC CRM
+    url: /v7.1.2/proprietes/declaration-des-proprietes-du-cidoc-crm
+  - title: P1 est identifié par (identifie)
+    url: /v7.1.2/proprietes/P1
+  - title: P2 a pour type (est le type de)
+    url: /v7.1.2/proprietes/P2
+  - title: P3 a pour note
+    url: /v7.1.2/proprietes/P3
+  - title: P4 a pour intervalle temporel (est l’intervalle temporel de)
+    url: /v7.1.2/proprietes/P4
+  - title: P5 comprend (fait partie de)
+    url: /v7.1.2/proprietes/P5
+  - title: P7 a eu lieu dans (a été témoin de)
+    url: /v7.1.2/proprietes/P7
+  - title: P8 a eu lieu à (a été témoin de)
+    url: /v7.1.2/proprietes/P8
+  - title: P9 comprend (fait partie de)
+    url: /v7.1.2/proprietes/P9
+  - title: P10 s’insère dans (contient)
+    url: /v7.1.2/proprietes/P10
+  - title: P11 a eu pour actant participant (a participé à)
+    url: /v7.1.2/proprietes/P11
+  - title: P12 a eu lieu en présence de (a été présent à)
+    url: /v7.1.2/proprietes/P12
+  - title: P13 a détruit (a été détruit par)
+    url: /v7.1.2/proprietes/P13
+  - title: P14 a été effectué par (a effectué)
+    url: /v7.1.2/proprietes/P14
+  - title: P15 a été influencé par (a influencé)
+    url: /v7.1.2/proprietes/P15
+  - title: P16 a mobilisé l’objet spécifique (a été mobilisé pour)
+    url: /v7.1.2/proprietes/P16
+  - title: P17 a été motivé par (a motivé)
+    url: /v7.1.2/proprietes/P17
+  - title: P19 a été l’usage prévu de (a été élaboré pour)
+    url: /v7.1.2/proprietes/P19
+  - title: P20 a eu pour finalité spécifique (a été la finalité de)
+    url: /v7.1.2/proprietes/P20
+  - title: P21 a eu pour finalité générale (a été la finalité de)
+    url: /v7.1.2/proprietes/P21
+  - title: P22 a transféré le titre de propriété à (a acquis le titre de propriété par)
+    url: /v7.1.2/proprietes/P22
+  - title: P23 a transféré le titre de propriété de (a cédé le titre de propriété à)
+    url: /v7.1.2/proprietes/P23
+  - title: P24 a transféré le titre de propriété de (a changé de propriétaire par)
+    url: /v7.1.2/proprietes/P24
+  - title: P25 a déplacé (a été déplacé par)
+    url: /v7.1.2/proprietes/P25
+  - title: P26 a déplacé vers (a été la destination de)
+    url: /v7.1.2/proprietes/P26
+  - title: P27 a déplacé depuis (a été le point de départ de)
+    url: /v7.1.2/proprietes/P27
+  - title: P28 a mis fin à la garde par (a cédé la garde par)
+    url: /v7.1.2/proprietes/P28
+  - title: P29 a confié la garde par (a reçu la garde par)
+    url: /v7.1.2/proprietes/P29
+  - title: P30 a transféré la garde de (a été l’objet d’un transfert de garde par)
+    url: /v7.1.2/proprietes/P30
+  - title: P31 a modifié (a été modifié par)
+    url: /v7.1.2/proprietes/P31
+  - title: P32 a mobilisé comme technique générale (a été la technique générale mise en œuvre dans)
+    url: /v7.1.2/proprietes/P32
+  - title: P33 a mobilisé comme technique spécifique (a été la technique spécifique mise en œuvre dans)
+    url: /v7.1.2/proprietes/P33
+  - title: P34 a porté sur (a été évalué par)
+    url: /v7.1.2/proprietes/P34
+  - title: P35 a identifié (a été identifié par)
+    url: /v7.1.2/proprietes/P35
+  - title: P37 a assigné (a été assigné par)
+    url: /v7.1.2/proprietes/P37
+  - title: P38 a retiré l'assignation (a été retiré par)
+    url: /v7.1.2/proprietes/P38
+  - title: P39 a mesuré (a été mesuré par)
+    url: /v7.1.2/proprietes/P39
+  - title: P40 a relevé comme dimension (a été relevé par)
+    url: /v7.1.2/proprietes/P40
+  - title: P41 a classifié (a été classifié par)
+    url: /v7.1.2/proprietes/P41
+  - title: P42 a assigné (a été assigné par)
+    url: /v7.1.2/proprietes/P42
+  - title: P43 a pour dimension (est la dimension de)
+    url: /v7.1.2/proprietes/P43
+  - title: P44 a pour état matériel (est l'état matériel de)
+    url: /v7.1.2/proprietes/P44
+  - title: P45 comprend (est inclus dans)
+    url: /v7.1.2/proprietes/P45
+  - title: P46 est composé de (fait partie de)
+    url: /v7.1.2/proprietes/P46
+  - title: P48 a pour identifiant préférentiel (est l’identifiant préférentiel de)
+    url: /v7.1.2/proprietes/P48
+  - title: P49 a pour actant détenteur actuel ou antérieur (est l’actant détenteur actuel ou antérieur de)
+    url: /v7.1.2/proprietes/P49
+  - title: P50 a pour actant détenteur actuel (est l’actant détenteur actuel)
+    url: /v7.1.2/proprietes/P50
+  - title: P51 a pour propriétaire actuel ou antérieur (est l’actant propriétaire actuel ou antérieur de)
+    url: /v7.1.2/proprietes/P51
+  - title: P52 a pour propriétaire actuel (est l'actant propriétaire actuel de)
+    url: /v7.1.2/proprietes/P52
+  - title: P53 a pour localisation actuelle ou antérieure (est la localisation actuelle ou antérieure de)
+    url: /v7.1.2/proprietes/P53
+  - title: P54 a actuellement pour localisation fixe (est actuellement la location fixe de)
+    url: /v7.1.2/proprietes/P54
+  - title: P55 a actuellement pour localisation (est actuellement la localisation de)
+    url: /v7.1.2/proprietes/P55
+  - title: P56 a pour caractéristique (se trouve sur)
+    url: /v7.1.2/proprietes/P56
+  - title: P57 a pour nombre d’éléments
+    url: /v7.1.2/proprietes/P57
+  - title: P59 a pour section (se situe sur ou dans)
+    url: /v7.1.2/proprietes/P59
+  - title: P62 illustre (est illustré par)
+    url: /v7.1.2/proprietes/P62
+  - title: P65 représente l'entité visuelle (est représenté par)
+    url: /v7.1.2/proprietes/P65
+  - title: P67 renvoie à (fait l'objet d'un renvoi par)
+    url: /v7.1.2/proprietes/P67
+  - title: P68 prévoit l'usage de (usage prévu de) (FB)
+    url: /v7.1.2/proprietes/P68
+  - title: P69 est associé à  (est associé à) (FB)
+    url: /v7.1.2/proprietes/P69
+  - title: P70 documente (est documenté dans)
+    url: /v7.1.2/proprietes/P70
+  - title: P71 énumère (est énuméré par)
+    url: /v7.1.2/proprietes/P71
+  - title: P72 a pour langue (est la langue de)
+    url: /v7.1.2/proprietes/P72
+  - title: P73 a pour traduction (est traduction de)
+    url: /v7.1.2/proprietes/P73
+  - title: P74 a pour résidence actuelle ou antérieure (est la résidence actuelle ou antérieure de)
+    url: /v7.1.2/proprietes/P74
+  - title: P75 possède (est possédé par)
+    url: /v7.1.2/proprietes/P75
+  - title: P76 a pour coordonnées (permet de contacter)
+    url: /v7.1.2/proprietes/P76
+  - title: P79 a son début qualifié par
+    url: /v7.1.2/proprietes/P79
+  - title: P80 a sa fin qualifiée par
+    url: /v7.1.2/proprietes/P80
+  - title: P81 a couvert
+    url: /v7.1.2/proprietes/P81
+  - title: P82 a eu lieu durant
+    url: /v7.1.2/proprietes/P82
+  - title: P86 s’insère dans (contient)
+    url: /v7.1.2/proprietes/P86
+  - title: P89 s'insère dans (contient)
+    url: /v7.1.2/proprietes/P89
+  - title: P90 a pour valeur
+    url: /v7.1.2/proprietes/P90
+  - title: P91 a pour unité de mesure (est l’unité de mesure de)
+    url: /v7.1.2/proprietes/P91
+  - title: P92 a fait exister (a commencé à exister par)
+    url: /v7.1.2/proprietes/P92
+  - title: P93 a mis fin à l’existence de (a cessé d’exister par)
+    url: /v7.1.2/proprietes/P93
+  - title: P94 a créé (a été créé par)
+    url: /v7.1.2/proprietes/P94
+  - title: P95 a fondé (a été fondé par)
+    url: /v7.1.2/proprietes/P95
+  - title: P96 de mère (a donné naissance à)
+    url: /v7.1.2/proprietes/P96
+  - title: P97 de père (a été le père pour)
+    url: /v7.1.2/proprietes/P97
+  - title: P98 a donné vie à (est né)
+    url: /v7.1.2/proprietes/P98
+  - title: P99 a dissous (a été dissous par)
+    url: /v7.1.2/proprietes/P99
+  - title: P100 a été la mort de (est mort par)
+    url: /v7.1.2/proprietes/P100
+  - title: P101 a eu pour usage général (a été l'usage général de)
+    url: /v7.1.2/proprietes/P101
+  - title: P102 a pour titre (est le titre de)
+    url: /v7.1.2/proprietes/P102
+  - title: P103 a eu pour raison d'être (a été la raison d'être de)
+    url: /v7.1.2/proprietes/P103
+  - title: P104 est soumis à (s’applique à)
+    url: /v7.1.2/proprietes/P104
+  - title: P105 droit détenu par (détient le droit sur)
+    url: /v7.1.2/proprietes/P105
+  - title: P106 est composé de (fait partie de)
+    url: /v7.1.2/proprietes/P106
+  - title: P107 a pour membre actuel ou antérieur (est le membre actuel ou antérieur de)
+    url: /v7.1.2/proprietes/P107
+  - title: P108 a produit (a été produit par)
+    url: /v7.1.2/proprietes/P108
+  - title: P109 a pour responsable actuel ou antérieur de la collection (est responsable actuel ou antérieur de la collection)
+    url: /v7.1.2/proprietes/P109
+  - title: P110 a augmenté (a été augmenté par)
+    url: /v7.1.2/proprietes/P110
+  - title: P111 a ajouté (a été ajouté par)
+    url: /v7.1.2/proprietes/P111
+  - title: P112 a diminué (a été diminué par)
+    url: /v7.1.2/proprietes/P112
+  - title: P113 a retiré (a été retiré par)
+    url: /v7.1.2/proprietes/P113
+  - title: P121 se superpose partiellement à
+    url: /v7.1.2/proprietes/P121
+  - title: P122 est limitrophe de
+    url: /v7.1.2/proprietes/P122
+  - title: P123 a eu pour résultat (a résulté de)
+    url: /v7.1.2/proprietes/P123
+  - title: P124 a transformé (a été transformé par)
+    url: /v7.1.2/proprietes/P124
+  - title: P125 a mobilisé l’objet du type (a été le type d’objet employé pour)
+    url: /v7.1.2/proprietes/P125
+  - title: P126 a employé (a été employé dans)
+    url: /v7.1.2/proprietes/P126
+  - title: P127 a pour terme général (a pour terme spécifique)
+    url: /v7.1.2/proprietes/P127
+  - title: P128 est le support de (a pour support)
+    url: /v7.1.2/proprietes/P128
+  - title: P129 a pour sujet (est le sujet de)
+    url: /v7.1.2/proprietes/P129
+  - title: P130 présente les caractéristiques de (a les caractéristiques aussi présentes sur)
+    url: /v7.1.2/proprietes/P130
+  - title: P132 recoupe spatio-temporellement
+    url: /v7.1.2/proprietes/P132
+  - title: P133 est distinct spatio-temporellement de
+    url: /v7.1.2/proprietes/P133
+  - title: P134 a continué (a été continué par)
+    url: /v7.1.2/proprietes/P134
+  - title: P135 a créé le type (a été créé par)
+    url: /v7.1.2/proprietes/P135
+  - title: P136 a été fondé sur (a fondé la création du type)
+    url: /v7.1.2/proprietes/P136
+  - title: P137 exemplifie (est exemplifié par)
+    url: /v7.1.2/proprietes/P137
+  - title: P138 représente (est représenté par)
+    url: /v7.1.2/proprietes/P138
+  - title: P139 a pour forme alternative
+    url: /v7.1.2/proprietes/P139
+  - title: P140 a assigné l’attribut à (a reçu l’attribut par)
+    url: /v7.1.2/proprietes/P140
+  - title: P141 a attribué (a été attribué par)
+    url: /v7.1.2/proprietes/P141
+  - title: P142 a mobilisé comme élément (a été mobilisé dans)
+    url: /v7.1.2/proprietes/P142
+  - title: P143 a fait adhérer (a adhéré par)
+    url: /v7.1.2/proprietes/P143
+  - title: P144 a fait adhérer à (a accueilli le membre par)
+    url: /v7.1.2/proprietes/P144
+  - title: P145 a dissocié (est dissocié par)
+    url: /v7.1.2/proprietes/P145
+  - title: P146 a dissocié de (a perdu le membre par)
+    url: /v7.1.2/proprietes/P146
+  - title: P147 a géré (a été géré par)
+    url: /v7.1.2/proprietes/P147
+  - title: P148 a pour composant (est le composant de)
+    url: /v7.1.2/proprietes/P148
+  - title: P150 définit les éléments typiques de (définit l’ensemble typique pour)
+    url: /v7.1.2/proprietes/P150
+  - title: P151 a été formé à partir de (a participé à)
+    url: /v7.1.2/proprietes/P151
+  - title: P152 a pour parent (est le parent de)
+    url: /v7.1.2/proprietes/P152
+  - title: P156 occupe (est occupé par)
+    url: /v7.1.2/proprietes/P156
+  - title: P157 est à l’arrêt par rapport à (procure l’espace de référence pour)
+    url: /v7.1.2/proprietes/P157
+  - title: P160 a pour projection temporelle (est la projection temporelle de)
+    url: /v7.1.2/proprietes/P160
+  - title: P161 a pour projection spatiale (est la projection spatiale de)
+    url: /v7.1.2/proprietes/P161
+  - title: P164 est temporellement spécifié par (spécifie temporellement)
+    url: /v7.1.2/proprietes/P164
+  - title: P165 inclut (est inclus dans)
+    url: /v7.1.2/proprietes/P165
+  - title: P166 a été une présence de (a eu pour présence)
+    url: /v7.1.2/proprietes/P166
+  - title: P167 s’inscrivait dans (comporte)
+    url: /v7.1.2/proprietes/P167
+  - title: P168 lieu défini par (définit le lieu)
+    url: /v7.1.2/proprietes/P168
+  - title: P169 définit le volume spatio-temporel (volume spatio-temporel défini par)
+    url: /v7.1.2/proprietes/P169
+  - title: P170 définit le temps (temps défini par)
+    url: /v7.1.2/proprietes/P170
+  - title: P171 quelque part dans
+    url: /v7.1.2/proprietes/P171
+  - title: P172 contient
+    url: /v7.1.2/proprietes/P172
+  - title: P173 commence avant ou au moment de la fin de (se termine après ou au moment du début de)
+    url: /v7.1.2/proprietes/P173
+  - title: P174 commence avant la fin de (se termine après le début de)
+    url: /v7.1.2/proprietes/P174
+  - title: P175 commence avant ou au moment du début de (commence après ou au moment du début de)
+    url: /v7.1.2/proprietes/P175
+  - title: P176 commence avant le début de (commence après le début de)
+    url: /v7.1.2/proprietes/P176
+  - title: P177 a assigné le type de propriété (est le type de propriété assigné)
+    url: /v7.1.2/proprietes/P177
+  - title: P179 a eu pour prix de vente (a été le prix de vente de)
+    url: /v7.1.2/proprietes/P179
+  - title: P180 a pour unité monétaire (était l’unité monétaire de)
+    url: /v7.1.2/proprietes/P180
+  - title: P182 se termine avant ou au moment du début de (commence après ou au moment de la fin de)
+    url: /v7.1.2/proprietes/P182
+  - title: P183 se termine avant le début de (commence après la fin de)
+    url: /v7.1.2/proprietes/P183
+  - title: P184 se termine avant ou au moment de la fin de (se termine au moment de ou après la fin de)
+    url: /v7.1.2/proprietes/P184
+  - title: P185 se termine avant la fin de (se termine après la fin de)
+    url: /v7.1.2/proprietes/P185
+  - title: P186 a produit la chose du type (est produit par)
+    url: /v7.1.2/proprietes/P186
+  - title: P187 a pour plan de production (est le plan de production de)
+    url: /v7.1.2/proprietes/P187
+  - title: P188 nécessite l'outil (est l'outil de production de)
+    url: /v7.1.2/proprietes/P188
+  - title: P189 approxime (est approximé par)
+    url: /v7.1.2/proprietes/P189
+  - title: P190 a pour contenu symbolique
+    url: /v7.1.2/proprietes/P190
+  - title: P191 a eu pour durée (était la durée de)
+    url: /v7.1.2/proprietes/P191
+  - title: P195 a été une présence de (a eu pour présence)
+    url: /v7.1.2/proprietes/P195
+  - title: P196 définit (est défini par)
+    url: /v7.1.2/proprietes/P196
+  - title: P197 a couvert des parties de (a été partiellement couvert par)
+    url: /v7.1.2/proprietes/P197
+  - title: P198 contient ou soutient (est contenu ou soutenu par)
+    url: /v7.1.2/proprietes/P198
+
+- title: Bibliographie du CIDOC CRM
+  url: /v7.1.2/information/bibliographie-du-cidoc-crm
+
+- title: Bibliographie de la traduction
+  url: /v7.1.2/bibliographie-de-la-traduction
+
+- title: Annexe
+  url: /v7.1.2/information/annexe
+  subfolder:
+  - title: Classes et propriétés dépréciées
+    hash: classes-et-proprietes-depreciees
+    class: sublist
+    subfolder:
+    - title: Instructions de migration des classes dépréciées
+      hash: instructions-de-migration-des-classes-depreciees
+      class: sublist
+      subfolder:
+      - title: Instructions de migration pour
+        hash: instructions-de-migration-pour
+    - title: Instructions de migration des propriétés dépréciées
+      hash: instructions-de-migration-des-proprietes-depreciees
+  - title: Modifications
+    hash: modifications

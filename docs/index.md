@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-date: 2023-06-08
+date: 2023-11-08
 ---
 
 Le CIDOC CRM est largement utilisé par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement de certains de ses modèles de données sémantiques. 
@@ -25,7 +25,7 @@ Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place pa
 
 Date de création : 2020-10-20
 
-Dernière mise à jour : 2023-05-26
+Dernière mise à jour : 2023-11-08
 
 ## Éditeurs et Éditrices 
 

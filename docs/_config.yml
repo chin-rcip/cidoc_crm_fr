@@ -20,8 +20,9 @@
 
 title: Traduction en français du CIDOC CRM
 email: rcip-chin@pch.gc.ca
-description: >- # this means to ignore newlines until "baseurl:"
-  La traduction de l’anglais vers le français de la documentation afférente au CIDOC CRM.
+# description: >- # this means to ignore newlines until "baseurl:"
+#   La traduction de l’anglais vers le français de la documentation afférente au CIDOC CRM.
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -32,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
+  - v7.1.2/info/intro.md
   - v7.1/info/intro.md
   - ressources/index.md
   - ressources/instructions.md

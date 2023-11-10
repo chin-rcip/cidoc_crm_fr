@@ -1,0 +1,1388 @@
+E1:
+  en: CRM Entity
+  en_code: E1 CRM Entity
+  fr: Entité CRM
+  fr_code: E1_Entité_CRM
+E2:
+  en: Temporal Entity
+  en_code: E2 Temporal Entity
+  fr: Entité temporelle
+  fr_code: E2_Entité_temporelle
+E3:
+  en: Condition State
+  en_code: E3 Condition State
+  fr: État matériel
+  fr_code: E3_État_matériel
+E4:
+  en: Period
+  en_code: E4 Period
+  fr: Période
+  fr_code: E4_Période
+E5:
+  en: Event
+  en_code: E5 Event
+  fr: Évènement
+  fr_code: E5_Évènement
+E6:
+  en: Destruction
+  en_code: E6 Destruction
+  fr: Destruction
+  fr_code: E6_Destruction
+E7:
+  en: Activity
+  en_code: E7 Activity
+  fr: Activité
+  fr_code: E7_Activité
+E8:
+  en: Acquisition
+  en_code: E8 Acquisition
+  fr: Acquisition
+  fr_code: E8_Acquisition
+E9:
+  en: Move
+  en_code: E9 Move
+  fr: Déplacement
+  fr_code: E9_Déplacement
+E10:
+  en: Transfer of Custody
+  en_code: E10 Transfer of Custody
+  fr: Transfert de la garde
+  fr_code: E10_Transfert_de_la_garde
+E11:
+  en: Modification
+  en_code: E11 Modification
+  fr: Modification
+  fr_code: E11_Modification
+E12:
+  en: Production
+  en_code: E12 Production
+  fr: Production
+  fr_code: E12_Production
+E13:
+  en: Attribute Assignment
+  en_code: E13 Attribute Assignment
+  fr: Assignation d’attribut
+  fr_code: E13_Assignation_d’attribut
+E14:
+  en: Condition Assessment
+  en_code: E14 Condition Assessment
+  fr: Évaluation d'état matériel
+  fr_code: E14_Évaluation_d’état_matériel
+E15:
+  en: Identifier Assignment
+  en_code: E15 Identifier Assignment
+  fr: Assignation d'identifiant
+  fr_code: E15_Assignation_d’identifiant
+E16:
+  en: Measurement
+  en_code: E16 Measurement
+  fr: Mesurage
+  fr_code: E16_Mesurage
+E17:
+  en: Type Assignment
+  en_code: E17 Type Assignment
+  fr: Assignation de type
+  fr_code: E17_Assignation_de_type
+E18:
+  en: Physical Thing
+  en_code: E18 Physical Thing
+  fr: Chose Matérielle
+  fr_code: E18_Chose_matérielle
+E19:
+  en: Physical Object
+  en_code: E19 Physical Object
+  fr: Objet matériel
+  fr_code: E19_Objet_matériel
+E20:
+  en: Biological Object
+  en_code: E20 Biological Object
+  fr: Objet biologique
+  fr_code: E20_Objet_biologique
+E21:
+  en: Person
+  en_code: E21 Person
+  fr: Personne
+  fr_code: E21_Personne
+E22:
+  en: Human-Made Object
+  en_code: E22 Human-Made Object
+  fr: Objet élaborée par l’humain
+  fr_code: E22_Objet_élaboré_par_l’humain
+E24:
+  en: Physical Human-Made Thing
+  en_code: E24 Physical Human-Made Thing
+  fr: Chose matérielle élaborée par l’humain
+  fr_code: E24_Chose_matérielle_élaborée_par_l’humain
+E25:
+  en: Human-Made Feature
+  en_code: E25 Human-Made Feature
+  fr: Caractéristique élaborée par l’humain
+  fr_code: E25_Caractéristique_élaborée_par_l’humain
+E26:
+  en: Physical Feature
+  en_code: E26 Physical Feature
+  fr: Caractéristique physique
+  fr_code: E26_Caractéristique_physique
+E27:
+  en: Site
+  en_code: E27 Site
+  fr: Site
+  fr_code: E27_Site
+E28:
+  en: Conceptual Object
+  en_code: E28 Conceptual Object
+  fr: Objet conceptuel
+  fr_code: E28_Objet_conceptuel
+E29:
+  en: Design or Procedure
+  en_code: E29 Design or Procedure
+  fr: Conceptualisation ou procédure
+  fr_code: E29_Conceptualisation_ou_procédure
+E30:
+  en: Right
+  en_code: E30 Right
+  fr: Droit
+  fr_code: E30_Droit
+E31:
+  en: Document
+  en_code: E31 Document
+  fr: Document
+  fr_code: E31_Document
+E32:
+  en: Authority Document
+  en_code: E32 Authority Document
+  fr: Document de référence
+  fr_code: E32_Document_de_référence
+E33:
+  en: Linguistic Object
+  en_code: E33 Linguistic Object
+  fr: Objet linguistique
+  fr_code: E33_Objet_linguistique
+E34:
+  en: Inscription
+  en_code: E34 Inscription
+  fr: Inscription
+  fr_code: E34_Inscription
+E35:
+  en: Title
+  en_code: E35 Title
+  fr: Titre
+  fr_code: E35_Titre
+E36:
+  en: Visual Item
+  en_code: E36 Visual Item
+  fr: Entité visuelle
+  fr_code: E36_Entité_visuelle
+E37:
+  en: Mark
+  en_code: E37 Mark
+  fr: Marque
+  fr_code: E37_Marque
+E39:
+  en: Actor
+  en_code: E39 Actor
+  fr: Actant
+  fr_code: E39_Actant
+E41:
+  en: Appellation
+  en_code: E41 Appellation
+  fr: Appellation
+  fr_code: E41_Appellation
+E42:
+  en: Identifier
+  en_code: E42 Identifier
+  fr: Identifiant
+  fr_code: E42_Identifiant
+E52:
+  en: Time-Span
+  en_code: E52 Time-Span
+  fr: Intervalle temporel
+  fr_code: E52_Intervalle_temporel
+E53:
+  en: Place
+  en_code: E53 Place
+  fr: Lieu
+  fr_code: E53_Lieu
+E54:
+  en: Dimension
+  en_code: E54 Dimension
+  fr: Dimension
+  fr_code: E54_Dimension
+E55:
+  en: Type
+  en_code: E55 Type
+  fr: Type
+  fr_code: E55_Type
+E56:
+  en: Language
+  en_code: E56 Language
+  fr: Langue
+  fr_code: E56_Langue
+E57:
+  en: Material
+  en_code: E57 Material
+  fr: Matériau
+  fr_code: E57_Matériau
+E58:
+  en: Measurement Unit
+  en_code: E58 Measurement Unit
+  fr: Unité de mesure
+  fr_code: E58_Unité_de_mesure
+E59:
+  en: Primitive Value
+  en_code: E59 Primitive Value
+  fr: Valeur primitive
+  fr_code: E59_Valeur_primitive
+E60:
+  en: Number
+  en_code: E60 Number
+  fr: Nombre
+  fr_code: E60_Nombre
+E61:
+  en: Time Primitive
+  en_code: E61 Time Primitive
+  fr: Primitive temporelle
+  fr_code: E61_Primitive_temporelle
+E62:
+  en: String
+  en_code: E62 String
+  fr: Chaîne de caractères
+  fr_code: E62_Chaîne_de_caractères
+E63:
+  en: Beginning of Existence
+  en_code: E63 Beginning of Existence
+  fr: Début d'existence
+  fr_code: E63_Début_d’existence
+E64:
+  en: End of Existence
+  en_code: E64 End of Existence
+  fr: Fin d'existence
+  fr_code: E64_Fin_d’existence
+E65:
+  en: Creation
+  en_code: E65 Creation
+  fr: Création
+  fr_code: E65_Création
+E66:
+  en: Formation
+  en_code: E66 Formation
+  fr: Formation
+  fr_code: E66_Formation
+E67:
+  en: Birth
+  en_code: E67 Birth
+  fr: Naissance
+  fr_code: E67_Naissance
+E68:
+  en: Dissolution
+  en_code: E68 Dissolution
+  fr: Dissolution
+  fr_code: E68_Dissolution
+E69:
+  en: Death
+  en_code: E69 Death
+  fr: Mort
+  fr_code: E69_Mort
+E70:
+  en: Thing
+  en_code: E70 Thing
+  fr: Chose
+  fr_code: E70_Chose
+E71:
+  en: Human-Made Thing
+  en_code: E71 Human-Made Thing
+  fr: Chose élaborée par l’humain
+  fr_code: E71_Chose_élaborée_par_l’humain
+E72:
+  en: Legal Object
+  en_code: E72 Legal Object
+  fr: Objet juridique
+  fr_code: E72_Objet_juridique
+E73:
+  en: Information Object
+  en_code: E73 Information Object
+  fr: Objet informationnel
+  fr_code: E73_Objet_informationnel
+E74:
+  en: Group
+  en_code: E74 Group
+  fr: Groupe
+  fr_code: E74_Groupe
+E77:
+  en: Persistent Item
+  en_code: E77 Persistent Item
+  fr: Entité persistante
+  fr_code: E77_Entité_persistante
+E78:
+  en: Curated Holding
+  en_code: E78 Curated Holding
+  fr: Collection
+  fr_code: E78_Collection
+E79:
+  en: Part Addition
+  en_code: E79 Part Addition
+  fr: Ajout d'élément
+  fr_code: E79_Ajout_d’élément
+E80:
+  en: Part Removal
+  en_code: E80 Part Removal
+  fr: Retrait d’élément
+  fr_code: E80_Retrait_d’élément
+E81:
+  en: Transformation
+  en_code: E81 Transformation
+  fr: Transformation
+  fr_code: E81_Transformation
+E83:
+  en: Type Creation
+  en_code: E83 Type Creation
+  fr: Création de type
+  fr_code: E83_Création_de_type
+E85:
+  en: Joining
+  en_code: E85 Joining
+  fr: Adhésion
+  fr_code: E85_Adhésion
+E86:
+  en: Leaving
+  en_code: E86 Leaving
+  fr: Départ
+  fr_code: E86_Départ
+E87:
+  en: Curation Activity
+  en_code: E87 Curation Activity
+  fr: Activité curatoriale
+  fr_code: E87_Activité_curatoriale
+E89:
+  en: Propositional Object
+  en_code: E89 Propositional Object
+  fr: Objet propositionnel
+  fr_code: E89_Objet_propositionnel
+E90:
+  en: Symbolic Object
+  en_code: E90 Symbolic Object
+  fr: Objet symbolique
+  fr_code: E90_Objet_symbolique
+E92:
+  en: Spacetime Volume
+  en_code: E92 Spacetime Volume
+  fr: Volume spatio-temporel
+  fr_code: E92_Volume_spatio-temporel
+E93:
+  en: Presence
+  en_code: E93 Presence
+  fr: Présence
+  fr_code: E93_Présence
+E94:
+  en: Space Primitive
+  en_code: E94 Space Primitive
+  fr: Primitive spatiale
+  fr_code: E94_Primitive_spatiale
+E95:
+  en: Spacetime Primitive
+  en_code: E95 Spacetime Primitive
+  fr: Primitive spatio-temporelle
+  fr_code: E95_Primitive_spatio-temporelle
+E96:
+  en: Purchase
+  en_code: E96 Purchase
+  fr: Achat
+  fr_code: E96_Achat
+E97:
+  en: Monetary Amount
+  en_code: E97 Monetary Amount
+  fr: Valeur monétaire
+  fr_code: E97_Valeur_monétaire
+E98:
+  en: Currency
+  en_code: E98 Currency
+  fr: Unité monétaire
+  fr_code: E98_Unité_monétaire
+E99:
+  en: Product Type
+  en_code: E99 Product Type
+  fr: Modèle de produit
+  fr_code: E99_Modèle_de_produit
+P1:
+  en: is identified by (identifies)
+  en_code: P1 is identified by (identifies)
+  fr: est identifié par (identifie)
+  fr_code: P1_est_identifié_par (identifie)
+P2:
+  en: has type (is type of)
+  en_code: P2 has type (is type of)
+  fr: a pour type (est le type de)
+  fr_code: P2_a_pour_type (est_le_type_de)
+P3:
+  en: has note
+  en_code: P3 has note
+  fr: a pour note
+  fr_code: P3_a_pour_note
+P4:
+  en: has time-span (is time-span of)
+  en_code: P4 has time-span (is time-span of)
+  fr: a pour intervalle temporel (est l'intervalle temporel de)
+  fr_code: P4_a_pour_intervalle_temporel (est_l’intervalle_temporel_de)
+P5:
+  en: consists of (forms part of)
+  en_code: P5 consists of (forms part of)
+  fr: comprend (fait partie de)
+  fr_code: P5_comprend (fait_partie_de)
+P7:
+  en: took place at (witnessed)
+  en_code: P7 took place at (witnessed)
+  fr: a eu lieu dans (a été témoin de)
+  fr_code: P7_a_eu_lieu_dans (a_été_témoin_de)
+P8:
+  en: took place on or within (witnessed)
+  en_code: P8 took place on or within (witnessed)
+  fr: a eu lieu à (a été témoin de)
+  fr_code: P8_a_eu_lieu_à (a_été_témoin_de)
+P9:
+  en: consists of (forms part of)
+  en_code: P9 consists of (forms part of)
+  fr: comprend (fait partie de)
+  fr_code: P9_comprend (fait_partie_de)
+P10:
+  en: falls within (contains)
+  en_code: P10 falls within (contains)
+  fr: s’insère dans (contient)
+  fr_code: P10_s’insère_dans (contient)
+P11:
+  en: had participant (participated in)
+  en_code: P11 had participant (participated in)
+  fr: a eu pour actant participant (a participé à)
+  fr_code: P11_a_eu_pour_actant_participant (a_participé_à)
+P12:
+  en: occurred in the presence of (was present at)
+  en_code: P12 occurred in the presence of (was present at)
+  fr: a eu lieu en présence de (a été présent à)
+  fr_code: P12_a_eu_lieu_en_présence_de (a_été_présent_à)
+P13:
+  en: destroyed (was destroyed by)
+  en_code: P13 destroyed (was destroyed by)
+  fr: a détruit (a été détruit par)
+  fr_code: P13_a_détruit (a_été_détruit_par)
+P14:
+  en: carried out by (performed)
+  en_code: P14 carried out by (performed)
+  fr: a été effectué par (a effectué)
+  fr_code: P14_a_été_effectué_par (a_effectué)
+P15:
+  en: was influenced by (influenced)
+  en_code: P15 was influenced by (influenced)
+  fr: a été influencé par (a influencé)
+  fr_code: P15_a_été_influencé_par (a_influencé)
+P16:
+  en: used specific object (was used for)
+  en_code: P16 used specific object (was used for)
+  fr: a mobilisé l'objet spécifique (a été mobilisé pour)
+  fr_code: P16_a_mobilisé_l’objet_spécifique (a_été_mobilisé_pour)
+P17:
+  en: was motivated by (motivated)
+  en_code: P17 was motivated by (motivated)
+  fr: a été motivé par (a motivé)
+  fr_code: P17_a_été_motivé_par (a_motivé)
+P19:
+  en: was intended use of (was made for)
+  en_code: P19 was intended use of (was made for)
+  fr: a été l'usage prévu de (a été élaboré pour)
+  fr_code: P19_a_été_l’usage_prévu_de (a_été_élaboré_pour)
+P20:
+  en: had specific purpose (was purpose of)
+  en_code: P20 had specific purpose (was purpose of)
+  fr: a eu pour finalité spécifique (a été la finalité de)
+  fr_code: P20_a_eu_pour_finalité_spécifique (a_été_la_finalité_de)
+P21:
+  en: had general purpose (was purpose of)
+  en_code: P21 had general purpose (was purpose of)
+  fr: a eu pour finalité générale (a été la finalité de)
+  fr_code: P21_a_eu_pour_finalité_générale (a_été_la_finalité_de)
+P22:
+  en: transferred title to (acquired title through)
+  en_code: P22 transferred title to (acquired title through)
+  fr: a transféré le titre de propriété à (a acquis le titre de propriété par)
+  fr_code: P22_a_transféré_le_titre_de_propriété_à (a_acquis_le_titre_de_propriété_par)
+P23:
+  en: transferred title from (surrendered title through)
+  en_code: P23 transferred title from (surrendered title through)
+  fr: a transféré le titre de propriété de (a cédé le titre de propriété à)
+  fr_code: P23_a_transféré_le_titre_de_propriété_de (a_cédé_le_titre_de_propriété_à)
+P24:
+  en: transferred title of (changed ownership through)
+  en_code: P24 transferred title of (changed ownership through)
+  fr: a transféré le titre de propriété de (a changé de propriétaire par)
+  fr_code: P24_a_transféré_le_titre_de_propriété_de (a_changé_de_propriétaire_par)
+P25:
+  en: moved (moved by)
+  en_code: P25 moved (moved by)
+  fr: a déplacé (a été déplacé par)
+  fr_code: P25_a_déplacé (a_été_déplacé_par)
+P26:
+  en: moved to (was destination of)
+  en_code: P26 moved to (was destination of)
+  fr: a déplacé vers (a été la destination de)
+  fr_code: P26_a_déplacé_vers (a_été_la_destination_de)
+P27:
+  en: moved from (was origin of)
+  en_code: P27 moved from (was origin of)
+  fr: a déplacé depuis (a été le point de départ de)
+  fr_code: P27_a_déplacé_depuis (a_été_le_point_de_départ_de)
+P28:
+  en: custody surrendered by (surrendered custody through)
+  en_code: P28 custody surrendered by (surrendered custody through)
+  fr: a mis fin à la garde par (a cédé la garde par)
+  fr_code: P28_a_mis_fin_à_la_garde_par (a_cédé_la_garde_par)
+P29:
+  en: custody received by (received custody through)
+  en_code: P29 custody received by (received custody through)
+  fr: a confié la garde par (a reçu la garde par)
+  fr_code: P29_a_confié_la_garde_par (a_reçu_la_garde_par)
+P30:
+  en: transferred custody of (custody transferred through)
+  en_code: P30 transferred custody of (custody transferred through)
+  fr: a transféré la garde de (a été l’objet d’un transfert de garde par)
+  fr_code: P30_a_transféré_la_garde_de (a_été_l’objet_d’un_transfert_de_garde_par)
+P31:
+  en: has modified (was modified by)
+  en_code: P31 has modified (was modified by)
+  fr: a modifié (a été modifié par)
+  fr_code: P31_a_modifié (a_été_modifié_par)
+P32:
+  en: used general technique (was technique of)
+  en_code: P32 used general technique (was technique of)
+  fr: a mobilisé comme technique générale (a été la technique générale mise en œuvre dans)
+  fr_code: P32_a_mobilisé_comme_technique_générale (a_été_la_technique_générale_mise_en_œuvre_dans)
+P33:
+  en: used specific technique (was used by)
+  en_code: P33 used specific technique (was used by)
+  fr: a mobilisé comme technique spécifique (a été la technique spécifique mise en œuvre dans)
+  fr_code: P33_a_mobilisé_comme_technique_spécifique (a_été_la_technique_spécifique_mise_en_œuvre_dans)
+P34:
+  en: concerned (was assessed by)
+  en_code: P34 concerned (was assessed by)
+  fr: a porté sur (a été évalué par)
+  fr_code: P34_a_porté_sur (a_été_évalué_par)
+P35:
+  en: has identified (was identified by)
+  en_code: P35 has identified (was identified by)
+  fr: a identifié (a été identifié par)
+  fr_code: P35_a_identifié (a_été_identifié_par)
+P37:
+  en: assigned (was assigned by)
+  en_code: P37 assigned (was assigned by)
+  fr: a assigné (a été assigné par)
+  fr_code: P37_a_assigné (a_été_assigné_par)
+P38:
+  en: deassigned (was deassigned by)
+  en_code: P38 deassigned (was deassigned by)
+  fr: a retiré l'assignation de (a été retiré  par)
+  fr_code: P38_a_retiré_l’assignation_de (a_été_retiré_par)
+P39:
+  en: measured (was measured by)
+  en_code: P39 measured (was measured by)
+  fr: a mesuré (a été mesuré par)
+  fr_code: P39_a_mesuré (a_été_mesuré_par)
+P40:
+  en: observed dimension (was observed in)
+  en_code: P40 observed dimension (was observed in)
+  fr: a relevé comme dimension (a été relevé par)
+  fr_code: P40_a_relevé_comme_dimension (a_été_relevé_par)
+P41:
+  en: classified (was classified by)
+  en_code: P41 classified (was classified by)
+  fr: a classifié (a été classifié par)
+  fr_code: P41_a_classifié (a_été_classifié_par)
+P42:
+  en: assigned (was assigned by)
+  en_code: P42 assigned (was assigned by)
+  fr: a assigné (a été assigné par)
+  fr_code: P42_a_assigné (a_été_assigné_par)
+P43:
+  en: has dimension (is dimension of)
+  en_code: P43 has dimension (is dimension of)
+  fr: a pour dimension (est la dimension de)
+  fr_code: P43_a_pour_dimension (est_la_dimension_de)
+P44:
+  en: has condition (is condition of)
+  en_code: P44 has condition (is condition of)
+  fr: a pour état matériel (est l’état matériel de)
+  fr_code: P44_a_pour_état_matériel (est_l’état_matériel_de)
+P45:
+  en: consists of (is incorporated in)
+  en_code: P45 consists of (is incorporated in)
+  fr: comprend (est inclus dans)
+  fr_code: P45_comprend (est_inclus_dans)
+P46:
+  en: is composed of (forms part of)
+  en_code: P46 is composed of (forms part of)
+  fr: est composé de (fait partie de)
+  fr_code: P46_est_composé_de (fait_partie_de)
+P48:
+  en: has preferred identifier (is preferred identifier of)
+  en_code: P48 has preferred identifier (is preferred identifier of)
+  fr: a pour identifiant préférentiel (est l’identifiant préférentiel de)
+  fr_code: P48_a_pour_identifiant_préférentiel (est_l’identifiant_préférentiel_de)
+P49:
+  en: has former or current keeper (is former or current keeper of)
+  en_code: P49 has former or current keeper (is former or current keeper of)
+  fr: a pour actant détenteur actuel ou antérieur (est l’actant détenteur actuel ou antérieur de)
+  fr_code: P49_a_pour_actant_détenteur_actuel_ou_antérieur (est_l’actant_détenteur_actuel_ou_antérieur_de)
+P50:
+  en: has current keeper (is current keeper of)
+  en_code: P50 has current keeper (is current keeper of)
+  fr: a pour actant détenteur actuel (est l’actant détenteur actuel de)
+  fr_code: P50_a_pour_actant_détenteur_actuel (est_l’actant_détenteur_actuel_de)
+P51:
+  en: has former or current owner (is former or current owner of)
+  en_code: P51 has former or current owner (is former or current owner of)
+  fr: a pour propriétaire actuel ou antérieur (est l’actant propriétaire actuel ou antérieur de)
+  fr_code: P51_a_pour_propriétaire_actuel_ou_antérieur (est_l’actant_propriétaire_actuel_ou_antérieur_de)
+P52:
+  en: has current owner (is current owner of)
+  en_code: P52 has current owner (is current owner of)
+  fr: a pour propriétaire actuel (est l’actant propriétaire actuel de)
+  fr_code: P52_a_pour_propriétaire_actuel (est_l’actant_propriétaire_actuel_de)
+P53:
+  en: has former or current location (is former or current location of)
+  en_code: P53 has former or current location (is former or current location of)
+  fr: a pour localisation actuelle ou antérieure (est la localisation actuelle ou antérieure de)
+  fr_code: P53_a_pour_localisation_actuelle_ou_antérieure (est_la_localisation_actuelle_ou_antérieure_de)
+P54:
+  en: has current permanent location (is current permanent location of)
+  en_code: P54 has current permanent location (is current permanent location of)
+  fr: a actuellement pour localisation fixe (est actuellement la localisation fixe de)
+  fr_code: P54_a_actuellement_pour_localisation_fixe (est_actuellement_la_localisation_fixe_de)
+P55:
+  en: has current location (currently holds)
+  en_code: P55 has current location (currently holds)
+  fr: a actuellement pour localisation (est actuellement la localisation de)
+  fr_code: P55_a_actuellement_pour_localisation (est_actuellement_la_localisation_de)
+P56:
+  en: bears feature (is found on)
+  en_code: P56 bears feature (is found on)
+  fr: a pour caractéristique (se trouve sur)
+  fr_code: P56_a_pour_caractéristique (se_trouve_sur)
+P57:
+  en: has number of parts
+  en_code: P57 has number of parts
+  fr: a pour nombre d'éléments
+  fr_code: P57_a_pour_nombre_d’éléments
+P59:
+  en: has section (is located on or within)
+  en_code: P59 has section (is located on or within)
+  fr: a pour section (se situe sur ou dans)
+  fr_code: P59_a_pour_section (se_situe_sur_ou_dans)
+P62:
+  en: depicts (is depicted by)
+  en_code: P62 depicts (is depicted by)
+  fr: illustre (est illustré par)
+  fr_code: P62_illustre (est_illustré_par)
+P65:
+  en: shows visual item (is shown by)
+  en_code: P65 shows visual item (is shown by)
+  fr: représente l'entité visuelle (est représenté par)
+  fr_code: P65_représente_l’entité_visuelle (est_représenté_par)
+P67:
+  en: refers to (is referred to by)
+  en_code: P67 refers to (is referred to by)
+  fr: renvoie à (fait l'objet d'un renvoi par)
+  fr_code: P67_renvoie_à (fait_l’objet_d’un_renvoi_par)
+P68:
+  en: foresees use of (use foreseen by)
+  en_code: P68 foresees use of (use foreseen by)
+  fr: prévoit l'usage de (usage prévu de)
+  fr_code: P68_prévoit_l’usage_de (usage_prévu_de)
+P69:
+  en: has association with (is associated with)
+  en_code: P69 has association with (is associated with)
+  fr: est associé à (est associé à)
+  fr_code: P69_est_associé_à (est_associé_à)
+P70:
+  en: documents (is documented in)
+  en_code: P70 documents (is documented in)
+  fr: documente (est documenté dans)
+  fr_code: P70_documente (est_documenté_dans)
+P71:
+  en: lists (is listed in)
+  en_code: P71 lists (is listed in)
+  fr: énumère (est énuméré par)
+  fr_code: P71_énumère (est_énuméré_par)
+P72:
+  en: has language (is language of)
+  en_code: P72 has language (is language of)
+  fr: a pour langue (est la langue de)
+  fr_code: P72_a_pour_langue (est_la_langue_de)
+P73:
+  en: has translation (is translation of)
+  en_code: P73 has translation (is translation of)
+  fr: a pour traduction (est traduction de)
+  fr_code: P73_a_pour_traduction (est_traduction_de)
+P74:
+  en: has current or former residence (is current or former residence of)
+  en_code: P74 has current or former residence (is current or former residence of)
+  fr: a pour résidence actuelle ou antérieure (est la résidence actuelle ou antérieure de)
+  fr_code: P74_a_pour_résidence_actuelle_ou_antérieure (est_la_résidence_actuelle_ou_antérieure_de)
+P75:
+  en: possesses (is possessed by)
+  en_code: P75 possesses (is possessed by)
+  fr: possède (est possédé par)
+  fr_code: P75_possède (est_possédé_par)
+P76:
+  en: has contact point (provides access to)
+  en_code: P76 has contact point (provides access to)
+  fr: a pour coordonnées (permet de contacter)
+  fr_code: P76_a_pour_coordonnées (permet_de_contacter)
+P79:
+  en: beginning is qualified by
+  en_code: P79 beginning is qualified by
+  fr: a son début qualifié par
+  fr_code: P79_a_son_début_qualifié_par
+P80:
+  en: end is qualified by
+  en_code: P80 end is qualified by
+  fr: a sa fin qualifiée par
+  fr_code: P80_a_sa_fin_qualifiée_par
+P81:
+  en: ongoing throughout
+  en_code: P81 ongoing throughout
+  fr: a couvert
+  fr_code: P81_a_couvert
+P82:
+  en: at some time within
+  en_code: P82 at some time within
+  fr: a eu lieu durant
+  fr_code: P82_a_eu_lieu_durant
+P86:
+  en: falls within (contains)
+  en_code: P86 falls within (contains)
+  fr: s’insère dans (contient)
+  fr_code: P86_s’insère_dans (contient)
+P89:
+  en: falls within (contains)
+  en_code: P89 falls within (contains)
+  fr: s’insère dans (contient)
+  fr_code: P89_s’insère_dans (contient)
+P90:
+  en: has value
+  en_code: P90 has value
+  fr: a pour valeur
+  fr_code: P90_a_pour_valeur
+P91:
+  en: has unit (is unit of)
+  en_code: P91 has unit (is unit of)
+  fr: a pour unité de mesure (est l’unité de mesure de)
+  fr_code: P91_a_pour_unité_de_mesure (est_l’unité_de_mesure_de)
+P92:
+  en: brought into existence (was brought into existence by)
+  en_code: P92 brought into existence (was brought into existence by)
+  fr: a fait exister (a commencé à exister par)
+  fr_code: P92_a_fait_exister (a_commencé_à_exister_par)
+P93:
+  en: took out of existence (was taken out of existence by)
+  en_code: P93 took out of existence (was taken out of existence by)
+  fr: a mis fin à l'existence de (a cessé d'exister par)
+  fr_code: P93_a_mis_fin_à_l’existence_de (a_cessé_d’exister_par)
+P94:
+  en: has created (was created by)
+  en_code: P94 has created (was created by)
+  fr: a créé (a été créé par)
+  fr_code: P94_a_créé (a_été_créé_par)
+P95:
+  en: has formed (was formed by)
+  en_code: P95 has formed (was formed by)
+  fr: a fondé (a été fondé par)
+  fr_code: P95_a_fondé (a_été_fondé_par)
+P96:
+  en: by mother (gave birth)
+  en_code: P96 by mother (gave birth)
+  fr: de mère (a donné naissance à)
+  fr_code: P96_de_mère (a_donné_naissance_à)
+P97:
+  en: from father (was father for)
+  en_code: P97 from father (was father for)
+  fr: de père (a été le père pour)
+  fr_code: P97_de_père (a_été_le_père_pour)
+P98:
+  en: brought into life (was born)
+  en_code: P98 brought into life (was born)
+  fr: a donné vie à (est né)
+  fr_code: P98_a_donné_vie_à (est_né)
+P99:
+  en: dissolved (was dissolved by)
+  en_code: P99 dissolved (was dissolved by)
+  fr: a dissous (a été dissous par)
+  fr_code: P99_a_dissous (a_été_dissous_par)
+P100:
+  en: was death of (died in)
+  en_code: P100 was death of (died in)
+  fr: a été la mort de (est mort par)
+  fr_code: P100_a_été_la_mort_de (est_mort_par)
+P101:
+  en: had as general use (was use of)
+  en_code: P101 had as general use (was use of)
+  fr: a eu pour usage général (a été l'usage général de)
+  fr_code: P101_a_eu_pour_usage_général (a_été_l’usage_général_de)
+P102:
+  en: has title (is title of)
+  en_code: P102 has title (is title of)
+  fr: a pour titre (est le titre de)
+  fr_code: P102_a_pour_titre (est_le_titre_de)
+P103:
+  en: was intended for (was intention of)
+  en_code: P103 was intended for (was intention of)
+  fr: a eu pour raison d'être (a été la raison d'être de)
+  fr_code: P103_a_eu_pour_raison_d’être (a_été_la_raison_d’être_de)
+P104:
+  en: is subject to (applies to)
+  en_code: P104 is subject to (applies to)
+  fr: est soumis à (s’applique à)
+  fr_code: P104_est_soumis_à (s’applique_à)
+P105:
+  en: right held by (has right on)
+  en_code: P105 right held by (has right on)
+  fr: droit détenu par (détient le droit sur)
+  fr_code: P105_droit_détenu_par (détient_le_droit_sur)
+P106:
+  en: is composed of (forms part of)
+  en_code: P106 is composed of (forms part of)
+  fr: est composé de (fait partie de)
+  fr_code: P106_est_composé_de (fait_partie_de)
+P107:
+  en: has current or former member (is current or former member of)
+  en_code: P107 has current or former member (is current or former member of)
+  fr: a pour membre actuel ou antérieur (est le membre actuel ou antérieur de)
+  fr_code: P107_a_pour_membre_actuel_ou_antérieur (est_le_membre_actuel_ou_antérieur_de)
+P108:
+  en: has produced (was produced by)
+  en_code: P108 has produced (was produced by)
+  fr: a produit (a été produit par)
+  fr_code: P108_a_produit (a_été_produit_par)
+P109:
+  en: has current or former curator (is current or former curator of)
+  en_code: P109 has current or former curator (is current or former curator of)
+  fr: a pour responsable actuel ou antérieur de la collection (est responsable actuel ou antérieur de la collection)
+  fr_code: P109_a_pour_responsable_actuel_ou_antérieur_de_la_collection (est_responsable_actuel_ou_antérieur_de_la_collection)
+P110:
+  en: augmented (was augmented by)
+  en_code: P110 augmented (was augmented by)
+  fr: a augmenté (a été augmenté par)
+  fr_code: P110_a_augmenté (a_été_augmenté_par)
+P111:
+  en: added (was added by)
+  en_code: P111 added (was added by)
+  fr: a ajouté (a été ajouté par)
+  fr_code: P111_a_ajouté (a_été_ajouté_par)
+P112:
+  en: diminished (was diminished by)
+  en_code: P112 diminished (was diminished by)
+  fr: a diminué (a été diminué par)
+  fr_code: P112_a_diminué (a_été_diminué_par)
+P113:
+  en: removed (was removed by)
+  en_code: P113 removed (was removed by)
+  fr: a retiré (a été retiré par)
+  fr_code: P113_a_retiré (a_été_retiré_par)
+P121:
+  en: overlaps with
+  en_code: P121 overlaps with
+  fr: se superpose partiellement à
+  fr_code: P121_se_superpose_partiellement_à
+P122:
+  en: borders with
+  en_code: P122 borders with
+  fr: est limitrophe de
+  fr_code: P122_est_limitrophe_de
+P123:
+  en: resulted in (resulted from)
+  en_code: P123 resulted in (resulted from)
+  fr: a eu pour résultat (a résulté de)
+  fr_code: P123_a_eu_pour_résultat (a_résulté_de)
+P124:
+  en: transformed (was transformed by)
+  en_code: P124 transformed (was transformed by)
+  fr: a transformé (a été transformé par)
+  fr_code: P124_a_transformé (a_été_transformé_par)
+P125:
+  en: used object of type (was type of object used in)
+  en_code: P125 used object of type (was type of object used in)
+  fr: a mobilisé l'objet du type (a été le type d’objet employé pour)
+  fr_code: P125_a_mobilisé_l'objet_du_type (a_été_le_type_d’objet_employé_pour)
+P126:
+  en: employed (was employed in)
+  en_code: P126 employed (was employed in)
+  fr: a employé (a été employé dans)
+  fr_code: P126_a_employé (a_été_employé_dans)
+P127:
+  en: has broader term (has narrower term)
+  en_code: P127 has broader term (has narrower term)
+  fr: a pour terme général (a pour terme spécifique)
+  fr_code: P127_a_pour_terme_général (a_pour_terme_spécifique)
+P128:
+  en: carries (is carried by)
+  en_code: P128 carries (is carried by)
+  fr: est le support de (a pour support)
+  fr_code: P128_est_le_support_de (a_pour_support)
+P129:
+  en: is about (is subject of)
+  en_code: P129 is about (is subject of)
+  fr: a pour sujet (est le sujet de)
+  fr_code: P129_a_pour_sujet (est_le_sujet_de)
+P130:
+  en: shows features of (features are also found on)
+  en_code: P130 shows features of (features are also found on)
+  fr: présente les caractéristiques de (a les caractéristiques aussi présentes sur)
+  fr_code: P130_présente_les_caractéristiques de (a_les_caractéristiques_aussi_présentes_sur)
+P132:
+  en: spatiotemporally overlaps with
+  en_code: P132 spatiotemporally overlaps with
+  fr: recoupe spatio-temporellement
+  fr_code: P132_recoupe_spatio-temporellement
+P133:
+  en: is spatiotemporally separated from
+  en_code: P133 is spatiotemporally separated from
+  fr: est distinct spatio-temporellement de
+  fr_code: P133_est_distinct_spatio-temporellement_de
+P134:
+  en: continued (was continued by)
+  en_code: P134 continued (was continued by)
+  fr: a continué (a été continué par)
+  fr_code: P134_a_continué (a_été_continué_par)
+P135:
+  en: created type (was created by)
+  en_code: P135 created type (was created by)
+  fr: a créé le type (a été créé par)
+  fr_code: P135_a_créé_le_type (a_été_créé_par)
+P136:
+  en: was based on (supported type creation)
+  en_code: P136 was based on (supported type creation)
+  fr: a été fondé sur (a fondé la création du type)
+  fr_code: P136_a_été_fondé_sur (a_fondé_la_création_du_type)
+P137:
+  en: exemplifies (is exemplified by)
+  en_code: P137 exemplifies (is exemplified by)
+  fr: exemplifie (est exemplifié par)
+  fr_code: P137_exemplifie (est_exemplifié_par)
+P138:
+  en: represents (has representation)
+  en_code: P138 represents (has representation)
+  fr: représente (est représenté par)
+  fr_code: P138_représente (est_représenté_par)
+P139:
+  en: has alternative form
+  en_code: P139 has alternative form
+  fr: a pour forme alternative
+  fr_code: P139_a_pour_forme_alternative
+P140:
+  en: assigned attribute to (was attributed by)
+  en_code: P140 assigned attribute to (was attributed by)
+  fr: a assigné l’attribut à (a reçu l’attribut par)
+  fr_code: P140_a_assigné_l’attribut_à (a_reçu_l’attribut_par)
+P141:
+  en: assigned (was assigned by)
+  en_code: P141 assigned (was assigned by)
+  fr: a assigné (a été assigné par)
+  fr_code: P141_a_assigné (a_été_assigné_par)
+P142:
+  en: used constituent (was used in)
+  en_code: P142 used constituent (was used in)
+  fr: a mobilisé comme élément (a été mobilisé dans)
+  fr_code: P142_a_mobilisé_comme_élément (a_été_mobilisé_dans)
+P143:
+  en: joined (was joined by)
+  en_code: P143 joined (was joined by)
+  fr: a fait adhérer (a adhéré par)
+  fr_code: P143_a_fait_adhérer (a_adhéré_par)
+P144:
+  en: joined with (gained member by)
+  en_code: P144 joined with (gained member by)
+  fr: a fait adhérer à (a accueilli le membre par)
+  fr_code: P144_a_fait_adhérer_à (a_accueilli_le_membre_par)
+P145:
+  en: separated (left by)
+  en_code: P145 separated (left by)
+  fr: a dissocié (est dissocié par)
+  fr_code: P145_a_dissocié (est_dissocié_par)
+P146:
+  en: separated from (lost member by)
+  en_code: P146 separated from (lost member by)
+  fr: a dissocié de (a perdu le membre par)
+  fr_code: P146_a_dissocié_de (a_perdu_le_membre_par)
+P147:
+  en: curated (was curated by)
+  en_code: P147 curated (was curated by)
+  fr: a géré (a été géré par)
+  fr_code: P147_a_géré (a_été_géré_par)
+P148:
+  en: has component (is component of)
+  en_code: P148 has component (is component of)
+  fr: a pour composant (est le composant de)
+  fr_code: P148_a_pour_composant (est_le_composant_de)
+P150:
+  en: defines typical parts of (defines typical wholes for)
+  en_code: P150 defines typical parts of (defines typical wholes for)
+  fr: définit les éléments typiques de (définit l'ensemble typique pour)
+  fr_code: P150_définit_les_éléments_typiques_de (définit_l’ensemble_typique_pour)
+P151:
+  en: was formed from (participated in)
+  en_code: P151 was formed from (participated in)
+  fr: a été formé à partir de (a participé à)
+  fr_code: P151_a_été_formé_à_partir_de (a_participé_à)
+P152:
+  en: has parent (is parent of)
+  en_code: P152 has parent (is parent of)
+  fr: a pour parent (est le parent de)
+  fr_code: P152_a_pour_parent (est_le_parent_de)
+P156:
+  en: occupies (is occupied by)
+  en_code: P156 occupies (is occupied by)
+  fr: occupe (est occupé par)
+  fr_code: P156_occupe (est_occupé_par)
+P157:
+  en: is at rest relative to (provides reference space for)
+  en_code: P157 is at rest relative to (provides reference space for)
+  fr: est à l'arrêt par rapport à (procure l’espace de référence pour)
+  fr_code: P157_est_à_l’arrêt_par_rapport_à (procure_l’espace_de_référence_pour)
+P160:
+  en: has temporal projection (is temporal projection of)
+  en_code: P160 has temporal projection (is temporal projection of)
+  fr: a pour projection temporelle (est la projection temporelle de)
+  fr_code: P160_a_pour_projection_temporelle (est_la_projection_temporelle_de)
+P161:
+  en: has spatial projection (is spatial projection of)
+  en_code: P161 has spatial projection (is spatial projection of)
+  fr: a pour projection spatiale (est la projection spatiale de)
+  fr_code: P161_a_pour_projection_spatiale (est_la_projection_spatiale_de)
+P164:
+  en: is temporally specified by (temporally specifies)
+  en_code: P164 is temporally specified by (temporally specifies)
+  fr: est temporellement spécifié par (spécifie temporellement)
+  fr_code: P164_est_temporellement_spécifié_par (spécifie_temporellement)
+P165:
+  en: incorporates (is incorporated in)
+  en_code: P165 incorporates (is incorporated in)
+  fr: inclut (est inclus dans)
+  fr_code: P165_inclut (est_inclus_dans)
+P166:
+  en: was a presence of (had presence)
+  en_code: P166 was a presence of (had presence)
+  fr: a été une présence de (a eu pour présence)
+  fr_code: P166_a_été_une_présence_de (a_eu_pour_présence)
+P167:
+  en: was within (includes)
+  en_code: P167 was within (includes)
+  fr: s’inscrivait dans (comporte)
+  fr_code: P167_s’inscrivait_dans (comporte)
+P168:
+  en: place is defined by (defines place)
+  en_code: P168 place is defined by (defines place)
+  fr: lieu défini par (définit le lieu)
+  fr_code: P168_lieu_défini_par (définit_le_lieu)
+P169:
+  en: defines spacetime volume (spacetime volume is defined by)
+  en_code: P169 defines spacetime volume (spacetime volume is defined by)
+  fr: volume spatio-temporel défini par (définit le volume spatio-temporel)
+  fr_code: P169_volume_spatio-temporel_défini_par (définit_le_volume_spatio-temporel)
+P170:
+  en: defines time (time is defined by)
+  en_code: P170 defines time (time is defined by)
+  fr: définit le temps (temps défini par)
+  fr_code: P170_définit_le_temps (temps_défini_par)
+P171:
+  en: at some place within
+  en_code: P171 at some place within
+  fr: quelque part dans
+  fr_code: P171_quelque_part_dans
+P172:
+  en: contains
+  en_code: P172 contains
+  fr: contient
+  fr_code: P172_contient
+P173:
+  en: starts before or with the end of (ends after or with the start of)
+  en_code: P173 starts before or with the end of (ends after or with the start of)
+  fr: commence avant ou au moment de la fin de (se termine après ou au moment du début de)
+  fr_code: P173_commence_avant_ou_au_moment_de_la_fin_de (se_termine_après_ou_au_moment_du_début_de)
+P174:
+  en: starts before the end of (ends after the start of)
+  en_code: P174 starts before the end of (ends after the start of)
+  fr: commence avant la fin de (se termine après le début de)
+  fr_code: P174_commence_avant_la_fin_de (se_termine_après_le_début_de)
+P175:
+  en: starts before or with the start of (starts after or with the start of)
+  en_code: P175 starts before or with the start of (starts after or with the start of)
+  fr: commence avant ou au moment du début de (commence après ou au moment du début de)
+  fr_code: P175_commence_avant_ou_au_moment_du_début_de (commence_après_ou_au_moment_du_début_de)
+P176:
+  en: starts before the start of (starts after the start of)
+  en_code: P176 starts before the start of (starts after the start of)
+  fr: commence avant le début de (commence après le début de)
+  fr_code: P176_commence_avant_le_début_de (commence_après_le_début_de)
+P177:
+  en: assigned property of type (is type of property assigned)
+  en_code: P177 assigned property of type (is type of property assigned)
+  fr: a assigné le type de propriété (est le type de la propriété assigné)
+  fr_code: P177_a_assigné_le_type_de_propriété (est le type de la propriété assigné)
+P179:
+  en: had sales price (was sales price of)
+  en_code: P179 had sales price (was sales price of)
+  fr: a eu pour prix de vente (a été le prix de vente de)
+  fr_code: P179_a_eu_pour_prix_de_vente (a_été_le_prix_de_vente_de)
+P180:
+  en: has currency (was currency of)
+  en_code: P180 has currency (was currency of)
+  fr: a pour unité monétaire (était l'unité monétaire de)
+  fr_code: P180_a_pour_unité_monétaire (était_l'unité_monétaire_de)
+P181:
+  en: has amount
+  en_code: P181 has amount
+  fr: a pour quantité
+  fr_code: P181_a_pour_quantité
+P182:
+  en: ends before or with the start of (starts after or with the end of)
+  en_code: P182 ends before or with the start of (starts after or with the end of)
+  fr: se termine avant ou au moment du début de (commence après ou au moment de la fin de)
+  fr_code: P182_se_termine_avant_ou_au_moment_du_début_de (commence_après_ou_au_moment_de_la_fin_de)
+P183:
+  en: ends before the start of (starts after the end of)
+  en_code: P183 ends before the start of (starts after the end of)
+  fr: se termine avant le début de (commence après la fin de)
+  fr_code: P183_se_termine_avant_le_début_de (commence_après_la_fin_de)
+P184:
+  en: ends before or with the end of (ends with or after the end of)
+  en_code: P184 ends before or with the end of (ends with or after the end of)
+  fr: se termine avant ou au moment de la fin de (se termine au moment de ou après la fin de)
+  fr_code: P184_se_termine_avant_ou_au_moment_de_la_fin_de (se_termine_au_moment_ou_après_la_fin_de)
+P185:
+  en: ends before the end of (ends after the end of)
+  en_code: P185 ends before the end of (ends after the end of)
+  fr: se termine avant la fin de (se termine après la fin de)
+  fr_code: P185_se_termine_avant_la_fin_de (se_termine_après_la_fin_de)
+P186:
+  en: produced thing of product type (is produced by)
+  en_code: P186 produced thing of product type (is produced by)
+  fr: a produit la chose du type (est produit par)
+  fr_code: P186_a_produit_la_chose_du_type (est_produit_par)
+P187:
+  en: has production plan (is production plan for)
+  en_code: P187 has production plan (is production plan for)
+  fr: a pour plan de production (est le plan de production de)
+  fr_code: P187_a_pour_plan_de_production (est_le_plan_de_production_de)
+P188:
+  en: requires production tool (is production tool for)
+  en_code: P188 requires production tool (is production tool for)
+  fr: nécessite l'outil (est l'outil de production de)
+  fr_code: P188_nécessite_l’outil (est_l’outil_de_production_de)
+P189:
+  en: approximates (is approximated by)
+  en_code: P189 approximates (is approximated by)
+  fr: approxime (est approximé par)
+  fr_code: P189_approxime (est_approximé_par)
+P190:
+  en: has symbolic content
+  en_code: P190 has symbolic content
+  fr: a pour contenu symbolique
+  fr_code: P190_a_pour_contenu_symbolique
+P191:
+  en: had duration (was duration of)
+  en_code: P191 had duration (was duration of)
+  fr: a eu pour durée (était la durée de)
+  fr_code: P191_a_eu_pour_durée (était_la_durée_de)
+P195:
+  en: was a presence of (had presence)
+  en_code: P195 was a presence of (had presence)
+  fr: a été une présence de (a eu pour présence)
+  fr_code: P195_a_été_une_présence_de (a_eu_pour_présence)
+P196:
+  en: defines (is defined by)
+  en_code: P196 defines (is defined by)
+  fr: définit (est défini par)
+  fr_code: P196_définit (est_défini_par)
+P197:
+  en: covered parts of (was partially covered by)
+  en_code: P197 covered parts of (was partially covered by)
+  fr: a couvert des parties de (a été partiellement couvert par)
+  fr_code: P197_a_couvert_des_parties_de (a_été_partiellement_couvert_par)
+P198:
+  en: holds or supports (is held or supported by)
+  en_code: P198 holds or supports (is held or supported by)
+  fr: contient ou soutient (est détenu ou soutenu par)
+  fr_code: P198_contient_ou_soutient (est_contenu_ou_soutenu_par)
+PC0:
+  en: Typed CRM Property
+  en_code: PC0 Typed CRM Property
+  fr: Propriété CRM typée
+  fr_code: PC0_Propriété_CRM_typée
+P01:
+  en: has domain (is domain of)
+  en_code: P01 has domain (is domain of)
+  fr: a pour domaine (est le domaine de)
+  fr_code: P01_a_pour_domaine (est_le_domaine_de)
+P02:
+  en: has range (is range of)
+  en_code: P02 has range (is range of)
+  fr: a pour portée (est la portée de)
+  fr_code: P02_a_pour_portée (est_la_portée_de)
+P03:
+  en: has range literal
+  en_code: P03 has range literal
+  fr: a pour portée littérale
+  fr_code: P03_a_pour_portée_littérale
+PC3:
+  en: has note
+  en_code: PC3 has note
+  fr: a pour note
+  fr_code: PC3_a_pour_note
+P3.1:
+  en: has type
+  en_code: P3.1 has type
+  fr: a pour type
+  fr_code: P3.1_a_pour_type
+PC14:
+  en: carried out by
+  en_code: PC14 carried out by
+  fr: a été effectué par
+  fr_code: PC14_a_été_effectué_par
+P14.1:
+  en: in the role of
+  en_code: P14.1 in the role of
+  fr: dans le rôle de
+  fr_code: P14.1_dans_le_rôle_de
+PC16:
+  en: used specific object
+  en_code: PC16 used specific object
+  fr: a mobilisé l'objet spécifique (a été mobilisé pour)
+  fr_code: PC16_a_mobilisé_l’objet_spécifique (a_été_mobilisé_pour)
+P16.1:
+  en: mode of use
+  en_code: P16.1 mode of use
+  fr: mode d'utilisation
+  fr_code: P16.1_mode_d’utilisation
+PC19:
+  en: was intended use of
+  en_code: PC19 was intended use of
+  fr: était l'usage prévu de (a été élaboré pour)
+  fr_code: PC19_était_l’usage_prévu_de (a_été_élaboré_pour)
+P19.1:
+  en: mode of use
+  en_code: P19.1 mode of use
+  fr: mode d'utilisation
+  fr_code: P19.1_mode_d’utilisation
+PC62:
+  en: depicts
+  en_code: PC62 depicts
+  fr: illustre
+  fr_code: PC62_illustre
+P62.1:
+  en: mode of depiction
+  en_code: P62.1 mode of depiction
+  fr: mode d'illustration
+  fr_code: P62.1_mode_d’illustration
+PC67:
+  en: refers to
+  en_code: PC67 refers to
+  fr: renvoie à
+  fr_code: PC67_renvoie_à
+P67.1:
+  en: has type
+  en_code: P67.1 has type
+  fr: a pour type
+  fr_code: P67.1_a_pour_type
+PC69:
+  en: is associated with
+  en_code: PC69 is associated with
+  fr: est associé à
+  fr_code: PC69_est_associé_à
+P69.1:
+  en: has type
+  en_code: P69.1 has type
+  fr: a pour type
+  fr_code: P69.1_a_pour_type
+PC102:
+  en: has title
+  en_code: PC102 has title
+  fr: a pour titre
+  fr_code: PC102_a_pour_titre
+P102.1:
+  en: has type
+  en_code: P102.1 has type
+  fr: a pour type
+  fr_code: P102.1_a_pour_type
+PC107:
+  en: has current or former member
+  en_code: PC107 has current or former member
+  fr: a pour membre actuel ou antérieur (est le membre actuel ou antérieur de)
+  fr_code: PC107_a_pour_membre_actuel_ou_antérieur (est_le_membre_actuel_ou_antérieur_de)
+P107.1:
+  en: kind of member
+  en_code: P107.1 kind of member
+  fr: sorte de membre
+  fr_code: P107.1_sorte_de_membre
+PC130:
+  en: shows features of
+  en_code: PC130 shows features of
+  fr: présente les caractéristiques de
+  fr_code: PC130_présente_les_caractéristiques_de
+P130.1:
+  en: kind of similarity
+  en_code: P130.1 kind of similarity
+  fr: sorte de similarité
+  fr_code: P130.1_sorte_de_similarité
+PC136:
+  en: was based on
+  en_code: PC136 was based on
+  fr: était basé sur
+  fr_code: PC136_était_basé_sur
+P136.1:
+  en: in the taxonomic role
+  en_code: P136.1 in the taxonomic role
+  fr: dans le rôle taxonomique de
+  fr_code: P136.1_dans_le_rôle_taxonomique_de
+PC137:
+  en: exemplifies
+  en_code: PC137 exemplifies
+  fr: exemplifie
+  fr_code: PC137_exemplifie
+P137.1:
+  en: in the taxonomic role
+  en_code: P137.1 in the taxonomic role
+  fr: dans le rôle taxonomique de
+  fr_code: P137.1_dans_le_rôle_taxonomique_de
+PC138:
+  en: represents
+  en_code: PC138 represents
+  fr: représente
+  fr_code: PC138_représente
+P138.1:
+  en: mode of representation
+  en_code: P138.1 mode of representation
+  fr: mode de représentation
+  fr_code: P138.1_mode_de_représentation
+PC139:
+  en: has alternative form
+  en_code: PC139 has alternative form
+  fr: a pour forme alternative
+  fr_code: PC139_a_pour_forme_alternative
+P139.1:
+  en: has type
+  en_code: P139.1 has type
+  fr: a pour type
+  fr_code: P139.1_a_pour_type
+PC144:
+  en: joined with
+  en_code: PC144 joined with
+  fr: a fait adhérer à
+  fr_code: PC144_a_fait_adhérer_à
+P144.1:
+  en: kind of member
+  en_code: P144.1 kind of member
+  fr: sorte de membre
+  fr_code: P144.1_sorte_de_membre
+P189.1:
+  en: has type
+  en_code: E189.1 has type
+  fr: P189.1 a pour type
+  fr_code: P189.1_a_pour_type
+
+
+

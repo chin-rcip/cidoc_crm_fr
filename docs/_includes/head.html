@@ -2,13 +2,26 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
+  {% seo %}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  {%- if page.url contains "/v7.1/" -%}
+  
+  {%- if page.sidebar -%}
+    {%- if site.data.descriptions[page.sidebar] -%}
+      <meta name="description" content="{{ site.data.descriptions[page.sidebar] }}">
+      <meta property="og:description" content="{{ site.data.descriptions[page.sidebar] }}">
+    {%- else -%}
+      <meta name="description" content="{{ site.data.descriptions.main }}">
+      <meta property="og:description" content="{{ site.data.descriptions.main }}">
+    {%- endif -%}
+  {%- else -%}
+    <meta name="description" content="{{ site.data.descriptions.main }}">
+    <meta property="og:description" content="{{ site.data.descriptions.main }}">
+  {%- endif -%}
+  {%- if page.url contains "/v7.1" -%}
     <meta name="dcterms:creator" content="CIDOC CRM Special Interest Group,">
     <meta property="bibo:translator" content="Bricaud, Frédéric">
     <meta property="bibo:translator" content="Crevier-Lalonde, Camille">

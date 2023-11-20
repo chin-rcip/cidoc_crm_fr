@@ -259,6 +259,11 @@ table.text {
     border-bottom: 0;
 }
 
+table.original-table {
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
 /*--- align table text ---*/
 
 td {

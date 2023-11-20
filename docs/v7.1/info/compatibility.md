@@ -100,7 +100,7 @@ date: 2023-05-26
 </tbody>
 </table>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">
@@ -603,7 +603,7 @@ date: 2023-05-26
 </tbody>
 </table>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">

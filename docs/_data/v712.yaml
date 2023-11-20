@@ -602,11 +602,13 @@ toc:
     subfolder:
     - title: Instructions de migration des classes dépréciées
       hash: instructions-de-migration-des-classes-depreciees
-      class: sublist
-      subfolder:
-      - title: Instructions de migration pour
-        hash: instructions-de-migration-pour
     - title: Instructions de migration des propriétés dépréciées
       hash: instructions-de-migration-des-proprietes-depreciees
+      class: sublist
+      subfolder:
+      - title: Instructions de migration pour E81_Transformation (note d’application restreinte)
+        hash: instructions-de-migration-pour-e81_transformation-note-dapplication-restreint
+      - title: Instructions de migration pour E16_Mesurage (note d’application restreinte)
+        hash: instructions-de-migration-pour-e16_mesurage-note-dapplication-restreint    
   - title: Modifications
     hash: modifications

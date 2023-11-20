@@ -55,7 +55,7 @@ date: 2023-05-26
 
 <h3 id="instructions-de-migration-des-classes-depreciees"><span class="en heading">Deprecated Class Migration Instructions - </span>Instructions de migration des classes dépréciées</h3>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">
@@ -310,7 +310,7 @@ date: 2023-05-26
 
 <h3 id="instructions-de-migration-des-proprietes-depreciees"><span class="en heading">Deprecated Property Migration Instructions - </span>Instructions de migration des propriétés dépréciées</h3>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">

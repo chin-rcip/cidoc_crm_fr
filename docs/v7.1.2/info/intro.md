@@ -280,7 +280,7 @@ date: 2023-11-08
 </tbody>
 </table>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">
@@ -1463,7 +1463,7 @@ date: 2023-11-08
 <li><p>Properties that have identical domain and range are either symmetric or transitive. Instantiating a symmetric property implies that the same relation holds for both the domain-to-range and the range-to-domain directions. An example of this is E53 Place<em>. P122 borders with: </em>E53 Place. The names of symmetric properties have no parenthetical form, because reading in the range-to-domain direction is the same as the domain-to-range reading. Transitive asymmetric properties, such as E4 Period<em>. P9 consist of (forms part of): </em>E4 Period, have a parenthetical form that relates to the meaning of the inverse direction.</p>
 </li>
 <li><p>The choice of the domain of properties, and hence the order of their names, are established in accordance with the following priority list:</p>
-</li>
+<ul>
 <li><p>Temporal Entity and its subclasses</p>
 </li>
 <li><p>Thing and its subclasses</p>
@@ -1472,8 +1472,10 @@ date: 2023-11-08
 </li>
 <li><p>Other</p>
 </li></ul>
-<ul><li><p>Properties of properties are identified by “P”, followed by the number of the base property extended with “.1” and are named in one direction using a verbal phrase in lower case in the present tense. For example: the property P62.1 mode of depiction of the property P62 depicts (is depicted by)</p>
 </li>
+<li><p>Properties of properties are identified by “P”, followed by the number of the base property extended with “.1” and are named in one direction using a verbal phrase in lower case in the present tense. For example: the property P62.1 mode of depiction of the property P62 depicts (is depicted by)</p>
+</li>
+</ul>
 </td>
 <td>
 <p>La convention suivante a été appliquée à travers le CIDOC CRM : </p>
@@ -1488,7 +1490,7 @@ date: 2023-11-08
 <li><p>Les propriétés qui ont des domaine et portée identiques sont soit <a href="/v7.1.2/information/introduction#terminologie-symetrie"><span class="underline">symétriques</span></a>, soit <a href="/v7.1.2/information/introduction#terminologie-transitivite"><span class="underline">transitives</span></a>. Instancier une propriété symétrique implique que la même relation est applicable lors de la lecture depuis le domaine vers la portée et depuis la portée vers le domaine (p. ex. <code class="language-plaintext highlighter-rouge">E53_Lieu</code>. <code class="language-plaintext highlighter-rouge">P122_est_limitrophe_de</code> : <code class="language-plaintext highlighter-rouge">E53_Lieu</code>). Les formes appellatives de propriétés symétriques n’ont pas de forme parenthétique, car la lecture depuis la portée vers le domaine équivaut à la lecture depuis le domaine vers la portée. Les propriétés transitives asymétriques (p. ex. <code class="language-plaintext highlighter-rouge">E4_Période</code>. <code class="language-plaintext highlighter-rouge">P9_comprend (fait_partie_de)</code> : <code class="language-plaintext highlighter-rouge">E4_Période</code>) ont une forme parenthétique qui porte sur la signification de leur direction inverse. </p>
 </li>
 <li><p>Le choix du domaine des propriétés, et donc de l’ordre de leur appellation, est établi selon les priorités suivantes : </p>
-</li>
+<ul>
 <li><p>Entités temporelles (<code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code> et ses sous-classes)</p>
 </li>
 <li><p>Choses (<code class="language-plaintext highlighter-rouge">E70_Chose</code> et ses sous-classes)</p>
@@ -1497,7 +1499,9 @@ date: 2023-11-08
 </li>
 <li><p>Autres</p>
 </li>
-<li><p>Les propriétés de propriétés sont identifiées par la lettre majuscule « P » suivi du numéro de la propriété source complété par « .1 » et sont nommées de manière unidirectionnelle à l'aide de syntagmes verbaux dont tous les termes sont en minuscules et au présent. Par exemple, la propriété <code class="language-plaintext highlighter-rouge">P62.1_mode_d’illustration</code> de la propriété <code class="language-plaintext highlighter-rouge">P62_illustre (est_illustré_par)</code>.    </p>
+</ul>
+</li>
+<li><p>Les propriétés de propriétés sont identifiées par la lettre majuscule « P » suivi du numéro de la propriété source complété par « .1 » et sont nommées de manière unidirectionnelle à l'aide de syntagmes verbaux dont tous les termes sont en minuscules et au présent. Par exemple, la propriété <code class="language-plaintext highlighter-rouge">P62.1_mode_d’illustration</code> de la propriété <code class="language-plaintext highlighter-rouge">P62_illustre (est_illustré_par)</code>.</p>
 </li></ul>
 </td>
 </tr>
@@ -1653,7 +1657,7 @@ date: 2023-11-08
 </tbody>
 </table>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">
@@ -2010,7 +2014,7 @@ date: 2023-11-08
 </tbody>
 </table>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">

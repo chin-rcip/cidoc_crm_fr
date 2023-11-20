@@ -683,7 +683,7 @@ date: 2023-11-08
 </tbody>
 </table>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">

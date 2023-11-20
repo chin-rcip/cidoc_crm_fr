@@ -31,7 +31,7 @@ date: 2023-11-08
 <td>
 <p>La liste qui suit énumère les classes et/ou propriétés qui ont été dépréciées depuis la version 5.0.4 du CIDOC CRM (laquelle a servi d’ébauche communautaire pour ISO21127:2014 ainsi que pour cette version 7.1). Bien que le modèle CIDOC CRM soit développé selon les principes du changement monotone et que tout soit mis en oeuvre pour minimiser la rétro-incompatibilité (notamment grâce à une modélisation conservatrice tant initialement qu’au cours de l’évolution du modèle), certaines révisions exigent inévitablement des mises à jour des bases de connaissances qui s’appuient sur d’anciennes versions de l’ontologie afin de réconcilier les instances avec la version actuelle. Les tableaux ci-bas indiquent quelles classes et quelles propriétés ont été dépréciées de telle sorte qu’elles exigent une mise à jour des bases de connaissances auparavant conformes au CIDOC CRM afin d’être conformes avec la version la plus récente du standard. </p>
 <p>Le tableau « <a href="/v7.1.2/annexe#instructions-de-migration-des-classes-depreciees"><span class="underline">Instructions de migration des classes dépréciées</span></a> » énumère les classes dépréciées ainsi que les classes ou entités primitives qu’il est recommandé d’utiliser à la place de celles-ci. </p>
-<p>[n.d.t. Le tableau « <a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint"><span class="underline">Instructions de migration pour </span></a><a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint"><span class="underline"><code class="language-plaintext highlighter-rouge">E81_Transformation</code></span></a><a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-domaine-dapplication-restreint"><span class="underline"> (domaine d’application restreint)</span></a> » fait des recommandations quant à la meilleure manière de mettre à jour une base de connaissances suite à la restriction du domaine d’application de <code class="language-plaintext highlighter-rouge">E81_Transformation</code>.] </p>
+<p>[n.d.t. Le tableau « <a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline">Instructions de migration pour </span></a><a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline"><code class="language-plaintext highlighter-rouge">E81_Transformation</code></span></a><a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline"> (domaine d’application restreint)</span></a> » fait des recommandations quant à la meilleure manière de mettre à jour une base de connaissances suite à la restriction du domaine d’application de <code class="language-plaintext highlighter-rouge">E81_Transformation</code>.] </p>
 <p>Le tableau « <a href="/v7.1.2/annexe#instructions-de-migration-des-proprietes-depreciees"><span class="underline">Instructions de migration des propriétés dépréciées</span></a> » énumère les propriétés dépréciées ainsi que celles qu’il est recommandé d’utiliser à la place de celles-ci. C’est un bon outil pour comprendre comment bien construire de nouveaux chemins sémantiques entre des instances de classes dépréciées et les remplacements de classes ou d’entités primitives qui sont recommandés. Il indique aussi comment procéder lorsque la portée d'une propriété a été réduite à une sous-classe de sa portée précédente.</p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ date: 2023-11-08
 
 <h3 id="instructions-de-migration-des-classes-depreciees"><span class="en heading">Deprecated Class Migration Instructions - </span>Instructions de migration des classes dépréciées</h3>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">
@@ -243,21 +243,17 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<td class="en">
-<p><em>Notes traducteur</em></p>
-</td>
-<td class="en">
+<th>
+<p><em>Note traducteur</em></p>
+</th>
+<td colspan="3">
 <p>Les traductions des classes dépréciées sont littérales et n’ont pas fait l’objet d’un examen dédié dans le cadre de ce travail. </p>
-</td>
-<td>
-</td>
-<td>
 </td>
 </tr>
 <tr>
 <th><p><em>Références</em></p>
 </th>
-<td colspan="2">
+<td colspan="3">
 </td>
 </tr>
 </tbody>
@@ -265,7 +261,7 @@ date: 2023-11-08
 
 <h3 id="instructions-de-migration-des-proprietes-depreciees"><span class="en heading">Deprecated Property Migration Instructions - </span>Instructions de migration des propriétés dépréciées</h3>
 
-<table>
+<table class="original-table">
 <tbody>
 <tr>
 <td class="en">
@@ -553,33 +549,23 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<td class="en">
+<td class="en" colspan="2">
 <p><sup>*</sup> The properties P114 to P120 have been introduced in the CIDOC CRM extension “Definition of the CRMarchaeo. An Extension of CIDOC CRM to support the archaeological excavation process”, Version 1.5.1, March 2021.<em></em></p>
 </td>
-<td class="en">
-</td>
-<td>
+<td colspan="2">
 <p><sup>*</sup> Les propriétés P114 à P120 ont été introduites par l’extension « Definition of the CRMarchaeo. An Extension of CIDOC CRM to support the archaeological excavation process”, Version 1.5.1 qui date de mars 2021. </p>
-</td>
-<td>
 </td>
 </tr>
 <tr>
-<td class="en">
-<p><em>Notes traducteur</em></p>
-</td>
-<td class="en">
-<p>  </p>
-</td>
-<td>
-</td>
-<td>
+<th><p><em>Note traducteur</em></p>
+</th>
+<td colspan="3">
 </td>
 </tr>
 <tr>
 <th><p><em>Références</em></p>
 </th>
-<td colspan="2">
+<td colspan="3">
 <p>OWL Working Group. 2012. « OWL - Semantic Web Standards ». W3C. 11 décembre 2012.<a href="https://www.w3.org/OWL/"><span class="underline"> </span></a><a href="https://www.w3.org/OWL/"><span class="underline">https://www.w3.org/OWL/</span></a>.</p>
 <p>RDF Working Group. 2014. « RDF - Semantic Web Standards ». W3C. 25 février 2014.<a href="https://www.w3.org/RDF/"><span class="underline"> </span></a><a href="https://www.w3.org/RDF/"><span class="underline">https://www.w3.org/RDF/</span></a>.</p>
 </td>
@@ -587,7 +573,7 @@ date: 2023-11-08
 </tbody>
 </table>
 
-<h4 id="instructions-de-migration-pour"><span class="en heading">Migration Instructions for the reduced scope of E81 Transformation - </span>Instructions de migration pour</h4>
+<h4 id="instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="en heading">Migration Instructions for the reduced scope of E81 Transformation - </span>Instructions de migration pour <code class="language-plaintext highlighter-rouge">E81_Transformation</code> (note d’application restreinte)</h4>
 
 <table class="text">
 <colgroup>
@@ -639,6 +625,8 @@ date: 2023-11-08
 </tr>
 </tbody>
 </table>
+
+<h4 id="instructions-de-migration-pour-e16_mesurage-note-dapplication-restreint"><span class="en heading">Migration Instructions for the reduced scope of E16 Measurement - </span>Instructions de migration pour <code class="language-plaintext highlighter-rouge">E16_Mesurage</code> (note d’application restreinte)</h4>
 
 <table class="text">
 <colgroup>

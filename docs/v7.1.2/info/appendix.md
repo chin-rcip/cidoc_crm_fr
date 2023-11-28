@@ -2,9 +2,8 @@
 layout: page
 title: Annexe
 titleEn: Appendix - Annexe
-permalink: /v7.1.2/information/annexe
+permalink: /v7.1.2/annexe
 sidebar: v712
-group: information
 date: 2023-11-08
 ---
 

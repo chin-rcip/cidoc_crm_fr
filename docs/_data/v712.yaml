@@ -594,7 +594,7 @@ toc:
   url: /v7.1.2/bibliographie-de-la-traduction
 
 - title: Annexe
-  url: /v7.1.2/information/annexe
+  url: /v7.1.2/annexe
   subfolder:
   - title: Classes et propriétés dépréciées
     hash: classes-et-proprietes-depreciees

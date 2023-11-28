@@ -83,7 +83,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>

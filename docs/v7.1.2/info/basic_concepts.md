@@ -85,7 +85,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -198,7 +198,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Les auteurs mentionnent les « <em>termini postquos and antequos</em> » qui réfèrent aux concepts de <em>terminus ante quem</em> (c.-à-d. « date avant laquelle », qui signale la date avant laquelle un événement s'est nécessairement produit) et de <em>terminus post quem</em> (c.-à-d. « date à partir de laquelle », qui signale la date à partir de laquelle un événement s'est nécessairement produit). </p>
@@ -280,7 +280,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -343,7 +343,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -423,7 +423,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -487,7 +487,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -572,7 +572,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>La traduction des propriétés dépréciées (<code class="language-plaintext highlighter-rouge">P114_est_temporellement_équivalent_à</code>, <code class="language-plaintext highlighter-rouge">P115_termine (est_terminé_par)</code>, <code class="language-plaintext highlighter-rouge">P116_commence (est_commencé_par)</code>, <code class="language-plaintext highlighter-rouge">P117_se_produit_durant (inclut)</code>, <code class="language-plaintext highlighter-rouge">P118_recoupe_temporellement (est_recoupé_temporellement_par)</code>, <code class="language-plaintext highlighter-rouge">P119_rencontre_temporellement (est_rencontré_temporellement_par)</code> et <code class="language-plaintext highlighter-rouge">P120_se_produit_avant (se_produit_après)</code>) est basée sur les libellés originaux de la version 6.2. </p>
@@ -621,7 +621,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -668,7 +668,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -683,7 +683,7 @@ date: 2023-11-08
 </tbody>
 </table>
 
-<table class="original-table">
+<table class="original-table" id="table-2">
 <tbody>
 <tr>
 <td class="en">

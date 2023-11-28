@@ -37,7 +37,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>L’abréviation la plus utilisée dans le monde francophone pour le modèle demeure son acronyme anglophone (CIDOC CRM) et c’est celle qui est utilisée dans ce document. Les titres francophones des groupes de travail sont tirés des appellations trouvées sur le site francophone de CIDOC. </p>
@@ -103,7 +103,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Le terme « construct » n’a pas d’équivalent français parfait, mais une recherche sommaire révèle que le terme « construit » (n.m.) semble répandu dans les domaines de la philosophie et de la sociologie et est celui dont le sens se rapproche le plus de la forme originale. </p>
@@ -178,7 +178,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -223,7 +223,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
@@ -262,7 +262,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Une recherche sommaire de la documentation technique traduite sur le site du World Wide Web Consortium ne révèle pas de traduction francophone de « Resource Description Framework (RDF) », de sorte que l’appellation anglophone est préconisée dans la présente traduction. </p>
@@ -304,7 +304,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -354,7 +354,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -386,7 +386,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -414,7 +414,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -442,7 +442,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -472,7 +472,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -510,7 +510,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -546,7 +546,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -578,7 +578,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -652,7 +652,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « construct » n’a pas d’équivalent français parfait, mais une recherche sommaire révèle que le terme « construit » (n.m.) semble répandu dans les domaines de la philosophie et de la sociologie et est celui dont le sens se rapproche le plus de la forme originale. </p>
@@ -682,7 +682,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -710,7 +710,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -738,7 +738,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -775,7 +775,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -802,7 +802,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « normalization » aurait aussi pu être traduit par « standardisation”, mais puisqu’il s’agit du principe et non pas de l’application d’un standard établi, le terme « normalisation » a été utilisé. </p>
@@ -833,7 +833,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -861,7 +861,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -889,7 +889,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « behaviour » a été traduit par « fonctionnement » plutôt que par « comportement » puisqu’il s’agit d’une chose et non pas d’une personne.  </p>
@@ -921,7 +921,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « join of a data » a été traduit par « union » plutôt que par « fusion », car il s’agit de les réunir sans en annihiler l’une ou l’autre. </p>
@@ -951,7 +951,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Ajout d’une définition du décrément selon sa définition logicielle (quantité constante prédéterminée dont on soustrait la valeur d’une variable) plutôt que mathématique (diminution de la valeur d’une quantité variable). </p>
@@ -981,7 +981,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1010,7 +1010,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>« Female » est un terme qui est couramment utilisé en anglais sans être considéré péjoratif. Cependant, en français, l’utilisation du terme « femelle » pour désigner des humains du sexe féminin est généralement considérée condescendante. Le terme « femme » a donc été utilisé. </p>
@@ -1043,7 +1043,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1071,7 +1071,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>La dernière phrase du texte original semble avoir pour objectif d’inclure toutes les personnes, mais elle est formulée de manière quelque peu cavalière et ne s’aligne pas avec l’approche des autres exemples mentionnés de sorte qu’elle pourrait être considérée marginalisante et peu inclusive. Puisqu’elle n’apporte pas d’information supplémentaire, elle a été retirée du texte traduit. </p>
@@ -1100,7 +1100,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « query containment » a été traduit par « inclusion des requêtes ». Le « containment » est généralement traduit dans le domaine de l’algèbre par « inclusion » et dans le domaine logiciel par « contenance ». Puisqu’il s’agit d’un problème fondamentalement théorique et algorithmique, il est apparu préférable de se rapprocher de l’usage mathématique.</p>
@@ -1141,7 +1141,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1186,7 +1186,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « merge » a été traduit par « fusion », lequel semble être la traduction la plus courante dans le domaine du traitement de l’information. </p>
@@ -1219,7 +1219,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1247,7 +1247,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1289,7 +1289,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Le terme « information system » a été traduit par « système d’information ». </p>
@@ -1319,7 +1319,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1346,7 +1346,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1373,7 +1373,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -1424,7 +1424,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -1510,7 +1510,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Le terme « naming convention » est parfois traduit par « convention d’appellation » ou « convention de nommage”; le terme « convention d’appellation » a été privilégié, car il semble davantage utilisé de manière générale (après avoir fait une brève recherche en ligne) et est entériné par Termium. </p>
@@ -1549,7 +1549,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
@@ -1587,7 +1587,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -1641,7 +1641,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Le terme « assomption » est peu courant, mais est préféré dans un contexte logique ou mathématique, raison pour laquelle il a été utilisé plutôt que « supposition » ou « hypothèse”. </p>
@@ -1657,7 +1657,7 @@ date: 2023-11-08
 </tbody>
 </table>
 
-<table class="original-table">
+<table class="original-table" id="table-1">
 <tbody>
 <tr>
 <td class="en">
@@ -1959,7 +1959,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Les termes « quantifiant » ou « quantificateur » peuvent tous deux être utilisés pour désigner des « quantifiers”, la seconde option a été privilégiée pour éviter toute confusion avec le gérondif. </p>
@@ -1997,7 +1997,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
@@ -2033,7 +2033,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -2064,7 +2064,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -2098,7 +2098,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -2129,7 +2129,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -2159,7 +2159,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -2190,7 +2190,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée.  </p>
@@ -2223,7 +2223,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -2258,7 +2258,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -2292,7 +2292,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -2325,7 +2325,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Une propriété répétable est une propriété pouvant apparaître plus d'une fois dans un enregistrement avec le(s) même(s) domaine et/ou portée. </p>
@@ -2371,7 +2371,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Le terme « dépendant » a été préféré au terme « dépendance » en guise de traduction de « dependencies » puisqu’il transmet davantage le fait qu’il s’agit d’un élément qui s’inscrit dans la suite d’un autre (qui en dépend) plutôt qu’un élément qui a lui-même « besoin » d’un autre élément (qui est en situation de dépendance). </p>

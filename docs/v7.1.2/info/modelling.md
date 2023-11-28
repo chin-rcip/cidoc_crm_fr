@@ -35,7 +35,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -96,7 +96,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -140,7 +140,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -248,7 +248,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné].  </p>
@@ -308,7 +308,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
@@ -378,7 +378,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
@@ -424,7 +424,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>

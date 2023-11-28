@@ -39,7 +39,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 <p>Une note présentant le « Instructions de migration pour E81_Transformation (domaine d’application restreint) » a été ajoutée afin d’être exhaustifs et cohérents quant à la description des tableaux présentés. </p>
@@ -57,7 +57,7 @@ date: 2023-11-08
 
 <h3 id="instructions-de-migration-des-classes-depreciees"><span class="en heading">Deprecated Class Migration Instructions - </span>Instructions de migration des classes dépréciées</h3>
 
-<table class="original-table">
+<table class="original-table" id="table-6">
 <tbody>
 <tr>
 <td class="en">
@@ -243,7 +243,7 @@ date: 2023-11-08
 </tr>
 <tr>
 <th>
-<p><em>Note traducteur</em></p>
+<p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 <p>Les traductions des classes dépréciées sont littérales et n’ont pas fait l’objet d’un examen dédié dans le cadre de ce travail. </p>
@@ -260,7 +260,7 @@ date: 2023-11-08
 
 <h3 id="instructions-de-migration-des-proprietes-depreciees"><span class="en heading">Deprecated Property Migration Instructions - </span>Instructions de migration des propriétés dépréciées</h3>
 
-<table class="original-table">
+<table class="original-table" id="table-7">
 <tbody>
 <tr>
 <td class="en">
@@ -556,7 +556,7 @@ date: 2023-11-08
 </td>
 </tr>
 <tr>
-<th><p><em>Note traducteur</em></p>
+<th><p><em>Note de traduction</em></p>
 </th>
 <td colspan="3">
 </td>
@@ -610,7 +610,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -656,7 +656,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>
@@ -691,7 +691,7 @@ date: 2023-11-08
 <table>
 <tbody>
 <tr>
-<th style="width:15%"><p><em>Note traducteur</em></p>
+<th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
 </td>

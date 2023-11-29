@@ -567,7 +567,7 @@ date: 2023-11-08
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td colspan="6"><span class="en">Symbolic Object E90_Objet_symbolique</span></td>
+      <td colspan="6"><span class="en">Symbolic Object </span><code class="language-plaintext highlighter-rouge">E90_Objet_symbolique</code></td>
       </tr>
     <tr>
       <td>E73</td>

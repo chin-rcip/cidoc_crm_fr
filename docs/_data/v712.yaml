@@ -590,9 +590,6 @@ toc:
 - title: Bibliographie du CIDOC CRM
   url: /v7.1.2/information/bibliographie-du-cidoc-crm
 
-- title: Bibliographie de la traduction
-  url: /v7.1.2/bibliographie-de-la-traduction
-
 - title: Annexe
   url: /v7.1.2/annexe
   subfolder:
@@ -612,3 +609,9 @@ toc:
         hash: instructions-de-migration-pour-e16_mesurage-note-dapplication-restreint    
   - title: Modifications
     hash: modifications
+
+- title: Bibliographie de la traduction
+  url: /v7.1.2/bibliographie-de-la-traduction
+  subfolder:
+  - title: Mentions de source des figures
+    hash: mentions-de-source-des-figures

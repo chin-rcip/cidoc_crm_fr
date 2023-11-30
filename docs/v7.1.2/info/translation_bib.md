@@ -9,7 +9,7 @@ date: 2023-11-08
 
 Date de création : 2023-11-08
 
-Dernière mise à jour : 2023-11-08
+Dernière mise à jour : 2023-11-30
 
 <div class="lang-buttons">
   <button id="fr" class="activate">FR</button>
@@ -709,5 +709,45 @@ Dernière mise à jour : 2023-11-08
               <p>XML Working Group. 2016. « Extensible Markup Language (XML) ». World Wide Web Consortium (W3C). 11 octobre 2016. <a href="https://www.w3.org/XML/">https://www.w3.org/XML/</a>.</p>
           </td>
       </tr>
+  </tbody>
+</table>
+
+<h2 id="mentions-de-source-des-figures"><span class="en heading">Visual credits - </span>Mentions de source des figures</h2>
+
+<table class="text" style="overflow-wrap: anywhere">
+  <colgroup>
+      <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td class="en">
+        <p>Figures 1-6 :</p>
+        <ul><li><p><em>diagrams.net software library</em>, © Canadian Heritage Information Network 2021</p></li></ul>
+        <p>Figure 2 :</p>
+        <ul><li><p><em>Johann Joachim Winckelmann</em>, © Wikimedia Commons CC BY-SA 4.0</p></li>
+          <li><p><em>Laocoön</em>, © Wikimedia Commons CC BY-SA 4.0</p></li>
+        </ul>
+        <p>Figure 3 :</p>
+        <ul><li><p>Icons for statues by Smashicons - Flaticon, © Freepik Company S.L. 2022</p></li>
+          <li><p>Icon for the unknown roman creator by Freepik - Flaticon, © Freepik Company S.L. 2022</p></li>
+          <li><p>Icon for Winckelmann by Freepik - Flaticon, © Freepik Company S.L. 2022</p></li>
+          <li><p>Icon for Winckelmann's mother by max.icons - Flaticon, © Freepik Company S.L. 2022</p></li>
+        </ul>    
+      </td>
+      <td>
+        <p>Figures 1-6 :</p>
+        <ul><li><p><em>Bibliothèques logicielles diagrams.net</em>, © Réseau canadien d'information sur le patrimoine 2021</p></li></ul>
+        <p>Figure 2 :</p>
+        <ul><li><p><em>Johann Joachim Winckelmann</em>, © Wikimedia Commons CC BY-SA 4.0</p></li>
+          <li><p><em>Laocoön</em>, © Wikimedia Commons CC BY-SA 4.0</p></li>
+        </ul>
+        <p>Figure 3 :</p>
+        <ul><li><p>Icônes de statues par Smashicons - Flaticon, © Freepik Company S.L. 2022</p></li>
+          <li><p>Icône du créateur romain inconnu par Freepik - Flaticon, © Freepik Company S.L. 2022</p></li>
+          <li><p>Icône de Winckelmann par Freepik - Flaticon, © Freepik Company S.L. 2022</p></li>
+          <li><p>Icône de la mère de Winckelmann par max.icons - Flaticon, © Freepik Company S.L. 2022</p></li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>

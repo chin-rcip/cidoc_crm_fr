@@ -589,9 +589,6 @@ toc:
 - title: Bibliographie originale
   url: /v7.1/bibliographie-originale
 
-- title: Bibliographie de la traduction
-  url: /v7.1/bibliographie-de-la-traduction
-
 - title: Annexe
   url: /v7.1/annexe
   subfolder:
@@ -607,3 +604,8 @@ toc:
   - title: Modifications 
     hash: modifications
 
+- title: Bibliographie de la traduction
+  url: /v7.1/bibliographie-de-la-traduction
+  subfolder:
+  - title: Mentions de source des figures
+    hash: mentions-de-source-des-figures

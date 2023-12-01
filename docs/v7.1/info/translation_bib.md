@@ -367,7 +367,7 @@ Dernière mise à jour : 2023-11-30
 </tbody>
 </table>
 
-<h2 id="mentions-de-source-des-figures"><span class="en heading">Visual credits - </span>Mentions de source des figures</h2>
+<h2 id="mentions-de-source-des-figures"><span class="en heading">Illustration Credits - </span>Mentions de source des figures</h2>
 
 <table class="text" style="overflow-wrap: anywhere">
   <colgroup>

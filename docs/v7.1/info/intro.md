@@ -9,7 +9,7 @@ group: information
 date: 2023-05-26
 ---
 
-([PDF](../../telechargements/CIDOC_CRM_7.1_FR.pdf) - [BibTex](../../references/CIDOC_CRM_7.1_FR.bib))
+([DOCX](../../telechargements/CIDOC_CRM_7.1_FR.docx), [PDF](../../telechargements/CIDOC_CRM_7.1_FR.pdf), [EPUB](../../telechargements/CIDOC_CRM_7.1_FR.epub) - [BibTex](../../references/CIDOC_CRM_7.1_FR.bib))
 
 **Date de création** : 2020-10-20
 

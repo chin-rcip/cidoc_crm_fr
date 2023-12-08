@@ -59,6 +59,20 @@ date: 2023-11-08
 
 <table class="original-table" id="table-6">
 <tbody>
+    <tr>
+<td class="en">
+<p><strong>Deprecated Class</strong></p>
+</td>
+<td class="en">
+<p><strong>Migration Instruction</strong></p>
+</td>
+<td>
+<p><strong>Classe dépréciée</strong></p>
+</td>
+<td>
+<p><strong>Instruction de migration</strong></p>
+</td>
+</tr>
 <tr>
 <td class="en">
 <p>E38 Image</p>
@@ -270,10 +284,10 @@ date: 2023-11-08
 <p><strong>Migration Instruction</strong></p>
 </td>
 <td>
-<p><strong></strong></p>
+<p><strong>Propriété dépréciée</strong></p>
 </td>
 <td>
-<p><strong></strong></p>
+<p><strong>Instruction de migration</strong></p>
 </td>
 </tr>
 <tr>

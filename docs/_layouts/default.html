@@ -90,6 +90,22 @@
         });
       };
 
+      function switchLang(lang) {
+        $("button#"+lang).siblings().removeClass("activate");
+        $("button#"+lang).addClass("activate");
+        diagramResize();
+        if (lang == "en-fr"){
+          $(".en").addClass("show");
+          var title = "{% if page.titleEn %}{{ page.titleEn}}{% else %}{{ page.title }}{% endif %}";
+          $(".post-title").text(title);
+          $(".original-table").addClass("bilingual");
+        } else {
+          $(".en").removeClass("show");
+          $(".post-title").text("{{ page.title }}");
+          $(".original-table").removeClass("bilingual");
+        }
+      }
+
       // show/hide sidebar item
       $(".mainlist>li>.toggle-sidebar-list").on("click", function() {
         $(this).siblings().toggle();
@@ -155,18 +171,8 @@
 
       // switching language by clicking language button
       $(".lang-buttons>button").click(function(){
-        $(this).siblings().removeClass("activate");
-        $(this).addClass("activate");
-        diagramResize();
-        var button_id = $(this).attr("id");
-        if (button_id == "en-fr"){
-          $(".en").addClass("show");
-          var title = "{% if page.titleEn %}{{ page.titleEn}}{% else %}{{ page.title }}{% endif %}";
-          $(".post-title").text(title);
-        } else {
-          $(".en").removeClass("show");
-          $(".post-title").text("{{ page.title }}");
-        }
+        const button_id = $(this).attr("id");
+        switchLang(button_id)
       });
       
 

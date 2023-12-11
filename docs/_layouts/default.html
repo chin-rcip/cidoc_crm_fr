@@ -91,6 +91,7 @@
       };
 
       function switchLang(lang) {
+        localStorage.setItem("language",lang);
         $("button#"+lang).siblings().removeClass("activate");
         $("button#"+lang).addClass("activate");
         diagramResize();
@@ -132,6 +133,11 @@
 
 
       $(document).ready(function() {
+        // retrieve localStorage language
+        let prefLang = localStorage.getItem("language");
+        if (prefLang !== null) {
+          switchLang(prefLang);
+        }
         // styling H1 in sidebar
         $("#toc-en").addClass("h3");
         

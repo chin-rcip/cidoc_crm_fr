@@ -128,7 +128,7 @@ date: 2023-11-08
 </td>
 <td>
 <p>Cette section présente les pratiques exemplaires qui s'appliquent lors de la liaison de contenu d’autorité aux contenus d’une base de connaissances (BC). </p>
-<p>Les énoncés d’une BC doivent avoir été introduits par un agent humain de manière directe ou indirecte, mais ils ne font souvent pas explicitement référence à cet agent, de sorte que l’autorité sous laquelle une information a été émise n’est pas établie (c’est le cas, par exemple, lors de l’utilisation de raccourcis tels que <code class="language-plaintext highlighter-rouge">P2_a_pour_type</code>). Dans le domaine patrimonial, la responsabilité du maintien des informations dans la base de connaissances repose la plupart du temps sur des politiques institutionnelles ou des protocoles documentaires. Il est donc raisonnable de conclure que des affirmations dénuées d’une référence explicite à leur auteur constituent néanmoins le point de vue officiel de l’institution administrant le système (c.-à-d. le responsable de la BC). Cela n’implique pas pour autant que les savoirs représentés dans la BC sont complets ou exhaustifs, de sorte que, tant que l’information fait l’objet d’un maintien actif, elle est sujette à des révisions et à des améliorations au gré de l’avancement de la recherche et de la compréhension qui en est faite<sup>7</sup>. Une BC ne représente en effet pas une part de la réalité, mais bien la conception que s’en font raisonnablement ces responsables même si, à des fins de simplicité, il est souvent indiqué qu’une BC représente une réalité. </p>
+<p>Les énoncés d’une BC doivent avoir été introduits par un agent humain de manière directe ou indirecte, mais ils ne font souvent pas explicitement référence à cet agent, de sorte que l’autorité sous laquelle une information a été émise n’est pas établie (c’est le cas, par exemple, lors de l’utilisation de raccourcis tels que <code class="language-plaintext highlighter-rouge">P2_a_pour_type</code>). Dans le domaine patrimonial, la responsabilité du maintien des informations dans la base de connaissances repose la plupart du temps sur des politiques institutionnelles ou des protocoles documentaires. Il est donc raisonnable de conclure que des affirmations dénuées d’une référence explicite à leur auteur constituent néanmoins le point de vue officiel de l’institution administrant le système (c.-à-d. le responsable de la BC). Cela n’implique pas pour autant que les savoirs représentés dans la BC sont complets ou exhaustifs, de sorte que, tant que l’information fait l’objet d’un maintien actif, elle est sujette à des révisions et à des améliorations au gré de l’avancement de la recherche et de la compréhension qui en est faite<sup>7</sup>. Une BC ne représente en effet pas une part de la réalité, mais bien la conception que s’en font raisonnablement ces responsables même si, aux fins de simplicité, il est souvent indiqué qu’une BC représente une réalité. </p>
 <p>Les énoncés d’une BC peuvent toutefois avoir des références explicites aux agents qui les ont produits (c.-à-d. des énoncés de responsabilité supplémentaires [n.d.t. qui s’ajoutent à l’énoncé institutionnel implicite]). Dans CIDOC CRM, de tels énoncés de responsabilité prennent la forme d’évènements de création de connaissances par le biais de <code class="language-plaintext highlighter-rouge">E13_Assignation_d'attribut</code> ou de l’une de ses sous-classes pertinentes. Lorsqu’un évènement de création de connaissances comporte un énoncé indiquant explicitement qui est son auteur, l’autorité de cet évènement est attribuée à l’institution responsable du maintien de la BC alors que le contenu résultant de cet évènement est attribué à l’agent l’ayant initié.</p>
 <p>Lorsqu’une institution prend à sa charge une base de données dans le cadre d’un transfert de sa garde d’une autorité administrative à une autre, deux relations de responsabilité sur les connaissances de cette BC sont possibles. Si l’institution hôte accepte la responsabilité du maintien des informations, elle devient l’autorité associée par défaut aux énoncés qui s’y trouvent. Si, par contre, l’institution hôte traite l’ensemble des données comme une ressource « fermée » [n.d.t. donc traité à la manière d’un artéfact], l’autorité associée par défaut aux énoncés qui s’y trouvent sera celle de l’institution initiale (comme c’est le cas de tout autre document de recherche se trouvant dans la collection de l’institution hôte). </p>
 <p>[n.d.t. voir « <a href="/v7.1.2/information/introduction#terminologie-processus-de-creation-de-connaissances"><span class="underline">Processus de création de connaissances</span></a> » dans la section <a href="/v7.1.2/information/introduction#terminologie"><span class="underline">Terminologie</span></a>.]</p>
@@ -251,7 +251,7 @@ date: 2023-11-08
 <th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
-<p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné].  </p>
+<p>Certains paragraphes ont été édités dans la version francophone aux fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné].  </p>
 <p>Le terme « fact » pour référer à un élément se trouvant dans une base de connaissances a été traduit par « élément » puisqu’il ne semble pas y avoir de référence à la nature attestée de l’élément en question. </p>
 </td>
 </tr>
@@ -311,7 +311,7 @@ date: 2023-11-08
 <th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
-<p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
+<p>Certains paragraphes ont été édités dans la version francophone aux fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
 </td>
 </tr>
 <tr>
@@ -381,7 +381,7 @@ date: 2023-11-08
 <th style="width:15%"><p><em>Note de traduction</em></p>
 </th>
 <td colspan="1">
-<p>Certains paragraphes ont été édités dans la version francophone à des fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
+<p>Certains paragraphes ont été édités dans la version francophone aux fins de compréhension. Les sections concernées sont indiquées de [n.d.t. texte concerné]. </p>
 </td>
 </tr>
 <tr>

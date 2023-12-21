@@ -70,7 +70,7 @@ date: 2023-11-08
 </li>
 <li><p>Une série de traits d’union (« - ») suit cet identifiant de propriété unique et indique la position de la propriété dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>. </p>
 </li>
-<li><p>Le nom de la propriété se trouve à droite des traits d’union, suivi par le nom de la propriété inverse entre parenthèses (à des fins de lecture depuis la portée vers le domaine). </p>
+<li><p>Le nom de la propriété se trouve à droite des traits d’union, suivi par le nom de la propriété inverse entre parenthèses (aux fins de lecture depuis la portée vers le domaine). </p>
 </li>
 <li><p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges, puis par numéro de propriété dans le cas de propriétés-soeurs égales. </p>
 </li>

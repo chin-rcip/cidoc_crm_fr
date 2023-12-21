@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Déclaration des propriétés du CIDOC CRM
-titleEn: CIDOC CRM Property Declarations - Déclaration des propriétés du CIDOC CRM
+title: Déclaration des propriétés du CIDOC CRM
+titleEn: CIDOC CRM Property Declarations - Déclaration des propriétés du CIDOC CRM
 permalink: /v7.1.2/proprietes/declaration-des-proprietes-du-cidoc-crm
 sidebar: v712
 group: proprietes
@@ -24,7 +24,7 @@ date: 2023-11-08
 <tbody>
 <tr>
 <td class="en">
-<p>The properties of the CIDOC CRM are comprehensively declared in this section using the following format: </p>
+<p>The properties of the CIDOC CRM are comprehensively declared in this section using the following format: </p>
 <ul><li><p>Property names are presented as headings in bold face, preceded by unique property identifiers;</p>
 </li>
 <li><p>The line “Domain:” declares the class for which the property is defined;</p>
@@ -47,7 +47,7 @@ date: 2023-11-08
 </li></ul>
 </td>
 <td>
-<p>Les propriétés du CIDOC CRM sont déclarées ici selon la forme suivante : </p>
+<p>Les propriétés du CIDOC CRM sont déclarées ici selon la forme suivante : </p>
 <ul><li><p>Les noms de propriété sont présentés comme des titres en gras précédés de l’identifiant unique de la propriété;</p>
 </li>
 <li><p>La ligne « Domaine : » déclare la classe pour laquelle la propriété est définie; </p>

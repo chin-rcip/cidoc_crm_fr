@@ -87,10 +87,10 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>CIDOC CRM. 2021. ‘CRMgeo’. Modèle. <a href="http://www.cidoc-crm.org/crmgeo/home-5">http://www.cidoc-crm.org/crmgeo/home-5</a>.</p>
+              <p>CIDOC CRM. 2021. ‘CRMgeo’. Modèle. <a href="http://www.cidoc-crm.org/crmgeo/home-5">http://www.cidoc-crm.org/crmgeo/home-5</a>.</p>
           </td>
           <td>
-              <p>CIDOC CRM. 2021. « CRMgeo ». Modèle. <a href="http://www.cidoc-crm.org/crmgeo/home-5">http://www.cidoc-crm.org/crmgeo/home-5</a>.</p>
+              <p>CIDOC CRM. 2021. « CRMgeo ». Modèle. <a href="http://www.cidoc-crm.org/crmgeo/home-5">http://www.cidoc-crm.org/crmgeo/home-5</a>.</p>
           </td>
       </tr>
       <tr>
@@ -127,18 +127,18 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>‘Definition of the CIDOC Conceptual Reference Model’. 2015. Modèle. Paris, FR-IDF: CIDOC CRM  Special Interest Group. <a href="https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf">https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf</a>.</p>
+              <p>‘Definition of the CIDOC Conceptual Reference Model’. 2015. Modèle. Paris, FR-IDF: CIDOC CRM  Special Interest Group. <a href="https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf">https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf</a>.</p>
           </td>
           <td>
-              <p>« Definition of the CIDOC Conceptual Reference Model ». 2015. Modèle. Paris, FR-IDF : CIDOC CRM  Special Interest Group. <a href="https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf">https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf</a>.</p>
+              <p>« Definition of the CIDOC Conceptual Reference Model ». 2015. Modèle. Paris, FR-IDF : CIDOC CRM  Special Interest Group. <a href="https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf">https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>‘———’. 2021. Modèle. Paris, FR-IDF: CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
+              <p>‘———’. 2021. Modèle. Paris, FR-IDF: CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
           </td>
           <td>
-              <p>« ——— ». 2021. Modèle. Paris, FR-IDF : CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
+              <p>« ——— ». 2021. Modèle. Paris, FR-IDF : CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
           </td>
       </tr>
       <tr>

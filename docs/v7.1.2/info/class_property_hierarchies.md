@@ -24,7 +24,7 @@ date: 2023-11-08
 <tbody>
 <tr>
 <td class="en">
-<p>Although they do not provide comprehensive definitions, compact mono-hierarchical presentations of the class and property IsA hierarchies have been found to significantly aid comprehension and navigation of the CIDOC CRM. Since the CRM is poly-hierarchical, a mono-hierarchical presentation form is achieved by a top-down expansion of all inverse IsA relations regardless whether a concept has already be presented at another place in the same hierarchy. This form is provided below.</p>
+<p>Although they do not provide comprehensive definitions, compact mono-hierarchical presentations of the class and property IsA hierarchies have been found to significantly aid comprehension and navigation of the CIDOC CRM. Since the CRM is poly-hierarchical, a mono-hierarchical presentation form is achieved by a top-down expansion of all inverse IsA relations regardless whether a concept has already be presented at another place in the same hierarchy. This form is provided below.</p>
 <p>The class hierarchy presented below has the following format:</p>
 <ul><li><p>Each line begins with a unique class identifier, consisting of a number preceded by the letter “E” (originally denoting “entity,” although now replaced by convention with the term “class”).</p>
 </li>
@@ -53,7 +53,7 @@ date: 2023-11-08
 </li></ul>
 </td>
 <td>
-<p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations <code class="language-plaintext highlighter-rouge">estUn</code> indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie. </p>
+<p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations <code class="language-plaintext highlighter-rouge">estUn</code> indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie. </p>
 <p>La hiérarchie de classes présentée ci-bas reprend la forme suivante : </p>
 <ul><li><p>Chaque ligne commence avec un identifiant de classe unique composé d’un nombre précédé de la lettre « E » (qui signalait autrefois une « entité », bien que le terme « classe » soit maintenant préféré). </p>
 </li>
@@ -98,7 +98,7 @@ date: 2023-11-08
 </tbody>
 </table>
 
-<h2 id="liste-hierarchisee-des-classes-du-cidoc-crm"><span class="en heading">CIDOC CRM Class Hierarchy - </span>Liste hiérarchisée des classes du CIDOC CRM</h2>
+<h2 id="liste-hierarchisee-des-classes-du-cidoc-crm"><span class="en heading">CIDOC CRM Class Hierarchy - </span>Liste hiérarchisée des classes du CIDOC CRM</h2>
 
 <table id="cidoc-crm-class-hierarchy-table">
   <tbody>
@@ -1564,7 +1564,7 @@ date: 2023-11-08
   </tbody>
 </table>
 
-<h2 id="liste-hierarchisee-des-proprietes-du-cidoc-crm"><span class="en heading">CIDOC CRM Property Hierarchy - </span>Liste hiérarchisée des propriétés du CIDOC CRM</h2>
+<h2 id="liste-hierarchisee-des-proprietes-du-cidoc-crm"><span class="en heading">CIDOC CRM Property Hierarchy - </span>Liste hiérarchisée des propriétés du CIDOC CRM</h2>
 
 <table id="cidoc-crm-property-hierarchy-table">
   <tbody>
@@ -2753,7 +2753,7 @@ date: 2023-11-08
   </tbody>
 </table>
 
-<h3 id="proprietes-de-proprietes-du-cidoc-crm-proprietes-1"><span class="en heading">CIDOC CRM Properties of Properties (.1 Properties) - </span>Propriétés de propriétés du CIDOC CRM (propriétés .1)</h3>
+<h3 id="proprietes-de-proprietes-du-cidoc-crm-proprietes-1"><span class="en heading">CIDOC CRM Properties of Properties (.1 Properties) - </span>Propriétés de propriétés du CIDOC CRM (propriétés .1)</h3>
 
 <table id="cidoc-crm-properties-of-properties-table">
   <tbody>

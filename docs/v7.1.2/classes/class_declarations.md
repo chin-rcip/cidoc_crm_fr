@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Déclaration des classes du CIDOC CRM
-titleEn: CIDOC CRM Class Declarations - Déclaration des classes du CIDOC CRM
+title: Déclaration des classes du CIDOC CRM
+titleEn: CIDOC CRM Class Declarations - Déclaration des classes du CIDOC CRM
 permalink: /v7.1.2/classes/declaration-des-classes-du-cidoc-crm
 sidebar: v712
 group: classes
@@ -24,7 +24,7 @@ date: 2023-11-08
 <tbody>
 <tr>
 <td class="en">
-<p>The classes of the CIDOC CRM are comprehensively declared in this section using the following format:</p>
+<p>The classes of the CIDOC CRM are comprehensively declared in this section using the following format:</p>
 <ul><li><p>Class names are presented as headings in bold face, preceded by the class’ unique identifier;</p>
 </li>
 <li><p>The line “Subclass of:” declares the superclass of the class from which it inherits properties;</p>
@@ -47,7 +47,7 @@ date: 2023-11-08
 </li></ul>
 </td>
 <td>
-<p>Les classes du CIDOC CRM sont déclarées ici selon la forme suivante : </p>
+<p>Les classes du CIDOC CRM sont déclarées ici selon la forme suivante : </p>
 <ul><li><p>Les noms de classe sont présentés comme des titres en gras précédés de l’identifiant unique de la classe;</p>
 </li>
 <li><p>La ligne « Sous-classe de : » déclare la super-classe dont la classe hérite les propriétés; </p>

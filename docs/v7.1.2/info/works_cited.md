@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bibliographie du CIDOC CRM
-titleEn: Works Cited - Bibliographie du CIDOC CRM
+title: Bibliographie du CIDOC CRM
+titleEn: Works Cited - Bibliographie du CIDOC CRM
 permalink: /v7.1.2/information/bibliographie-du-cidoc-crm
 sidebar: v712
 date: 2023-11-08
@@ -615,10 +615,10 @@ date: 2023-11-08
         </tr>
         <tr>
             <td class="en">
-                <p>Doerr, Martin, and Gerald Hiebel. 2013. ‘CRMgeo: Linking the CIDOC CRM to GeoSPARQL through a Spatiotemporal Refinement’. Technical Report ICS-FORTH/TR-435. Heraklion, Crete, Greece: Institute of Computer Science, Foundation for Research and Technology Hellas.</p>
+                <p>Doerr, Martin, and Gerald Hiebel. 2013. ‘CRMgeo: Linking the CIDOC CRM to GeoSPARQL through a Spatiotemporal Refinement’. Technical Report ICS-FORTH/TR-435. Heraklion, Crete, Greece: Institute of Computer Science, Foundation for Research and Technology Hellas.</p>
             </td>
             <td>
-                <p>Doerr, Martin, et Gerald Hiebel. 2013. « CRMgeo: Linking the CIDOC CRM to GeoSPARQL through a Spatiotemporal Refinement ». Technical Report ICS-FORTH/TR-435. Heraklion, Crete, GR or Grèce : Institute of Computer Science, Foundation for Research and Technology Hellas.</p>
+                <p>Doerr, Martin, et Gerald Hiebel. 2013. « CRMgeo: Linking the CIDOC CRM to GeoSPARQL through a Spatiotemporal Refinement ». Technical Report ICS-FORTH/TR-435. Heraklion, Crete, GR or Grèce : Institute of Computer Science, Foundation for Research and Technology Hellas.</p>
             </td>
         </tr>
         <tr>
@@ -903,10 +903,10 @@ date: 2023-11-08
         </tr>
         <tr>
             <td class="en">
-                <p>Hiebel, Gerald, and Martin Doerr. 2013. ‘An Ontological Spatio-Temporal Refinement for the CIDOC CRM and GIS Standards’. In . Pilsen, Czech Republic.</p>
+                <p>Hiebel, Gerald, and Martin Doerr. 2013. ‘An Ontological Spatio-Temporal Refinement for the CIDOC CRM and GIS Standards’. In . Pilsen, Czech Republic.</p>
             </td>
             <td>
-                <p>Hiebel, Gerald, et Martin Doerr. 2013. « An ontological spatio-temporal refinement for the CIDOC CRM and GIS standards ». Pilsen, Czech Republic.</p>
+                <p>Hiebel, Gerald, et Martin Doerr. 2013. « An ontological spatio-temporal refinement for the CIDOC CRM and GIS standards ». Pilsen, Czech Republic.</p>
             </td>
         </tr>
         <tr>

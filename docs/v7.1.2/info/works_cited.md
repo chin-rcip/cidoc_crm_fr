@@ -4,12 +4,12 @@ title: Bibliographie du CIDOC CRM
 titleEn: Works Cited - Bibliographie du CIDOC CRM
 permalink: /v7.1.2/information/bibliographie-du-cidoc-crm
 sidebar: v712
-date: 2023-11-08
+date: 2023-12-22
 ---
 
 **Date de création** : 2023-11-08
 
-**Dernière mise à jour** : 2023-11-08
+**Dernière mise à jour** : 2023-12-22
 
 <div class="lang-buttons">
  <button id="fr" class="activate">FR</button>
@@ -1111,10 +1111,10 @@ date: 2023-11-08
         </tr>
         <tr>
             <td class="en">
-                <p>Kogan, Herman. 1958. <i>The Great EB: The Story of the Encyclopædia Britannica</i>. Chicago: University of Chicago Press.</p>
+                <p>Kogan, Herman. 1958. <i>The Great EB: The Story of the Encyclopaedia Britannica</i>. Chicago: University of Chicago Press.</p>
             </td>
             <td>
-                <p>Kogan, Herman. 1958. <i>The great EB: the story of the Encyclopædia Britannica</i>. Chicago, US-IL : University of Chicago Press.</p>
+                <p>Kogan, Herman. 1958. <i>The great EB: the story of the Encyclopaedia Britannica</i>. Chicago, US-IL : University of Chicago Press.</p>
             </td>
         </tr>
         <tr>
@@ -1239,10 +1239,10 @@ date: 2023-11-08
         </tr>
         <tr>
             <td class="en">
-                <p>Linnean Society of London, Carl von Linné, Spencer Savage, and Benjamin Daydon Jackson. 1945. <i>A Catalogue of the Linnaean Herbarium</i>. London: Printed for the Linnean Society of London by Taylor &amp; Francis, Ltd.</p>
+                <p>Linnean Society of London, Carl von Linné, Spencer Savage, and Benjamin Daydon Jackson. 1945. <i>A Catalogue of the Linnæan Herbarium</i>. London: Printed for the Linnean Society of London by Taylor &amp; Francis, Ltd.</p>
             </td>
             <td>
-                <p>Linnean Society of London, Carl von Linné, Spencer Savage, et Benjamin Daydon Jackson. 1945. <i>A catalogue of the Linnaean herbarium</i>. Londres, GB-LND : Printed for the Linnean Society of London by Taylor &amp; Francis, Ltd.</p>
+                <p>Linnean Society of London, Carl von Linné, Spencer Savage, et Benjamin Daydon Jackson. 1945. <i>A catalogue of the Linnæan herbarium</i>. Londres, GB-LND : Printed for the Linnean Society of London by Taylor &amp; Francis, Ltd.</p>
             </td>
         </tr>
         <tr>
@@ -1306,7 +1306,7 @@ date: 2023-11-08
                 <p>Marion, Stéphane. 2004. <i>Recherches sur l’âge du Fer en Ile-de-France: entre Hallstatt final et La Teǹe finale ; analyse des sites fouillés ; chronologie et société.</i> Oxford: John and Erica Hedges Ltd.</p>
             </td>
             <td>
-                <p>Marion, Stéphane. 2004. <i>Recherches sur l’âge du Fer en Ile-de-France: entre Hallstatt final et La Teǹe finale ; analyse des sites fouillés ; chronologie et société.</i> Oxford, GB-OXF : John and Erica Hedges Ltd.</p>
+                <p>Marion, Stéphane. 2004. <i>Recherches sur l’âge du Fer en Ile-de-France : entre Hallstatt final et La Teǹe finale ; analyse des sites fouillés ; chronologie et société.</i> Oxford, GB-OXF : John and Erica Hedges Ltd.</p>
             </td>
         </tr>
         <tr>
@@ -1671,10 +1671,10 @@ date: 2023-11-08
         </tr>
         <tr>
             <td class="en">
-                <p>Raga, Suzanne. 2016. ‘How Michael Jackson Bought the Publishing Rights to The Beatles Catalogue’. <i>Mental Floss</i>, 29 August 2016. <a href="https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue">https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue</a>.</p>
+                <p>Raga, Suzanne. 2016. ‘How Michael Jackson Bought the Publishing Rights to The Beatles Catalogue’. <i>Mental Floss</i>, 29 August 2016. <a href="https://www.mentalfloss.com/article/85007/how-michæl-jackson-bought-publishing-rights-beatles-catalogue">https://www.mentalfloss.com/article/85007/how-michæl-jackson-bought-publishing-rights-beatles-catalogue</a>.</p>
             </td>
             <td>
-                <p>Raga, Suzanne. 2016. « How Michael Jackson Bought the Publishing Rights to The Beatles Catalogue ». <i>Mental Floss</i>, 29 août 2016. <a href="https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue">https://www.mentalfloss.com/article/85007/how-michael-jackson-bought-publishing-rights-beatles-catalogue</a>.</p>
+                <p>Raga, Suzanne. 2016. « How Michael Jackson Bought the Publishing Rights to The Beatles Catalogue ». <i>Mental Floss</i>, 29 août 2016. <a href="https://www.mentalfloss.com/article/85007/how-michæl-jackson-bought-publishing-rights-beatles-catalogue">https://www.mentalfloss.com/article/85007/how-michæl-jackson-bought-publishing-rights-beatles-catalogue</a>.</p>
             </td>
         </tr>
         <tr>
@@ -1783,10 +1783,10 @@ date: 2023-11-08
         </tr>
         <tr>
             <td class="en">
-                <p>Sinkevičius, Stanislovas, and Vytautas Naruševičius. 2002. ‘Investigation of Anaphase Aberrations in Chaffinch (Fringilla Coelebs Linnaeus, 1758) Populations from Different Regions of Lithuania’. <i>Acta Zoologica Lituanica</i> 12 (1): 3–9.</p>
+                <p>Sinkevičius, Stanislovas, and Vytautas Naruševičius. 2002. ‘Investigation of Anaphase Aberrations in Chaffinch (Fringilla Coelebs Linnæus, 1758) Populations from Different Regions of Lithuania’. <i>Acta Zoologica Lituanica</i> 12 (1): 3–9.</p>
             </td>
             <td>
-                <p>Sinkevičius, Stanislovas, et Vytautas Naruševičius. 2002. « Investigation of anaphase aberrations in Chaffinch (Fringilla coelebs Linnaeus, 1758) populations from different regions of Lithuania ». <i>Acta zoologica Lituanica</i> 12 (1) : 3‑9.</p>
+                <p>Sinkevičius, Stanislovas, et Vytautas Naruševičius. 2002. « Investigation of anaphase aberrations in Chaffinch (Fringilla coelebs Linnæus, 1758) populations from different regions of Lithuania ». <i>Acta zoologica Lituanica</i> 12 (1) : 3‑9.</p>
             </td>
         </tr>
         <tr>

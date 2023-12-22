@@ -4,12 +4,12 @@ title: Annexe
 titleEn: Appendix - Annexe
 permalink: /v7.1.2/annexe
 sidebar: v712
-date: 2023-11-08
+date: 2023-12-22
 ---
 
 **Date de création** : 2023-11-08
 
-**Dernière mise à jour** : 2023-11-08
+**Dernière mise à jour** : 2023-12-22
 
 <div class="lang-buttons">
  <button id="fr" class="activate">FR</button>
@@ -28,9 +28,9 @@ date: 2023-11-08
 <p>The following is a list of classes and/or properties that have been deprecated between the version 5.0.4 of the CIDOC CRM, which served as community draft for ISO21127:2014, and this release (7.1). While the CIDOC CRM is developed with the principle of monotonic change, attempting to minimize backwards incompatibility through conservative initial modelling as well as modelling evolution, certain revisions inevitably entail changes to the model which will require an update to knowledge bases based on old versions of the ontology, in order to reconcile instances with the current version. The following tables provide information on which classes or properties have been deprecated and will thus require an update to previous official CRM compliant KBs in order to be in accord with the latest version of the standard. The reader will find in the first table, "Deprecated Class Migration Instructions", classes that have been deprecated and the suggested class or primitive replacement for that class. The reader should further refer to the 'deprecated property migration instructions table' in order to see not only the replacements for deprecated properties but also to understand how to build correct new semantic paths between the instances of deprecated classes and the newly suggested replacement classes or primitives. Finally, there are migration instructions where the range of a property has been reduced to a subclass of the previous range.</p>
 </td>
 <td>
-<p>La liste qui suit énumère les classes et/ou propriétés qui ont été dépréciées depuis la version 5.0.4 du CIDOC CRM (laquelle a servi d’ébauche communautaire pour ISO21127:2014 ainsi que pour cette version 7.1). Bien que le modèle CIDOC CRM soit développé selon les principes du changement monotone et que tout soit mis en oeuvre pour minimiser la rétro-incompatibilité (notamment grâce à une modélisation conservatrice tant initialement qu’au cours de l’évolution du modèle), certaines révisions exigent inévitablement des mises à jour des bases de connaissances qui s’appuient sur d’anciennes versions de l’ontologie afin de réconcilier les instances avec la version actuelle. Les tableaux ci-bas indiquent quelles classes et quelles propriétés ont été dépréciées de telle sorte qu’elles exigent une mise à jour des bases de connaissances auparavant conformes au CIDOC CRM afin d’être conformes avec la version la plus récente du standard. </p>
+<p>La liste qui suit énumère les classes et/ou propriétés qui ont été dépréciées depuis la version 5.0.4 du CIDOC CRM (laquelle a servi d’ébauche communautaire pour ISO21127:2014 ainsi que pour cette version 7.1). Bien que le modèle CIDOC CRM soit développé selon les principes du changement monotone et que tout soit mis en œuvre pour minimiser la rétro-incompatibilité (notamment grâce à une modélisation conservatrice tant initialement qu’au cours de l’évolution du modèle), certaines révisions exigent inévitablement des mises à jour des bases de connaissances qui s’appuient sur d’anciennes versions de l’ontologie afin de réconcilier les instances avec la version actuelle. Les tableaux ci-bas indiquent quelles classes et quelles propriétés ont été dépréciées de telle sorte qu’elles exigent une mise à jour des bases de connaissances auparavant conformes au CIDOC CRM afin d’être conformes avec la version la plus récente du standard. </p>
 <p>Le tableau « <a href="/v7.1.2/annexe#instructions-de-migration-des-classes-depreciees"><span class="underline">Instructions de migration des classes dépréciées</span></a> » énumère les classes dépréciées ainsi que les classes ou entités primitives qu’il est recommandé d’utiliser à la place de celles-ci. </p>
-<p>[n.d.t. Le tableau « <a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline">Instructions de migration pour </span></a><a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline"><code class="language-plaintext highlighter-rouge">E81_Transformation</code></span></a><a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline"> (domaine d’application restreint)</span></a> » fait des recommandations quant à la meilleure manière de mettre à jour une base de connaissances suite à la restriction du domaine d’application de <code class="language-plaintext highlighter-rouge">E81_Transformation</code>.] </p>
+<p>[n.d.t. Le tableau « <a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline">Instructions de migration pour </span></a><a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline"><code class="language-plaintext highlighter-rouge">E81_Transformation</code></span></a><a href="/v7.1.2/annexe#instructions-de-migration-pour-e81_transformation-note-dapplication-restreint"><span class="underline"> (domaine d’application restreint)</span></a> » fait des recommandations quant à la meilleure manière de mettre à jour une base de connaissances à la suite de la restriction du domaine d’application de <code class="language-plaintext highlighter-rouge">E81_Transformation</code>.] </p>
 <p>Le tableau « <a href="/v7.1.2/annexe#instructions-de-migration-des-proprietes-depreciees"><span class="underline">Instructions de migration des propriétés dépréciées</span></a> » énumère les propriétés dépréciées ainsi que celles qu’il est recommandé d’utiliser à la place de celles-ci. C’est un bon outil pour comprendre comment bien construire de nouveaux chemins sémantiques entre des instances de classes dépréciées et les remplacements de classes ou d’entités primitives qui sont recommandés. Il indique aussi comment procéder lorsque la portée d'une propriété a été réduite à une sous-classe de sa portée précédente.</p>
 </td>
 </tr>
@@ -414,7 +414,7 @@ date: 2023-11-08
 <p>Theoretically, <em>P114 is equal in time to </em>is equal to the conjunction of: <em>(</em><em>P175</em><em> starts before or with the start of </em><strong>AND </strong><em>P175</em><em>i starts after or with the start of </em><strong>AND</strong><em> </em><em>P184</em><em> ends before or with the end of</em><strong> AND </strong><em>P184</em><em>i ends with or after the end of), </em>without fuzzy temporal boundaries. However, note that only a common cause or a socially declared time-span can lead to temporal equality of different instances of E2 Temporal Entity. Consequently, creating the full path is always the preferred migration strategy.</p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P114_a_pour_équivalence_temporelle</code><em> </em>*</p>
+<p><code class="language-plaintext highlighter-rouge">P114_a_pour_équivalence_temporelle</code>*</p>
 </td>
 <td>
 <p>utiliser le chemin sémantique complet depuis <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle </code>en passant par <code class="language-plaintext highlighter-rouge">P4_a_pour_intervalle_temporel</code>, <code class="language-plaintext highlighter-rouge">E52_Intervalle_temporel</code>, <code class="language-plaintext highlighter-rouge">P4i_est_l’intervalle_temporel_de</code> . <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code></p>
@@ -429,7 +429,7 @@ date: 2023-11-08
 <p><em>P176</em><em>i starts after the start of </em><strong>AND </strong><em>P184</em><em> ends before or with the end of </em><strong>AND </strong><em>P184</em><em>i ends with or after the end of </em>[<em>P176</em><em>i starts after the start of </em>is required because the Range E2 Temporal Entity must be longer than the Domain E2 Temporal Entity]</p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P115_termine (est terminé par)</code> *</p>
+<p><code class="language-plaintext highlighter-rouge">P115_termine (est terminé par)</code>*</p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">P176i_commence_avant_le_début_de</code> <strong>ET</strong> <code class="language-plaintext highlighter-rouge">P184_se_termine_avant_ou_au_moment_de_la_fin_de</code> <strong>ET</strong> <code class="language-plaintext highlighter-rouge">P184i_se_termine_au_moment_ou_après_la_fin_de</code> [<code class="language-plaintext highlighter-rouge">P176i_commence_avant_le_début_de</code> est exigé car la portée de <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code> doit être plus longue que le domaine de <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code>]. </p>
@@ -443,7 +443,7 @@ date: 2023-11-08
 <p><em>P175</em><em> starts before or with the start of </em><strong>AND </strong><em>P175i starts after or with the start of </em><strong>AND</strong><em> </em><em>P185</em><em> ends before the end of</em> [<em>P185</em><em> ends before the end of </em>is required because the Range E2 Temporal Entity must be longer than the Domain E2 Temporal Entity]</p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P116_commence (est_commencé_par)</code> *</p>
+<p><code class="language-plaintext highlighter-rouge">P116_commence (est_commencé_par)</code>*</p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">P175_commence_avant_ou_au_moment_du_début_de</code> <strong>ET</strong> <code class="language-plaintext highlighter-rouge">P175i_commence_après_ou_au_moment_du_début_de</code> <strong>ET </strong><code class="language-plaintext highlighter-rouge">P185_se_termine_avant_la_fin_de</code> [<code class="language-plaintext highlighter-rouge">P185_se_termine_avant_la_fin_de</code> est exigé car la portée de <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code> doit être plus longue que le domaine de <code class="language-plaintext highlighter-rouge">E2_Entité_temporelle</code>]</p>
@@ -457,7 +457,7 @@ date: 2023-11-08
 <p><em>P176</em><em>i starts after the start of </em><strong>AND </strong><em>P185</em><em> ends before the end of</em></p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P117_se_produit_durant (inclut)</code><em> </em>*</p>
+<p><code class="language-plaintext highlighter-rouge">P117_se_produit_durant (inclut)</code>*</p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">P176i_commence_après_le_début_de</code> <strong>ET </strong><code class="language-plaintext highlighter-rouge">P185_se_termine_avant_la_fin_de</code></p>
@@ -471,7 +471,7 @@ date: 2023-11-08
 <p><em>P176</em><em> starts before the start of </em><strong>AND</strong><em> </em><em>P185</em><em> ends before the end of</em></p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P118_se_superpose_temporellement_à (est_temporellement_superposé_à) </code>*</p>
+<p><code class="language-plaintext highlighter-rouge">P118_se_superpose_temporellement_à (est_temporellement_superposé_à)</code>*</p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">P176_commence_avant_le_début_de</code> <strong>ET </strong><code class="language-plaintext highlighter-rouge">P185_se_termine_avant_la_fin_de</code> </p>
@@ -485,7 +485,7 @@ date: 2023-11-08
 <p>use <em>P182</em><em> ends before or with the start of </em><strong>AND</strong> <em>P173</em><em>i ends after or with the start of</em></p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P119_concorde_temporellement_avec (concorde_temporellement_avec)</code> *</p>
+<p><code class="language-plaintext highlighter-rouge">P119_concorde_temporellement_avec (concorde_temporellement_avec)</code>*</p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">P182_se_termine_avant_ou_au_début_du_moment_de</code> <strong>ET</strong> <code class="language-plaintext highlighter-rouge">P173i_se_termine_après_ou_au_moment_du_début_de</code></p>
@@ -499,7 +499,7 @@ date: 2023-11-08
 <p>use <em>P183</em><em> ends before the start of</em></p>
 </td>
 <td>
-<p><code class="language-plaintext highlighter-rouge">P120_se_produit_avant (se_produit_après)</code> *</p>
+<p><code class="language-plaintext highlighter-rouge">P120_se_produit_avant (se_produit_après)</code>*</p>
 </td>
 <td>
 <p>utiliser <code class="language-plaintext highlighter-rouge">P183_se_termine_avant_le_début_de</code></p>

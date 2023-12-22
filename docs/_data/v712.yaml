@@ -66,7 +66,7 @@ toc:
       hash: construits-specifiques-de-modelisation
       class: sublist
       subfolder:
-      - title: Des Types
+      - title: Des types
         hash: des-types
       - title: Des relations temporelles primitives fondées sur des frontières floues
         hash: des-relations-temporelles-primitives-fondees-sur-des-frontieres-floues

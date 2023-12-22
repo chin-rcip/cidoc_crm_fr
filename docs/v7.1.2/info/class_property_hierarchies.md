@@ -5,12 +5,12 @@ titleEn: Class & Property Hierarchies - Hiérarchies de classes et de propriét�
 permalink: /v7.1.2/information/hierarchies-de-classes-et-de-proprietes
 sidebar: v712
 group: information
-date: 2023-11-08
+date: 2023-12-22
 ---
 
 **Date de création** : 2023-11-08
 
-**Dernière mise à jour** : 2023-11-08
+**Dernière mise à jour** : 2023-12-22
 
 <div class="lang-buttons">
  <button id="fr" class="activate">FR</button>
@@ -53,28 +53,28 @@ date: 2023-11-08
 </li></ul>
 </td>
 <td>
-<p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations <code class="language-plaintext highlighter-rouge">estUn</code> indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie. </p>
-<p>La hiérarchie de classes présentée ci-bas reprend la forme suivante : </p>
-<ul><li><p>Chaque ligne commence avec un identifiant de classe unique composé d’un nombre précédé de la lettre « E » (qui signalait autrefois une « entité », bien que le terme « classe » soit maintenant préféré). </p>
+<p>Bien qu’elles n’étayent pas de définitions exhaustives, les présentations succinctes et mono-hiérarchiques des classes et des propriétés contribuent à la navigation dans le CIDOC CRM et à la compréhension de celui-ci. Puisque le CIDOC CRM est poly-hiérarchique, la présentation mono-hiérarchique formelle découle d’une expansion descendante de toutes les relations <code class="language-plaintext highlighter-rouge">estUn</code> indépendamment de la présence d’un concept ailleurs dans ladite hiérarchie.</p>
+<p>La hiérarchie de classes présentée ci-bas reprend la forme suivante :</p>
+<ul><li><p>Chaque ligne commence avec un identifiant de classe unique composé d’un nombre précédé de la lettre « E » (qui signalait autrefois une « entité », bien que le terme « classe » soit maintenant préféré).</p>
 </li>
-<li><p>Une série de traits d’union (« - ») suit cet identifiant de classe unique et indique la position de la classe dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>. </p>
+<li><p>Une série de traits d’union (« - ») suit cet identifiant de classe unique et indique la position de la classe dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>.</p>
 </li>
-<li><p>Le nom de la classe se trouve à droite des traits d’union. </p>
+<li><p>Le nom de la classe se trouve à droite des traits d’union.</p>
 </li>
-<li><p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges. </p>
+<li><p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges.</p>
 </li>
-<li><p>L’apparition de classes dans de multiples positions dans la hiérarchie des classes en raison d’héritages multiples est signalée par l’usage des italiques. </p>
+<li><p>L’apparition de classes dans de multiples positions dans la hiérarchie des classes en raison d’héritages multiples est signalée par l’usage des italiques.</p>
 </li></ul>
-<p>La hiérarchie des propriétés présentée ci-bas reprend la forme suivante : </p>
-<ul><li><p>Chaque ligne commence avec un identifiant de propriété unique composé d’un nombre précédé de la lettre « P » (pour « propriété »). </p>
+<p>La hiérarchie des propriétés présentée ci-bas reprend la forme suivante :</p>
+<ul><li><p>Chaque ligne commence avec un identifiant de propriété unique composé d’un nombre précédé de la lettre « P » (pour « propriété »).</p>
 </li>
-<li><p>Une série de traits d’union (« - ») suit cet identifiant de propriété unique et indique la position de la propriété dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>. </p>
+<li><p>Une série de traits d’union (« - ») suit cet identifiant de propriété unique et indique la position de la propriété dans la hiérarchie <code class="language-plaintext highlighter-rouge">estUn</code>.</p>
 </li>
-<li><p>Le nom de la propriété se trouve à droite des traits d’union, suivi par le nom de la propriété inverse entre parenthèses (aux fins de lecture depuis la portée vers le domaine). </p>
+<li><p>Le nom de la propriété se trouve à droite des traits d’union, suivi par le nom de la propriété inverse entre parenthèses (aux fins de lecture depuis la portée vers le domaine).</p>
 </li>
-<li><p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges, puis par numéro de propriété dans le cas de propriétés-soeurs égales. </p>
+<li><p>L’index est ordonné selon les niveaux hiérarchiques avec une approche de « parcours en profondeur » depuis les sous-hiérarchies les plus petites vers les plus larges, puis par numéro de propriété dans le cas de propriétés-sœurs égales.</p>
 </li>
-<li><p>L’apparition de propriétés dans de multiples positions dans la hiérarchie des propriétés en raison d’héritages multiples est signalée par l’usage des italiques. </p>
+<li><p>L’apparition de propriétés dans de multiples positions dans la hiérarchie des propriétés en raison d’héritages multiples est signalée par l’usage des italiques.</p>
 </li></ul>
 </td>
 </tr>

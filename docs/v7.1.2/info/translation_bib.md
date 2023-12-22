@@ -4,16 +4,16 @@ title:  Bibliographie de la traduction
 titleEn: Translation Bibliography - Bibliographie de la traduction
 permalink: /v7.1.2/bibliographie-de-la-traduction
 sidebar: v712
-date: 2023-11-08
+date: 2023-12-22
 ---
 
 Date de création : 2023-11-08
 
-Dernière mise à jour : 2023-11-30
+Dernière mise à jour : 2023-12-22
 
 <div class="lang-buttons">
-  <button id="fr" class="activate">FR</button>
-  <button id="en-fr">EN-FR</button>
+<button id="fr" class="activate">FR</button>
+<button id="en-fr">EN-FR</button>
 </div>
 
 <table class="text" style="overflow-wrap: anywhere">
@@ -39,18 +39,18 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2022b. ‘précision’. In <i>Antidote</i>, 11th ed. Montreal, CA-QC: Druide Informatique.</p>
+              <p>–––. 2022b. ‘précision’. In <i>Antidote</i>, 11th ed. Montreal, CA-QC: Druide Informatique.</p>
           </td>
           <td>
-              <p>———. 2022b. « Précision ». Dans <i>Antidote</i>. . Montreal, CA-QC : Druide Informatique.</p>
+              <p>–––. 2022b. « Précision ». Dans <i>Antidote</i>. . Montreal, CA-QC : Druide Informatique.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2022c. ‘spécialisation’. In <i>Antidote</i>, 11th ed. Montreal, CA-QC: Druide Informatique. <a href="https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D">https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D</a>.</p>
+              <p>–––. 2022c. ‘spécialisation’. In <i>Antidote</i>, 11th ed. Montreal, CA-QC: Druide Informatique. <a href="https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D">https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D</a>.</p>
           </td>
           <td>
-              <p>———. 2022c. « Spécialisation ». Dans <i>Antidote</i>. . Montreal, CA-QC : Druide Informatique. Consulté le 2022. <a href="https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D">https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D</a>.</p>
+              <p>–––. 2022c. « Spécialisation ». Dans <i>Antidote</i>. . Montreal, CA-QC : Druide Informatique. Consulté le 2022. <a href="https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D">https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D</a>.</p>
           </td>
       </tr>
       <tr>
@@ -103,10 +103,10 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>———. 1100b. ‘Greek Manuscripts 418. John Climacus’. Manuscrit. Monastère Sainte-Catherine, EG-JS. <a href="https://www.loc.gov/item/00279380435-ms">https://www.loc.gov/item/00279380435-ms</a>.</p>
+              <p>–––. 1100b. ‘Greek Manuscripts 418. John Climacus’. Manuscrit. Monastère Sainte-Catherine, EG-JS. <a href="https://www.loc.gov/item/00279380435-ms">https://www.loc.gov/item/00279380435-ms</a>.</p>
           </td>
           <td>
-              <p>———. 1100b. « Greek Manuscripts 418. John Climacus ». Manuscrit. Monastère Sainte-Catherine, EG-JS. <a href="https://www.loc.gov/item/00279380435-ms">https://www.loc.gov/item/00279380435-ms</a>.</p>
+              <p>–––. 1100b. « Greek Manuscripts 418. John Climacus ». Manuscrit. Monastère Sainte-Catherine, EG-JS. <a href="https://www.loc.gov/item/00279380435-ms">https://www.loc.gov/item/00279380435-ms</a>.</p>
           </td>
       </tr>
       <tr>
@@ -135,10 +135,10 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>‘———’. 2021. Modèle. Paris, FR-IDF: CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
+              <p>‘–––’. 2021. Modèle. Paris, FR-IDF: CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
           </td>
           <td>
-              <p>« ——— ». 2021. Modèle. Paris, FR-IDF : CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
+              <p>« ––– ». 2021. Modèle. Paris, FR-IDF : CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
           </td>
       </tr>
       <tr>
@@ -223,34 +223,34 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2019a. ‘Écriture des dates’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue française. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/21640/la-typographie/nombres/ecriture-des-dates">https://vitrinelinguistique.oqlf.gouv.qc.ca/21640/la-typographie/nombres/ecriture-des-dates</a>.</p>
+              <p>–––. 2019a. ‘Écriture des dates’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue française. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/21640/la-typographie/nombres/ecriture-des-dates">https://vitrinelinguistique.oqlf.gouv.qc.ca/21640/la-typographie/nombres/ecriture-des-dates</a>.</p>
           </td>
           <td>
-              <p>———. 2019a. « Écriture des dates ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue française. Consulté le 2019. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/21640/la-typographie/nombres/ecriture-des-dates">https://vitrinelinguistique.oqlf.gouv.qc.ca/21640/la-typographie/nombres/ecriture-des-dates</a>.</p>
+              <p>–––. 2019a. « Écriture des dates ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue française. Consulté le 2019. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/21640/la-typographie/nombres/ecriture-des-dates">https://vitrinelinguistique.oqlf.gouv.qc.ca/21640/la-typographie/nombres/ecriture-des-dates</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2019b. ‘Écriture des dates et des heures dans les lettres et les textes courants’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue française. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/21242/la-typographie/nombres/ecriture-des-dates-et-des-heures-dans-les-lettres-et-les-textes-courants">https://vitrinelinguistique.oqlf.gouv.qc.ca/21242/la-typographie/nombres/ecriture-des-dates-et-des-heures-dans-les-lettres-et-les-textes-courants</a>.</p>
+              <p>–––. 2019b. ‘Écriture des dates et des heures dans les lettres et les textes courants’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue française. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/21242/la-typographie/nombres/ecriture-des-dates-et-des-heures-dans-les-lettres-et-les-textes-courants">https://vitrinelinguistique.oqlf.gouv.qc.ca/21242/la-typographie/nombres/ecriture-des-dates-et-des-heures-dans-les-lettres-et-les-textes-courants</a>.</p>
           </td>
           <td>
-              <p>———. 2019b. « Écriture des dates et des heures dans les lettres et les textes courants ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue française. Consulté le 2019. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/21242/la-typographie/nombres/ecriture-des-dates-et-des-heures-dans-les-lettres-et-les-textes-courants">https://vitrinelinguistique.oqlf.gouv.qc.ca/21242/la-typographie/nombres/ecriture-des-dates-et-des-heures-dans-les-lettres-et-les-textes-courants</a>.</p>
+              <p>–––. 2019b. « Écriture des dates et des heures dans les lettres et les textes courants ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue française. Consulté le 2019. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/21242/la-typographie/nombres/ecriture-des-dates-et-des-heures-dans-les-lettres-et-les-textes-courants">https://vitrinelinguistique.oqlf.gouv.qc.ca/21242/la-typographie/nombres/ecriture-des-dates-et-des-heures-dans-les-lettres-et-les-textes-courants</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2022. ‘Différence entre procédé, processus et procédure’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue française. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/22247/le-vocabulaire/nuances-semantiques/difference-entre-procede-processus-et-procedure">https://vitrinelinguistique.oqlf.gouv.qc.ca/22247/le-vocabulaire/nuances-semantiques/difference-entre-procede-processus-et-procedure</a>.</p>
+              <p>–––. 2022. ‘Différence entre procédé, processus et procédure’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue française. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/22247/le-vocabulaire/nuances-semantiques/difference-entre-procede-processus-et-procedure">https://vitrinelinguistique.oqlf.gouv.qc.ca/22247/le-vocabulaire/nuances-semantiques/difference-entre-procede-processus-et-procedure</a>.</p>
           </td>
           <td>
-              <p>———. 2022. « Différence entre procédé, processus et procédure ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue française. Consulté le 2022. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/22247/le-vocabulaire/nuances-semantiques/difference-entre-procede-processus-et-procedure">https://vitrinelinguistique.oqlf.gouv.qc.ca/22247/le-vocabulaire/nuances-semantiques/difference-entre-procede-processus-et-procedure</a>.</p>
+              <p>–––. 2022. « Différence entre procédé, processus et procédure ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue française. Consulté le 2022. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/22247/le-vocabulaire/nuances-semantiques/difference-entre-procede-processus-et-procedure">https://vitrinelinguistique.oqlf.gouv.qc.ca/22247/le-vocabulaire/nuances-semantiques/difference-entre-procede-processus-et-procedure</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2023. ‘Maximal, minimal et optimal : accord de l’adjectif’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue francaise. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal">https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal</a>.</p>
+              <p>–––. 2023. ‘Maximal, minimal et optimal : accord de l’adjectif’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue francaise. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal">https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal</a>.</p>
           </td>
           <td>
-              <p>———. 2023. « Maximal, minimal et optimal : accord de l’adjectif ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue francaise. Consulté le 8 février 2023. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal">https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal</a>.</p>
+              <p>–––. 2023. « Maximal, minimal et optimal : accord de l’adjectif ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue francaise. Consulté le 8 février 2023. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal">https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal</a>.</p>
           </td>
       </tr>
       <tr>
@@ -311,178 +311,178 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2001. ‘via’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=VIA&amp;i=&amp;index=ent&amp;sg_kp_wet=1323269&amp;fchrcrdnm=4#fichesauve-saverecord4">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=VIA&amp;i=&amp;index=ent&amp;sg_kp_wet=1323269&amp;fchrcrdnm=4#fichesauve-saverecord4</a>.</p>
+              <p>–––. 2001. ‘via’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=VIA&amp;i=&amp;index=ent&amp;sg_kp_wet=1323269&amp;fchrcrdnm=4#fichesauve-saverecord4">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=VIA&amp;i=&amp;index=ent&amp;sg_kp_wet=1323269&amp;fchrcrdnm=4#fichesauve-saverecord4</a>.</p>
           </td>
           <td>
-              <p>———. 2001. « Via ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 mars 2001. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=VIA&amp;i=&amp;index=ent&amp;sg_kp_wet=1323269&amp;fchrcrdnm=4#fichesauve-saverecord4">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=VIA&amp;i=&amp;index=ent&amp;sg_kp_wet=1323269&amp;fchrcrdnm=4#fichesauve-saverecord4</a>.</p>
+              <p>–––. 2001. « Via ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 mars 2001. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=VIA&amp;i=&amp;index=ent&amp;sg_kp_wet=1323269&amp;fchrcrdnm=4#fichesauve-saverecord4">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=VIA&amp;i=&amp;index=ent&amp;sg_kp_wet=1323269&amp;fchrcrdnm=4#fichesauve-saverecord4</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2003. ‘temporal reasoning’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernment du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=temporal%20reasoning&amp;i=&amp;index=alt&amp;sg_kp_wet=921138&amp;fchrcrdnm=1#fichesauve-saverecord1">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=temporal%20reasoning&amp;i=&amp;index=alt&amp;sg_kp_wet=921138&amp;fchrcrdnm=1#fichesauve-saverecord1</a>.</p>
+              <p>–––. 2003. ‘temporal reasoning’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernment du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=temporal%20reasoning&amp;i=&amp;index=alt&amp;sg_kp_wet=921138&amp;fchrcrdnm=1#fichesauve-saverecord1">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=temporal%20reasoning&amp;i=&amp;index=alt&amp;sg_kp_wet=921138&amp;fchrcrdnm=1#fichesauve-saverecord1</a>.</p>
           </td>
           <td>
-              <p>———. 2003. « Temporal reasoning ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernment du Canada. Consulté le 19 septembre 2003. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=temporal%20reasoning&amp;i=&amp;index=alt&amp;sg_kp_wet=921138&amp;fchrcrdnm=1#fichesauve-saverecord1">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=temporal%20reasoning&amp;i=&amp;index=alt&amp;sg_kp_wet=921138&amp;fchrcrdnm=1#fichesauve-saverecord1</a>.</p>
+              <p>–––. 2003. « Temporal reasoning ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernment du Canada. Consulté le 19 septembre 2003. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=temporal%20reasoning&amp;i=&amp;index=alt&amp;sg_kp_wet=921138&amp;fchrcrdnm=1#fichesauve-saverecord1">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=temporal%20reasoning&amp;i=&amp;index=alt&amp;sg_kp_wet=921138&amp;fchrcrdnm=1#fichesauve-saverecord1</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009a. ‘back catalogue’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=back+catalogue&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=back+catalogue&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009a. ‘back catalogue’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=back+catalogue&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=back+catalogue&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009a. « Back catalogue ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=back+catalogue&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=back+catalogue&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009a. « Back catalogue ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=back+catalogue&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=back+catalogue&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009b. ‘cardinalité’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=cardinalit%C3%A9&amp;index=frt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=cardinalit%C3%A9&amp;index=frt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009b. ‘cardinalité’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=cardinalit%C3%A9&amp;index=frt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=cardinalit%C3%A9&amp;index=frt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009b. « Cardinalité ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=cardinalit%C3%A9&amp;index=frt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=cardinalit%C3%A9&amp;index=frt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009b. « Cardinalité ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=cardinalit%C3%A9&amp;index=frt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=cardinalit%C3%A9&amp;index=frt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009c. ‘construct’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=construct&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=construct&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009c. ‘construct’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=construct&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=construct&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009c. « Construct ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=construct&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=construct&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009c. « Construct ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=construct&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=construct&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009d. ‘containment’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=containment&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=containment&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009d. ‘containment’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=containment&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=containment&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009d. « Containment ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=containment&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=containment&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009d. « Containment ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=containment&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=containment&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009e. ‘contiguous’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=contiguous&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=contiguous&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009e. ‘contiguous’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=contiguous&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=contiguous&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009e. « Contiguous ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=contiguous&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=contiguous&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009e. « Contiguous ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=contiguous&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=contiguous&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009f. ‘Convention Appellation Courriels’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;index=frt&amp;srchtxt=CONVENTION%20APPELLATION%20COURRIELS">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;index=frt&amp;srchtxt=CONVENTION%20APPELLATION%20COURRIELS</a>.</p>
+              <p>–––. 2009f. ‘Convention Appellation Courriels’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;index=frt&amp;srchtxt=CONVENTION%20APPELLATION%20COURRIELS">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;index=frt&amp;srchtxt=CONVENTION%20APPELLATION%20COURRIELS</a>.</p>
           </td>
           <td>
-              <p>———. 2009f. « Convention appellation courriels ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;index=frt&amp;srchtxt=CONVENTION%20APPELLATION%20COURRIELS">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;index=frt&amp;srchtxt=CONVENTION%20APPELLATION%20COURRIELS</a>.</p>
+              <p>–––. 2009f. « Convention appellation courriels ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;index=frt&amp;srchtxt=CONVENTION%20APPELLATION%20COURRIELS">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;index=frt&amp;srchtxt=CONVENTION%20APPELLATION%20COURRIELS</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009g. ‘directed graph’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=directed+graph&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=directed+graph&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009g. ‘directed graph’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=directed+graph&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=directed+graph&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009g. « Directed graph ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=directed+graph&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=directed+graph&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009g. « Directed graph ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=directed+graph&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=directed+graph&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009h. ‘fan-in’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-in&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-in&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009h. ‘fan-in’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-in&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-in&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009h. « Fan-in ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-in&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-in&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009h. « Fan-in ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-in&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-in&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009i. ‘fan-out’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-out&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-out&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009i. ‘fan-out’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-out&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-out&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009i. « Fan-out ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-out&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-out&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009i. « Fan-out ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-out&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=fan-out&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009j. ‘ideational content’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=IDEATIONAL+CONTENT">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=IDEATIONAL+CONTENT</a>.</p>
+              <p>–––. 2009j. ‘ideational content’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=IDEATIONAL+CONTENT">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=IDEATIONAL+CONTENT</a>.</p>
           </td>
           <td>
-              <p>———. 2009j. « Ideational content ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=IDEATIONAL+CONTENT">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=IDEATIONAL+CONTENT</a>.</p>
+              <p>–––. 2009j. « Ideational content ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=IDEATIONAL+CONTENT">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;srchtxt=IDEATIONAL+CONTENT</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009k. ‘Information System’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;srchtxt=INFORMATION+SYSTEM&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;srchtxt=INFORMATION+SYSTEM&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009k. ‘Information System’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;srchtxt=INFORMATION+SYSTEM&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;srchtxt=INFORMATION+SYSTEM&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009k. « Information system ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;srchtxt=INFORMATION+SYSTEM&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;srchtxt=INFORMATION+SYSTEM&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009k. « Information system ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;srchtxt=INFORMATION+SYSTEM&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=1&amp;srchtxt=INFORMATION+SYSTEM&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009l. ‘join’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=join&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=join&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009l. ‘join’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=join&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=join&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009l. « Join ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=join&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=join&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009l. « Join ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=join&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=join&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009m. ‘merge’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=merge&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=merge&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009m. ‘merge’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=merge&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=merge&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009m. « Merge ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=merge&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=merge&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009m. « Merge ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=merge&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=merge&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009n. ‘normalization’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=normalization&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=normalization&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009n. ‘normalization’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=normalization&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=normalization&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009n. « Normalization ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=normalization&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=normalization&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009n. « Normalization ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=normalization&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=normalization&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009o. ‘primitive’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=primitive&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=primitive&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009o. ‘primitive’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=primitive&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=primitive&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009o. « Primitive ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=primitive&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=primitive&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009o. « Primitive ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=primitive&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=primitive&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009p. ‘quantifier’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=quantifier&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=quantifier&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009p. ‘quantifier’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=quantifier&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=quantifier&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2009p. « Quantifier ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=quantifier&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=quantifier&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2009p. « Quantifier ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=quantifier&amp;index=ent&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=quantifier&amp;index=ent&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2009q. ‘répétable’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=&amp;index=alt&amp;srchtxt=CATEGORIE%20REPETABLE">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=&amp;index=alt&amp;srchtxt=CATEGORIE%20REPETABLE</a>.</p>
+              <p>–––. 2009q. ‘répétable’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=&amp;index=alt&amp;srchtxt=CATEGORIE%20REPETABLE">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=&amp;index=alt&amp;srchtxt=CATEGORIE%20REPETABLE</a>.</p>
           </td>
           <td>
-              <p>———. 2009q. « Répétable ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=&amp;index=alt&amp;srchtxt=CATEGORIE%20REPETABLE">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=&amp;index=alt&amp;srchtxt=CATEGORIE%20REPETABLE</a>.</p>
+              <p>–––. 2009q. « Répétable ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 8 octobre 2009. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=&amp;index=alt&amp;srchtxt=CATEGORIE%20REPETABLE">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=&amp;index=alt&amp;srchtxt=CATEGORIE%20REPETABLE</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2022a. ‘custody’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=custody&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=custody&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2022a. ‘custody’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=custody&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=custody&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2022a. « Custody ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 2022. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=custody&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=custody&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2022a. « Custody ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 2022. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=custody&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=custody&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2022b. ‘Land Use’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=land+use&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=land+use&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2022b. ‘Land Use’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=land+use&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=land+use&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2022b. « Land use ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 2022. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=land+use&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=land+use&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2022b. « Land use ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 2022. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=land+use&amp;index=alt&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=land+use&amp;index=alt&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2022c. ‘Museum Exhibit’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=MUSEUM+EXHIBIT&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=MUSEUM+EXHIBIT&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2022c. ‘Museum Exhibit’. In <i>Termium Plus</i>. Ottawa, CA-ON: Gouvernement du Canada. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=MUSEUM+EXHIBIT&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=MUSEUM+EXHIBIT&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
           <td>
-              <p>———. 2022c. « Museum exhibit ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 2022. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=MUSEUM+EXHIBIT&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=MUSEUM+EXHIBIT&amp;codom2nd_wet=1#resultrecs</a>.</p>
+              <p>–––. 2022c. « Museum exhibit ». Dans <i>Termium Plus</i>. . Ottawa, CA-ON : Gouvernement du Canada. Consulté le 2022. <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=MUSEUM+EXHIBIT&amp;codom2nd_wet=1#resultrecs">https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=MUSEUM+EXHIBIT&amp;codom2nd_wet=1#resultrecs</a>.</p>
           </td>
       </tr>
       <tr>
@@ -519,98 +519,98 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2017b. ‘Extension conservatrice’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Extension_conservatrice&amp;oldid=143598511">https://fr.wikipedia.org/w/index.php?title=Extension_conservatrice&amp;oldid=143598511</a>.</p>
+              <p>–––. 2017b. ‘Extension conservatrice’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Extension_conservatrice&amp;oldid=143598511">https://fr.wikipedia.org/w/index.php?title=Extension_conservatrice&amp;oldid=143598511</a>.</p>
           </td>
           <td>
-              <p>———. 2017b. « Extension conservatrice ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 17 décembre 2017. <a href="https://fr.wikipedia.org/w/index.php?title=Extension_conservatrice&amp;oldid=143598511">https://fr.wikipedia.org/w/index.php?title=Extension_conservatrice&amp;oldid=143598511</a>.</p>
+              <p>–––. 2017b. « Extension conservatrice ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 17 décembre 2017. <a href="https://fr.wikipedia.org/w/index.php?title=Extension_conservatrice&amp;oldid=143598511">https://fr.wikipedia.org/w/index.php?title=Extension_conservatrice&amp;oldid=143598511</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2020a. ‘Érostrate’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=%C3%89rostrate&amp;oldid=173548642">https://fr.wikipedia.org/w/index.php?title=%C3%89rostrate&amp;oldid=173548642</a>.</p>
+              <p>–––. 2020a. ‘Érostrate’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=%C3%89rostrate&amp;oldid=173548642">https://fr.wikipedia.org/w/index.php?title=%C3%89rostrate&amp;oldid=173548642</a>.</p>
           </td>
           <td>
-              <p>———. 2020a. « Érostrate ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 4 août 2020. <a href="https://fr.wikipedia.org/w/index.php?title=%C3%89rostrate&amp;oldid=173548642">https://fr.wikipedia.org/w/index.php?title=%C3%89rostrate&amp;oldid=173548642</a>.</p>
+              <p>–––. 2020a. « Érostrate ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 4 août 2020. <a href="https://fr.wikipedia.org/w/index.php?title=%C3%89rostrate&amp;oldid=173548642">https://fr.wikipedia.org/w/index.php?title=%C3%89rostrate&amp;oldid=173548642</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2020b. ‘安’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=%E5%AE%89">https://fr.wikipedia.org/w/index.php?title=%E5%AE%89</a>.</p>
+              <p>–––. 2020b. ‘安’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=%E5%AE%89">https://fr.wikipedia.org/w/index.php?title=%E5%AE%89</a>.</p>
           </td>
           <td>
-              <p>———. 2020b. « 安 ». Dans <i>Wikipédia</i>. . San Francisco, US-CA : Wikipédia. Consulté le 21 octobre 2020. <a href="https://fr.wikipedia.org/w/index.php?title=%E5%AE%89">https://fr.wikipedia.org/w/index.php?title=%E5%AE%89</a>.</p>
+              <p>–––. 2020b. « 安 ». Dans <i>Wikipédia</i>. . San Francisco, US-CA : Wikipédia. Consulté le 21 octobre 2020. <a href="https://fr.wikipedia.org/w/index.php?title=%E5%AE%89">https://fr.wikipedia.org/w/index.php?title=%E5%AE%89</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2020c. ‘Langue SVO’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Langue_SVO&amp;oldid=176099662">https://fr.wikipedia.org/w/index.php?title=Langue_SVO&amp;oldid=176099662</a>.</p>
+              <p>–––. 2020c. ‘Langue SVO’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Langue_SVO&amp;oldid=176099662">https://fr.wikipedia.org/w/index.php?title=Langue_SVO&amp;oldid=176099662</a>.</p>
           </td>
           <td>
-              <p>———. 2020c. « Langue SVO ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 31 octobre 2020. <a href="https://fr.wikipedia.org/w/index.php?title=Langue_SVO&amp;oldid=176099662">https://fr.wikipedia.org/w/index.php?title=Langue_SVO&amp;oldid=176099662</a>.</p>
+              <p>–––. 2020c. « Langue SVO ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 31 octobre 2020. <a href="https://fr.wikipedia.org/w/index.php?title=Langue_SVO&amp;oldid=176099662">https://fr.wikipedia.org/w/index.php?title=Langue_SVO&amp;oldid=176099662</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2020d. ‘Fan-in’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Fan-in&amp;oldid=176479056">https://fr.wikipedia.org/w/index.php?title=Fan-in&amp;oldid=176479056</a>.</p>
+              <p>–––. 2020d. ‘Fan-in’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Fan-in&amp;oldid=176479056">https://fr.wikipedia.org/w/index.php?title=Fan-in&amp;oldid=176479056</a>.</p>
           </td>
           <td>
-              <p>———. 2020d. « Fan-in ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 11 novembre 2020. <a href="https://fr.wikipedia.org/w/index.php?title=Fan-in&amp;oldid=176479056">https://fr.wikipedia.org/w/index.php?title=Fan-in&amp;oldid=176479056</a>.</p>
+              <p>–––. 2020d. « Fan-in ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 11 novembre 2020. <a href="https://fr.wikipedia.org/w/index.php?title=Fan-in&amp;oldid=176479056">https://fr.wikipedia.org/w/index.php?title=Fan-in&amp;oldid=176479056</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2020e. ‘Fan-out’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Fan-out&amp;oldid=176479075">https://fr.wikipedia.org/w/index.php?title=Fan-out&amp;oldid=176479075</a>.</p>
+              <p>–––. 2020e. ‘Fan-out’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Fan-out&amp;oldid=176479075">https://fr.wikipedia.org/w/index.php?title=Fan-out&amp;oldid=176479075</a>.</p>
           </td>
           <td>
-              <p>———. 2020e. « Fan-out ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 11 novembre 2020. <a href="https://fr.wikipedia.org/w/index.php?title=Fan-out&amp;oldid=176479075">https://fr.wikipedia.org/w/index.php?title=Fan-out&amp;oldid=176479075</a>.</p>
+              <p>–––. 2020e. « Fan-out ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 11 novembre 2020. <a href="https://fr.wikipedia.org/w/index.php?title=Fan-out&amp;oldid=176479075">https://fr.wikipedia.org/w/index.php?title=Fan-out&amp;oldid=176479075</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2021a. ‘Algèbre des intervalles d’Allen’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/wiki/Alg%C3%A8bre_des_intervalles_d%27Allen">https://fr.wikipedia.org/wiki/Alg%C3%A8bre_des_intervalles_d%27Allen</a>.</p>
+              <p>–––. 2021a. ‘Algèbre des intervalles d’Allen’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/wiki/Alg%C3%A8bre_des_intervalles_d%27Allen">https://fr.wikipedia.org/wiki/Alg%C3%A8bre_des_intervalles_d%27Allen</a>.</p>
           </td>
           <td>
-              <p>———. 2021a. « Algèbre des intervalles d’Allen ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 14 janvier 2021. <a href="https://fr.wikipedia.org/wiki/Alg%C3%A8bre_des_intervalles_d%27Allen">https://fr.wikipedia.org/wiki/Alg%C3%A8bre_des_intervalles_d%27Allen</a>.</p>
+              <p>–––. 2021a. « Algèbre des intervalles d’Allen ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 14 janvier 2021. <a href="https://fr.wikipedia.org/wiki/Alg%C3%A8bre_des_intervalles_d%27Allen">https://fr.wikipedia.org/wiki/Alg%C3%A8bre_des_intervalles_d%27Allen</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2021b. ‘Univers Du Discours’. In <i>Wikipedia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/wiki/Univers_du_discours">https://fr.wikipedia.org/wiki/Univers_du_discours</a>.</p>
+              <p>–––. 2021b. ‘Univers Du Discours’. In <i>Wikipedia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/wiki/Univers_du_discours">https://fr.wikipedia.org/wiki/Univers_du_discours</a>.</p>
           </td>
           <td>
-              <p>———. 2021b. « Univers du discours ». Dans <i>Wikipedia</i>. San Francisco, US-CA : Wikipédia. Consulté le 28 janvier 2021. <a href="https://fr.wikipedia.org/wiki/Univers_du_discours">https://fr.wikipedia.org/wiki/Univers_du_discours</a>.</p>
+              <p>–––. 2021b. « Univers du discours ». Dans <i>Wikipedia</i>. San Francisco, US-CA : Wikipédia. Consulté le 28 janvier 2021. <a href="https://fr.wikipedia.org/wiki/Univers_du_discours">https://fr.wikipedia.org/wiki/Univers_du_discours</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2021c. ‘Expositions des vestiges archéologiques provenant de la tombe de Toutânkhamon’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Expositions_des_vestiges_arch%C3%A9ologiques_provenant_de_la_tombe_de_Tout%C3%A2nkhamon&amp;oldid=179392035">https://fr.wikipedia.org/w/index.php?title=Expositions_des_vestiges_arch%C3%A9ologiques_provenant_de_la_tombe_de_Tout%C3%A2nkhamon&amp;oldid=179392035</a>.</p>
+              <p>–––. 2021c. ‘Expositions des vestiges archéologiques provenant de la tombe de Toutânkhamon’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Expositions_des_vestiges_arch%C3%A9ologiques_provenant_de_la_tombe_de_Tout%C3%A2nkhamon&amp;oldid=179392035">https://fr.wikipedia.org/w/index.php?title=Expositions_des_vestiges_arch%C3%A9ologiques_provenant_de_la_tombe_de_Tout%C3%A2nkhamon&amp;oldid=179392035</a>.</p>
           </td>
           <td>
-              <p>———. 2021c. « Expositions des vestiges archéologiques provenant de la tombe de Toutânkhamon ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 30 janvier 2021. <a href="https://fr.wikipedia.org/w/index.php?title=Expositions_des_vestiges_arch%C3%A9ologiques_provenant_de_la_tombe_de_Tout%C3%A2nkhamon&amp;oldid=179392035">https://fr.wikipedia.org/w/index.php?title=Expositions_des_vestiges_arch%C3%A9ologiques_provenant_de_la_tombe_de_Tout%C3%A2nkhamon&amp;oldid=179392035</a>.</p>
+              <p>–––. 2021c. « Expositions des vestiges archéologiques provenant de la tombe de Toutânkhamon ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 30 janvier 2021. <a href="https://fr.wikipedia.org/w/index.php?title=Expositions_des_vestiges_arch%C3%A9ologiques_provenant_de_la_tombe_de_Tout%C3%A2nkhamon&amp;oldid=179392035">https://fr.wikipedia.org/w/index.php?title=Expositions_des_vestiges_arch%C3%A9ologiques_provenant_de_la_tombe_de_Tout%C3%A2nkhamon&amp;oldid=179392035</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2021d. ‘Liste des gravures de Rembrandt’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Liste_des_gravures_de_Rembrandt&amp;oldid=180898582">https://fr.wikipedia.org/w/index.php?title=Liste_des_gravures_de_Rembrandt&amp;oldid=180898582</a>.</p>
+              <p>–––. 2021d. ‘Liste des gravures de Rembrandt’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Liste_des_gravures_de_Rembrandt&amp;oldid=180898582">https://fr.wikipedia.org/w/index.php?title=Liste_des_gravures_de_Rembrandt&amp;oldid=180898582</a>.</p>
           </td>
           <td>
-              <p>———. 2021d. « Liste des gravures de Rembrandt ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 15 mars 2021. <a href="https://fr.wikipedia.org/w/index.php?title=Liste_des_gravures_de_Rembrandt&amp;oldid=180898582">https://fr.wikipedia.org/w/index.php?title=Liste_des_gravures_de_Rembrandt&amp;oldid=180898582</a>.</p>
+              <p>–––. 2021d. « Liste des gravures de Rembrandt ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 15 mars 2021. <a href="https://fr.wikipedia.org/w/index.php?title=Liste_des_gravures_de_Rembrandt&amp;oldid=180898582">https://fr.wikipedia.org/w/index.php?title=Liste_des_gravures_de_Rembrandt&amp;oldid=180898582</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2021e. ‘United Press International’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=United_Press_International&amp;oldid=182934531">https://fr.wikipedia.org/w/index.php?title=United_Press_International&amp;oldid=182934531</a>.</p>
+              <p>–––. 2021e. ‘United Press International’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=United_Press_International&amp;oldid=182934531">https://fr.wikipedia.org/w/index.php?title=United_Press_International&amp;oldid=182934531</a>.</p>
           </td>
           <td>
-              <p>———. 2021e. « United Press International ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 15 mai 2021. <a href="https://fr.wikipedia.org/w/index.php?title=United_Press_International&amp;oldid=182934531">https://fr.wikipedia.org/w/index.php?title=United_Press_International&amp;oldid=182934531</a>.</p>
+              <p>–––. 2021e. « United Press International ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 15 mai 2021. <a href="https://fr.wikipedia.org/w/index.php?title=United_Press_International&amp;oldid=182934531">https://fr.wikipedia.org/w/index.php?title=United_Press_International&amp;oldid=182934531</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2021f. ‘Chrisme’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Chrisme&amp;oldid=184249375">https://fr.wikipedia.org/w/index.php?title=Chrisme&amp;oldid=184249375</a>.</p>
+              <p>–––. 2021f. ‘Chrisme’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Chrisme&amp;oldid=184249375">https://fr.wikipedia.org/w/index.php?title=Chrisme&amp;oldid=184249375</a>.</p>
           </td>
           <td>
-              <p>———. 2021f. « Chrisme ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 30 juin 2021. <a href="https://fr.wikipedia.org/w/index.php?title=Chrisme&amp;oldid=184249375">https://fr.wikipedia.org/w/index.php?title=Chrisme&amp;oldid=184249375</a>.</p>
+              <p>–––. 2021f. « Chrisme ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 30 juin 2021. <a href="https://fr.wikipedia.org/w/index.php?title=Chrisme&amp;oldid=184249375">https://fr.wikipedia.org/w/index.php?title=Chrisme&amp;oldid=184249375</a>.</p>
           </td>
       </tr>
       <tr>
@@ -631,58 +631,58 @@ Dernière mise à jour : 2023-11-30
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2022b. ‘La Relativité’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496">https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496</a>.</p>
+              <p>–––. 2022b. ‘La Relativité’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496">https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496</a>.</p>
           </td>
           <td>
-              <p>———. 2022b. « La Relativité ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 14 octobre 2022. <a href="https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496">https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496</a>.</p>
+              <p>–––. 2022b. « La Relativité ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 14 octobre 2022. <a href="https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496">https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2022c. ‘Penny’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252">https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252</a>.</p>
+              <p>–––. 2022c. ‘Penny’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252">https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252</a>.</p>
           </td>
           <td>
-              <p>———. 2022c. « Penny ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 8 décembre 2022. <a href="https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252">https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252</a>.</p>
+              <p>–––. 2022c. « Penny ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 8 décembre 2022. <a href="https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252">https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2023a. ‘Schöningen Spears’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://en.wikipedia.org/w/index.php?title=Sch%C3%B6ningen_spears&amp;oldid=1143301875">https://en.wikipedia.org/w/index.php?title=Sch%C3%B6ningen_spears&amp;oldid=1143301875</a>.</p>
+              <p>–––. 2023a. ‘Schöningen Spears’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://en.wikipedia.org/w/index.php?title=Sch%C3%B6ningen_spears&amp;oldid=1143301875">https://en.wikipedia.org/w/index.php?title=Sch%C3%B6ningen_spears&amp;oldid=1143301875</a>.</p>
           </td>
           <td>
-              <p>———. 2023a. « Schöningen spears ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 6 mars 2023. <a href="https://en.wikipedia.org/w/index.php?title=Sch%C3%B6ningen_spears&amp;oldid=1143301875">https://en.wikipedia.org/w/index.php?title=Sch%C3%B6ningen_spears&amp;oldid=1143301875</a>.</p>
+              <p>–––. 2023a. « Schöningen spears ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 6 mars 2023. <a href="https://en.wikipedia.org/w/index.php?title=Sch%C3%B6ningen_spears&amp;oldid=1143301875">https://en.wikipedia.org/w/index.php?title=Sch%C3%B6ningen_spears&amp;oldid=1143301875</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2023b. ‘Georges Amoudruz’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Georges_Amoudruz&amp;oldid=202151566">https://fr.wikipedia.org/w/index.php?title=Georges_Amoudruz&amp;oldid=202151566</a>.</p>
+              <p>–––. 2023b. ‘Georges Amoudruz’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Georges_Amoudruz&amp;oldid=202151566">https://fr.wikipedia.org/w/index.php?title=Georges_Amoudruz&amp;oldid=202151566</a>.</p>
           </td>
           <td>
-              <p>———. 2023b. « Georges Amoudruz ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 10 mars 2023. <a href="https://fr.wikipedia.org/w/index.php?title=Georges_Amoudruz&amp;oldid=202151566">https://fr.wikipedia.org/w/index.php?title=Georges_Amoudruz&amp;oldid=202151566</a>.</p>
+              <p>–––. 2023b. « Georges Amoudruz ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 10 mars 2023. <a href="https://fr.wikipedia.org/w/index.php?title=Georges_Amoudruz&amp;oldid=202151566">https://fr.wikipedia.org/w/index.php?title=Georges_Amoudruz&amp;oldid=202151566</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2023c. ‘Oka’. In <i>Wiktionary</i>. San Francisco, US-CA: Wikipédia. <a href="https://en.wiktionary.org/w/index.php?title=oka&amp;oldid=72628696">https://en.wiktionary.org/w/index.php?title=oka&amp;oldid=72628696</a>.</p>
+              <p>–––. 2023c. ‘Oka’. In <i>Wiktionary</i>. San Francisco, US-CA: Wikipédia. <a href="https://en.wiktionary.org/w/index.php?title=oka&amp;oldid=72628696">https://en.wiktionary.org/w/index.php?title=oka&amp;oldid=72628696</a>.</p>
           </td>
           <td>
-              <p>———. 2023c. « Oka ». Dans <i>Wiktionary</i>. . San Francisco, US-CA : Wikipédia. Consulté le 8 avril 2023. <a href="https://en.wiktionary.org/w/index.php?title=oka&amp;oldid=72628696">https://en.wiktionary.org/w/index.php?title=oka&amp;oldid=72628696</a>.</p>
+              <p>–––. 2023c. « Oka ». Dans <i>Wiktionary</i>. . San Francisco, US-CA : Wikipédia. Consulté le 8 avril 2023. <a href="https://en.wiktionary.org/w/index.php?title=oka&amp;oldid=72628696">https://en.wiktionary.org/w/index.php?title=oka&amp;oldid=72628696</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2023d. ‘Trois Glorieuses’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Trois_Glorieuses&amp;oldid=203438591">https://fr.wikipedia.org/w/index.php?title=Trois_Glorieuses&amp;oldid=203438591</a>.</p>
+              <p>–––. 2023d. ‘Trois Glorieuses’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Trois_Glorieuses&amp;oldid=203438591">https://fr.wikipedia.org/w/index.php?title=Trois_Glorieuses&amp;oldid=203438591</a>.</p>
           </td>
           <td>
-              <p>———. 2023d. « Trois Glorieuses ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 17 avril 2023. <a href="https://fr.wikipedia.org/w/index.php?title=Trois_Glorieuses&amp;oldid=203438591">https://fr.wikipedia.org/w/index.php?title=Trois_Glorieuses&amp;oldid=203438591</a>.</p>
+              <p>–––. 2023d. « Trois Glorieuses ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 17 avril 2023. <a href="https://fr.wikipedia.org/w/index.php?title=Trois_Glorieuses&amp;oldid=203438591">https://fr.wikipedia.org/w/index.php?title=Trois_Glorieuses&amp;oldid=203438591</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>———. 2023e. ‘Groschen’. In <i>Wikipedia</i>. San Francisco, US-CA: Wikipédia. <a href="https://en.wikipedia.org/w/index.php?title=Groschen&amp;oldid=1153418826">https://en.wikipedia.org/w/index.php?title=Groschen&amp;oldid=1153418826</a>.</p>
+              <p>–––. 2023e. ‘Groschen’. In <i>Wikipedia</i>. San Francisco, US-CA: Wikipédia. <a href="https://en.wikipedia.org/w/index.php?title=Groschen&amp;oldid=1153418826">https://en.wikipedia.org/w/index.php?title=Groschen&amp;oldid=1153418826</a>.</p>
           </td>
           <td>
-              <p>———. 2023e. « Groschen ». Dans <i>Wikipedia</i>. San Francisco, US-CA : Wikipédia. Consulté le 6 mai 2023. <a href="https://en.wikipedia.org/w/index.php?title=Groschen&amp;oldid=1153418826">https://en.wikipedia.org/w/index.php?title=Groschen&amp;oldid=1153418826</a>.</p>
+              <p>–––. 2023e. « Groschen ». Dans <i>Wikipedia</i>. San Francisco, US-CA : Wikipédia. Consulté le 6 mai 2023. <a href="https://en.wikipedia.org/w/index.php?title=Groschen&amp;oldid=1153418826">https://en.wikipedia.org/w/index.php?title=Groschen&amp;oldid=1153418826</a>.</p>
           </td>
       </tr>
       <tr>

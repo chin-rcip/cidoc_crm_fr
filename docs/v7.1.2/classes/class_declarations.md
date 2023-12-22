@@ -5,12 +5,12 @@ titleEn: CIDOC CRM Class Declarations - Déclaration des classes du CIDOC CRM
 permalink: /v7.1.2/classes/declaration-des-classes-du-cidoc-crm
 sidebar: v712
 group: classes
-date: 2023-11-08
+date: 2023-12-22
 ---
 
 **Date de création** : 2023-11-08
 
-**Dernière mise à jour** : 2023-11-08
+**Dernière mise à jour** : 2023-12-22
 
 <div class="lang-buttons">
  <button id="fr" class="activate">FR</button>
@@ -47,32 +47,34 @@ date: 2023-11-08
 </li></ul>
 </td>
 <td>
-<p>Les classes du CIDOC CRM sont déclarées ici selon la forme suivante : </p>
-<ul><li><p>Les noms de classe sont présentés comme des titres en gras précédés de l’identifiant unique de la classe;</p>
+<p>Les classes du CIDOC CRM sont déclarées ici selon la forme suivante :</p>
+<ul><li><p>Les noms de classe sont présentés comme des titres en gras précédés de l’identifiant unique de la classe.</p>
 </li>
-<li><p>La ligne « Sous-classe de : » déclare la super-classe dont la classe hérite les propriétés; </p>
+<li><p>La ligne « Sous-classe de : » déclare la super-classe dont la classe hérite les propriétés.</p>
 </li>
-<li><p>La ligne « Sous-classe de : » est un co-référencement des sous-classes de la classe; </p>
+<li><p>La ligne « Sous-classe de : » est un coréférencement des sous-classes de la classe</p>
 </li>
-<li><p>La ligne « Note d’application : » contient la définition textuelle du concept que représente la classe; </p>
+<li><p>La ligne « Note d’application : » contient la définition textuelle du concept que représente la classe.</p>
 </li>
 <li><p>La ligne « Exemples : » contient une liste d’exemples d’instances de la classe :</p>
+<ul>
+<li><p>Si l’exemple illustre aussi l’instance d’une sous-classe de la classe, l’identifiant unique de cette sous-classe [n.d.t. ainsi que sa dénomination] sont indiqués entre parenthèses.</p>
 </li>
-<li><p>Si l’exemple illustre aussi l’instance d’une sous-classe de la classe, l’identifiant unique de cette sous-classe [n.d.t. ainsi que sa dénomination] sont indiqués entre parenthèses. </p>
+<li><p>Si l’exemple illustre l’instanciation de deux classes, l’identifiant unique de chacune est indiqué entre parenthèses.</p>
 </li>
-<li><p>Si l’exemple illustre l’instanciation de deux classes, l’identifiant unique de chacune est indiqué entre parenthèses. </p>
+<li><p>Des exemples qui ne sont pas de nature fictionnelle sont parfois suivis d’une explication entre crochets.</p>
 </li>
-<li><p>Des exemples qui ne sont pas de nature fictionnelle sont parfois suivis d’une explication entre crochets. </p>
+</ul>
 </li>
-<li><p>La ligne « Logique » exprime les contraintes formelles d'une classe par des axiomes logiques en utilisant la notation de la logique du premier ordre; </p>
+<li><p>La ligne « Logique » exprime les contraintes formelles d'une classe par des axiomes logiques en utilisant la notation de la logique du premier ordre.</p>
 </li>
-<li><p>La ligne « Propriétés : » liste les propriétés de la classe; </p>
+<li><p>La ligne « Propriétés : » liste les propriétés de la classe.</p>
 </li>
-<li><p>Chaque propriété est représentée par son identifiant unique, son nom suivi de son nom « inverse », ainsi que la classe de portée vers laquelle pointe la propriété (tous séparés de : ); </p>
+<li><p>Chaque propriété est représentée par son identifiant unique, son nom suivi de son nom « inverse », ainsi que la classe de portée vers laquelle pointe la propriété (tous séparés de : ).</p>
 </li>
-<li><p>Les propriétés héritées ne sont pas représentées;</p>
+<li><p>Les propriétés héritées ne sont pas représentées.</p>
 </li>
-<li><p>Les propriétés de propriétés sont entre parenthèses et mises en retrait sous leur propriété de domaine respective. </p>
+<li><p>Les propriétés de propriétés sont entre parenthèses et mises en retrait sous leur propriété de domaine respective.</p>
 </li></ul>
 </td>
 </tr>

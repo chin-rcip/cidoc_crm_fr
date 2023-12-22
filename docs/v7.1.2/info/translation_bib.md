@@ -39,18 +39,18 @@ Dernière mise à jour : 2023-12-22
       </tr>
       <tr>
           <td class="en">
-              <p>–––. 2022b. ‘précision’. In <i>Antidote</i>, 11th ed. Montreal, CA-QC: Druide Informatique.</p>
+              <p>–––. 2022b. ‘précision’. In <i>Antidote</i>, 11th ed. Montréal, CA-QC: Druide Informatique.</p>
           </td>
           <td>
-              <p>–––. 2022b. « Précision ». Dans <i>Antidote</i>. . Montreal, CA-QC : Druide Informatique.</p>
+              <p>–––. 2022b. « Précision ». Dans <i>Antidote</i>. . Montréal, CA-QC : Druide Informatique.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>–––. 2022c. ‘spécialisation’. In <i>Antidote</i>, 11th ed. Montreal, CA-QC: Druide Informatique. <a href="https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D">https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D</a>.</p>
+              <p>–––. 2022c. ‘spécialisation’. In <i>Antidote</i>, 11th ed. Montréal, CA-QC: Druide Informatique. <a href="https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D">https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D</a>.</p>
           </td>
           <td>
-              <p>–––. 2022c. « Spécialisation ». Dans <i>Antidote</i>. . Montreal, CA-QC : Druide Informatique. Consulté le 2022. <a href="https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D">https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D</a>.</p>
+              <p>–––. 2022c. « Spécialisation ». Dans <i>Antidote</i>. . Montréal, CA-QC : Druide Informatique. Consulté le 2022. <a href="https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D">https://antidote.app/dictionnaires/fr/definitions/FRUAgAAAABGUgBDZAAAQ2QAAC0AAACDTm9thmFjdGFudICAgA%3D%3Dd707/RlLvh7cyNTY2N%2B%2BHt05vbQ%3D%3D/RlLvh7cyNTY2N%2B%2BHt05vbe%2BHt2FjdGFudO%2BHt2FjdGFudA%3D%3D</a>.</p>
           </td>
       </tr>
       <tr>
@@ -127,26 +127,26 @@ Dernière mise à jour : 2023-12-22
       </tr>
       <tr>
           <td class="en">
-              <p>‘Definition of the CIDOC Conceptual Reference Model’. 2015. Modèle. Paris, FR-IDF: CIDOC CRM  Special Interest Group. <a href="https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf">https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf</a>.</p>
+              <p>‘Definition of the CIDOC Conceptual Reference Model’. 2015. Modèle. Paris, FR-IDF: CIDOC CRM Special Interest Group. <a href="https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf">https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf</a>.</p>
           </td>
           <td>
-              <p>« Definition of the CIDOC Conceptual Reference Model ». 2015. Modèle. Paris, FR-IDF : CIDOC CRM  Special Interest Group. <a href="https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf">https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf</a>.</p>
+              <p>« Definition of the CIDOC Conceptual Reference Model ». 2015. Modèle. Paris, FR-IDF : CIDOC CRM Special Interest Group. <a href="https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf">https://cidoc-crm.org/sites/default/files/cidoc_crm_version_6.2.pdf</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>‘–––’. 2021. Modèle. Paris, FR-IDF: CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
+              <p>‘–––’. 2021. Modèle. Paris, FR-IDF: CIDOC CRM Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
           </td>
           <td>
-              <p>« ––– ». 2021. Modèle. Paris, FR-IDF : CIDOC CRM  Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
+              <p>« ––– ». 2021. Modèle. Paris, FR-IDF : CIDOC CRM Special Interest Group. <a href="http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf">http://cidoc-crm.org/sites/default/files/CIDOC%20CRM_v.7.1%20%5B8%20March%202021%5D.pdf</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>Einstein, Albert. 2001. <i>La relativité :  théorie de la relativité restreinte et générale, la relativité et le problème de l’espace</i>. Translated by Maurice Solovine. Petite bibliothèque Payot 25. Paris, FR-IDF: Payot &amp; Rivages.</p>
+              <p>Einstein, Albert. 2001. <i>La relativité : théorie de la relativité restreinte et générale, la relativité et le problème de l’espace</i>. Translated by Maurice Solovine. Petite bibliothèque Payot 25. Paris, FR-IDF: Payot &amp; Rivages.</p>
           </td>
           <td>
-              <p>Einstein, Albert. 2001. <i>La relativité :  théorie de la relativité restreinte et générale, la relativité et le problème de l’espace</i>. Traduit par Maurice Solovine. Petite bibliothèque Payot 25. Paris, FR-IDF : Payot &amp; Rivages.</p>
+              <p>Einstein, Albert. 2001. <i>La relativité : théorie de la relativité restreinte et générale, la relativité et le problème de l’espace</i>. Traduit par Maurice Solovine. Petite bibliothèque Payot 25. Paris, FR-IDF : Payot &amp; Rivages.</p>
           </td>
       </tr>
       <tr>
@@ -162,7 +162,7 @@ Dernière mise à jour : 2023-12-22
               <p>Grimal, Nicolas-Christophe. 1988. <i>Histoire de l’Égypte ancienne</i>. Paris: Fayard.</p>
           </td>
           <td>
-              <p>Grimal, Nicolas-Christophe. 1988. <i>Histoire de l’Égypte ancienne</i>. Paris, FR-75 : Fayard.</p>
+              <p>Grimal, Nicolas-Christophe. 1988. <i>Histoire de l’Égypte ancienne</i>. Paris : Fayard.</p>
           </td>
       </tr>
       <tr>
@@ -199,10 +199,10 @@ Dernière mise à jour : 2023-12-22
       </tr>
       <tr>
           <td class="en">
-              <p>Louis, Olivier. 2021. ‘Bâtonnets de tranchefile, fabrication, matériel utilisé et dimensions.’ Blogue. <i>Reliure d’art dare</i> (blog). 28 September 2021. <a href="https://reliuredartdare.com/2021/09/batonnets-tranchefile-fabrication/">https://reliuredartdare.com/2021/09/batonnets-tranchefile-fabrication/</a>.</p>
+              <p>Louis, Olivier. 2021. ‘Bâtonnets de tranchefile, fabrication, matériel utilisé et dimensions.’ Blog. <i>Reliure d’art dare</i> (blog). 28 September 2021. <a href="https://reliuredartdare.com/2021/09/batonnets-tranchefile-fabrication/">https://reliuredartdare.com/2021/09/batonnets-tranchefile-fabrication/</a>.</p>
           </td>
           <td>
-              <p>Louis, Olivier. 2021. « Bâtonnets de tranchefile, fabrication, matériel utilisé et dimensions. » Blogue. <i>Reliure d’art dare</i>. 28 septembre. <a href="https://reliuredartdare.com/2021/09/batonnets-tranchefile-fabrication/">https://reliuredartdare.com/2021/09/batonnets-tranchefile-fabrication/</a>.</p>
+              <p>Louis, Olivier. 2021. « Bâtonnets de tranchefile, fabrication, matériel utilisé et dimensions. » Blog. <i>Reliure d’art dare</i>. 28 septembre. <a href="https://reliuredartdare.com/2021/09/batonnets-tranchefile-fabrication/">https://reliuredartdare.com/2021/09/batonnets-tranchefile-fabrication/</a>.</p>
           </td>
       </tr>
       <tr>
@@ -247,10 +247,10 @@ Dernière mise à jour : 2023-12-22
       </tr>
       <tr>
           <td class="en">
-              <p>–––. 2023. ‘Maximal, minimal et optimal : accord de l’adjectif’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue francaise. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal">https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal</a>.</p>
+              <p>–––. 2023. ‘Maximal, minimal et optimal : accord de l’adjectif’. In <i>Banque de dépannage linguistique</i>. Québec, CA-QC: Office québécois de la langue française. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal">https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal</a>.</p>
           </td>
           <td>
-              <p>–––. 2023. « Maximal, minimal et optimal : accord de l’adjectif ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue francaise. Consulté le 8 février 2023. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal">https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal</a>.</p>
+              <p>–––. 2023. « Maximal, minimal et optimal : accord de l’adjectif ». Dans <i>Banque de dépannage linguistique</i>. . Québec, CA-QC : Office québécois de la langue française. Consulté le 8 février 2023. <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal">https://vitrinelinguistique.oqlf.gouv.qc.ca/23433/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-des-adjectifs-maximal-minimal-et-optimal</a>.</p>
           </td>
       </tr>
       <tr>
@@ -575,10 +575,10 @@ Dernière mise à jour : 2023-12-22
       </tr>
       <tr>
           <td class="en">
-              <p>–––. 2021b. ‘Univers Du Discours’. In <i>Wikipedia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/wiki/Univers_du_discours">https://fr.wikipedia.org/wiki/Univers_du_discours</a>.</p>
+              <p>–––. 2021b. ‘Univers Du Discours’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/wiki/Univers_du_discours">https://fr.wikipedia.org/wiki/Univers_du_discours</a>.</p>
           </td>
           <td>
-              <p>–––. 2021b. « Univers du discours ». Dans <i>Wikipedia</i>. San Francisco, US-CA : Wikipédia. Consulté le 28 janvier 2021. <a href="https://fr.wikipedia.org/wiki/Univers_du_discours">https://fr.wikipedia.org/wiki/Univers_du_discours</a>.</p>
+              <p>–––. 2021b. « Univers du discours ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 28 janvier 2021. <a href="https://fr.wikipedia.org/wiki/Univers_du_discours">https://fr.wikipedia.org/wiki/Univers_du_discours</a>.</p>
           </td>
       </tr>
       <tr>
@@ -615,34 +615,34 @@ Dernière mise à jour : 2023-12-22
       </tr>
       <tr>
           <td class="en">
-              <p>Wikipedia. 2022. ‘László Moholy-Nagy’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=L%C3%A1szl%C3%B3_Moholy-Nagy&amp;oldid=192385234">https://fr.wikipedia.org/w/index.php?title=L%C3%A1szl%C3%B3_Moholy-Nagy&amp;oldid=192385234</a>.</p>
+              <p>–––. 2022a. ‘László Moholy-Nagy’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=L%C3%A1szl%C3%B3_Moholy-Nagy&amp;oldid=192385234">https://fr.wikipedia.org/w/index.php?title=L%C3%A1szl%C3%B3_Moholy-Nagy&amp;oldid=192385234</a>.</p>
           </td>
           <td>
-              <p>Wikipedia. 2022. « László Moholy-Nagy ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 30 mars 2022. <a href="https://fr.wikipedia.org/w/index.php?title=L%C3%A1szl%C3%B3_Moholy-Nagy&amp;oldid=192385234">https://fr.wikipedia.org/w/index.php?title=L%C3%A1szl%C3%B3_Moholy-Nagy&amp;oldid=192385234</a>.</p>
+              <p>–––. 2022a. « László Moholy-Nagy ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 30 mars 2022. <a href="https://fr.wikipedia.org/w/index.php?title=L%C3%A1szl%C3%B3_Moholy-Nagy&amp;oldid=192385234">https://fr.wikipedia.org/w/index.php?title=L%C3%A1szl%C3%B3_Moholy-Nagy&amp;oldid=192385234</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>Wikipédia. 2022a. ‘Well-Known Text Representation of Geometry’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://en.wikipedia.org/w/index.php?title=Well-known_text_representation_of_geometry&amp;oldid=1105540049">https://en.wikipedia.org/w/index.php?title=Well-known_text_representation_of_geometry&amp;oldid=1105540049</a>.</p>
+              <p>–––. 2022b. ‘Well-Known Text Representation of Geometry’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://en.wikipedia.org/w/index.php?title=Well-known_text_representation_of_geometry&amp;oldid=1105540049">https://en.wikipedia.org/w/index.php?title=Well-known_text_representation_of_geometry&amp;oldid=1105540049</a>.</p>
           </td>
           <td>
-              <p>Wikipédia. 2022a. « Well-known text representation of geometry ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 20 août 2022. <a href="https://en.wikipedia.org/w/index.php?title=Well-known_text_representation_of_geometry&amp;oldid=1105540049">https://en.wikipedia.org/w/index.php?title=Well-known_text_representation_of_geometry&amp;oldid=1105540049</a>.</p>
+              <p>–––. 2022b. « Well-known text representation of geometry ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 20 août 2022. <a href="https://en.wikipedia.org/w/index.php?title=Well-known_text_representation_of_geometry&amp;oldid=1105540049">https://en.wikipedia.org/w/index.php?title=Well-known_text_representation_of_geometry&amp;oldid=1105540049</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>–––. 2022b. ‘La Relativité’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496">https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496</a>.</p>
+              <p>–––. 2022c. ‘La Relativité’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496">https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496</a>.</p>
           </td>
           <td>
-              <p>–––. 2022b. « La Relativité ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 14 octobre 2022. <a href="https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496">https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496</a>.</p>
+              <p>–––. 2022c. « La Relativité ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 14 octobre 2022. <a href="https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496">https://fr.wikipedia.org/w/index.php?title=La_Relativit%C3%A9&amp;oldid=197771496</a>.</p>
           </td>
       </tr>
       <tr>
           <td class="en">
-              <p>–––. 2022c. ‘Penny’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252">https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252</a>.</p>
+              <p>–––. 2022d. ‘Penny’. In <i>Wikipédia</i>. San Francisco, US-CA: Wikipédia. <a href="https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252">https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252</a>.</p>
           </td>
           <td>
-              <p>–––. 2022c. « Penny ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 8 décembre 2022. <a href="https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252">https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252</a>.</p>
+              <p>–––. 2022d. « Penny ». Dans <i>Wikipédia</i>. San Francisco, US-CA : Wikipédia. Consulté le 8 décembre 2022. <a href="https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252">https://fr.wikipedia.org/w/index.php?title=Penny&amp;oldid=199318252</a>.</p>
           </td>
       </tr>
       <tr>

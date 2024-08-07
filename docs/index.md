@@ -34,7 +34,7 @@ Dernière mise à jour : 2023-11-08
 * Camille Crevier-Lalonde, Musée de la civilisation
 * Stephen Hart, à titre personnel
 * Karine Léonard Brouillet, Réseau canadien d'information sur le patrimoine
-* Marie-Elaine Mathieu, Musée de la civilisation
+* Marie-Elaine Mathieu, à titre personnel
 * Philippe Michon, Réseau canadien d'information sur le patrimoine
 * Marielle St-Germain, doctorante à l'École de bibliothéconomie et des sciences de l'information, Université de Montréal
 

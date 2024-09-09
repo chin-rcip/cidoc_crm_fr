@@ -47,7 +47,7 @@ Dernière mise à jour : 2024-08-28
       </td>
       <td>
         <p>Figures 1-6 :</p>
-        <ul><li><p><em>Bibliothèques logicielles diagrams.net</em>, © Réseau canadien d'information sur le patrimoine 2021</p></li></ul>
+        <ul><li><p><em>Bibliothèques logicielles diagrams.net</em>, © Réseau canadien d'information sur le patrimoine 2024</p></li></ul>
         <p>Figure 2 :</p>
         <ul><li><p><em>Johann Joachim Winckelmann</em>, © Wikimedia Commons CC BY-SA 4.0</p></li>
           <li><p><em>Laocoön</em>, © Wikimedia Commons CC BY-SA 4.0</p></li>

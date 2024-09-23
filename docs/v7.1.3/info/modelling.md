@@ -50,7 +50,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="de-la-realite-des-bases-de-connaissance-et-du-cidoccrm"><span class="en heading">Reality, Knowledge Bases and CIDOC CRM - </span>De la réalité, des bases de connaissance et du CIDOC CRM</h2>
+<h2 id="de-la-realite-des-bases-de-connaissance-et-du-cidoccrm"><span class="en heading">Reality, Knowledge Bases and CIDOC CRM - </span><span>De la réalité, des bases de connaissance et du CIDOC CRM</span></h2>
 
 <table class="text">
 <colgroup>
@@ -111,7 +111,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="de-lauctorialite-des-contenus-dune-base-de-connaissances"><span class="en heading">Authorship of Knowledge Base Contents - </span>De l’auctorialité des contenus d’une base de connaissances</h2>
+<h2 id="de-lauctorialite-des-contenus-dune-base-de-connaissances"><span class="en heading">Authorship of Knowledge Base Contents - </span><span>De l’auctorialité des contenus d’une base de connaissances</span></h2>
 
 <table class="text">
 <colgroup>
@@ -155,7 +155,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="des-extensions-de-cidoccrm"><span class="en heading">Extensions of CIDOC CRM - </span>Des extensions de CIDOC CRM</h2>
+<h2 id="des-extensions-de-cidoccrm"><span class="en heading">Extensions of CIDOC CRM - </span><span>Des extensions de CIDOC CRM</span></h2>
 
 <table class="text">
 <colgroup>
@@ -267,7 +267,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="de-la-minimalite"><span class="en heading">Minimality - </span>De la minimalité</h2>
+<h2 id="de-la-minimalite"><span class="en heading">Minimality - </span><span>De la minimalité</span></h2>
 
 <table class="text">
 <colgroup>
@@ -325,7 +325,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="de-la-monotonicite"><span class="en heading">Monotonicity - </span>De la monotonicité</h2>
+<h2 id="de-la-monotonicite"><span class="en heading">Monotonicity - </span><span>De la monotonicité</span></h2>
 
 <table class="text">
 <colgroup>
@@ -393,7 +393,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="de-la-disjonction"><span class="en heading">Disjointness - </span>De la disjonction</h2>
+<h2 id="de-la-disjonction"><span class="en heading">Disjointness - </span><span>De la disjonction</span></h2>
 
 <table class="text">
 <colgroup>

@@ -2815,7 +2815,7 @@ date: 2023-12-22
     <tr>
       <td>P102.1</td>
       <td colspan="2"><span class="en">{{ site.data.entities['P102.1']['en'] }} </span><code class="language-plaintext highlighter-rouge">{{ site.data.entities['P102.1']['fr_code'] }}</code></td>
-      <td><span class="en">{{ site.data.entities['E71']['en_code'] }}. <strong>{{ site.data.entities['P102']['en_code'] }}</strong>: {{ site.data.entities['E35']['en_code'] }} </span><code class="language-plaintext highlighter-rouge">{{ site.data.entities['E71']['fr_code'] }}</code>. <code class="language-plaintext highlighter-rouge"><strong>{{ site.data.entities['E102']['fr_code'] }}</strong></code> : <code class="language-plaintext highlighter-rouge">{{ site.data.entities['E35']['fr_code'] }}</code></td>
+      <td><span class="en">{{ site.data.entities['E71']['en_code'] }}. <strong>{{ site.data.entities['P102']['en_code'] }}</strong>: {{ site.data.entities['E35']['en_code'] }} </span><code class="language-plaintext highlighter-rouge">{{ site.data.entities['E71']['fr_code'] }}</code>. <code class="language-plaintext highlighter-rouge"><strong>{{ site.data.entities['P102']['fr_code'] }}</strong></code> : <code class="language-plaintext highlighter-rouge">{{ site.data.entities['E35']['fr_code'] }}</code></td>
       <td><span class="en">E55 Type </span><code class="language-plaintext highlighter-rouge">E55_Type</code></td>
     </tr>
     <tr>

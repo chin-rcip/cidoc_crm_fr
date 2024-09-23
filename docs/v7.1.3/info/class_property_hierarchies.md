@@ -98,12 +98,12 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="liste-hierarchisee-des-classes-du-cidoccrm"><span class="en heading">CIDOC CRM Class Hierarchy - </span>Liste hiérarchisée des classes du CIDOC CRM</h2>
+<h2 id="liste-hierarchisee-des-classes-du-cidoccrm"><span class="en heading">CIDOC CRM Class Hierarchy - </span><span>Liste hiérarchisée des classes du CIDOC CRM</span></h2>
 
 <table id="cidoc-crm-class-hierarchy-table">
   <tbody>
     <tr>
-      <td colspan="11"><strong><span class="en">Class id - </span>Identifiant unique de classe</strong></td>
+      <td colspan="11"><strong><span class="en">Class id - </span><span>Identifiant unique de classe</span></strong></td>
       </tr>
     <tr>
       <td>E1</td>
@@ -1564,15 +1564,15 @@ date: 2024-08-28
   </tbody>
 </table>
 
-<h2 id="liste-hierarchisee-des-proprietes-du-cidoccrm"><span class="en heading">CIDOC CRM Property Hierarchy - </span>Liste hiérarchisée des propriétés du CIDOC CRM</h2>
+<h2 id="liste-hierarchisee-des-proprietes-du-cidoccrm"><span class="en heading">CIDOC CRM Property Hierarchy - </span><span>Liste hiérarchisée des propriétés du CIDOC CRM</span></h2>
 
 <table id="cidoc-crm-property-hierarchy-table">
   <tbody>
     <tr>
-      <td><strong><span class="en">Property id - </span>Identifiant unique de propriété</strong></td>
-      <td colspan="6"><strong><span class="en">Property Name - </span>Nom de la propriété</strong></td>
-      <td><strong><span class="en">Entity Domain - </span>Domaine</strong></td>
-      <td><strong><span class="en">Entity Range - </span>Portée</strong></td>
+      <td><strong><span class="en">Property id - </span><span>Identifiant unique de propriété</span></strong></td>
+      <td colspan="6"><strong><span class="en">Property Name - </span><span>Nom de la propriété</span></strong></td>
+      <td><strong><span class="en">Entity Domain - </span><span>Domaine</span></strong></td>
+      <td><strong><span class="en">Entity Range - </span><span>Portée</span></strong></td>
     </tr>
     <tr>
       <td>P1</td>
@@ -2753,15 +2753,15 @@ date: 2024-08-28
   </tbody>
 </table>
 
-<h3 id="proprietes-de-proprietes-du-cidoccrm-(proprietes-.1)"><span class="en heading">CIDOC CRM Properties of Properties (.1 Properties) - </span>Propriétés de propriétés du CIDOC CRM (propriétés .1)</h3>
+<h3 id="proprietes-de-proprietes-du-cidoccrm-(proprietes-.1)"><span class="en heading">CIDOC CRM Properties of Properties (.1 Properties) - </span><span>Propriétés de propriétés du CIDOC CRM (propriétés .1)</span></h3>
 
 <table id="cidoc-crm-properties-of-properties-table">
   <tbody>
     <tr>
-      <td><strong><span class="en">Property id - </span>Identifiant unique de propriété</strong></td>
-      <td colspan="2"><strong><span class="en">Property Name - </span>Nom de la propriété</strong></td>
-      <td><strong><span class="en">Property Domain - </span>Domaine</strong></td>
-      <td><strong><span class="en">Entity Range - </span>Portée</strong></td>
+      <td><strong><span class="en">Property id - </span><span>Identifiant unique de propriété</span></strong></td>
+      <td colspan="2"><strong><span class="en">Property Name - </span><span>Nom de la propriété</span></strong></td>
+      <td><strong><span class="en">Property Domain - </span><span>Domaine</span></strong></td>
+      <td><strong><span class="en">Entity Range - </span><span>Portée</span></strong></td>
     </tr>
     <tr>
       <td>P3.1</td>
@@ -2815,7 +2815,7 @@ date: 2024-08-28
     <tr>
       <td>P102.1</td>
       <td colspan="2"><span class="en">{{ site.data.entities['P102.1']['en'] }} </span><code class="language-plaintext highlighter-rouge">{{ site.data.entities['P102.1']['fr_code'] }}</code></td>
-      <td><span class="en">{{ site.data.entities['E71']['en_code'] }}. <strong>{{ site.data.entities['P102']['en_code'] }}</strong>: {{ site.data.entities['E35']['en_code'] }} </span><code class="language-plaintext highlighter-rouge">{{ site.data.entities['E71']['fr_code'] }}</code>. <code class="language-plaintext highlighter-rouge"><strong>{{ site.data.entities['E102']['fr_code'] }}</strong></code> : <code class="language-plaintext highlighter-rouge">{{ site.data.entities['E35']['fr_code'] }}</code></td>
+      <td><span class="en">{{ site.data.entities['E71']['en_code'] }}. <strong>{{ site.data.entities['P102']['en_code'] }}</strong>: {{ site.data.entities['E35']['en_code'] }} </span><code class="language-plaintext highlighter-rouge">{{ site.data.entities['E71']['fr_code'] }}</code>. <code class="language-plaintext highlighter-rouge"><strong>{{ site.data.entities['P102']['fr_code'] }}</strong></code> : <code class="language-plaintext highlighter-rouge">{{ site.data.entities['E35']['fr_code'] }}</code></td>
       <td><span class="en">E55 Type </span><code class="language-plaintext highlighter-rouge">E55_Type</code></td>
     </tr>
     <tr>

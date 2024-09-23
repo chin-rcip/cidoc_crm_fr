@@ -16,7 +16,7 @@ date: 2024-08-28
  <button id="en-fr">EN-FR</button>
 </div>
 
-<h2 id="classes-et-proprietes-depreciees"><span class="en heading">Deprecated classes and properties - </span>Classes et propriétés dépréciées</h2>
+<h2 id="classes-et-proprietes-depreciees"><span class="en heading">Deprecated classes and properties - </span><span>Classes et propriétés dépréciées</span></h2>
 
 <table class="text">
 <colgroup>
@@ -55,7 +55,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="instructions-de-migration-des-classes-depreciees"><span class="en heading">Deprecated Class Migration Instructions - </span>Instructions de migration des classes dépréciées</h3>
+<h3 id="instructions-de-migration-des-classes-depreciees"><span class="en heading">Deprecated Class Migration Instructions - </span><span>Instructions de migration des classes dépréciées</span></h3>
 
 <table class="original-table" id="table-6">
 <tbody>
@@ -271,7 +271,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="instructions-de-migration-des-proprietes-depreciees"><span class="en heading">Deprecated Property Migration Instructions - </span>Instructions de migration des propriétés dépréciées</h3>
+<h3 id="instructions-de-migration-des-proprietes-depreciees"><span class="en heading">Deprecated Property Migration Instructions - </span><span>Instructions de migration des propriétés dépréciées</span></h3>
 
 <table class="original-table" id="table-7">
 <tbody>
@@ -590,7 +590,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h4 id="instructions-de-migration-pour-e81_transformation-note-dapplication-restreinte"><span class="en heading">Migration Instructions for the reduced scope of E81 Transformation - </span>Instructions de migration pour E81_Transformation (note d’application restreinte)</h4>
+<h4 id="instructions-de-migration-pour-e81_transformation-note-dapplication-restreinte"><span class="en heading">Migration Instructions for the reduced scope of E81 Transformation - </span><span>Instructions de migration pour E81_Transformation (note d’application restreinte)</span></h4>
 
 <table class="text">
 <colgroup>
@@ -643,7 +643,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h4 id="instructions-de-migration-pour-e16_mesurage-note-dapplication-restreinte"><span class="en heading">Migration Instructions for the reduced scope of E16 Measurement - </span>Instructions de migration pour E16_Mesurage (note d'application restreinte)</h4>
+<h4 id="instructions-de-migration-pour-e16_mesurage-note-dapplication-restreinte"><span class="en heading">Migration Instructions for the reduced scope of E16 Measurement - </span><span>Instructions de migration pour E16_Mesurage (note d'application restreinte)</span></h4>
 
 <table class="text">
 <colgroup>
@@ -689,7 +689,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="modifications"><span class="en heading">Amendments - </span>Modifications</h2>
+<h2 id="modifications"><span class="en heading">Amendments - </span><span>Modifications</span></h2>
 
 <table class="text">
 <colgroup>

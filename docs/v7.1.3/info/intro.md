@@ -53,7 +53,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="objectifs-du-cidoccrm"><span class="en heading">Objectives of the CIDOC CRM - </span>Objectifs du CIDOC CRM</h2>
+<h2 id="objectifs-du-cidoccrm"><span class="en heading">Objectives of the CIDOC CRM - </span><span>Objectifs du CIDOC CRM</span></h2>
 
 <table class="text">
 <colgroup>
@@ -121,7 +121,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="portee-du-cidoccrm"><span class="en heading">Scope of the CIDOC CRM - </span>Portée du CIDOC CRM</h2>
+<h2 id="portee-du-cidoccrm"><span class="en heading">Scope of the CIDOC CRM - </span><span>Portée du CIDOC CRM</span></h2>
 
 <table class="text">
 <colgroup>
@@ -193,7 +193,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="compatibilite-avec-le-cidoccrm"><span class="en heading">Compatibility with the CIDOC CRM - </span>Compatibilité avec le CIDOC CRM</h2>
+<h2 id="compatibilite-avec-le-cidoccrm"><span class="en heading">Compatibility with the CIDOC CRM - </span><span>Compatibilité avec le CIDOC CRM</span></h2>
 
 <table class="text">
 <colgroup>
@@ -240,7 +240,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="terminologie"><span class="en heading">Terminology - </span>Terminologie</h2>
+<h2 id="terminologie"><span class="en heading">Terminology - </span><span>Terminologie</span></h2>
 
 <table class="text">
 <colgroup>
@@ -1388,7 +1388,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="application-formelle"><span class="en heading">Applied Form - </span>Application formelle</h2>
+<h2 id="application-formelle"><span class="en heading">Applied Form - </span><span>Application formelle</span></h2>
 
 <table class="text">
 <colgroup>
@@ -1442,7 +1442,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="convention-dappellation"><span class="en heading">Naming Conventions - </span>Convention d’appellation</h3>
+<h3 id="convention-dappellation"><span class="en heading">Naming Conventions - </span><span>Convention d’appellation</span></h3>
 
 <table class="text">
 <colgroup>
@@ -1523,7 +1523,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="de-lheritage-et-de-la-transitivite"><span class="en heading">Inheritance and Transitivity - </span>De l’héritage et de la transitivité</h3>
+<h3 id="de-lheritage-et-de-la-transitivite"><span class="en heading">Inheritance and Transitivity - </span><span>De l’héritage et de la transitivité</span></h3>
 
 <table class="text">
 <colgroup>
@@ -1561,7 +1561,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="des-raccourcis"><span class="en heading">Shortcuts - </span>Des raccourcis</h3>
+<h3 id="des-raccourcis"><span class="en heading">Shortcuts - </span><span>Des raccourcis</span></h3>
 
 <table class="text">
 <colgroup>
@@ -1598,7 +1598,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="des-expressions-logiques-utilisees-dans-le-cidoccrm"><span class="en heading">About the logical expressions used in the CIDOC CRM - </span>Des expressions logiques utilisées dans le CIDOC CRM</h3>
+<h3 id="des-expressions-logiques-utilisees-dans-le-cidoccrm"><span class="en heading">About the logical expressions used in the CIDOC CRM - </span><span>Des expressions logiques utilisées dans le CIDOC CRM</span></h3>
 
 <table class="text">
 <colgroup>
@@ -1971,7 +1971,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="quantificateurs-de-proprietes"><span class="en heading">Property Quantifiers - </span>Quantificateurs de propriétés</h3>
+<h3 id="quantificateurs-de-proprietes"><span class="en heading">Property Quantifiers - </span><span>Quantificateurs de propriétés</span></h3>
 
 <table class="text">
 <colgroup>

@@ -97,7 +97,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="des-relations-evenementielles"><span class="en heading">Relations with Events - </span>Des relations évènementielles</h2>
+<h2 id="des-relations-evenementielles"><span class="en heading">Relations with Events - </span><span>Des relations évènementielles</span></h2>
 
 <table class="text">
 <colgroup>
@@ -241,7 +241,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="des-relations-spatiales"><span class="en heading">Spatial Relations - </span>Des relations spatiales</h3>
+<h3 id="des-relations-spatiales"><span class="en heading">Spatial Relations - </span><span>Des relations spatiales</span></h3>
 
 <table class="text">
 <colgroup>
@@ -322,7 +322,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="des-relations-temporelles"><span class="en heading">Temporal Relations - </span>Des relations temporelles</h3>
+<h3 id="des-relations-temporelles"><span class="en heading">Temporal Relations - </span><span>Des relations temporelles</span></h3>
 
 <table class="text">
 <colgroup>
@@ -389,7 +389,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="des-relations-spatio-temporelles"><span class="en heading">Spatiotemporal Relations - </span>Des relations spatio-temporelles</h3>
+<h3 id="des-relations-spatio-temporelles"><span class="en heading">Spatiotemporal Relations - </span><span>Des relations spatio-temporelles</span></h3>
 
 <table class="text">
 <colgroup>
@@ -471,9 +471,9 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h2 id="construits-specifiques-de-modelisation"><span class="en heading">Specific Modelling Constructs - </span>Construits spécifiques de modélisation</h2>
+<h2 id="construits-specifiques-de-modelisation"><span class="en heading">Specific Modelling Constructs - </span><span>Construits spécifiques de modélisation</span></h2>
 
-<h3 id="des-types"><span class="en heading">About Types - </span>Des types</h3>
+<h3 id="des-types"><span class="en heading">About Types - </span><span>Des types</span></h3>
 
 <table class="text">
 <colgroup>
@@ -526,7 +526,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h3 id="des-relations-temporelles-primitives-fondees-sur-des-frontieres-floues"><span class="en heading">Temporal Relation Primitives based on fuzzy boundaries - </span>Des relations temporelles primitives fondées sur des frontières floues</h3>
+<h3 id="des-relations-temporelles-primitives-fondees-sur-des-frontieres-floues"><span class="en heading">Temporal Relation Primitives based on fuzzy boundaries - </span><span>Des relations temporelles primitives fondées sur des frontières floues</span></h3>
 
 <table class="text">
 <colgroup>
@@ -612,7 +612,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h4 id="notation"><span class="en heading">Notation - </span>Notation</h4>
+<h4 id="notation"><span class="en heading">Notation - </span><span>Notation</span></h4>
 
 <table class="text">
 <colgroup>
@@ -673,7 +673,7 @@ date: 2024-08-28
 </tbody>
 </table>
 
-<h4 id="apercu-des-relations-temporelles-primitives"><span class="en heading">Overview of Temporal Relation Primitives - </span>Aperçu des relations temporelles primitives</h4>
+<h4 id="apercu-des-relations-temporelles-primitives"><span class="en heading">Overview of Temporal Relation Primitives - </span><span>Aperçu des relations temporelles primitives</span></h4>
 
 <table class="text">
 <colgroup>

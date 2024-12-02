@@ -1,0 +1,11 @@
+class: mainlist
+toc:
+
+- class: sublist
+  subfolder:
+  - title: Notes méthodologiques
+    hash: notes-methodologiques
+  - title: Methodological Notes
+    hash: methodological-notes
+  - title: CIDOC CRM - EN/FR
+    hash: cidoc-crm-enfr

@@ -35,7 +35,7 @@ Principles of uniformity, consistency, and rationalization have been prioritized
 
 In rare cases, the CIDOC CRM has not followed its property naming standard by using the past tense (was) rather than the past perfect (had). The Translation Group has elected to use the *passé composé* throughout as it indicates that the subject is in an *absolute* past rather than a *relative* one (which is consistent with the definitions this pertains to).
 
-## CIDOC CRM - EN/FR
+## CIDOC CRM - EN/FR {#cidoc-crm-enfr}
 
 |CODE|EN|FR|Note|
 |---|---|---|---|

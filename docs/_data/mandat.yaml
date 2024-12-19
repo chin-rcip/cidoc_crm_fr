@@ -15,6 +15,12 @@ toc:
     subfolder:
     - title: Composition du Groupe de traduction
       hash: composition-du-groupe-de-traduction
+      class: sublist
+      subfolder:
+      - title: Éditeurs et éditrices actuel.les
+        hash: editeurs-et-editrices-actuelles
+      - title: Ancien.nes éditeurs et éditrices
+        hash: anciennes-editeurs-et-editrices
     - title: Protocole de sélection
       hash: protocole-de-selection
     - title: Critères de sélection et domaines d’expertise
@@ -44,6 +50,12 @@ toc:
     subfolder:
     - title: Composition of the Translation Group
       hash: composition-of-the-translation-group
+      class: sublist
+      subfolder:
+      - title: Current Translators
+        hash: current-translators
+      - title: Former Translators
+        hash: former-translators
     - title: Selection Protocol
       hash: selection-protocol
     - title: Selection Criteria and Areas of Expertise

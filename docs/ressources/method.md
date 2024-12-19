@@ -4,7 +4,7 @@ title: Méthodologie
 permalink: /ressources/methodologie
 sidebar: methodologie
 tab: ressources
-date: 2023-06-08
+date: 2024-12-18
 ---
 
 [*English follows*](#en)
@@ -13,13 +13,13 @@ date: 2023-06-08
 
 **Date de création** : 2021-04-28
 
-**Dernière mise à jour** : 2023-06-08
+**Dernière mise à jour** : 2024-12-18
 
 **Résumé** : Résumé de l'approche méthodologique et théorique de cette traduction du CIDOC CRM.
 
 ## Contenu propice à une traduction {#contenu-propice-a-une-traduction}
 
-Le Groupe de traduction a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 ont fait l’objet d’une traduction :
+Le Groupe de traduction a pour mandat de traduire la documentation des standards du CIDOC CRM afin d’en offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 ont fait l’objet d’une traduction :
 
   - *Introduction* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/introduction))
   - *Objectives of the CIDOC CRM* (disponible [ici](https://cidoc-crm-fr.info/v7.1/information/introduction#objectifs-du-cidoc-crm))
@@ -33,9 +33,7 @@ Le Groupe de traduction a pour mandat de traduire la documentation du standard C
   - *CIDOC CRM Property Declarations* (disponible [ici](https://cidoc-crm-fr.info/v7.1/proprietes/declaration-des-proprietes-du-cidoc-crm))
   - *Appendix* (disponible [ici](https://cidoc-crm-fr.info/v7.1/annexe))
 
-Cela équivaut au contenu « informationnel » du CIDOC CRM, mais exclut les références bibliographiques qui ont été francisées sans être traduites.
-
-La version 7.1.2 est actuellement en cours de traduction et devrait être disponible d'ici avril 2024.
+Cela équivaut au contenu « informationnel » du CIDOC CRM, mais exclut les références bibliographiques qui ont été francisées sans être traduites.
 
 ## Méthodologie de traduction {#methodologie-de-traduction}
 
@@ -84,7 +82,7 @@ Cette façon de faire a pour objectif de minimiser le risque d’erreurs et d’
 
 #### Inclusivité {#inclusivite}
 
-Plusieurs termes sont non genrés en anglais, mais le sont en français (p. ex. « *curator »* et conservateur·rice). Le Groupe de traduction privilégie, autant que possible, une écriture inclusive et fait l’usage du point médian à cet égard.
+Plusieurs termes sont non genrés en anglais, mais le sont en français (p. ex. « *curator »* et conservateur.rice). Le Groupe de traduction privilégie, autant que possible, une écriture inclusive et fait l’usage du point médian à cet égard.
 
 ### Outils de traduction
 
@@ -102,7 +100,7 @@ Le contenu traduit est ensuite exporté en fichier markdown (.md) et diffusé su
 
 #### Processus 
 
-Les entités sont traduites selon un calendrier prédéfini en commençant par les superclasses et leurs superpropriétés associées, et ce, de manière de plus en plus précise en traduisant graduellement leurs sous-classes et leurs sous-propriétés associées. Chaque traduction fait l’objet d’une révision par les membres du Groupe de traduction qui en discutent et l’approuvent avant sa diffusion. Néanmoins, lors d'une traduction, certaines modifications mineures pourraient encore survenir si un nouveau contexte vient éclairer le sens d’un mot ou d’un exemple.
+Les entités sont traduites selon un calendrier prédéfini en commençant par les superclasses et leurs super-propriétés associées, et ce, de manière de plus en plus précise en traduisant graduellement leurs sous-classes et leurs sous-propriétés associées. Chaque traduction fait l’objet d’une révision par les membres du Groupe de traduction qui en discutent et l’approuvent avant sa diffusion. Néanmoins, lors d'une traduction, certaines modifications mineures pourraient encore survenir si un nouveau contexte vient éclairer le sens d’un mot ou d’un exemple.
 
 Lorsqu’un élément de traduction fait l’objet d’une incertitude, il est discuté par le Groupe de traduction et, s’il ne s’entend pas, un trio de réviseurs seniors statue sur le problème. Ceux-ci prennent en considération :
 
@@ -124,13 +122,13 @@ Si vous désirez obtenir une copie des gabarits et des protocoles utilisés afin
 
 **Created date**: 2021-04-28
 
-**Last updated**: 2023-06-08
+**Last updated**: 2024-12-18
 
 **Summary**: Summary of the methodological and theoretical approach of this translation of CIDOC CRM.
 
 ## Content suitable for translation
 
-The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly accessible and free of charge. To this end, the following elements of version 7.1 have been translated:
+The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standards’ documentation in order to provide up-to-date French versions that are openly accessible and free of charge. To this end, the following elements of version 7.1 have been translated::
 
   - *Introduction* (available [here](https://cidoc-crm-fr.info/v7.1/information/introduction))
   - *Objectives of the CIDOC CRM* (available [here](https://cidoc-crm-fr.info/v7.1/information/introduction#objectifs-du-cidoc-crm))
@@ -146,7 +144,6 @@ The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standard 
 
 This is equivalent to the “data” content of the CIDOC CRM, but excludes the bibliographic references which have been francized but not translated.
 
-Version 7.1.2 is currently being translated and should be available by April 2024. 
 
 ## Translation methodology
 
@@ -195,7 +192,7 @@ This is done to minimize the risk of errors and to maintain consistency of conte
 
 #### Inclusivity
 
-Many terms are non-gendered in English, but are gendered in French (e.g. “curator” and *conservateur-rice*). The Translation Group favours inclusive writing as much as possible, and uses the midpoint to this effect.
+Many terms are non-gendered in English, but are gendered in French (e.g. “curator” and *conservateur.rice*). The Translation Group favours inclusive writing as much as possible, and uses the midpoint to this effect.
 
 ## Translation tools
 

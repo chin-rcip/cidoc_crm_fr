@@ -4,24 +4,24 @@ title: Mandat & Fonctionnement
 permalink: /ressources/mandat-fonctionnement
 sidebar: mandat
 tab: ressources
-date: 2023-06-08
+date: 2024-12-18
 ---
 
 [*English follows*](#en)
 
 **Date de création** : 2021-02-10
 
-**Dernière mise à jour** : 2022-03-11
+**Dernière mise à jour** : 2024-12-18
 
 **Résumé** : Renseignements généraux sur les objectifs, le but, la composition et la structure opérationnelle du Groupe de traduction.
 
 ## Introduction
 
-L’ontologie CIDOC CRM est largement utilisée par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. C’est la norme qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement de certains de ses modèles de données sémantiques.
+L’ontologie CIDOC CRM et ses extensions sont largement utilisées par le milieu patrimonial pour l’échange et l'intégration des jeux de données et des spécifications relatifs aux collections muséales. Ce sont les normes qu’utilisent de nombreuses organisations patrimoniales, notamment le Réseau canadien d’information sur le patrimoine (RCIP) dans le développement de certains de ses modèles de données sémantiques.
 
-À l’heure actuelle, le CIDOC CRM est développé et maintenu à jour exclusivement en anglais par le CRM Special Interest Group (SIG), un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable du CIDOC CRM.
+À l’heure actuelle, le *Modèle conceptuel de référence* du Comité international pour la documentation du Conseil international des musées (CIDOC CRM) ainsi que ses extensions sont développé et maintenus à jour exclusivement en anglais par le CRM Special Interest Group (CRM SIG), un sous-groupe du Conseil international des musées (ICOM). Or, une réutilisation de contenus sémantiques francophones repose en grande partie, et pour beaucoup d'organisations, sur la disponibilité d’une version traduite à jour et réutilisable de ces standards.
 
-En 2014, une version française du CIDOC CRM a été publiée sous le titre *ISO 21127:2014. Information et documentation — Une ontologie de référence pour l'échange d'informations du patrimoine culturel*. Cette version n’est plus adaptée pour plusieurs raisons :
+En 2014, une version française du CIDOC CRM a été publiée sous le titre *ISO 21127:2014. Information et documentation – Une ontologie de référence pour l'échange d'informations du patrimoine culturel*. Cette version n’est plus adaptée pour plusieurs raisons :
 
 * Les définitions des entités qui s’y trouvent ne sont plus à jour;
 
@@ -29,29 +29,11 @@ En 2014, une version française du CIDOC CRM a été publiée sous le titre *ISO
 
 * Le document n’est pas disponible sous licence ouverte contrairement à la documentation anglophone qui est accessible gratuitement sur le site du CIDOC CRM.
 
-Une nouvelle initiative de traduction du CIDOC CRM a donc été mise en place par des intervenants·es du milieu patrimonial francophone afin d'offrir une version française à jour et accessible ouvertement et gratuitement, et ce, avec l’aval du CRM SIG. Les résultats de ces travaux seront donc disponibles à l’ensemble de la communauté patrimoniale internationale et francophone.
+Une nouvelle initiative de traduction du CIDOC CRM et de ses extensions pertinentes a donc été mise en place par des intervenants.es du milieu patrimonial francophone afin d'en offrir une version française à jour et accessible ouvertement et gratuitement, et ce, avec l’aval du CRM SIG. Les résultats de ces travaux seront donc disponibles à l’ensemble de la communauté patrimoniale internationale et francophone.
 
 ## But
 
-Le Groupe de traduction a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, les éléments suivants de la version 7.1 ont fait l’objet d’une traduction :
-
-* Introduction
-* Objectives of the CIDOC CRM
-* Terminology
-* Compatibility with the CIDOC CRM
-* Modelling Principles
-* Introduction to the Basic Concepts
-* Applied Form
-* Class & Property Hierarchies
-* CIDOC CRM Class Declarations
-* CIDOC CRM Property Declarations
-* Appendix
-* Editorial Notes
-* Amendments
-
-Les références bibliographiques sont francisées, mais ne sont pas traduites. 
-
-La version 7.1.2 est actuellement en cours de traduction et devrait être disponible d'ici avril 2024.
+Le Groupe de traduction a pour mandat de traduire la documentation du standard CIDOC CRM afin d’offrir une version française à jour et accessible ouvertement et gratuitement. À cet effet, tous les contenus sont traduits à l’exception des références bibliographiques qui sont francisées.
 
 ## Responsabilités {#responsabilites}
 
@@ -91,15 +73,20 @@ Le Groupe de traduction est composé d’employés·es du RCIP (identifiés·es 
 
 ### Composition du Groupe de traduction
 
+#### Éditeurs et éditrices actuel.les {#editeurs-et-editrices-actuelles}
+
 * Marie-Pier Blain (traductrice)
-* Frédéric Bricaud (traducteur)
 * Camille Crevier-Lalonde (traductrice)
-* Nguyen Khanh Trang Dang\* (architecte technologique)
+* Geneviève Godbout (traductrice)
 * Stephen Hart (traducteur)
 * Karine Léonard Brouillet\* (traductrice)
-* Marie-Élaine Mathieu (traductrice)
 * Philippe Michon\* (traducteur, représentant auprès du CRM SIG)
-* Marielle St-Germain, doctorante à l'École de bibliothéconomie et des sciences de l’information de l’Université de Montréal (traductrice)
+* Marielle St-Germain, doctorante à l’École de bibliothéconomie et des sciences de l’information, Université de Montréal (traductrice)
+
+#### Ancien.nes éditeurs et éditrices {#anciennes-editeurs-et-editrices}
+
+* Frédéric Bricaud (traducteur)
+* Marie-Elaine Mathieu (traductrice)
 
 ### Protocole de sélection {#protocole-de-selection}
 
@@ -145,15 +132,15 @@ Les contenus disponibles en français sont exportés sur une base trimestrielle 
 
 **Creation date**: 2021-02-10
 
-**Last update**: 2023-06-08
+**Last update**: 2024-12-18
 
 **Abstract**: Background information on the Translation Group’s objectives, purpose, composition, and operational structure.
 
 ## Introduction {#introduction-en}
 
-The CIDOC CRM ontology is widely used by the heritage community for the exchange and integration of museum collection datasets and specifications. It is the standard used by many heritage organizations, including the Canadian Heritage Information Network (CHIN), for the development of some of its semantic data models.
+The CIDOC Conceptual Reference Model (CIDOC CRM) ontology and its extensions are widely used by the heritage community for the exchange and integration of museum collection datasets and specifications. They areused by many heritage organizations, including the Canadian Heritage Information Network (CHIN), for the development of some of its semantic data models.
 
-Currently, the CIDOC CRM is developed and maintained exclusively in English by the CRM Special Interest Group (SIG), a subgroup of the International Council of Museums (ICOM). However, for many organizations, the reuse of French semantic content depends largely on the availability of an up-to-date, reusable translated version of the CIDOC CRM.
+Currently, the CIDOC CRM and its extensions are developed and maintained exclusively in English by the CRM Special Interest Group (CRM SIG), a subgroup of the International Council of Museums (ICOM). However, for many organizations, the reuse of French semantic content depends largely on the availability of an up-to-date, reusable translated version of these.
 
 In 2014, a French version of the CIDOC CRM was published as *ISO 21127:2014. Information et documentation — Une ontologie de référence pour l'échange d'informations du patrimoine culturel*. That version is no longer suitable for several reasons:
 
@@ -161,29 +148,11 @@ In 2014, a French version of the CIDOC CRM was published as *ISO 21127:2014. Inf
 * The reference documentation and the RDF model (where only classes and properties are translated) are not aligned and are therefore difficult to use;
 * The document is not available under an open licence, unlike the English documentation which is freely available on the CIDOC CRM website.
 
-Representatives of the francophone heritage community have launched a new initiative to translate the CIDOC CRM in order to provide an up-to-date French version that is openly accessible and free of charge, with the endorsement of the CRM SIG. The results of this work is available to the entire international and Francophone heritage community.
+Representatives of the francophone heritage community have launched a new initiative to translate the CIDOC CRM in order to provide an up-to-date French version that is openly accessible and free of charge, with the endorsement of the CRM SIG. The results of this work are available to the entire international and Francophone heritage community.
 
 ## Purpose
 
-The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly accessible and free of charge. To this end, the following elements of version 7.1 have been translated:
-
-* Introduction
-* Objectives of the CIDOC CRM
-* Terminology
-* Compatibility with the CIDOC CRM
-* Modelling Principles
-* Introduction to the Basic Concepts
-* Applied Form
-* Class & Property Hierarchies
-* CIDOC CRM Class Declarations
-* CIDOC CRM Property Declarations
-* Appendix
-* Editorial Notes
-* Amendments
-
-The bibliographic references have been francized but not translated. 
-
-Version 7.1.2 is currently being translated and should be available by April 2024. 
+The mandate of the CIDOC CRM Translation is to translate the CIDOC CRM standard documentation in order to provide an up-to-date French version that is openly accessible and free of charge. To this end, contents are translated with the exception of bibliographic references which are francized. 
 
 ## Responsibilities
 
@@ -211,8 +180,8 @@ The review panel, consisting of three members, is selected on the basis of the e
 
 The French version includes:
 
-* An index of common terms and CIDOC CRM classes and properties;
-* The CIDOC CRM content mentioned above;
+* An index of common terms and classes and properties;
+* The content;
 * Translation notes for each entity where relevant;
 * A methodological note detailing the translation conventions used (style, spelling, etc.);
 * A legal notice (open licence).
@@ -223,15 +192,20 @@ The Translation Group is composed of CHIN staff (denoted by \*) and external exp
 
 ### Composition of the Translation Group
 
+#### Current Translators
+
 * Marie-Pier Blain (translator)
-* Frédéric Bricaud (translator)
 * Camille Crevier-Lalonde (translator)
-* Nguyen Khanh Trang Dang\* (technological architect)
+* Geneviève Godbout (translator)
 * Stephen Hart (translator)
 * Karine Léonard Brouillet\* (translator)
-* Marie-Élaine Mathieu (translator)
 * Philippe Michon\* (translator, representative on the CRM SIG)
 * Marielle St-Germain, doctoral student at the Université de Montréal School of Library and Information Science (translator)
+
+#### Former Translators
+
+* Frédéric Bricaud (translator)
+* Marie-Elaine Mathieu (translator)
 
 ### Selection Protocol
 

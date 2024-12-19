@@ -17,42 +17,26 @@
       <meta name="description" content="{{ site.data.descriptions.main }}">
       <meta property="og:description" content="{{ site.data.descriptions.main }}">
     {%- endif -%}
+    
+    {%- if site.data.members[page.sidebar] -%}
+      <meta name="dcterms:creator" content="CIDOC CRM Special Interest Group,">
+      {%- for contributor in site.data.members[page.sidebar]['contributors'] -%}
+        <meta property="bib:contributors" content="{{ contributor }}">
+      {%- endfor -%}
+      {%- for translator in site.data.members[page.sidebar]['translators'] -%}
+        <meta property="z:translators" content="{{ translator }}">
+        <meta property="bibo:translator" content="{{ translator }}">
+      {%- endfor -%}
+    {%- else -%}
+      <meta name="dcterms:creator" content="Traduction en français du CIDOC CRM,">
+      {%- for contributor in site.data.members.ressources.contributors -%}
+        <meta property="bib:contributors" content="{{ contributor }}">
+      {%- endfor -%}
+    {%- endif -%}
   {%- else -%}
     <meta name="description" content="{{ site.data.descriptions.main }}">
     <meta property="og:description" content="{{ site.data.descriptions.main }}">
-  {%- endif -%}
-  {%- if page.url contains "/v7.1" -%}
-    <meta name="dcterms:creator" content="CIDOC CRM Special Interest Group,">
-    <meta property="z:translators" content="Blain, Marie-Pier">
-    <meta property="bibo:translator" content="Bricaud, Frédéric">
-    <meta property="bibo:translator" content="Crevier-Lalonde, Camille">
-    <meta property="bibo:translator" content="Hart, Stephen">
-    <meta property="bibo:translator" content="Léonard Brouillet, Karine">
-    <meta property="bibo:translator" content="Mathieu, Marie-Elaine">
-    <meta property="bibo:translator" content="Michon, Philippe">
-    <meta property="bibo:translator" content="St-Germain, Marielle">
-    <meta property="bibo:translator" content="Blain, Marie-Pier">
-    <meta property="bib:contributors" content="Dang, Trang">
-    <meta property="z:translators" content="Bricaud, Frédéric">
-    <meta property="z:translators" content="Crevier-Lalonde, Camille">
-    <meta property="z:translators" content="Hart, Stephen">
-    <meta property="z:translators" content="Léonard Brouillet, Karine">
-    <meta property="z:translators" content="Mathieu, Marie-Elaine">
-    <meta property="z:translators" content="Michon, Philippe">
-    <meta property="z:translators" content="St-Germain, Marielle">    
-  {%- else -%}
     <meta name="dcterms:creator" content="Traduction en français du CIDOC CRM,">
-    {%- if page.url contains "/ressources/" -%}
-      <meta property="bib:contributors" content="Blain, Marie-Pier">
-      <meta property="bib:contributors" content="Bricaud, Frédéric">
-      <meta property="bib:contributors" content="Crevier-Lalonde, Camille">
-      <meta property="bib:contributors" content="Dang, Trang">
-      <meta property="bib:contributors" content="Hart, Stephen">
-      <meta property="bib:contributors" content="Léonard Brouillet, Karine">
-      <meta property="bib:contributors" content="Mathieu, Marie-Elaine">
-      <meta property="bib:contributors" content="Michon, Philippe">
-      <meta property="bib:contributors" content="St-Germain, Marielle">      
-    {%- endif -%}
   {%- endif -%}
   
   <meta name="DC.Rights" content="CC BY Traduction en français du CIDOC CRM 2024">

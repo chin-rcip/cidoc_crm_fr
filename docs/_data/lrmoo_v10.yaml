@@ -1,0 +1,238 @@
+class: mainlist
+heading: LRM<sub>OO</sub> Version 1.0
+toc:
+
+- title: 1. Introduction
+  url: /lrmoo/v1.0/introduction
+- title: 2. Champ d’application
+  url: /lrmoo/v1.0/champ-application
+- title: 3. Statut
+  url: /lrmoo/v1.0/statut
+- title: 4. Description du modèle
+  url: /lrmoo/v1.0/description-du-modele
+  class: sublist
+  subfolder:
+  - title: 4.1. Caractéristiques des propriétés
+    hash: caracteristiques-des-proprietes
+    class: sublist
+    subfolder:
+    - title: 4.1.1. Héritage
+      hash: heritage
+    - title: 4.1.2. Raccourcis
+      hash: raccourcis
+  - title: 4.2. Aperçu du modèle
+    hash: apercu-du-modele
+    class: sublist
+    subfolder:
+    - title: 4.2.1. L’intégration d’expressions par de nouvelles œuvres
+      hash: lintegration-dexpressions-par-de-nouvelles-uvres
+    - title: 4.2.2. Les expressions et attributs représentatifs
+      hash: les-expressions-et-attributs-representatifs
+    - title: 4.2.3. Propriétés « WEMI »
+      hash: proprietes-wemi
+    - title: 4.2.4. Performances
+      hash: performances
+  - title: 4.3. Convention d’appellation
+    hash: convention-dappellation
+  - title: 4.4. Quantificateurs de propriétés
+    hash: quantificateurs-de-proprietes
+  - title: 4.5. Convention de présentation
+    hash: convention-de-presentation
+- title: 5. Hiérarchie de classes et de propriétés
+  url: /lrmoo/v1.0/hierarchie-de-classes-et-de-proprietes
+  class: sublist
+  subfolder:
+  - title: 5.1. Hiérarchie de classes LRM<sub>OO</sub>
+    hash: hierarchie-de-classes-lrmoo
+  - title: 5.2. Hiérarchie de classes LRM<sub>OO</sub> alignée avec les sections pertinentes de la hiérarchie de classes du CIDOC CRM
+    hash: hierarchie-de-classes-lrmoo-alignee-avec-les-sections-pertinentes-de-la-hierarchie-de-classes-du-cidoccrm
+  - title: 5.3. Liste des classes du CIDOC CRM utilisées dans le LRM<sub>OO</sub>
+    hash: liste-des-classes-du-cidoccrm-utilisees-dans-le-lrmoo
+  - title: 5.4. Hiérarchie de propriétés du LRM<sub>OO</sub>
+    hash: hierarchie-de-proprietes-du-lrmoo
+  - title: 5.5. Hiérarchie de propriétés LRM<sub>OO</sub> alignée avec les sections pertinentes de la hiérarchie de propriétés du CIDOC CRM
+    hash: hierarchie-de-proprietes-lrmoo-alignee-avec-les-sections-pertinentes-de-la-hierarchie-de-proprietes-du-cidoccrm
+  - title: 5.6. Propriétés de propriétés du LRM<sub>OO</sub> (propriétés « .1 »)
+    hash: proprietes-de-proprietes-du-lrmoo-(proprietes.1)
+  - title: 5.7. Liste des propriétés du CIDOC CRM utilisées dans LRM<sub>OO</sub>
+    hash: liste-des-proprietes-du-cidoccrm-utilisees-dans-lrmoo
+- title: 6. Déclaration des classes du LRM<sub>OO</sub>
+  group: classes
+  class: sublist
+  subfolder:
+  - title: Déclaration des classes du LRM<sub>OO</sub>
+    url: /lrmoo/v1.0/classes/declaration-des-classes-du-lrmoo
+  - title: F1 Œuvre
+    url: /lrmoo/v1.0/classes/F1
+  - title: F2 Expression
+    url: /lrmoo/v1.0/classes/F2
+  - title: F3 Manifestation
+    url: /lrmoo/v1.0/classes/F3
+  - title: F5 Item
+    url: /lrmoo/v1.0/classes/F5
+  - title: F11 Personne morale
+    url: /lrmoo/v1.0/classes/F11
+  - title: F12 Nomen
+    url: /lrmoo/v1.0/classes/F12
+  - title: F18 Œuvre de publication en série [PRESS<sub>OO</sub>]
+    url: /lrmoo/v1.0/classes/F18
+  - title: F27 Création d’œuvre
+    url: /lrmoo/v1.0/classes/F27
+  - title: F28 Création d’expression
+    url: /lrmoo/v1.0/classes/F28
+  - title: F30 Création de manifestation
+    url: /lrmoo/v1.0/classes/F30
+  - title: F31 Performance
+    url: /lrmoo/v1.0/classes/F31
+  - title: F32 Évènement de production d’item
+    url: /lrmoo/v1.0/classes/F32
+  - title: F33 Évènement de reproduction
+    url: /lrmoo/v1.0/classes/F33
+  - title: F36 Conversion de script
+    url: /lrmoo/v1.0/classes/F36
+  - title: F39 Famille
+    url: /lrmoo/v1.0/classes/F39
+  - title: F55 Agent collectif
+    url: /lrmoo/v1.0/classes/F55
+
+- title: 7. Déclaration des propriétés du LRM<sub>OO</sub>
+  group: proprietes
+  class: sublist
+  subfolder:
+  - title: Déclaration des propriétés du LRM<sub>OO</sub>
+    url: /lrmoo/v1.0/proprietes/declaration-des-proprietes-du-lrmoo
+  - title: R1 est le successeur logique de (a pour successeur)
+    url: /lrmoo/v1.0/proprietes/R1
+  - title: R2 est dérivé de (a pour dérivé)
+    url: /lrmoo/v1.0/proprietes/R2
+  - title: R3 est réalisé dans (réalise)
+    url: /lrmoo/v1.0/proprietes/R3
+  - title: R4 incarne (est incarné dans)
+    url: /lrmoo/v1.0/proprietes/R4
+  - title: R5 a pour composant (est le composant de)
+    url: /lrmoo/v1.0/proprietes/R5
+  - title: R7 exemplifie (est exemplifié par)
+    url: /lrmoo/v1.0/proprietes/R7
+  - title: R8 combine (est combiné pour former)
+    url: /lrmoo/v1.0/proprietes/R8
+  - title: R10 est composant de (a pour composant)
+    url: /lrmoo/v1.0/proprietes/R10
+  - title: R11 a pour règle d’émission (est la règle d’émission de) [PRESS<sub>OO</sub>]
+    url: /lrmoo/v1.0/proprietes/R11
+  - title: R15 a pour fragment (est un fragment de)
+    url: /lrmoo/v1.0/proprietes/R15
+  - title: R16 a créé (a été créé par)
+    url: /lrmoo/v1.0/proprietes/R16
+  - title: R17 a créé (a été créé par)
+    url: /lrmoo/v1.0/proprietes/R17
+  - title: R19 a créé une réalisation de (a été réalisé à travers)
+    url: /lrmoo/v1.0/proprietes/R19
+  - title: R24 a créé (a été créé à travers)
+    url: /lrmoo/v1.0/proprietes/R24
+  - title: R27 a matérialisé (a été matérialisé par)
+    url: /lrmoo/v1.0/proprietes/R27
+  - title: R28 a produit (a été produit par)
+    url: /lrmoo/v1.0/proprietes/R28
+  - title: R29 objet reproduit (était l’objet reproduit par)
+    url: /lrmoo/v1.0/proprietes/R29
+  - title: R30 publication reproduite (était la publication reproduite par)
+    url: /lrmoo/v1.0/proprietes/R30
+  - title: R33 a pour chaîne de caractères
+    url: /lrmoo/v1.0/proprietes/R33
+  - title: R35 est spécifié par (spécifie)
+    url: /lrmoo/v1.0/proprietes/R35
+  - title: R36 utilise la conversion de script (est la conversion de script utilisée dans)
+    url: /lrmoo/v1.0/proprietes/R36
+  - title: R54 a pour langue
+    url: /lrmoo/v1.0/proprietes/R54
+  - title: R56 a pour forme connexe (est la forme connexe de)
+    url: /lrmoo/v1.0/proprietes/R56
+  - title: R67 a pour élément (fait partie de)
+    url: /lrmoo/v1.0/proprietes/R67
+  - title: R68 est inspiré de (est source d’inspiration pour)
+    url: /lrmoo/v1.0/proprietes/R68
+  - title: R69 a pour forme physique (est forme physique de)
+    url: /lrmoo/v1.0/proprietes/R69
+  - title: R70 a pour dimension (est la dimension de)
+    url: /lrmoo/v1.0/proprietes/R70
+  - title: R71 a pour élément (fait partie de)
+    url: /lrmoo/v1.0/proprietes/R71
+  - title: R73 prend l’attribut représentatif de (porte l’attribut représentatif pour)
+    url: /lrmoo/v1.0/proprietes/R73
+  - title: R74 utilise l’expression de (a l’expression utilisée dans)
+    url: /lrmoo/v1.0/proprietes/R74
+  - title: R75 incorpore (est inclus dans)
+    url: /lrmoo/v1.0/proprietes/R75
+  - title: R76 est dérivé de (a pour dérivé)
+    url: /lrmoo/v1.0/proprietes/R76
+  - title: R77 accompagne ou complémente (est accompagné ou complémenté de)
+    url: /lrmoo/v1.0/proprietes/R77
+  - title: R78 a pour représentation alternative
+    url: /lrmoo/v1.0/proprietes/R78
+  - title: R79 a pour attribut d’expression représentatif (est l’attribut d’expression représentatif de)
+    url: /lrmoo/v1.0/proprietes/R79
+  - title: R80 a interprété (est interprété dans)
+    url: /lrmoo/v1.0/proprietes/R80
+  - title: R81 enregistré (est enregistré dans)
+    url: /lrmoo/v1.0/proprietes/R81
+
+- title: 8. Mise en correspondance du IFLA LRM au LRM<sub>OO</sub>
+  url: /lrmoo/v1.0/mise-en-correspondance-du-iflalrm-au-lrmoo
+  class: sublist
+  subfolder:
+  - title: 8.1. Entités du IFLA LRM
+    hash: entites-du-iflalrm
+  - title: 8.2. Attributs du IFLA LRM
+    hash: attributs-du-iflalrm
+  - title: 8.3. Relations du IFLA LRM
+    hash: relations-du-iflalrm
+
+
+- title: 9. Les classes et propriétés du FRBR<sub>OO</sub> transférées au CRM<sub>SOC</sub>
+  group: frbroo_crmsoc
+  class: sublist
+  subfolder:
+  - title: Les classes et propriétés du FRBR<sub>OO</sub> transférées au CRM<sub>SOC</sub>
+    url: /lrmoo/v1.0/frbroo_crmsoc/les-classes-et-proprietes-du-frbroo-transferees-au-crmsoc
+  - title: 9.1. Déclaration des classes transférées au CRM<sub>SOC</sub>
+    group: frbroo_crmsoc_classes
+    class: sublist
+    subfolder:
+    - title: F38 Actant fictif
+      url: /lrmoo/v1.0/frbroo_crmsoc/classes/F38
+    - title: F51 Pratique
+      url: /lrmoo/v1.0/frbroo_crmsoc/classes/F51
+    - title: F52 Activité d’utilisation du nom
+      url: /lrmoo/v1.0/frbroo_crmsoc/classes/F52
+  - title: 9.2. Déclaration des propriétés transférées au CRM<sub>SOC</sub>
+    group: frbroo_crmsoc_proprietes
+    class: sublist
+    subfolder:
+    - title: R57 est fondé sur (est la base de)
+      url: /lrmoo/v1.0/frbroo_crmsoc/proprietes/R57
+    - title: R58 a pour membre fictif (est le membre fictif de)
+      url: /lrmoo/v1.0/frbroo_crmsoc/proprietes/R58
+    - title: R59 avait pour sujet de la pratique (était le sujet de la pratique de)
+      url: /lrmoo/v1.0/frbroo_crmsoc/proprietes/R59
+    - title: R60 utilisait pour langage (était le langage utilisé par)
+      url: /lrmoo/v1.0/frbroo_crmsoc/proprietes/R60
+    - title: R61 s'est produit dans le type de contexte (était le type de contexte de)
+      url: /lrmoo/v1.0/frbroo_crmsoc/proprietes/R61
+    - title: R62 a été utilisé pour l'adhésion à (était le contexte de)
+      url: /lrmoo/v1.0/frbroo_crmsoc/proprietes/R62
+    - title: R63 a nommé (a été nommé par)
+      url: /lrmoo/v1.0/frbroo_crmsoc/proprietes/R63
+    - title: R64 a utilisé pour nom (était le nom utilisé par)
+      url: /lrmoo/v1.0/frbroo_crmsoc/proprietes/R64
+
+- title: 10. Migration du FRBR<sub>OO</sub> vers le LRM<sub>OO</sub>
+  url: /lrmoo/v1.0/migration-du-frbroo-vers-le-lrmoo
+  class: sublist
+  subfolder:
+  - title: 10.1. Migration des classes FRBR<sub>OO</sub>
+    hash: migration-des-classes-frbroo
+  - title: 10.2. Migration des propriétés FRBR<sub>OO</sub>
+    hash: migration-des-proprietes-frbroo
+
+- title: 11. Bibliographie
+  url: /lrmoo/v1.0/bibliographie
